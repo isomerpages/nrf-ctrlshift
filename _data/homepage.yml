@@ -1,0 +1,39 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+# Favicon
+favicon: /images/favicon-isomer.ico
+
+# Agency logo
+agency-logo: /images/logo.png
+
+# Hero Banner
+hero-title: Engineer what's next
+hero-subtitle: Be an engineer. Make it your next move.
+hero-banner: /images/hero-banner.png
+
+#Call to Action Button
+button:
+  - text: Learn More
+    url: /who-we-are/
+    
+key-highlights:
+  - title: Ideas 
+    description: that become reality
+    url: /engineering-wow/iwmf/
+    external: false
+  - title: Engineers
+    description: who transformed how we live
+    url: /meet-the-engineers/wee-kiang/
+    external: false
+  - title: Careers
+    description: that make a difference
+    url: /engineering-careers/bca/
+
+resources-title: Resources
+resources-subtitle: Be in the know
+resources-more-button: More Resources
+resources-more-button-url: resource-room/

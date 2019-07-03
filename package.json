@@ -1,0 +1,15 @@
+{
+  "name": "isomerpages-engineer-whats-next",
+  "version": "1.0.0",
+  "description": "## Why Markdown and YAML?",
+  "main": "travis-script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@isomerpages/isomerpages-travisci-scripts": "^1.4.9"
+  }
+}

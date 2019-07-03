@@ -1,0 +1,70 @@
+##################################
+#                                #
+# Feel free to edit this file :) #
+#                                #
+##################################
+
+- title: Engineers in Action
+  url: /engineers-in-action/
+
+- title: Meet the engineers
+  url: /meet-the-engineers/wee-kiang/
+  sub-links:
+  - title: Chee Wee Kiang
+    url: /meet-the-engineers/wee-kiang/
+  - title: Ahmad Nadim bin Zainal
+    url: /meet-the-engineers/ahmad-nadim/
+
+- title: Engineering wow
+  url: /engineering-wow/iwmf/
+  sub-links:
+  - title: Ensuring that waste will not go to waste
+    url: /engineering-wow/iwmf/
+  - title: World's first high rise rotatable lab for the tropics
+    url: /engineering-wow/sky-labs/
+
+- title: Types of Engineering
+  url: /types-of-engineering/chemical/
+  sub-links:
+  - title: Chemical
+    url: /types-of-engineering/chemical/
+  - title: Civil
+    url: /types-of-engineering/civil/
+  - title: Computer
+    url: /types-of-engineering/computer/
+  - title: Electrical
+    url: /types-of-engineering/electrical/
+  - title: Environment
+    url: /types-of-engineering/environment/
+  - title: Geotechnical
+    url: /types-of-engineering/geotechnical/
+  - title: Materials
+    url: /types-of-engineering/materials/
+  - title: Mechanical
+    url: /types-of-engineering/mechanical/
+
+- title: Engineering Careers
+  url: /engineering-careers/bca/
+  sub-links:
+  - title: BCA
+    url: /engineering-careers/bca/
+  - title: CSA
+    url: /engineering-careers/csa/
+  - title: DSTA
+    url: /engineering-careers/dsta/
+  - title: DSO
+    url: /engineering-careers/dso/
+  - title: EMA
+    url: /engineering-careers/ema/
+  - title: Govtech
+    url: /engineering-careers/govtech/
+
+- title: Resource Room
+  url: /resource-room/
+  sub-links:
+  - title: All
+    url: /resource-room/
+  - title: Subcategory A
+    url: /resource-room/subcategory-A/
+  - title: Subcategory B
+    url: /resource-room/subcategory-B/
