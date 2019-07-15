@@ -56,7 +56,6 @@ collection_name: meet-the-engineers
   <image src="/images/wee-kiang.jpeg"/>
  </div>
  <div>
- <div>
   <image src="/images/wee-kiang.jpeg"/>
  </div>
  <div>
