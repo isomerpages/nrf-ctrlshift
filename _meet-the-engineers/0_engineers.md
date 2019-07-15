@@ -1,8 +1,8 @@
 ---
-layout: leftnav-page-content
+layout: simple-page
 title: Engineers
-permalink: /meet-the-engineers/engineers/
-breadcrumb: Chee Wee Kiang
+permalink: /meet-the-engineers/
+breadcrumb: Engineers
 collection_name: meet-the-engineers
 ---
 
@@ -25,6 +25,27 @@ collection_name: meet-the-engineers
 <body>
 
 <div class="flex-container">
+ <div>
+  <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
+ </div>
+ <div>
+  <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
+ </div>
+ <div>
+   <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
+ </div>
+ <div>
+   <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
+ </div>
+ <div>
+   <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
+ </div>
+ <div>
+   <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
+ </div>
+ <div>
+  <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
+ </div>
  <div>
   <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
  </div>
