@@ -11,6 +11,7 @@ collection_name: meet-the-engineers
 .flex-container {
   display: flex;
   background-color: white;
+  flex-wrap: wrap;
 }
 
 .flex-container > div {
@@ -41,8 +42,6 @@ collection_name: meet-the-engineers
  <div>
   <image src="/images/wee-kiang.jpeg"/>
  </div>
- 
- <div class="flex-container">
  <div>
   <image src="/images/wee-kiang.jpeg"/>
  </div>
