@@ -29,7 +29,7 @@ collection_name: meet-the-engineers
   <image src="/images/wee-kiang.jpeg"/>
  </div>
  <div>
-  <image src="/images/wee-kiang.jpeg"/>
+  <a href="/meet-the-engineers/wee-kiang/"><image src="/images/wee-kiang.jpeg"/>
  </div>
  <div>
   <image src="/images/wee-kiang.jpeg"/>
