@@ -16,7 +16,7 @@ collection_name: meet-the-engineers
 
 .flex-container > div {
   background-color: #ffffff;
-  width: 100px;
+  width: 14%;
   margin: 0px;
   padding: 0px;
 }
