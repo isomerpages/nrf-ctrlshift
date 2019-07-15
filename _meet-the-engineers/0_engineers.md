@@ -42,4 +42,22 @@ collection_name: meet-the-engineers
   <image src="/images/wee-kiang.jpeg"/>
  </div>
  
- 
+ <div class="flex-container">
+ <div>
+  <image src="/images/wee-kiang.jpeg"/>
+ </div>
+ <div>
+  <image src="/images/wee-kiang.jpeg"/>
+ </div>
+ <div>
+  <image src="/images/wee-kiang.jpeg"/>
+ </div>
+ <div>
+  <image src="/images/wee-kiang.jpeg"/>
+ </div>
+ <div>
+  <image src="/images/wee-kiang.jpeg"/>
+ </div>
+ <div>
+  <image src="/images/wee-kiang.jpeg"/>
+ </div>
