@@ -29,10 +29,10 @@ collection_name: meet-the-engineers
   <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
  </div>
  <div>
-  <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
+  <a href="/meet-the-engineers/wee-kiang/"><img src="/images/nadim.png"></a>
  </div>
  <div>
-   <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
+   <a href="/meet-the-engineers/wee-kiang/"><img src="/images/norma=n.png"></a>
  </div>
  <div>
    <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
