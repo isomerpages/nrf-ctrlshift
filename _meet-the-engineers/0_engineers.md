@@ -7,13 +7,13 @@ collection_name: meet-the-engineers
 ---
 
 <div>
- <image src="/images/wee-kiang.jpeg" width="14%" />
- <image src="/images/wee-kiang.jpeg" width="14%" />
- <image src="/images/wee-kiang.jpeg" width="14%" />
- <image src="/images/wee-kiang.jpeg" width="14%" />
- <image src="/images/wee-kiang.jpeg" width="14%" />
- <image src="/images/wee-kiang.jpeg" width="14%" />
-  <image src="/images/wee-kiang.jpeg" width="14%" />
+ <image src="/images/wee-kiang.jpeg" style="width:14%;" />
+ <image src="/images/wee-kiang.jpeg" style="width:14%;" />
+  <image src="/images/wee-kiang.jpeg" style="width:14%;" />
+ <image src="/images/wee-kiang.jpeg" style="width:14%;" />
+  <image src="/images/wee-kiang.jpeg" style="width:14%;" />
+ <image src="/images/wee-kiang.jpeg" style="width:14%;" />
+  <image src="/images/wee-kiang.jpeg" style="width:14%;" />
 </div>
 
 <div>
