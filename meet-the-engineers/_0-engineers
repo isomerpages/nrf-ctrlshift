@@ -1,7 +1,7 @@
 ---
-layout: simple-page
+layout: leftnav-page-content
 title: Engineers
-permalink: /meet-the-engineers/
+permalink: /meet-the-engineers/engineers/
 breadcrumb: Engineers
 collection_name: meet-the-engineers
 ---
