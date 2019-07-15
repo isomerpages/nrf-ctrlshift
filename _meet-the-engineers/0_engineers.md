@@ -26,25 +26,24 @@ collection_name: meet-the-engineers
 
 <div class="flex-container">
  <div>
-  <a href="/meet-the-engineers/wee-kiang/><img src="/images/wee-kiang.jpeg"></a>
+  <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
  </div>
  <div>
-  <a href="/meet-the-engineers/wee-kiang/><img src="/images/wee-kiang.jpeg"></a>
+  <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
  </div>
  <div>
-   <a href="/meet-the-engineers/wee-kiang/><img src="/images/wee-kiang.jpeg"></a>
+   <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
  </div>
  <div>
-   <a href="/meet-the-engineers/wee-kiang/><img src="/images/wee-kiang.jpeg"></a>
+   <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
  </div>
  <div>
-   <a href="/meet-the-engineers/wee-kiang/><img src="/images/wee-kiang.jpeg"></a>
+   <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
  </div>
  <div>
-   <a href="/meet-the-engineers/wee-kiang/><img src="/images/wee-kiang.jpeg"></a>
+   <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
  </div>
  <div>
-  <a href="/meet-the-engineers/wee-kiang/><img src="/images/wee-kiang.jpeg"></a>
+  <a href="/meet-the-engineers/wee-kiang/"><img src="/images/wee-kiang.jpeg"></a>
  </div>
-
  
