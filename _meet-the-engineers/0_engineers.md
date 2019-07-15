@@ -6,7 +6,7 @@ breadcrumb: Chee Wee Kiang
 collection_name: meet-the-engineers
 ---
 
-<div>
+<div style="display:float;">
  <image src="/images/wee-kiang.jpeg" style="width:14%;" />
  <image src="/images/wee-kiang.jpeg" style="width:14%;" />
   <image src="/images/wee-kiang.jpeg" style="width:14%;" />
