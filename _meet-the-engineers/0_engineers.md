@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Engineers
-permalink: /meet-the-engineers/wee-kiang/
+permalink: /meet-the-engineers/engineers/
 breadcrumb: Chee Wee Kiang
 collection_name: meet-the-engineers
 ---
