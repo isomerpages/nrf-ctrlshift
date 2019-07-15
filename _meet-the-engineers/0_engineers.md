@@ -16,7 +16,7 @@ collection_name: meet-the-engineers
 
 .flex-container > div {
   background-color: #ffffff;
-  width: 14%;
+  width: 100px;
   margin: 0px;
   padding: 0px;
 }
@@ -26,13 +26,12 @@ collection_name: meet-the-engineers
 
 <div class="flex-container">
  <div>
-  <a href="/meet-the-engineers/wee-kiang/"><image src="/images/wee-kiang.jpeg"/>
+  <a href="/meet-the-engineers/wee-kiang/">
+  <image src="/images/wee-kiang.jpeg"/>
  </div>
  <div>
-  <a href="/meet-the-engineers/wee-kiang/"><image src="/images/wee-kiang.jpeg"/>
- </div>
- <div>
-  <a href="/meet-the-engineers/wee-kiang/"><image src="/images/wee-kiang.jpeg"/>
+  <a href="/meet-the-engineers/wee-kiang/">
+  <image src="/images/wee-kiang.jpeg"/>
  </div>
  <div>
   <a href="/meet-the-engineers/wee-kiang/"><image src="/images/wee-kiang.jpeg"/>
