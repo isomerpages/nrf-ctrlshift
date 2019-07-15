@@ -16,7 +16,7 @@ collection_name: meet-the-engineers
 
 .flex-container > div {
   background-color: #ffffff;
-  width: 140px;
+  width: 120px;
   margin: 0px;
   padding: 0px;
 }
@@ -26,45 +26,45 @@ collection_name: meet-the-engineers
 
 <div class="flex-container">
  <div>
-   <image src="/images/wee-kiang.jpeg"/>
+   <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-  <image src="/images/wee-kiang.jpeg"/>
+  <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-   <image src="/images/wee-kiang.jpeg"/>
+   <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-   <image src="/images/wee-kiang.jpeg"/>
+   <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-   <image src="/images/wee-kiang.jpeg"/>
+   <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-   <image src="/images/wee-kiang.jpeg"/>
+   <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-   <image src="/images/wee-kiang.jpeg"/>
+  <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-   <image src="/images/wee-kiang.jpeg"/>
+  <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-  <image src="/images/wee-kiang.jpeg"/>
+  <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-   <image src="/images/wee-kiang.jpeg"/>
+   <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-   <image src="/images/wee-kiang.jpeg"/>
+   <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-   <image src="/images/wee-kiang.jpeg"/>
+   <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-   <image src="/images/wee-kiang.jpeg"/>
+   <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
  <div>
-   <image src="/images/wee-kiang.jpeg"/>
+   <a href="meet-the-engineers/wee-kiang/><image src="/images/wee-kiang.jpeg"/></a>
  </div>
 
