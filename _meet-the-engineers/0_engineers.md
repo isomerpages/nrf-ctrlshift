@@ -27,37 +27,18 @@ collection_name: meet-the-engineers
 <div class="flex-container">
  <div>
   <image src="/images/wee-kiang.jpeg"/>
- </div>
- <div>
   <image src="/images/wee-kiang.jpeg"/>
- </div>
- <div>
   <image src="/images/wee-kiang.jpeg"/>
- </div>
- <div>
   <image src="/images/wee-kiang.jpeg"/>
- </div>
- <div>
   <image src="/images/wee-kiang.jpeg"/>
- </div>
- <div>
   <image src="/images/wee-kiang.jpeg"/>
- </div>
- <div>
   <image src="/images/wee-kiang.jpeg"/>
- </div>
- <div>
   <image src="/images/wee-kiang.jpeg"/>
- </div>
- <div>
   <image src="/images/wee-kiang.jpeg"/>
- </div>
- <div>
   <image src="/images/wee-kiang.jpeg"/>
- </div>
- <div>
   <image src="/images/wee-kiang.jpeg"/>
- </div>
- <div>
   <image src="/images/wee-kiang.jpeg"/>
- </div>
+  <image src="/images/wee-kiang.jpeg"/>
+  <image src="/images/wee-kiang.jpeg"/>
+</div>
+ 
