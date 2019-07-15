@@ -6,8 +6,6 @@ breadcrumb: Chee Wee Kiang
 collection_name: meet-the-engineers
 ---
 
-<!DOCTYPE html>
-<html>
 <head>
 <style>
 .flex-container {
@@ -26,25 +24,22 @@ collection_name: meet-the-engineers
 
 <div class="flex-container">
  <div>
-  <image src="/images/wee-kiang.jpeg" style="width:14%;" />
+  <image src="/images/wee-kiang.jpeg"/>
  </div>
  <div>
-  <image src="/images/wee-kiang.jpeg" style="width:14%;" />
+  <image src="/images/wee-kiang.jpeg"/>
  </div>
  <div>
-  <image src="/images/wee-kiang.jpeg" style="width:14%;" />
+  <image src="/images/wee-kiang.jpeg"/>
  </div>
  <div>
-  <image src="/images/wee-kiang.jpeg" style="width:14%;" />
+  <image src="/images/wee-kiang.jpeg"/>
  </div>
  <div>
-  <image src="/images/wee-kiang.jpeg" style="width:14%;" />
+  <image src="/images/wee-kiang.jpeg"/>
  </div>
  <div>
-  <image src="/images/wee-kiang.jpeg" style="width:14%;" />
+  <image src="/images/wee-kiang.jpeg"/>
  </div>
  
-  
-</body>
-</html>
-
+ 
