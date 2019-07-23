@@ -10,7 +10,7 @@ collection_name: engineering-careers
 As a statutory board under the Ministry of Trade and Industry, our main goals are to ensure a reliable and secure energy supply, promote effective competition in the energy market and develop a dynamic energy sector in Singapore. Through our work, EMA seeks to forge a progressive energy landscape for sustained growth.
 
 
-# ENGINEERS WE’D LIKE TO WORK WITH
+# Engineering professionals we'd like to work with
 
 1.	Power 
 2.	Electrical
