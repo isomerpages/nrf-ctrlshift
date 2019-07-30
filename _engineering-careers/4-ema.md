@@ -5,19 +5,17 @@ permalink: /engineering-careers/ema/
 breadcrumb: EMA
 collection_name: engineering-careers
 ---
-## BIT ABOUT US
 
+# A bit about us
 As a statutory board under the Ministry of Trade and Industry, our main goals are to ensure a reliable and secure energy supply, promote effective competition in the energy market and develop a dynamic energy sector in Singapore. Through our work, EMA seeks to forge a progressive energy landscape for sustained growth.
 
-## ENGINEERS WE’D LIKE TO WORK WITH
+# Engineering professionals we'd like to work with
+1. Power 
+2. Electrical
+3. Mechanical
+4. Chemical
 
-1.	Power
-2.	Electrical
-3.	Mechanical
-4.	Chemical
-
-## HERE’S HOW YOU CAN ENGINEER WOW
-
+# Here's how you can engineer wow
 Energy powers our economy, lights up our city and connects us all. The Power Sector is dynamic and constantly changing, with multifaceted opportunities to pursue in Liquefied Natural Gas (LNG), smart grids, power systems, solar and clean energy, energy storage, and much more.
 
 As a small city-state with no natural resources, Singapore has more than its fair share of energy challenges. Nevertheless, EMA is committed to bringing about reliable, sustainable and competitively priced energy to fuel our growth. Projects underway range from building a second LNG terminal to test-bedding micro-grids, to facilitating solar energy deployment. We also work closely alongside the private sector in developing a dynamic energy sector. Here, we have created the annual Singapore International Energy Week as a platform to bring together policymakers and industry decision-makers worldwide to debate and exchange best practices, ideas and strategies in the energy space.
