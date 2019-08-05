@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: mindef
+title: MINDEF
 permalink: /engineering-careers/mindef/
-breadcrumb: mindef
+breadcrumb: MINDEF
 collection_name: engineering-careers
 ---
 ### A BIT ABOUT US
