@@ -13,6 +13,7 @@ As a statutory board under the Ministry of Trade and Industry, our main goals ar
 2. Electrical
 3. Mechanical
 4. Chemical
+
 ###HERE’S HOW YOU CAN ENGINEER WOW
 Energy powers our economy, lights up our city and connects us all. The Power Sector is dynamic and constantly changing, with multifaceted opportunities to pursue in Liquefied Natural Gas (LNG), smart grids, power systems, solar and clean energy, energy storage, and much more.
 
