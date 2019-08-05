@@ -10,6 +10,8 @@ collection_name: meet-the-engineers
 </br>
 <img src="/images/wee-kiang.jpeg" style="width:400px;height:250px;" alt="Chee Wee Kiang">
 
+<a href="test.html">click here to access</a>
+
 Chee Wee Kiang
 <br/>**Deputy Director (Automation & Robotics)**
 <br/>**Ministry of Home Affairs**
