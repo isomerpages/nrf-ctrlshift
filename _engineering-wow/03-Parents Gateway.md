@@ -6,6 +6,11 @@ breadcrumb: CONNECTING PARENTS & SCHOOLS ANYTIME
 collection_name: engineering-wow
 ---
 
+![Parent Gateway](/images/parent gateway.jpg)
+
+</br>
+<img src="/images/parent gateway.jpg" style="width:400px;height:250px;" alt="parent gateway.jpg">
+
 ### Parents Gateway
 
 Parents Gateway is a digital service that connects parents and schools on key administrative matters. It eliminates hardcopy forms and letters from the schools’ administrative process. Available on IOS and Android mobile devices, it is a one-stop mobile app that centralises information so that parents can access them on all their children in one place. This enables parents and schools to better support their children’s educational journey. Schools can send information and updates on programmes and activities to parents including videos and photographs of their learning children. Parents, with a click of a button, can perform administrative functions such as consenting their children to participate in school activities. More functions will be added gradually to Parents Gateway to better serve the needs of teachers, parents and students.
