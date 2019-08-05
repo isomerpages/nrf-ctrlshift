@@ -5,6 +5,7 @@ permalink: /engineering-careers/jtc/
 breadcrumb: JTC
 collection_name: engineering-careers
 ---
+
 ### A BIT ABOUT US
 JTC is the lead government agency responsible for the development of industrial infrastructure to support and catalyse the growth of industries and enterprises in Singapore.
 Landmark projects by JTC include the Jurong Industrial Estate; the Jurong Island for energy and chemical industries; business and specialised parks such as Airport Logistics Park of Singapore, International Business Park, Changi Business Park, Seletar Aerospace Park, CleanTech Park and Tuas Biomedical Park; a new work-live-play-&-learn development called one-north; and the Jurong Rock Caverns, Southeast Asia’s first commercial underground storage facility for liquid hydrocarbons.
