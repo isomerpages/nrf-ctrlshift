@@ -5,8 +5,10 @@ permalink: /engineering-careers/mindef/
 breadcrumb: MINDEF
 collection_name: engineering-careers
 ---
+
 ### A BIT ABOUT US
 The Singapore Armed Forces (SAF) is a strong, professional armed force whose mission is to enhance Singapore’s national security through deterrence and diplomacy. Since its inception in the 1960s, the SAF has evolved to a modern, networked Army, Navy and Air Force that is capable of combatting a wide spectrum of threats such as terrorism and piracy. The SAF continues to transform itself into an integrated fighting system with leading-edge capabilities to meet Singapore’s changing security needs.
+
 ### ENGINEERS WE’D LIKE TO WORK WITH
 1. Aerospace 
 2. Chemical 
