@@ -5,6 +5,7 @@ permalink: /engineering-careers/pub/
 breadcrumb: PUB
 collection_name: engineering-careers
 ---
+
 ### A BIT ABOUT US
 PUB is a statutory board under the Ministry of the Environment and Water Resources. Driven by a vision of what it takes to be sustainable in water, Singapore has built a robust, diversified and sustainable water supply from different sources known as the Four National Taps (water from local catchment areas, imported water, reclaimed water known as NEWater and desalinated water). By integrating the system and maximising the efficiency of each of the four taps, Singapore has ensured a stable, sustainable water supply that is weather resilient, capable of catering to the country’s continued growth. As the national water agency, PUB is responsible for the collection, production, distribution and reclamation of water in Singapore.
 
