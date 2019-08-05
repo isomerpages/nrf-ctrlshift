@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: pub
+title: PUB
 permalink: /engineering-careers/pub/
-breadcrumb: pub
+breadcrumb: PUB
 collection_name: engineering-careers
 ---
 ### A BIT ABOUT US
