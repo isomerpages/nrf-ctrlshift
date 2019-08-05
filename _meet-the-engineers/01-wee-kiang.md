@@ -5,6 +5,10 @@ permalink: /meet-the-engineers/wee-kiang/
 breadcrumb: Chee Wee Kiang
 collection_name: meet-the-engineers
 ---
+![Chee Wee Kiang](/images/wee-kiang.jpeg)
+
+</br>
+<img src="/images/wee-kiang.jpeg" width="400" height"100" alt="Chee Wee Kiang">
 
 Chee Wee Kiang
 <br/>**Deputy Director (Automation & Robotics)**
