@@ -8,7 +8,7 @@ collection_name: meet-the-engineers
 ![Chee Wee Kiang](/images/wee-kiang.jpeg)
 
 </br>
-<img src="/images/wee-kiang.jpeg" style="width:400px;height:100px;" alt="Chee Wee Kiang">
+<img src="/images/wee-kiang.jpeg" style="width:400px;height:250px;" alt="Chee Wee Kiang">
 
 Chee Wee Kiang
 <br/>**Deputy Director (Automation & Robotics)**
