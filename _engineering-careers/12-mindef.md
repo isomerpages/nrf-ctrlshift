@@ -14,6 +14,7 @@ The Singapore Armed Forces (SAF) is a strong, professional armed force whose mis
 4. Marine 
 5. Material Science 
 6. Mechanical, and many more
+
 ### HERE’S HOW YOU CAN ENGINEER WOW
 As a military engineer, you will take on a diverse range of challenging appointments at the Ministry of Defence and the SAF. In addition, there will be opportunities to be rotated to the Defence Technology Community (e.g. Defence Science and Technology Agency [DSTA] and DSO National Laboratories) to augment the build-up of engineering expertise in the Defence Technology ecosystem.
 
