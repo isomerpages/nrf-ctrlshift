@@ -8,12 +8,12 @@ collection_name: engineering-careers
 ### A BIT ABOUT US
 The Singapore Armed Forces (SAF) is a strong, professional armed force whose mission is to enhance Singapore’s national security through deterrence and diplomacy. Since its inception in the 1960s, the SAF has evolved to a modern, networked Army, Navy and Air Force that is capable of combatting a wide spectrum of threats such as terrorism and piracy. The SAF continues to transform itself into an integrated fighting system with leading-edge capabilities to meet Singapore’s changing security needs.
 ### ENGINEERS WE’D LIKE TO WORK WITH
-• Aerospace 
-• Chemical 
-• Electrical & Electronic 
-• Marine 
-• Material Science 
-• Mechanical, and many more
+1. Aerospace 
+2. Chemical 
+3. Electrical & Electronic 
+4. Marine 
+5. Material Science 
+6. Mechanical, and many more
 ### HERE’S HOW YOU CAN ENGINEER WOW
 As a military engineer, you will take on a diverse range of challenging appointments at the Ministry of Defence and the SAF. In addition, there will be opportunities to be rotated to the Defence Technology Community (e.g. Defence Science and Technology Agency [DSTA] and DSO National Laboratories) to augment the build-up of engineering expertise in the Defence Technology ecosystem.
 
