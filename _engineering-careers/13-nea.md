@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: nea
+title: NEA
 permalink: /engineering-careers/nea/
-breadcrumb: nea
+breadcrumb: NEA
 collection_name: engineering-careers
 ---
 ### A BIT ABOUT US
