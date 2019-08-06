@@ -6,7 +6,6 @@ breadcrumb: Punggol Digital District
 collection_name: engineering-wow
 ---
 
-
 ### A NEW WAY TO WORK, LEARN AND PLAY
 
 The first district in Singapore to adopt an integrated masterplan approach, PDD is a multi-agency collaboration project between Infocomm Media Development Authority, JTC, Singapore Institute of Technology and Urban Redevelopment Authority.
