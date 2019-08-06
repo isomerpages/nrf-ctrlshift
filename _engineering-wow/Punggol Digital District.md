@@ -1,10 +1,11 @@
---
+---
 layout: leftnav-page-content
-title: Punggol Digital District
+title: A NEW WAY TO WORK, LEARN AND PLAY
 permalink: /engineering-wow/Punggol Digital District/
 breadcrumb: Punggol Digital District
 collection_name: engineering-wow
 ---
+
 
 ### A NEW WAY TO WORK, LEARN AND PLAY
 
