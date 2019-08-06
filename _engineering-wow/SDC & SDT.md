@@ -8,7 +8,6 @@ collection_name: engineering-wow
 
 ### KEEPING ORCHARD ROAD FLOOD-FREE
 
-#### SDC & SDT
 The Stamford Diversion Canal (SDC) and Stamford Detention Tank (SDT) are complex infrastructure projects that provide important, long-term measures to alleviate floods in the Orchard Road belt. 
 The 2km SDC running underneath Tanglin Road to Grange Road diverts stormwater from the upstream of Stamford Catchment (such as Holland Road and Napier Road areas) into the Singapore River through two underground tunnels of 4.5m diameter and drains (6m to 14m wide box culverts), eventually leading to Marina Reservoir. This relieves Stamford Canal of a portion of stormwater.
 
