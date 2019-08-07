@@ -6,7 +6,7 @@ breadcrumb: CONNECTING PARENTS & SCHOOLS ANYTIME
 collection_name: engineering-wow
 ---
 
-<img src="/images/parents gateway.jpg" width="300" height="300">
+<img src="/images/guardiansea.jpg" width="300" height="300">
 
 ### GUARDIAN OF THE SEA
 
