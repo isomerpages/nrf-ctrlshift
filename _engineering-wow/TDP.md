@@ -6,6 +6,9 @@ breadcrumb: CSECURING WATER TO MEET FUTURE WATER NEEDS
 collection_name: engineering-wow
 ---
 
+<img src="/images/parents gateway.jpg" width="300" height="300">
+
+
 ### SECURING WATER TO MEET FUTURE WATER NEEDS
 The Tuas Desalination Plant (TDP) is a strategic infrastructural asset that will boost Singapore’s desalination capacity.
 
