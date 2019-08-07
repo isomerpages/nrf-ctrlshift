@@ -6,6 +6,8 @@ breadcrumb: CONNECTING PARENTS & SCHOOLS ANYTIME
 collection_name: engineering-wow
 ---
 
+<img src="/images/parents gateway.jpg" width="300" height="300">
+
 ### GUARDIAN OF THE SEA
 
 To tackle the challenges of detecting underwater mines in local waters, DSO National Laboratories (DSO) developed the Meredith 400 Autonomous Underwater Vehicle (AUV) with advanced sonar payloads that can rapidly scan large swaths of seabed for underwater threats. It is able to operate in the congested waters of Singapore and uses state-of-the-art sonar imaging sensors and algorithms. The development of an AUV for mine countermeasures was made possible by a team of engineers specialised in different skills and knowledge. In recognition of its efforts, the DSO team was awarded the 2015 Defence Technology Prize (Research & Development) Team Award.
