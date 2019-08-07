@@ -7,7 +7,6 @@ collection_name: engineering-wow
 ---
 
 
-</br>
 <img src="/images/IDD.jpg" width="300" height="300">
 
 #### IDD
