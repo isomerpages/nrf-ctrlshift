@@ -9,7 +9,7 @@ collection_name: engineering-wow
 
 
 </br>
-<img src="/images/parents gateway.jpg" width="200" height="200">
+<img src="/images/parents gateway.jpg" width="300" height="300">
 
 ### PARENTS GATEWAY
 
