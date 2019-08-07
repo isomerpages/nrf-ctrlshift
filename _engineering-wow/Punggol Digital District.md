@@ -6,7 +6,7 @@ breadcrumb: Punggol Digital District
 collection_name: engineering-wow
 ---
 
-<img src="/images/parents gateway.jpg" width="300" height="300">
+<img src="/images/pungol.jpg" width="300" height="300">
 
 ### A NEW WAY TO WORK, LEARN AND PLAY
 
