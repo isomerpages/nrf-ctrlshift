@@ -6,7 +6,7 @@ breadcrumb: CSECURING WATER TO MEET FUTURE WATER NEEDS
 collection_name: engineering-wow
 ---
 
-<img src="/images/parents gateway.jpg" width="300" height="300">
+<img src="/images/TDP.jpg" width="300" height="300">
 
 
 ### SECURING WATER TO MEET FUTURE WATER NEEDS
