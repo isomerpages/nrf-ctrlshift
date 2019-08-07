@@ -6,10 +6,10 @@ breadcrumb: CONNECTING PARENTS & SCHOOLS ANYTIME
 collection_name: engineering-wow
 ---
 
-![Parent Gateway](/images/parents gateway.jpg)
+
 
 </br>
-<img src="/images/parents gateway" style="width:400px;height:250px;" alt="parents gateway">
+<img src="/images/parents gateway.jpg" alt="Parents Gateway">
 
 ### Parents Gateway
 
