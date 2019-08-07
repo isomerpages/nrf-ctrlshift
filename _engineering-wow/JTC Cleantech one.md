@@ -6,6 +6,8 @@ breadcrumb: JTC CLEANTECH ONE
 collection_name: engineering-wow
 ---
 
+<img src="/images/cleantech.jpg" width="300" height="300">
+
 ### LIVING, BREATHING BUSINESS PARK
 
 Singapore's first eco-business park, CleanTech Park, is an R&D and test-bedding site for early adoption of technology and solutions. Located beside the Nanyang Technological University, the 50-hectare park was developed with an emphasis on retaining the natural environment and biodiversity of the area, and serves as a choice location for forward-looking corporations that embrace environmental sustainability.
