@@ -7,8 +7,8 @@ collection_name: engineering-wow
 ---
 
 
-
 <img src="/images/flood free.jpg" width="300" height="300">
+
 ### KEEPING ORCHARD ROAD FLOOD-FREE
 
 The Stamford Diversion Canal (SDC) and Stamford Detention Tank (SDT) are complex infrastructure projects that provide important, long-term measures to alleviate floods in the Orchard Road belt. 
