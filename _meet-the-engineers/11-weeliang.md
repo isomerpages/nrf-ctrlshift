@@ -6,7 +6,7 @@ breadcrumb: Chua Wee Liang
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Chua Wee Liang.jpg" width="300" height="300">
+<img src="/images/Wee Liang.jpg" width="300" height="300">
 <br> Chua Wee Liang
 <br> Senior Project Manager
 <br> JTC
