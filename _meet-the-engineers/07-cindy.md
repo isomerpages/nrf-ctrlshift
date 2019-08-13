@@ -6,9 +6,10 @@ breadcrumb: Cindy Wang Xiaochen
 collection_name: meet-the-engineers
 ---
 
-## Cindy Wang Xiaochen
-## Senior Systems Analyst
-## Housing Development Board
+<img src="/images/Cindy.jpg" width="300" height="300">
+<br> Cindy Wang Xiaochen
+<br> Senior Systems Analyst
+<br> Housing Development Board
 
 ### How are you transforming the future as an engineer?
 I am involved in the Smart Hub project in HDB. Data received from sensors that are embedded within our HDB estates are collected and integrated into the Smart Hub to generate real-time relevant insights. With this wealth of information, we will be able to work with our stakeholders such as the Town Councils to better monitor and analyse the performance of key estate services, such as lighting, pumps and waste collection, to optimise maintenance cycles and minimise service disruptions.
