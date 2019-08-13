@@ -5,16 +5,12 @@ permalink: /meet-the-engineers/wee-kiang/
 breadcrumb: Chee Wee Kiang
 collection_name: meet-the-engineers
 ---
-![Chee Wee Kiang](/images/wee-kiang.jpeg)
 
 </br>
-<img src="/images/wee-kiang.jpeg" style="width:400px;height:250px;" alt="Chee Wee Kiang">
+<img src="/images/wee-kiang.jpeg" style="width:40px;height:25px;" alt="Chee Wee Kiang">
 
 </br>
 <a href="test.html" alt"link details">click here to access</a>
-
-<img src="/images//Chee Wee Kiang.jpg.jpg" width="80" height="130" alt="chee wee kiang">
-Chee Wee Kiang
 <br/>**Deputy Director (Automation & Robotics)**
 <br/>**Ministry of Home Affairs**
 
