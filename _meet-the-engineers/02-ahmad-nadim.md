@@ -8,9 +8,9 @@ collection_name: meet-the-engineers
 
 <insert image>
 
-# Ahmad Nadim bin Zainal
-## Electrical Engineer
-## Building Construction Authority
+<br> Ahmad Nadim bin Zainal
+<br> Electrical Engineer
+<br> Building Construction Authority
 
 ### How are you engineering what’s next?
 Most of us commute by train everyday but we may not be aware that MRT Civil Defence (CD) shelters are actually integrated in some underground MRT stations! This means that the MRT CD Shelters are specially designed with facilities to ensure that the shelter environment is tolerable for the public if they are used for occupation in times of need. In times of war, the MRT CD shelters will be a place of refuge for the members of the public. We check that the MRT shelters are safe and future ready for the public to take cover in. Each MRT CD shelter has equipment to provide the shelter with electricity, ventilation and safe drinking water. It is extremely satisfying to see the completion and commissioning of a MRT CD shelter, as a result of the close collaboration of different agencies and industry stakeholders. Much effort goes into the construction and testing of the MRT CD shelters by different parties, to check that they are safe and structurally resilient.
