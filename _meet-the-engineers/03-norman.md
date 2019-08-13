@@ -6,10 +6,10 @@ breadcrumb: Norman Tan
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/norman tan.jpg" width="300" height="300">
-## Norman Tan
-## Civil Engineer
-## Marine Port Authority
+<img src="/images/Norman Tan.jpg" width="300" height="300">
+<br> Norman Tan
+<br> Civil Engineer
+<br> Marine Port Authority
 
 ### How are you engineering what’s next?
 I am part of the team overseeing and managing the Tuas Terminal Phase 2 reclamation project. Specifically, I am managing the environmental aspect of this project, which is known as the Environmental Management and Monitoring Programme (EMMP). The EMMP ensures that our future port is being built in a sustainable manner that protects our precious marine environment.
