@@ -13,7 +13,7 @@ collection_name: meet-the-engineers
 </br>
 <a href="test.html" alt"link details">click here to access</a>
 
-<img src="https://Chee Wee Kiang.jpg.jpg" width="80" height="130" alt="Computer Hope">
+<img src="/images//Chee Wee Kiang.jpg.jpg" width="80" height="130" alt="chee wee kiang">
 Chee Wee Kiang
 <br/>**Deputy Director (Automation & Robotics)**
 <br/>**Ministry of Home Affairs**
