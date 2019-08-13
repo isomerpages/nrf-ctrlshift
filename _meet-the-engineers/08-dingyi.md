@@ -6,10 +6,10 @@ breadcrumb: Hoon Ding Yi
 collection_name: meet-the-engineers
 ---
 
-## Hoon Ding Yi
-## Software Engineer
-
-##Government Technology Agency
+<img src="/images/Hoon Ding Yi.jpg" width="300" height="300">
+<br> Hoon Ding Yi
+<br> Software Engineer
+<br> Government Technology Agency
 
 ### How are you transforming the future as an engineer?
 I am a software engineer in a team that builds software applications for citizens. We recently launched the Moments of Life (Families) app where we built integrated services from four government agencies (MSF, ECDA, ICA, HPB) into a single app. This app provides useful services and information needed by parents and caregivers of young children on a single digital platform. Users can register a new birth, apply for Baby Bonus, search for nearby pre-schools, access a child’s health records and view upcoming events through this app.
