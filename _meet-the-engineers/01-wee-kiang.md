@@ -7,7 +7,7 @@ collection_name: meet-the-engineers
 ---
 
 </br>
-<img src="/images/wee-kiang.jpeg" style="width:40px;height:25px;" alt="Chee Wee Kiang">
+<img src="/images/Chee wee kiang.jpeg" style="width:40px;height:25px;" alt="Chee Wee Kiang">
 
 </br>
 <a href="test.html" alt"link details">click here to access</a>
