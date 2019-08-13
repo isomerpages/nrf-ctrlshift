@@ -6,9 +6,10 @@ breadcrumb: Zann Tay
 collection_name: meet-the-engineers
 ---
 
-## Zann Tay
-## Civil Engineer
-## Urban Redevelopment Authority
+<img src="/images/Zann.jpg" width="300" height="300">
+<br> Zann Tay
+<br> Civil Engineer
+<br> Urban Redevelopment Authority
 
 ### How are you engineering what’s next?
 Under MND’s Cities of Tomorrow R&D programme, R&D roadmaps are drawn up to address key national issues. One such issue is in ensuring that we have sufficient land for sustainable growth. Expanding our use of underground space for infrastructure and utility uses, wherever feasible and meaningful to do so, is one way to overcome our land constraints by freeing up above ground spaces for uses that support residential living, social interactions, daily conveniences and recreation. All these help to provide a high quality living environment for our people. As a Civil Engineer in the Underground Works Department, I am tasked with driving the planning and development of underground spaces. Together with other relevant agencies, our team identifies key focus areas for R&D to enable the realisation of underground plans. We focus on finding ways to map out our geology, existing underground infrastructure and utilities, as well as identifying innovative, cost-effective construction methods and maintenance of underground developments.
