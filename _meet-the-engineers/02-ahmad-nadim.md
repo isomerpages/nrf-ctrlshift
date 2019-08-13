@@ -18,7 +18,7 @@ Most of us commute by train everyday but we may not be aware that MRT Civil Defe
 ### What are some challenges you face in your project?What are some challenges you face in your project?
 The full Mechanical & Electrical systems test is the last of the major commissioning tests that CD shelters are subjected to. Coordination of various parties, such as with the contractor, sub-contractor and equipment suppliers, during the test is a big challenge as it involves the operation of all the equipment at the same time to simulate the actual operation of the shelter. To overcome this, I had to guide the testing team through reviews of the testing method statements and briefings, prior to the test. On the other hand, I have a small fear of heights and one of the challenges that I face during site inspections is to inspect the site installations at height. For example, I have to climb scaffoldings to inspect the installation of anchor bolts used in the mounting of exhaust pipes of the generators. They usually span approximately 20-40m high along the vertical ventilation shaft. I would have to keep my cool and be alert while climbing the structure. It helps when I constantly remind myself that I am playing an important role in checking the installations to ensure that they are reliable and safe.
 
-### What is the best part about engineering?What is the best part about engineering?
+### What is the best part about engineering? What is the best part about engineering?
 As an engineer, you have the ability to create solutions in challenging situations. Not only that, it is dynamic and collaborative.
 
 ### Why do you choose to be a Public Service Engineer?Why do you choose to be a Public Service Engineer?
