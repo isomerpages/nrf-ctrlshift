@@ -7,12 +7,11 @@ collection_name: meet-the-engineers
 ---
 ![Chee Wee Kiang](/images/wee-kiang.jpeg)
 </br>
-<img src="/images/Chee wee kiang.jpg" style="width:"40";height:25;" alt="Chee Wee Kiang">
 
-</br>
-<a href="test.html" alt"link details">click here to access</a>
-<br/>**Deputy Director (Automation & Robotics)**
-<br/>**Ministry of Home Affairs**
+
+</br> Chee Wee Kiang
+<br>Deputy Director (Automation & Robotics)
+<br/>Ministry of Home Affairs
 
 **What is the best part about engineering?**
 
