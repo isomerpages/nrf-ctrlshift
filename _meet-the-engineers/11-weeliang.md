@@ -6,9 +6,10 @@ breadcrumb: Chua Wee Liang
 collection_name: meet-the-engineers
 ---
 
-## Chua Wee Liang
-## Senior Project Manager
-## JTC
+<img src="/images/Chua Wee Liang.jpg" width="300" height="300">
+<br> Chua Wee Liang
+<br> Senior Project Manager
+<br> JTC
 
 ### How are you transforming the future as an engineer?
 I am currently involved in the building of Singapore’s first high-rise, multi-tenanted, indoor logistics facility that houses inland container depots, warehouses and a heavy vehicle park. This next-generation facility at Gul Circle also pioneers the implementation of Integrated Digital Delivery where digital technologies integrate work processes and connect relevant project stakeholders throughout the construction and building life cycle. We employ the use of virtual reality, photogrammetry and drones to improve construction efficiency, safety and sustainability. Ultimately, this allows the team to perform data-driven decision making at the design, construction and operation stages of a building’s life cycle and deliver smarter buildings.
