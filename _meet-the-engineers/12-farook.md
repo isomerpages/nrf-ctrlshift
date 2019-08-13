@@ -6,9 +6,10 @@ breadcrumb: Farook Maideen
 collection_name: meet-the-engineers
 ---
 
-## Farook Maideen
-## Senior Project Engineer
-## Land Transport Authority
+<img src="/images/Farook.jpg" width="300" height="300">
+<br> Farook Maideen
+<br> Senior Project Engineer
+<br> Land Transport Authority
 
 ### How are you transforming the future as an engineer?
 I lead and oversee the mechanical services contracts for the East Coast Integrated Depot. This is the world’s first four-in-one integrated depot with three rail depots stacked on each other and a standalone bus depot. The stacked rail depot comprises of the Downtown Line (underground), Thomson-East Coast Line (ground level) and East-West Line (elevated). The train depots will house 220 trains and the bus depot, complete with workshop, office, car park, canteen and parking bays, will house some 760 buses upon completion. This helps tremendously in saving land space in land-scarce Singapore. Before this, I was involved in the tendering phase of the Electrical & Mechanical services for Mandai Depot for 2 years.
