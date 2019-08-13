@@ -6,9 +6,10 @@ breadcrumb: Chen Juncheng
 collection_name: meet-the-engineers
 ---
 
-## Chen Juncheng
-## Defence Engineer
-## Defence Science and Technology Agency
+<img src="/images/Juncheng.jpg" width="300" height="300">
+<br> Chen Juncheng
+<br> Defence Engineer
+<br> Defence Science and Technology Agency
 
 ### How are you transforming the future as an engineer?
 I develop innovative technological solutions for the Ministry of Defence and the Singapore Armed Forces (SAF) by applying data analytics and machine learning. Currently, my team is working on the development of the Fleet Management System that enhances the maintenance and operations of assets for the Republic of Singapore Air Force (RSAF). We develop predictive analytic models that monitor aircraft systems for unusual behaviour and diagnose impending failures for early rectification. In short, we use data to transform the way RSAF manages its aircraft fleet.
