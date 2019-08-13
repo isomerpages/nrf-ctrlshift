@@ -5,13 +5,11 @@ permalink: /meet-the-engineers/wee-kiang/
 breadcrumb: Chee Wee Kiang
 collection_name: meet-the-engineers
 ---
+
 ![Chee Wee Kiang](/images/wee-kiang.jpeg)
-</br>
-
-
-<br>## Chee Wee Kiang
-<br>##Deputy Director (Automation & Robotics)
-<br/>##Ministry of Home Affairs
+<br>Chee Wee Kiang
+<br>Deputy Director (Automation & Robotics)
+<br/>Ministry of Home Affairs
 
 ### What is the best part about engineering?
 
