@@ -6,9 +6,10 @@ breadcrumb: Laura Lee
 collection_name: meet-the-engineers
 ---
 
-## Laura Lee
-## Data Science Engineer
-## Government Technology Agency
+<img src="/images/Laura.jpg" width="300" height="300">
+<br> Laura Lee
+<br> Data Science Engineer
+<br> Government Technology Agency
 
 ### How are you transforming the future as an engineer?How are you transforming the future as an engineer?
 My team builds machine learning models and deploys them as tech products such as micro services and web applications. We would first talk to our users to understand their needs. We then develop prototypes and with regular feedback from our users, improve on them until we finally develop something that is directly beneficial and valuable.
