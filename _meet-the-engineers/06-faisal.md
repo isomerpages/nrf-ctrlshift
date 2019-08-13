@@ -6,9 +6,10 @@ breadcrumb: Faisal Ahmad
 collection_name: meet-the-engineers
 ---
 
-## Faisal Ahmad
-## Senior Engineer
-## Public Utilities Board
+<img src="/images/Faisal.jpg" width="300" height="300">
+<br> Faisal Ahmad
+<br> Senior Engineer
+<br> Public Utilities Board
 
 ### How are you transforming the future as an engineer?
 PUB manages our water cycle - from the collection, purification and supply of drinking water to the treatment of used water and its reclamation into NEWater as well as the drainage of stormwater.
