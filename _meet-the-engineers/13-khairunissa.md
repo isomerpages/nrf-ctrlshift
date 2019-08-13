@@ -6,9 +6,10 @@ breadcrumb: Khairunnisa Binte Yahya
 collection_name: meet-the-engineers
 ---
 
-## Khairunnisa Binte Yahya
-## Chemical Engineer
-## National Environment Agency
+<img src="/images/Khairunnisa.jpg" width="300" height="300">
+<br> Khairunnisa Binte Yahya
+<br> Chemical Engineer
+<br> National Environment Agency
 
 ### How are you transforming the future as an engineer?
 Air quality affects our health and quality of life. Ensuring good air quality therefore helps to safeguard public health. Because the atmosphere is a very complex system, identifying the sources of pollutants or the reasons for their changes in the atmosphere is no easy task. At the Pollution Control Department in NEA, I work on air quality related projects that assess the different sources of ambient air quality. Our task is to ensure that the air quality monitoring stations across the island are operating in optimal condition so that the air quality data and trends are always accurately monitored, assessed and analysed.
