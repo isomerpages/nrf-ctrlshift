@@ -7,7 +7,8 @@ collection_name: meet-the-engineers
 ---
 
 <insert image>
-
+</br>
+<img src="/images/nadim.jpg" width="30" height="30">
 <br> Ahmad Nadim bin Zainal
 <br> Electrical Engineer
 <br> Building Construction Authority
