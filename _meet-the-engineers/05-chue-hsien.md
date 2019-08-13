@@ -6,9 +6,10 @@ breadcrumb: Goh Chue Hsien
 collection_name: meet-the-engineers
 ---
 
-## Goh Chue Hsien
-## Defence Engineer
-## Defence Science and Technology Agency
+<img src="/images/Goh Chue Hsien.png" width="300" height="300">
+<br> Goh Chue Hsien
+<br> Defence Engineer
+<br> Defence Science and Technology Agency
 
 ### How are you transforming the future as an engineer?
 I work with a multi-disciplinary team of defence engineers to enable the digitalization of the Ministry of Defence and the Singapore Armed Forces (SAF), towards the goal of improving work processes. An example is a project involving Augmented Reality (AR) technology in which AR glasses are used to improve maintenance work onboard Republic of Singapore Navy (RSN) ships, by augmenting maintenance procedures and providing timely safety reminders throughout the work processes. Through close collaboration with RSN personnel, we were able to rapidly design and deliver a technology prototype for the ship crew to trial with.
