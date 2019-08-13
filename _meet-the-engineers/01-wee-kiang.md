@@ -6,9 +6,8 @@ breadcrumb: Chee Wee Kiang
 collection_name: meet-the-engineers
 ---
 
-![Chee Wee Kiang](/images/wee-kiang.jpeg) width="20" height="40"
-<img src="Chee Wee Kiang.jpg" width="50%" height="50%"/>
-        </div>
+![Chee Wee Kiang](/images/wee-kiang.jpeg) width="%0%" height="50%"
+
 <br>Chee Wee Kiang
 <br>Deputy Director (Automation & Robotics)
 <br/>Ministry of Home Affairs
