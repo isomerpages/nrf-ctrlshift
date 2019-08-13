@@ -6,9 +6,10 @@ breadcrumb: Idaly Mamat
 collection_name: meet-the-engineers
 ---
 
-## Idaly Mamat
-## Principal Engineer
-## Public Utilities Board
+<img src="/images/Idaly.jpg" width="300" height="300">
+<br> Idaly Mamat
+<br> Principal Engineer
+<br> Public Utilities Board
 
 ### How are you transforming the future as an engineer?
 Managing stormwater runoff in urban Singapore is challenging due to land
