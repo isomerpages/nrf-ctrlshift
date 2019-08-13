@@ -6,7 +6,7 @@ breadcrumb: Idaly Mamat
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Idaly.jpg" width="300" height="300">
+<img src="/images/Idaly Mamat.jpg" width="300" height="300">
 <br> Idaly Mamat
 <br> Principal Engineer
 <br> Public Utilities Board
