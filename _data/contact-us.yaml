@@ -6,8 +6,7 @@
 
 #Contact Us
 
-locations:
-  # HQ Address [REQUIRED]
+locations:[REQUIRED]
   - title:Engineer What's Next
   
 # Contact Us
