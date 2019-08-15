@@ -15,4 +15,4 @@ else {
  * then uncomment the entire chunk of code above. Remember to set the environmental
  * variables on TravisCI! Refer to the production guide for details.
  */
-travisScript.testsOnly(false)
+travisScript.testsOnly()
