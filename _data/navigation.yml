@@ -8,75 +8,37 @@
   url: /engineers-in-action/
 
 - title: Meet the engineers
-  url: /meet-the-engineers/wee-kiang/
+  url: /meet-the-engineers/
   sub-links:
   - title: Chee Wee Kiang
     url: /meet-the-engineers/wee-kiang/
-- title: Ahmad Nadim bin Zainal
-  url: /meet-the-engineers/ahmad-nadim/
-- title: Meet the engineers
-  url: /meet-the-engineers/Norman/
-  sub-links:
+  - title: Ahmad Nadim bin Zainal
+    url: /meet-the-engineers/ahmad-nadim/
   - title: Norman Tan
     url: /meet-the-engineers/Norman/
-- title: Meet the engineers
-  url: /meet-the-engineers/laura/
-  sub-links:
   - title: Laura Lee
     url: /meet-the-engineers/laura/
-- title: Meet the engineers
-  url: /meet-the-engineers/Goh Chue Hsien/
-  sub-links:
-  - title: Goh Chue Hsien
+  - title: Goh CHsien
     url: /meet-the-engineers/Goh Chue Hsien/
-- title: Meet the engineers
-  url: /meet-the-engineers/Faisal Ahmad/
-  sub-links:
   - title: Faisal Ahmad
     url: /meet-the-engineers/Faisal Ahmad/
-- title: Meet the engineers
-  url: /meet-the-engineers/Cindy Wang Xiaochen/
-  sub-links:
   - title: Cindy Wang Xiaochen
     url: /meet-the-engineers/Cindy Wang Xiaochen/
- - title: Meet the engineers
-   url: /meet-the-engineers/Hoon Ding Yi/
-   sub-links:
   - title: Hoon Ding Yi
     url: /meet-the-engineers/Hoon Ding Yi/
- - title: Meet the engineers
-   url: /meet-the-engineers/Idaly Mamat/
-   sub-links:
   - title: Idaly Mamat
     url: /meet-the-engineers/Idaly Mamat/ 
- - title: Meet the engineers
-   url: /meet-the-engineers/Zann Tay/
-   sub-links:
   - title: Zann Tay
     url: /meet-the-engineers/Zann Tay/
- - title: Meet the engineers
-   url: /meet-the-engineers/Chua Wee Liang/
-   sub-links:
   - title: Chee Wee Liang
     url: /meet-the-engineers/Chua Wee Liang/
- 
- - title: Meet the engineers
-   url: /meet-the-engineers/Farook Maideen/
-   sub-links:
   - title: Farook Maideen
     url: /meet-the-engineers/Farook Maideen/
-- title: Meet the engineers
-  url: /meet-the-engineers/Khairunnisa Binte Yahya/
-  sub-links:
   - title: Khairunnisa Binte Yahya
     url: /meet-the-engineers/Khairunnisa Binte Yahya/
- - title: Meet the engineers
-   url: /meet-the-engineers/Chen Juncheng/
-   sub-links:
   - title: Chen Juncheng
     url: /meet-the-engineers/Chen Juncheng/
    
-
 - title: Engineering wow
   url: /engineering-wow/iwmf/
   sub-links:
