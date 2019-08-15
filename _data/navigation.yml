@@ -14,10 +14,22 @@
     url: /meet-the-engineers/wee-kiang/
   - title: Ahmad Nadim bin Zainal
     url: /meet-the-engineers/ahmad-nadim/
+  sub-links:
+  - title: Ahmad Nadim bin Zainal
+    url: /meet-the-engineers/ahmad-nadim/
+- title: Norman Tan
+    url: /meet-the-engineers/Norman/
+   sub-links:
   - title: Norman Tan
     url: /meet-the-engineers/Norman/
   - title: Laura Lee
     url: /meet-the-engineers/laura/
+    sub-links:
+  - title: Laura Lee
+    url: /meet-the-engineers/laura/
+  - title: Goh Chue Hsien
+    url: /meet-the-engineers/Goh Chue Hsien/
+    sub-links:
   - title: Goh Chue Hsien
     url: /meet-the-engineers/Goh Chue Hsien/
   - title: Faisal Ahmad
