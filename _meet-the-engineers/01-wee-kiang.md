@@ -6,7 +6,7 @@ breadcrumb: Chee Wee Kiang
 collection_name: meet-the-engineers
 ---
 
-![Chee Wee Kiang](/images/wee-kiang.jpeg)
+![Chee Wee Kiang](/images/190x238px-weekiang.jpg)
 
 <br>Chee Wee Kiang
 <br>Deputy Director (Automation & Robotics)
