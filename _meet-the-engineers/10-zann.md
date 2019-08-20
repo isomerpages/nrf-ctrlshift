@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Zann Tay
-permalink: /meet-the-engineers/zann/
+permalink: /meet-the-engineers/Zann Tay/
 breadcrumb: Zann Tay
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Zann.jpg" width="300" height="300">
+<img src="/images/Zann.jpg" alt="Zann Tay" style="width:222px;height:278px;">
 <br> Zann Tay
 <br> Civil Engineer
 <br> Urban Redevelopment Authority
