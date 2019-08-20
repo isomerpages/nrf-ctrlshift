@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Idaly Mamat
-permalink: /meet-the-engineers/idaly/
+permalink: /meet-the-engineers/Idaly Mamat/ 
 breadcrumb: Idaly Mamat
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Idaly Mamat.jpg" width="300" height="300">
+<img src="/images/Idaly Mamat.jpg" alt="Wee Kiang" style="width:222px;height:278px;">
 <br> Idaly Mamat
 <br> Principal Engineer
 <br> Public Utilities Board
