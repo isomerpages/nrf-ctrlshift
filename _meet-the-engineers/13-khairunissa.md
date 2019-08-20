@@ -1,12 +1,11 @@
 ---
 layout: leftnav-page-content
 title: Khairunnisa Binte Yahya
-permalink: /meet-the-engineers/khairunnisa/
+permalink: /meet-the-engineers/Khairunnisa Binte Yahya/
 breadcrumb: Khairunnisa Binte Yahya
 collection_name: meet-the-engineers
 ---
-
-<img src="/images/Khairunnisa.jpg" width="300" height="300">
+<img src="/images/Khairunnisa.jpg" alt="Wee Kiang" style="width:222px;height:278px;">
 <br> Khairunnisa Binte Yahya
 <br> Chemical Engineer
 <br> National Environment Agency
