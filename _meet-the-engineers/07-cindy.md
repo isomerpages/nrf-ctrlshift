@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Cindy Wang Xiaochen
-permalink: /meet-the-engineers/cindy/
+permalink: /meet-the-engineers/Cindy Wang Xiaochen/
 breadcrumb: Cindy Wang Xiaochen
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Cindy.jpg" width="300" height="300">
+<img src="/images/Cindy.jpg" alt="Cindy Wang Xiaochen" style="width:222px;height:278px;">
 <br> Cindy Wang Xiaochen
 <br> Senior Systems Analyst
 <br> Housing Development Board
