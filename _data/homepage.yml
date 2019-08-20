@@ -38,3 +38,5 @@ resources-title: Resources
 resources-subtitle: Be in the know
 resources-more-button: More Resources
 resources-more-button-url: resource-room/
+
+show-reach: true
