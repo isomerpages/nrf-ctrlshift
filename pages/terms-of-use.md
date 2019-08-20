@@ -6,9 +6,6 @@ breadcrumb: Terms of Use
 ---
 #### **Terms of Use**
 
-
-#### **Terms of Use**
-
 -   **Agreement - Terms**   
     All access of any area of [http://www.engineerwhatsnext.sg](http://www.engineerwhatsnext.sg/) ("The Website") is governed by the terms and conditions below ("Terms"). If you do not accept any of these Terms, exit immediately. Continue only if you accept these Terms. In these Terms, the words "we", "our" and "us" refers to the [Government of Singapore/the Public Service Division, Prime Minister’s Office].
     
