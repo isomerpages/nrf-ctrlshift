@@ -6,7 +6,7 @@ breadcrumb: Goh Chue Hsien
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Goh Chue Hsien.jpg" width="300" height="300">
+<img src="/images/Goh Chue Hsien.jpg" alt="Goh Chue Hsien" style="width:222px;height:278px;">
 <br> Goh Chue Hsien
 <br> Defence Engineer
 <br> Defence Science and Technology Agency
