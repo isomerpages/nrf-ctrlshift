@@ -35,17 +35,17 @@ breadcrumb: Terms of Use
     Apart from any fair dealings for the purposes of private study, research, criticism or review, as permitted in law, no part of The Website may be reproduced or reused for any commercial purposes whatsoever without our prior written permission.
     
     
--   **General Disclaimer And Limitation Of Liability**
-        We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in The Website, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses The Website.
+-   **General Disclaimer And Limitation Of Liability**<br>
+    We will not be liable for any loss or damage (i) that you may incur on account of using, visiting or relying on any statements, opinion, representation or information in The Website, (ii) resulting from any delay in operation or transmission, communications failure, Internet access difficulties or malfunctions in equipment or software, or (iii) the conduct or the views of any person who accesses or uses The Website.
     
     
--   **Fees**
-        [There are currently no fees for using any part of The Website.] We reserve the right to introduce new fees from time to time. We are not responsible for any fees charged by any other Internet site (not provided by us).
+-   **Fees**<br>
+    [There are currently no fees for using any part of The Website.] We reserve the right to introduce new fees from time to time. We are not responsible for any fees charged by any other Internet site (not provided by us).
     
     
--   **Applicable Laws**
-        Use of The Website and these Terms are governed by the laws of Singapore. Any claim relating to use of The Website shall be heard by Singapore Courts.
+-   **Applicable Laws**<br>
+    Use of The Website and these Terms are governed by the laws of Singapore. Any claim relating to use of The Website shall be heard by Singapore Courts.
     
     
--   **Variation**
-        We may revise these Terms at any time by updating this page. You should visit this page from time to time and review the then current Terms because they are binding on you. We may modify or discontinue any information or features that form part of The Website at any time, with or without notice to you, and without liability.
+-   **Variation**<br>
+    We may revise these Terms at any time by updating this page. You should visit this page from time to time and review the then current Terms because they are binding on you. We may modify or discontinue any information or features that form part of The Website at any time, with or without notice to you, and without liability.
