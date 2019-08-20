@@ -10,11 +10,10 @@ collection_name: meet-the-engineers
 <img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;">
 
 
-<p>
-Chee Wee Kiang
-Deputy Director (Automation & Robotics)
-Ministry of Home Affairs
-</p>
+Chee Wee Kiang<br>
+Deputy Director (Automation & Robotics)<br>
+Ministry of Home Affairs<br>
+
   
 ### What is the best part about engineering?
 As engineers, we use our knowledge and experience to make people’s lives better. This is perhaps the most fulfilling part of my job; to contribute the best of what I know to a project’s completion and seeing the value that I can help create for others.
