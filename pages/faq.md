@@ -25,10 +25,10 @@ Question 3:
 Where do I find out more about the PSC (Engineering) Scholarship?  
 
 Answer:
-For more information on the PSC Scholarship (Engineering), please visit the [PSC Scholarship]  (https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/public-service-commission-psc-scholarship-engineering-PSC) website . <br>
+For more information on the PSC Scholarship (Engineering), please visit the [PSC Scholarship](https://www.psc.gov.sg/Scholarships/public-sector-scholarships/browse-by-scholarship/public-service-commission-psc-scholarship-engineering-PSC)
 
 Question 4: 
 I would like to apply for engineering scholarships in the Singapore Government. Where can I apply for scholarships? 
 
 Answer:
-To apply for the PSC Scholarship (Engineering), please visit the [PSC Gateway] (https://www.psc.gov.sg) application portal . <br>
+To apply for the PSC Scholarship (Engineering), please visit the [PSC Gateway](https://www.psc.gov.sg) application portal . <br>
