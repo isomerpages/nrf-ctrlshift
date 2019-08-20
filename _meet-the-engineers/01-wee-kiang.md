@@ -9,6 +9,7 @@ collection_name: meet-the-engineers
 
 <img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
 
+<br>
 <br>Chee Wee Kiang
 <br>Deputy Director (Automation & Robotics)
 <br/>Ministry of Home Affairs
