@@ -7,7 +7,7 @@ collection_name: meet-the-engineers
 ---
 
 
-<img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;">
+<img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left'>
 
 
 Chee Wee Kiang<br>
