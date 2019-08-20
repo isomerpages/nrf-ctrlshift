@@ -14,9 +14,8 @@ collection_name: meet-the-engineers
 Chee Wee Kiang
 Deputy Director (Automation & Robotics)
 Ministry of Home Affairs
-<p>
+</p>
   
-<p>  
 ### What is the best part about engineering?
 As engineers, we use our knowledge and experience to make people’s lives better. This is perhaps the most fulfilling part of my job; to contribute the best of what I know to a project’s completion and seeing the value that I can help create for others.
 
@@ -32,5 +31,3 @@ I appreciate the vast array of opportunities offered by the Public Service for e
 
 ### Who will benefit from your project?
 The best part about engineering is seeing first-hand the innovation journey, where an idea gets conceived and developed into a prototype, and subsequently adopted for operational use. Nothing beats that sense of achievement when a difficult engineering problem is solved.
-
-</p>
