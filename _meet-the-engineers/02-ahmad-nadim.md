@@ -6,7 +6,7 @@ breadcrumb: Adhmad Nadim bin Zainal
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Nadim.jpg" alt="Nadim" style="width:222px;height:278px;">
+<img src="/images/Ahmad Nadim.jpg" alt="Ahmad Nadim" style="width:222px;height:278px;">
 <br> Ahmad Nadim bin Zainal
 <br> Electrical Engineer
 <br> Building Construction Authority
