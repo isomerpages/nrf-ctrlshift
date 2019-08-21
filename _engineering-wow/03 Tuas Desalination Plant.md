@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Tuas Desalination Plant
 permalink: /engineering-marvels/TDP/
-breadcrumb: CSECURING WATER TO MEET FUTURE WATER NEEDS
+breadcrumb: uas Desalination Plant
 collection_name: engineering-marvels
 ---
 
