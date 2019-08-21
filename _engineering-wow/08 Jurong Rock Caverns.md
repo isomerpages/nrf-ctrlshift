@@ -6,7 +6,7 @@ breadcrumb: Jurong Rock Caverns
 collection_name: engineering-wow
 ---
 
-<img src="/images/Jurong Rock Caverns.jpg" width="300" height="300">
+<img src="/images/Jurong Rock Caverns.jpg" alt="parents" style="width:500px;height:400px;">
 
 ### SINGAPORE’S SUBTERRANEAN WONDER
 
