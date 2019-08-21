@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Tuas Desalination Plant
-permalink: /engineering-wow/TDP/
+permalink: /engineering-marvels/TDP/
 breadcrumb: CSECURING WATER TO MEET FUTURE WATER NEEDS
-collection_name: engineering-wow
+collection_name: engineering-marvels
 ---
 
 <img src="/images/TDP.jpg" width="300" height="300">
