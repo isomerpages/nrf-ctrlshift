@@ -1,17 +1,14 @@
 ---
 layout: leftnav-page-content
 title: Punggol Digital District
-permalink: /engineering-wow/Punggol Digital District/
+permalink: /engineering-marvels/Punggol Digital District/
 breadcrumb: Punggol Digital District
-collection_name: engineering-wows
+collection_name: engineering-marvels
 ---
 
-<img src="/images/pungol.jpg" width="300" height="300">
-<img src="/images/pungol%20.jpg" alt="pungol" style="width:322px;height:378px;">
-<img src="/images/waste%20not.jpg" alt="Waste Not" style="width:322px;height:378px;">
+<img src="/images/pungol.jpg" alt="pungol" style="width:322px;height:378px;">
 
 ### A NEW WAY TO WORK, LEARN AND PLAY
-
 The first district in Singapore to adopt an integrated masterplan approach, PDD is a multi-agency collaboration project between Infocomm Media Development Authority, JTC, Singapore Institute of Technology and Urban Redevelopment Authority.
 #### FIRST-OF-ITS-KIND INTEGRATED MASTERPLANNING
 In contrast to existing business parks and large-scale districts where physical infrastructure, urban solutions and digital infrastructure are developed in silos, PDD will see the full integration of digital infrastructure from the ground up, in tandem with the physical planning and development of the District. The Open Digital Platform will integrate various smart city solutions such as facilities, building and estate management systems, district cooling system, pneumatic waste conveyancing system, autonomous goods delivery systems, access and security systems,carparks system, traffic lights system, and autonomous vehicles in PDD.
