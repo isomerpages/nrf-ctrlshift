@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Tuas Desalination Plant
-permalink: /engineering-marvels/TDP/
+permalink: /engineering-marvels/Tuas Desalination Plant/
 breadcrumb: Tuas Desalination Plant
 collection_name: engineering-marvels
 ---
