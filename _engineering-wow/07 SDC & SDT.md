@@ -1,13 +1,12 @@
 ---
 layout: leftnav-page-content
 title: KEEPING ORCHARD ROAD FLOOD-FREE
-permalink: /engineering-wow/SDC & SDT/
+permalink: /engineering-marvels/SDC & SDT/
 breadcrumb: KEEPING ORCHARD ROAD FLOOD-FREE
-collection_name: engineering-wow
+collection_name: engineering-marvels
 ---
 
-
-<img src="/images/flood free.jpg" width="300" height="300">
+<img src="/images/flood free.jpg" alt="flood free" style="width:500px;height:400px;">
 
 ### KEEPING ORCHARD ROAD FLOOD-FREE
 
