@@ -1,15 +1,15 @@
 ---
 layout: leftnav-page-content
-title: Digitalisation In The Built Environment
+title: Integrated Digital Delivery
 permalink: /engineering-wow/Integrated Digital Delivery/
-breadcrumb: Digitalisation In The Built Environment
+breadcrumb: Integrated Digital Delivery
 collection_name: engineering-wow
 ---
 
 
 <img src="/images/IDD.jpg" width="300" height="300">
 
-### IDD
+### Digitalisation In The Built Environment
 Integrated Digital Delivery (IDD) refers to the use of digital technologies throughout the four stages of the built environment life cycle – Design, Fabrication, Construction and Asset Delivery & Management. It builds upon Building Information Modeling (BIM) and Virtual Design and Construction (VDC) to better integrate work processes and stakeholders across the whole value chain.
 
 ### LOGISTICS HUB @ GUL CIRCLE
