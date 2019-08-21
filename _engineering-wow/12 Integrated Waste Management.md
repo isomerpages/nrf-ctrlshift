@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Integrated Waste Management
-permalink: /engineering-marvel/iwmf/
+permalink: /engineering-marvels/iwmf/
 breadcrumb: Integrated Waste Management
-collection_name: engineering-marvel
+collection_name: engineering-marvels
 ---
 
 <img src="/images/waste%20not.jpg" alt="Waste Not" style="width:322px;height:378px;">
