@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: SkyLab
-permalink: /engineering-wow/sky-labs/
+permalink: /engineering-marvel/sky-labs/
 breadcrumb: SkyLab
-collection_name: engineering-wow
+collection_name: engineering-marvel
 ---
 
-<img src="/images/skylab.jpg" width="300" height="300">
+<img src="/images/skylab.jpg" alt="skylab" style="width:500px;height:400px;">
 
 ## World's first high rise rotatable lab for the tropics
 
