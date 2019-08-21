@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Heron 1 UAV 
-permalink: /engineering-wow/Heron 1 UAV /
+permalink: /engineering-marvels/Heron 1 UAV /
 breadcrumb: Punggol Digital District
-collection_name: engineering-wow
+collection_name: engineering-marvels
 ---
 
 <img src="/images/Heron 1 UAV.jpg" alt="Heron 1 UAV" style="width:500px;height:400px;">
