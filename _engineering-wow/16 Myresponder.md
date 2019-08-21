@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
 title: Myresponder
-permalink: /engineering-wow/Myresponder/
+permalink: /engineering-marvels/Myresponder/
 breadcrumb: Myresponder
-collection_name: engineering-wow
+collection_name: engineering-marvels
 ---
 
-<img src="/images/Myresponder.jpg" width="300" height="300">
+<img src="/images/Myresponder.jpg" alt="Heron 1 UAV" style="width:500px;height:400px;">
 
 ### SAVING LIVES WITH A TOUCH
 
