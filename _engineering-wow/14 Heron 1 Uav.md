@@ -6,7 +6,7 @@ breadcrumb: Punggol Digital District
 collection_name: engineering-wow
 ---
 
-<img src="/images/Heron 1 UAV.jpg" width="300" height="300">
+<img src="/images/Heron 1 UAV.jpg" alt="Heron 1 UAV" style="width:500px;height:400px;">
 
 ### SOARING ABOVE THE REST
 To replace the Searcher-class unmanned aerial vehicle (UAV) that has been in service since 1994, the Republic of Singapore Air Force (RSAF) acquired the Heron 1 UAV, which features state-of-the-art avionics, detection capabilities and communications systems, as well as a fully automatic take-off and landing capability. Its longer flight endurance and better surveillance capabilities provide the Singapore Armed Forces with better situational awareness in the field and enhance mission effectiveness. DSTA managed the acquisition and integration of the UAV, delivering it to the RSAF at the inauguration ceremony in May 2012.
