@@ -1,15 +1,15 @@
 ---
 layout: leftnav-page-content
-title: CONNECTING PARENTS & SCHOOLS ANYTIME
+title: Parents Gateway
 permalink: /engineering-marvels/Parents Gateway/
-breadcrumb: CONNECTING PARENTS & SCHOOLS ANYTIME
+breadcrumb: Parents Gateway
 collection_name: engineering-marvels
 ---
 
 
 
 </br>
-<img src="/images/parents gateway.jpg" width="300" height="300">
+<img src="/images/parents gateway.jpg" alt="parents" style="width:322px;height:378px;">
 
 ### PARENTS GATEWAY
 
