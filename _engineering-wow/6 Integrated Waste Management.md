@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Ensuring that waste will not go to waste
+title: Integrated Waste Management
 permalink: /engineering-wow/iwmf/
-breadcrumb: Ensuring that waste will not go to waste
+breadcrumb: Integrated Waste Management
 collection_name: engineering-wow
 ---
 
