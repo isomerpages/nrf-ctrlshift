@@ -1,12 +1,13 @@
 ---
 layout: leftnav-page-content
 title: Marina Bay
-permalink: /engineering-wow/Marina Bay/
+permalink: /engineering-marvels/Marina Bay/
 breadcrumb: Marina Bay
-collection_name: engineering-wow
+collection_name: engineering-marvels
 ---
 
 <img src="/images/Marina Bay.jpeg" width="300" height="300">
+
 
 ### A SPARKLING JEWEL
 The planning vision for Marina Bay is to develop the area to provide prime office space for global business and financial 
