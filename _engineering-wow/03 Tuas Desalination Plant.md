@@ -1,6 +1,6 @@
 ---
 layout: leftnav-page-content
-title: SECURING WATER TO MEET FUTURE WATER NEEDS
+title: Tuas Desalination Plant
 permalink: /engineering-wow/TDP/
 breadcrumb: CSECURING WATER TO MEET FUTURE WATER NEEDS
 collection_name: engineering-wow
