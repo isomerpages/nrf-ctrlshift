@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: CONNECTING PARENTS & SCHOOLS ANYTIME
-permalink: /engineering-wow/Parents Gateway/
+permalink: /engineering-marvels/Parents Gateway/
 breadcrumb: CONNECTING PARENTS & SCHOOLS ANYTIME
-collection_name: engineering-wow
+collection_name: engineering-marvels
 ---
 
 
