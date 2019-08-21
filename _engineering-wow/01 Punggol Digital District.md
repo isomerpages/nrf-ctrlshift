@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Punggol Digital District
 permalink: /engineering-wow/Punggol Digital District/
 breadcrumb: Punggol Digital District
-collection_name: engineering-marvels
+collection_name: engineering-wows
 ---
 
 <img src="/images/pungol.jpg" width="300" height="300">
