@@ -1,12 +1,12 @@
 --
 layout: leftnav-page-content
 title: Smart Planning For Hdb Towns & Estates
-permalink: /engineering-wow/Smart Planning For Hdb Towns & Estates/
+permalink: /engineering-marvels/Smart Planning For Hdb Towns & Estates/
 breadcrumb: Smart Planning For Hdb Towns & Estates
-collection_name: engineering-wow
+collection_name: engineering-marvels
 ---
 
-<img src="/images/Smart Planning For Hdb Towns & Estates.jpg" alt="Planning For Hdb Towns & Estates" style="width:222px;height:278px;">
+<img src="/images/Smart Planning For Hdb Towns & Estates.jpg" alt="Smart Planning For Hdb Towns & Estates" style="width:500px;height:400px;">
 
 ### SMART PLANNING FOR HDB TOWNS & ESTATES
 For better estate planning, HDB employed modelling tools to simulate environmental conditions such as wind flow, sun and shade. 
