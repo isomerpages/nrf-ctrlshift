@@ -7,6 +7,8 @@ collection_name: engineering-wow
 ---
 
 <img src="/images/pungol.jpg" width="300" height="300">
+<img src="/images/pungol%20.jpg" alt="pungol" style="width:322px;height:378px;">
+<img src="/images/waste%20not.jpg" alt="Waste Not" style="width:322px;height:378px;">
 
 ### A NEW WAY TO WORK, LEARN AND PLAY
 
