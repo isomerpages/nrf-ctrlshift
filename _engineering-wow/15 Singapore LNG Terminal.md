@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Singapore LNG Terminal
-permalink: /engineering-wow/Singapore LNG Terminal/
+permalink: /engineering-marvel/Singapore LNG Terminal/
 breadcrumb: Singapore LNG Terminal
-collection_name: engineering-wow
+collection_name: engineering-marvel
 ---
 
 <img src="/images/LNGterm.jpg" alt="LNGterm" style="width:500px;height:400px;">
