@@ -6,7 +6,7 @@ breadcrumb: KEEPING ORCHARD ROAD FLOOD-FREE
 collection_name: engineering-marvels
 ---
 
-<img src="/images/flood free.jpg" alt="flood free" style="width:500px;height:400px;">
+<img src="/images/flood free.jpg" img algin= "left" alt="flood free" style="width:500px;height:400px;">
 
 ### KEEPING ORCHARD ROAD FLOOD-FREE
 
