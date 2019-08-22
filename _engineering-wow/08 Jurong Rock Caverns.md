@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: Jurong Rock Caverns
-permalink: /engineering-wow/Jurong Rock Caverns/
+permalink: /engineering-marvels/Jurong Rock Caverns/
 breadcrumb: Jurong Rock Caverns
-collection_name: engineering-wow
+collection_name: engineering-marvels
 ---
 
 <img src="/images/Jurong Rock Caverns.jpg" img align="left" alt="Jurong Rock Caverns" style="width:500px;height:400px;"> </br>
