@@ -6,7 +6,7 @@ breadcrumb: Tuas Desalination Plant
 collection_name: engineering-marvels
 ---
 
-<img src="/images/TDP.jpg" alt="TDP" style="width:500px;height:400px;">
+<img src="/images/TDP.jpg" alt="TDP"  img align="left" style="width:500px;height:400px;">
 
 ### SECURING WATER TO MEET FUTURE WATER NEEDS
 The Tuas Desalination Plant (TDP) is a strategic infrastructural asset that will boost Singapore’s desalination capacity.
