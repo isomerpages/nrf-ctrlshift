@@ -6,7 +6,7 @@ breadcrumb: Parents Gateway
 collection_name: engineering-marvels
 ---
 
-<img src="/images/parents gateway.jpg" alt="parents" img align="left" style="width:500px;height:400px;"> </br>
+<img src="/images/parents gateway.jpg" img align="left" alt="parents" style="width:500px;height:400px;"> </br>
 
 ## CONNECTING PARENTS & SCHOOLS ANYTIME
 
