@@ -8,7 +8,7 @@ collection_name: engineering-marvel
 
 <img src="/images/SkyLab.jpg" img align="left" alt="SkyLab" style="width:500px;height:400px;">
 
-### World's first high rise rotatable lab for the tropics
+### WORLD'S FIRST HIGH RISE ROTATABLE LAB FOR THE TROPICS
 
 BCA SkyLab is a state-of-the-art test-bed for energy-efficient technologies in facades, air-conditioning, lighting and controls. A rotatable outdoor facility atop a 7-storey building with a 360-degree movable platform, it rotates to ‘chase’ the sun or turn to the wind to harness the weather so as to bring about the best in green technology. It conducts tests under “real-world” conditions at any desired building orientation. The facility aims to test-bed technologies that will bring Singapore closer to constructing buildings that will produce more energy than they consume such as harnessing solar energy, reducing energy consumption by using more efficient air-conditioning or lighting systems.
 
