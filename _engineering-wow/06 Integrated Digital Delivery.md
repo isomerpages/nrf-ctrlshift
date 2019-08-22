@@ -6,15 +6,15 @@ breadcrumb: Integrated Digital Delivery
 collection_name: engineering-marvels
 ---
 
-<img src="/images/IDD.jpg" alt="IDD" style="width:500px;height:400px;">
+<img src="/images/IDD.jpg" img align="left" alt="IDD" style="width:500px;height:400px;">
 
 ### Digitalisation In The Built Environment
 Integrated Digital Delivery (IDD) refers to the use of digital technologies throughout the four stages of the built environment life cycle – Design, Fabrication, Construction and Asset Delivery & Management. It builds upon Building Information Modeling (BIM) and Virtual Design and Construction (VDC) to better integrate work processes and stakeholders across the whole value chain.
 
-### LOGISTICS HUB @ GUL CIRCLE
+#### LOGISTICS HUB @ GUL CIRCLE
 One such project that uses IDD is the JTC Logistics Hub @ Gul. Targeted to be completed in mid-2020, this will be Singapore’s first high-rise multi-tenant facility co-locating Inland Container Deports (ICDs), warehouses and a heavy vehicle park. The new integrated development is set to improve operational efficiency and productivity for logistics companies, thereby catalysing the growth and transformation of the logistics industry
 
-### SPEAR-HEADING DIGITALISATION EFFORTS
+#### SPEAR-HEADING DIGITALISATION EFFORTS
 Some of the digitalised processes that JTC has implemented are:
 
 ##### Defect Management System - 
