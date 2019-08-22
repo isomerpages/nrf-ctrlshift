@@ -1,9 +1,9 @@
 ---
 layout: leftnav-page-content
 title: SkyLab
-permalink: /engineering-marvel/sky-labs/
+permalink: /engineering-marvels/sky-labs/
 breadcrumb: SkyLab
-collection_name: engineering-marvel
+collection_name: engineering-marvels
 ---
 
 <img src="/images/SkyLab.jpg" img align="left" alt="SkyLab" style="width:500px;height:400px;">
