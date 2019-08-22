@@ -1,12 +1,13 @@
 ---
 layout: leftnav-page-content
-title: Littoral Mission Vessel.
+title: Littoral Mission Vessel
 permalink: /engineering-marvels/Littoral Mission Vessel/
 breadcrumb: Littoral Mission Vessel
 collection_name: engineering-marvels
 ---
 
-<img src="/images/Littoral Mission Vessel.jpg" alt="Littoral Mission Vessel" style="width:500px;height:400px;">
+<img src="/images/Littoral Mission Vessel.jpg" img align= "left" alt="Littoral Mission Vessel" style="width:500px;height:400px;"> <bf/>
+
 ### UNIQUELY SINGAPORE SHIP
 
 In January 2013, the Ministry of Defence signed a contract for the construction of eight littoral mission vessels (LMV) for the Republic of Singapore Navy (RSN). The Defence Science and Technology Agency (DSTA) is the overall programme manager and systems integrator for this “Uniquely Singapore” warship, which is designed locally to meet our country’s specific requirements.
