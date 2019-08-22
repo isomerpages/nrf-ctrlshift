@@ -30,6 +30,8 @@ The Singapore LNG Terminal is unique in many aspects of its design, for which it
 - The IES Prestigious Engineering Achievement Award for 2014
 - Process Safety Award 2013 by IChemE, Singapore
 
+<img src="/images/1000x706-1.jpg" img align="left" alt="1000x706-1" style="width:500px;height:400px;"> </br>
+
 The Terminal is designed with state-of-the-art equipment, controls and safety systems, and is built to Best Engineering standards. 
 It is currently capable of delivering up to 6 Mtpa of re-gasified LNG to the Singapore gas network. Three 180,000 m3 LNG storage 
 tanks of Full Containment type offer the safest way of storing large volumes of LNG. The LNG is pressurised and then vaporised 
@@ -50,3 +52,4 @@ A Power Management System (PMS) is implemented at the Terminal to further optimi
 The Terminal is designed with ease of future expansion in mind, and pre-investments have been made in equipment and infrastructure
 to achieve optimum economics in capacity expansion.
 
+<img src="/images/1000x706-2.jpg.jpg" img align="left" alt="1000x706-2" style="width:500px;height:400px;"> </br>
