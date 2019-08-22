@@ -8,7 +8,7 @@ collection_name: engineering-marvels
 
 <img src="/images/waste%20not.jpg" img align = "left" alt="Waste Not" style="width:322px;height:378px;"></br>
 
-### INTEGRATED WASTE MANAGEMENT FACILITY
+### WASTE NOT
 The Integrated Waste Management Facility (IWMF) is an iconic flagship project in the arena of solid waste treatment, with emphasis on high-efficiency green technologies and robust designs to help to meet Singapore’s future waste disposal needs. The land footprint will be optimised through the innovative use of design layouts as well as selection of land use efficient technologies. To harness the potential synergies of the water-energy-waste nexus and to achieve greater environment sustainability, the IWMF will be co-located with Public Utilities Board’s Tuas Water Reclamation Plant (TWRP) and is slated for completion in 2024.
 
 #### OPTIMISING LAND FOOTPRINT
