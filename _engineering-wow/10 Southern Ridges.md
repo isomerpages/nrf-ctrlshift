@@ -6,7 +6,7 @@ breadcrumb: Southern Ridges
 collection_name: engineering-marvels
 ---
 
-<img src="/images/Southern Ridges.jpg" img align "left" alt="Southern Ridges" style="width:500px;height:400px;">
+<img src="/images/Southern Ridges.jpg" alt="Southern Ridges" img align="left" style="width:500px;height:350px;"> </br>
 
 ### THE GREEN ESCAPE
 The Southern Ridges comprise a nine-kilometre chain of green and open spaces spanning the hills of Mount Faber Park, Telok Blangah
