@@ -14,6 +14,7 @@ The Tuas Desalination Plant (TDP) is a strategic infrastructural asset that will
 A compact plant occupying just 3.5 hectares – the size of three rugby fields, TDP can produce up to 30 million gallons of drinking water daily (MGD), equivalent to the water demand of about 200,000 households. Despite its size, Tuas Desalination Plant is the most space efficient desalination plant in the world. It is also the most technologically advanced, setting new industry benchmarks for its pre-treatment technology powered by clean energy.
 
 #### DESALINATION PLANT OF THE YEAR
+
 Named ‘Desalination Plant of the Year’ at the Global Water Awards in 2019, TDP recorded many important achievements in the international water industry. Improved operating performance, innovative technology adoption and sustainable financial models are some of these accomplishments. 
 
 TDP also scored many firsts. Besides being the first plant to be owned and operated by national water agency PUB, it is also the first desalination plant in Singapore to adopt a robust pre-treatment process that combines two existing filtration methods - dissolved air floatation and ultrafiltration. This helps to reduce membrane fouling when treating seawater of varying water quality, enhancing operational efficiency. 
