@@ -6,7 +6,7 @@ breadcrumb: Marina Bay
 collection_name: engineering-marvels
 ---
 
-<img src="/images/Marina Bay.jpeg" alt="Marina Bay" style="width:500px;height:400px;">
+<img src="/images/Marina Bay.jpeg" img align= "left" alt="Marina Bay" style="width:500px;height:400px;"> </br>
 
 ### A SPARKLING JEWEL
 The planning vision for Marina Bay is to develop the area to provide prime office space for global business and financial 
@@ -18,6 +18,9 @@ utilities to serve new developments. Given the prime location, it is important t
 and relate well to the context, planning and urban design intentions for the area.
 
 #### JUBILEE BRIDGE
+
+<img src="/images/jubilee-bridge_day.png" img align="left" alt="jubilee" style="width:500px;height:400px;"> </br>
+
 To minimise disruption to businesses and activities in the area, as well as vehicular and pedestrian traffic along the 
 Esplanade Bridge, construction of the Jubilee Bridge was carried out from the river. This presented the challenge of working 
 within a tight space constraint without firm ground underfoot. Pile caps were placed underneath the river bed to allow a wider
@@ -31,6 +34,9 @@ tonnes, rests mainly on the two-column support, of which its design was a challe
 element that holds the bridge, while still maintaining a simple and elegant design.
 
 #### THE HELIX
+
+<img src="/images/the-helix_1.png" img align="left" alt="helix" style="width:500px;height:400px;"> </br>
+
 The 280-metre pedestrian bridge – the longest in Singapore – incorporates a unique ‘double-helix’ structure, a world’s 
 first in architectural and engineering bridge design. It comprises two opposite spiralling steel members held together by 
 a series of connecting struts to form a tubular structure. The bridge uses a special duplex stainless steel, usually used only
@@ -38,6 +44,9 @@ in the chemical industry, for its ability to withstand corrosion and high tensil
 double helix bridge was an engineering feat that required great precision in the fabrication and assembly process.
 
 #### COMMON SERVICES TUNNEL
+
+<img src="/images/common-services-tunnel.png" img align="left" alt="tunnel" style="width:500px;height:400px;"> </br>
+
 The first of its kind in Southeast Asia, the Common Services Tunnel (CST) is a state-of-the-art infrastructure consisting
 of a network of underground tunnels. The CST houses all cabling and piping for electricity, water, power and telecommunications
 for distribution to all developments in Marina Bay.
