@@ -8,13 +8,13 @@ collection_name: engineering-marvels
 
 <img src="/images/Myresponder.jpg" img align= "left" alt="Myresponder" style="width:500px;height:400px;"> </br>
 
-### SAVING LIVES WITH A TOUCH
+## SAVING LIVES WITH A TOUCH
 
 A few seconds could make all the difference, and the quick touch of an app and response of people nearby could save a cardiac 
 arrest victim’s life. Singapore Civil Defence Force together with GovTech have made this a reality with myResponder
 , a free smartphone application designed for citizens to report and respond to cases of cardiac arrest.
 
-#### A LIFE-SAVING APP
+### A LIFE-SAVING APP
 The early application of bystander cardiopulmonary resuscitation (CPR) and public Automatic External Defibrillators (AEDs) 
 have proven to be the two most effective means of raising survival rates in public.
 
