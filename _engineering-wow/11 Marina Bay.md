@@ -8,7 +8,7 @@ collection_name: engineering-marvels
 
 <img src="/images/Marina Bay.jpeg" img align= "left" alt="Marina Bay" style="width:500px;height:400px;"> </br>
 
-### A SPARKLING JEWEL
+## A SPARKLING JEWEL
 The planning vision for Marina Bay is to develop the area to provide prime office space for global business and financial 
 institutions, complemented by a full range of residential, shopping, dining, cultural and entertainment activities.
 The Government has put in place key infrastructure and facilities to make Marina Bay accessible and attractive to the 
@@ -17,7 +17,7 @@ links to Marina Centre, as well as the extension of the Common Services Tunnel a
 utilities to serve new developments. Given the prime location, it is important that the infrastructure works are well-designed
 and relate well to the context, planning and urban design intentions for the area.
 
-#### JUBILEE BRIDGE
+### JUBILEE BRIDGE
 
 <img src="/images/jubilee-bridge_day.png" img align="left" alt="jubilee-bridge_day" style="width:500px;height:400px;"> </br>
 
@@ -33,7 +33,7 @@ installed within a specific tolerance of only 2.5 cm or half the length of a too
 tonnes, rests mainly on the two-column support, of which its design was a challenge in itself, being the key structural 
 element that holds the bridge, while still maintaining a simple and elegant design.
 
-#### THE HELIX
+### THE HELIX
 
 <img src="/images/the-helix_1.png" img align="left" alt="the-helix_1" style="width:500px;height:400px;"> </br>
 
@@ -43,7 +43,7 @@ a series of connecting struts to form a tubular structure. The bridge uses a spe
 in the chemical industry, for its ability to withstand corrosion and high tensile strength. The construction of the curved 
 double helix bridge was an engineering feat that required great precision in the fabrication and assembly process.
 
-#### COMMON SERVICES TUNNEL
+### COMMON SERVICES TUNNEL
 
 <img src="/images/common-services-tunnel.png" img align="left" alt="common-services-tunnel" style="width:500px;height:400px;"> </br>
 
