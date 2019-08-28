@@ -38,4 +38,5 @@ Software Developer/Engineer: Deliver citizen-centric services to improve Singapo
 Network Engineer: Build agile and responsive IT systems for our Smart Nation.
 
 UX Designer: Synthesise impactful user experience design and design thinking to innovate and solve problems that citizens face and to improve their lives. 
-FIND OUT MORE
+
+Find out more [here](https://www.tech.gov.sg/careers/overview/)!
