@@ -18,15 +18,15 @@ See how a new generation of engineers is shaping the future of Singapore.
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/ff5HMV0ZRLQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<br>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=HsgPvuf9kogh" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/HsgPvuf9kog" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-
+<br>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=bHMH4L8bGjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bHMH4L8bGjw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
-   
+<br>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=cCaEjiJQeX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cCaEjiJQeX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
