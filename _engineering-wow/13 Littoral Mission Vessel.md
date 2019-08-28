@@ -6,7 +6,7 @@ breadcrumb: Littoral Mission Vessel
 collection_name: engineering-marvels
 ---
 
-<img src="/images/Littoral Mission Vessel.jpg" img align= "left" alt="Littoral Mission Vessel" style="width:500px;height:400px;"> <bf/>
+<img src="/images/Littoral.jpg" img align= "left" alt="Littoral Mission Vessel" style="width:500px;height:400px;"> <bf/>
 
 ## UNIQUELY SINGAPORE SHIP
 
