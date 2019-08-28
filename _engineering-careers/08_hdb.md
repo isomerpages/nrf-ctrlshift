@@ -26,3 +26,4 @@ Throughout the years, HDB has been active in research and development work to pr
 With the wide range of opportunities available in HDB, play a part in redefining the future of public housing and improving the lives of Singaporeans. Have a hand in transforming blueprints into reality, using cutting-edge technologies and innovative solutions to plan and design the HDB Homes of Tomorrow. Be part of the team of talented individuals which shape the living environment of HDB estates and develop Smart HDB Towns that are more liveable, efficient, sustainable and safe for our residents.
 
 If you relish the opportunity to build the heartlands that matter to us, join us to make a difference.
+Find out more [here!](https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities)
