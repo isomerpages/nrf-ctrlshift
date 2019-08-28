@@ -6,7 +6,7 @@ breadcrumb: Marina Bay
 collection_name: engineering-marvels
 ---
 
-<img src="/images/Marina Bay.jpeg" img align= "left" alt="Marina Bay" style="width:500px;height:400px;"> </br>
+<img src="/images/Marina.jpeg" img align= "left" alt="Marina Bay" style="width:500px;height:400px;"> </br>
 
 ## A SPARKLING JEWEL
 The planning vision for Marina Bay is to develop the area to provide prime office space for global business and financial 
