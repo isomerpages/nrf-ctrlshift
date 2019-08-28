@@ -32,3 +32,5 @@ Project Manager
 ### HERE'S HOW YOU CAN ENGINEER WOW
 BCA constantly shapes the landscape to prepare for the future of Singapore, rally the built environment sector to achieve far-reaching goals that reach beyond today and improve the living environment for Singaporeans from all walks of life.
 Join us in our journey in transforming the way we BuildSG, together.
+
+Find out more [here](https://www.bca.gov.sg/Careers/careers.html)!
