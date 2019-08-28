@@ -19,7 +19,7 @@ and relate well to the context, planning and urban design intentions for the are
 
 ### JUBILEE BRIDGE
 
-<img src="/images/jubilee-bridge_day.png" img align="left" alt="jubilee-bridge_day" style="width:500px;height:400px;"> </br>
+<img src="/images/jubileebridgeday.png" img align="left" alt="jubilee-bridge_day" style="width:500px;height:400px;"> </br>
 
 To minimise disruption to businesses and activities in the area, as well as vehicular and pedestrian traffic along the 
 Esplanade Bridge, construction of the Jubilee Bridge was carried out from the river. This presented the challenge of working 
@@ -35,7 +35,7 @@ element that holds the bridge, while still maintaining a simple and elegant desi
 
 ### THE HELIX
 
-<img src="/images/the-helix_1.png" img align="left" alt="the-helix_1" style="width:500px;height:400px;"> </br>
+<img src="/images/helix.png" img align="left" alt="the-helix_1" style="width:500px;height:400px;"> </br>
 
 The 280-metre pedestrian bridge – the longest in Singapore – incorporates a unique ‘double-helix’ structure, a world’s 
 first in architectural and engineering bridge design. It comprises two opposite spiralling steel members held together by 
@@ -45,7 +45,7 @@ double helix bridge was an engineering feat that required great precision in the
 
 ### COMMON SERVICES TUNNEL
 
-<img src="/images/common-services-tunnel.png" img align="left" alt="common-services-tunnel" style="width:500px;height:400px;"> </br>
+<img src="/images/tunnel.png" img align="left" alt="common-services-tunnel" style="width:500px;height:400px;"> </br>
 
 The first of its kind in Southeast Asia, the Common Services Tunnel (CST) is a state-of-the-art infrastructure consisting
 of a network of underground tunnels. The CST houses all cabling and piping for electricity, water, power and telecommunications
