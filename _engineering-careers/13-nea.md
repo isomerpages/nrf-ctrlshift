@@ -25,3 +25,5 @@ We seek individuals who have the passion to make a difference to the environment
 - Pollution Control
 - Radiation Protection
 - Waste & Resource Management
+
+Find out more [here](https://www.nea.gov.sg/corporate-functions/who-we-are/careers/join-us)!
