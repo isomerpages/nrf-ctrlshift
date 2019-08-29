@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Punggol Digital District
-permalink: /engineering-marvels/Punggol Digital District/
+permalink: /engineering-marvels/Punggol-Digital-District/
 breadcrumb: Punggol Digital District
 collection_name: engineering-marvels
 ---
