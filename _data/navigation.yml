@@ -4,8 +4,6 @@
 #                                #
 ##################################
 
-- title: Engineers in Action
-  url: /engineers-in-action/
 
 - title: Meet the Engineers
   url: /meet-the-engineers/wee-kiang/
@@ -129,6 +127,10 @@
     url: /engineering-careers/pub/
   - title: URA
     url: /engineering-careers/ura/
+
+
+- title: Engineers in Action
+  url: /engineers-in-action/
 
 
 - title: Resource Room
