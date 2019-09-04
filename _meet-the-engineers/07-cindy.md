@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Cindy Wang Xiaochen
-permalink: /meet-the-engineers/Cindy Wang Xiaochen/
+permalink: /meet-the-engineers/Cindy-Wang-Xiaochen/
 breadcrumb: Cindy Wang Xiaochen
 collection_name: meet-the-engineers
 ---
