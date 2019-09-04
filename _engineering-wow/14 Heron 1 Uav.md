@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Heron 1 UAV 
-permalink: /engineering-marvels/Heron 1 UAV /
+permalink: /engineering-marvels/Heron-1-UAV /
 breadcrumb: Heron 1 UAV
 collection_name: engineering-marvels
 ---
