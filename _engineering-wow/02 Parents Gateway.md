@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Parents Gateway
-permalink: /engineering-marvels/Parents Gateway/
+permalink: /engineering-marvels/Parents-Gateway/
 breadcrumb: Parents Gateway
 collection_name: engineering-marvels
 ---
