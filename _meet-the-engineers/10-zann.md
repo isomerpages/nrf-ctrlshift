@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Zann Tay
-permalink: /meet-the-engineers/Zann Tay/
+permalink: /meet-the-engineers/Zann-Tay/
 breadcrumb: Zann Tay
 collection_name: meet-the-engineers
 ---
