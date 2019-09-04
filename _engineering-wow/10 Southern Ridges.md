@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Southern Ridges
-permalink: /engineering-marvels/Southern Ridges/
+permalink: /engineering-marvels/Southern-Ridges/
 breadcrumb: Southern Ridges
 collection_name: engineering-marvels
 ---
