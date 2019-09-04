@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Marina Bay
-permalink: /engineering-marvels/Marina Bay/
+permalink: /engineering-marvels/Marina-Bay/
 breadcrumb: Marina Bay
 collection_name: engineering-marvels
 ---
