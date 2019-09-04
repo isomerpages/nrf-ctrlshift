@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Chen Juncheng
-permalink: /meet-the-engineers/Chen Juncheng/
+permalink: /meet-the-engineers/Chen-Juncheng/
 breadcrumb: Chen Juncheng
 collection_name: meet-the-engineers
 ---
