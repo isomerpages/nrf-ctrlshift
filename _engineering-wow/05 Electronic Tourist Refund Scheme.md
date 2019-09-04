@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Electronic Tourist Refund Scheme
-permalink: /engineering-marvels/Electronic Tourist Refund Scheme/
+permalink: /engineering-marvels/Electronic-Tourist-Refund-Scheme/
 breadcrumb: Electronic Tourist Refund Scheme
 collection_name: engineering-marvels
 ---
