@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Idaly Mamat
-permalink: /meet-the-engineers/Idaly Mamat/ 
+permalink: /meet-the-engineers/Idaly-Mamat/ 
 breadcrumb: Idaly Mamat
 collection_name: meet-the-engineers
 ---
