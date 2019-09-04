@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Singapore LNG Terminal
-permalink: /engineering-marvels/Singapore LNG Terminal/
+permalink: /engineering-marvels/Singapore-LNG-Terminal/
 breadcrumb: Singapore LNG Terminal
 collection_name: engineering-marvels
 ---
