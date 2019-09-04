@@ -7,6 +7,7 @@ collection_name: meet-the-engineers
 ---
 
 <img src="/images/Cindy.jpg" alt="Cindy Wang Xiaochen" style="width:222px;height:278px;">
+<br clear="left">
 <br> Cindy Wang Xiaochen
 <br> Senior Systems Analyst
 <br> Housing Development Board
