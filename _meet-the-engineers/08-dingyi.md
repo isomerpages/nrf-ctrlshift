@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Hoon Ding Yi
-permalink: /meet-the-engineers/Hoon Ding Yi/
+permalink: /meet-the-engineers/Hoon-Ding-Yi/
 breadcrumb: Hoon Ding Yi
 collection_name: meet-the-engineers
 ---
