@@ -27,3 +27,4 @@ This digital and mobile-based safety reporting system enables real-time reportin
 Together with the Nanyang Technological University, JTC has developed an integrated digital logistics system that leverages BIM. Adopted in collaboration with Kimly Construction, this solution facilitates a seamless logistics process – from the prefabrication plant to construction site – while enabling greater precision during construction
 
 
+
