@@ -22,3 +22,4 @@ Tourists can now claim their GST refund using self-help kiosks located at airpor
 Designed with a single-platform to link up GST-registered retailers, Central Refund Agencies and the Central Refund Counter Operator, eTRS reduces tourists’ contact points at the airport and time spent on making a refund.
 
 From the point of purchase at GST-registered retailers, tourists’ purchase details in Singapore are transmitted to the Central Refund Agencies, before they are sent to IRAS’ eTRS Central Database. For independent retailers that are not affiliated with any Central Refund Agency, purchase details are transmitted directly to the eTRS Central Database
+
