@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: SkyLab
-permalink: /engineering-marvels/sky-labs/
+permalink: /engineering-marvels/SkyLab/
 breadcrumb: SkyLab
 collection_name: engineering-marvels
 ---
@@ -23,3 +23,4 @@ The SkyLab has several unique features:
 - Rotational capability that enables testing of technologies in any building orientation of interest thereby eliminating the need for multiple stationary labs facing different directions
 
 - “Real world” outdoor testbed that allows technologies to be tested under actual weather conditions.
+
