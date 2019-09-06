@@ -53,3 +53,4 @@ The Terminal is designed with ease of future expansion in mind, and pre-investme
 to achieve optimum economics in capacity expansion.
 
 <img src="/images/LNG3.jpg" img align="left" alt="LNG3" style="width:500px;height:400px;"> </br>
+
