@@ -21,3 +21,4 @@ Excavation works carried out at such depths present significant challenges, and 
 The team employed cutting-edge construction methods to build five nine-storey high caverns, 9 km of tunnels, as well as piping networks with supporting utilities. In the process, 3.5 million m3 of rocks were removed.
 
 The caverns are designed to be below the groundwater table, which is unprecedented in Singapore. They utilise the groundwater pressure to keep the oil stored safely within the caverns. Should the groundwater seep into the caverns, it will be pumped out automatically and be treated aboveground.
+
