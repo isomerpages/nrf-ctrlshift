@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Integrated Waste Management
-permalink: /engineering-marvels/iwmf/
+permalink: /engineering-marvels/The-Integrated-Waste-Management-Facility/
 breadcrumb: Integrated Waste Management
 collection_name: engineering-marvels
 ---
