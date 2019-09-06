@@ -31,3 +31,4 @@ to Forest Walk that comprises a step-free elevated walkway and trails through th
 The elevated walkway rises to between three to 18 m above ground in the hilly terrain, and expands into viewing decks at 
 selected locations to enable visitors to take in the scenic natural surroundings. On the other end of the bridge at
 Hyderabad Road is a Floral Walk that links to HortPark.
+
