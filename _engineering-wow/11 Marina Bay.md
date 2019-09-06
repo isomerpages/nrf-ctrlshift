@@ -70,3 +70,4 @@ for new services to be installed in response to future demands. It is big enough
 disruption caused by digging up carriageways and service verges. It also maximises the use of underground space, saving space
 at ground level – some 1.6 hectares, equivalent to two soccer fields, in Marina Bay alone.
 
+
