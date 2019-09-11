@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Integrated Digital Delivery
-permalink: /engineering-marvels/Integrated-Digital-Delivery/
+permalink: /engineering-marvels/idd/
 breadcrumb: Integrated Digital Delivery
 collection_name: engineering-marvels
 ---
