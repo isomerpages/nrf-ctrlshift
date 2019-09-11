@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Littoral Mission Vessel
-permalink: /engineering-marvels/Littoral-Mission-Vessel/
+permalink: /engineering-marvels/Littoral/
 breadcrumb: Littoral Mission Vessel
 collection_name: engineering-marvels
 ---
