@@ -43,7 +43,7 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 collections:
   meet-the-engineers:
     output: true
-  engineering-wow:
+  engineering-marvels:
     output: true
   types-of-engineering:
     output: true
