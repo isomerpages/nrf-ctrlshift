@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Flood-free Orchard Road
-permalink: /engineering-marvels/SDC-&-SDT/
+permalink: /engineering-marvels/sdc-sdt/
 breadcrumb: KEEPING ORCHARD ROAD FLOOD-FREE
 collection_name: engineering-marvels
 ---
