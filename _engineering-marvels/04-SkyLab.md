@@ -6,7 +6,7 @@ breadcrumb: SkyLab
 collection_name: engineering-marvels
 ---
 
-<img src="/images/SkyLab.jpg" img align="left" alt="SkyLab" style="width:500px;height:400px;"> </br>
+![SkyLab](/images/SkyLab.jpg)
 
 ## WORLD'S FIRST HIGH RISE ROTATABLE LAB FOR THE TROPICS
 
