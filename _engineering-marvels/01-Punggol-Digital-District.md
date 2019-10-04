@@ -6,8 +6,6 @@ breadcrumb: Punggol Digital District
 collection_name: engineering-marvels
 ---
 
-<img src="/images/Punggol.jpg " alt="Punggol" align="left" style="width:500px;height:350px;"> 
-
 ![Punggol](/images/Punggol.jpg)
 
 ## A NEW WAY TO WORK, LEARN AND PLAY
