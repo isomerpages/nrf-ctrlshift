@@ -19,7 +19,7 @@ and relate well to the context, planning and urban design intentions for the are
 
 ### JUBILEE BRIDGE
 
-![Jubilee](/images/Jubilee.png)
+![Jubilee](/images/Jubilee.jpg)
 
 To minimise disruption to businesses and activities in the area, as well as vehicular and pedestrian traffic along the 
 Esplanade Bridge, construction of the Jubilee Bridge was carried out from the river. This presented the challenge of working 
