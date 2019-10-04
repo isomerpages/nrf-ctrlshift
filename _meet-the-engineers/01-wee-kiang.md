@@ -10,7 +10,7 @@ collection_name: meet-the-engineers
 <tr>
 <td style="width: 150px;"><img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" /></td>
   
-<td valign="bottom"><strong>Chee Wee Kiang</strong><br />Deputy Director (Automation & Robotics)<br />Ministry of Home Affairs<br /></td>
+<td valign="bottom"><br><strong>Chee Wee Kiang</strong><br />Deputy Director (Automation & Robotics)<br />Ministry of Home Affairs<br /></td>
 </tr>
 </tbody>
 </table>
