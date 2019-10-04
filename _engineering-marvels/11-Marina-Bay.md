@@ -35,7 +35,7 @@ element that holds the bridge, while still maintaining a simple and elegant desi
 
 ### THE HELIX
 
-![helix](/images/helix.jpg)
+![helix](/images/helix.png)
 
 The 280-metre pedestrian bridge – the longest in Singapore – incorporates a unique ‘double-helix’ structure, a world’s 
 first in architectural and engineering bridge design. It comprises two opposite spiralling steel members held together by 
@@ -45,7 +45,7 @@ double helix bridge was an engineering feat that required great precision in the
 
 ### COMMON SERVICES TUNNEL
 
-![tunnel](/images/tunnel.jpg)
+![tunnel](/images/tunnel.png)
 
 The first of its kind in Southeast Asia, the Common Services Tunnel (CST) is a state-of-the-art infrastructure consisting
 of a network of underground tunnels. The CST houses all cabling and piping for electricity, water, power and telecommunications
