@@ -6,7 +6,7 @@ breadcrumb: Smart Planning For Hdb Towns & Estates
 collection_name: engineering-marvels
 ---
 
-![smartplan](/images/smartplan.jpg)
+![smartplan](/images/smartplan.jpeg)
 
 ## A MODEL ESTATE
 
