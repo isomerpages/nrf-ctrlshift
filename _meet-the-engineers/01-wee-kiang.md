@@ -5,15 +5,6 @@ permalink: /meet-the-engineers/wee-kiang/
 breadcrumb: Chee Wee Kiang
 collection_name: meet-the-engineers
 ---
-
-<img src="/images/" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
-
-<br clear="left">
-
-Chee Wee Kiang <br>
- <br>
- <br>
-
 <table style="width: 100%;" border="0" cellpadding="10">
 <tbody>
 <tr>
