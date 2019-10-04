@@ -34,3 +34,5 @@ BCA constantly shapes the landscape to prepare for the future of Singapore, rall
 Join us in our journey in transforming the way we BuildSG, together.
 
 Find out more [here](https://www.bca.gov.sg/Careers/careers.html)!
+
+Find out more <a href="https://www.bca.gov.sg/Careers/careers.html/" target="_blank">here!</a>
