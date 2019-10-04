@@ -16,6 +16,9 @@ hero-title: Engineer
 hero-subtitle: Be an engineer. Make it your next move.
 hero-banner: /images/MAIN-1920x720.jpg
 
+# Google analytics
+google-analytics: UA-73732262-1
+
 #Call to Action Button
 button:
   - text: Learn More
