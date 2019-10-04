@@ -6,7 +6,7 @@ breadcrumb: SkyLab
 collection_name: engineering-marvels
 ---
 
-![SkyLab](/images/SkyLab.jpg)
+![Skylab](/images/Skylab.jpg)
 
 ## WORLD'S FIRST HIGH RISE ROTATABLE LAB FOR THE TROPICS
 
