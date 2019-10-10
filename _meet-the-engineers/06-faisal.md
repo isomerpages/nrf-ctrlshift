@@ -6,8 +6,10 @@ breadcrumb: Faisal Ahmad
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Faisal.jpg" alt="Faisal Ahmad" style="width:222px;height:278px;">
-<br> Faisal Ahmad
+<img src="/images/Faisal.jpg" alt="Faisal Ahmad" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br>
+<strong>Faisal Ahmad</strong>
 <br> Senior Engineer
 <br> Public Utilities Board
 
