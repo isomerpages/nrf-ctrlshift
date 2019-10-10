@@ -6,8 +6,10 @@ breadcrumb: Chen Juncheng
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Juncheng.jpg" alt="Chen Juncheng" style="width:222px;height:278px;">
-<br> Chen Juncheng
+<img src="/images/Juncheng.jpg" alt="Chen Juncheng" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br>
+<strong>Chen Juncheng</strong>
 <br> Defence Engineer
 <br> Defence Science and Technology Agency
 
