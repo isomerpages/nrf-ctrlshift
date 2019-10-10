@@ -6,8 +6,10 @@ breadcrumb: Laura Lee
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Laura.png" alt="Laura Lee" style="width:222px;height:278px;">
-<br> Laura Lee
+<img src="/images/Laura.png" alt="Laura Lee" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br>
+<strong> Laura Lee</strong>
 <br> Data Science Engineer
 <br> Government Technology Agency
 
