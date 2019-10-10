@@ -6,9 +6,10 @@ breadcrumb: Cindy Wang Xiaochen
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Cindy.jpg" alt="Cindy Wang Xiaochen" style="width:222px;height:278px;">
+<img src="/images/Cindy.jpg" alt="Cindy Wang Xiaochen" style="width:222px;height:278px;" align="left">
 <br clear="left">
-<br> Cindy Wang Xiaochen
+<br> 
+<strong>Cindy Wang Xiaochen</strong>
 <br> Senior Systems Analyst
 <br> Housing Development Board
 
