@@ -6,8 +6,10 @@ breadcrumb: Farook Maideen
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Farook.jpg" alt="Farook Maideen" style="width:222px;height:278px;">
-<br> Farook Maideen
+<img src="/images/Farook.jpg" alt="Farook Maideen" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br>
+<strong>Farook Maideen</strong>
 <br> Senior Project Engineer
 <br> Land Transport Authority
 
