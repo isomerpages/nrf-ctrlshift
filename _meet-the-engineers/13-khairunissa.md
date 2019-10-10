@@ -5,8 +5,10 @@ permalink: /meet-the-engineers/Khairunnisa-Binte-Yahya/
 breadcrumb: Khairunnisa Binte Yahya
 collection_name: meet-the-engineers
 ---
-<img src="/images/Khairunnisa.jpg" alt="Wee Kiang" style="width:222px;height:278px;">
-<br> Khairunnisa Binte Yahya
+<img src="/images/Khairunnisa.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br>
+<strong>Khairunnisa Binte Yahya</strong>
 <br> Chemical Engineer
 <br> National Environment Agency
 
