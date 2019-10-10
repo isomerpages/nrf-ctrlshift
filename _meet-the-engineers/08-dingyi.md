@@ -6,8 +6,10 @@ breadcrumb: Hoon Ding Yi
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Hoon Ding Yi.jpg" alt="Hoon Ding Yi" style="width:222px;height:278px;">
-<br> Hoon Ding Yi
+<img src="/images/Hoon Ding Yi.jpg" alt="Hoon Ding Yi" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br> 
+<strong>Hoon Ding Yi</strong>
 <br> Software Engineer
 <br> Government Technology Agency
 
