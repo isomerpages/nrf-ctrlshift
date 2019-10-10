@@ -5,9 +5,10 @@ permalink: /meet-the-engineers/goh-chue-hsien/
 breadcrumb: Goh Chue Hsien
 collection_name: meet-the-engineers
 ---
-
-<img src="/images/Goh Chue Hsien.jpg" alt="Goh Chue Hsien" style="width:222px;height:278px;">
-<br> Goh Chue Hsien
+<img src="/images/Goh Chue Hsien.jpg" alt="Goh Chue Hsien" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br>
+<strong>Goh Chue Hsien</strong>
 <br> Defence Engineer
 <br> Defence Science and Technology Agency
 
