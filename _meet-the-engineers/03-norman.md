@@ -6,8 +6,10 @@ breadcrumb: Norman Tan
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Norman Tan.jpg" width="300" height="300">
-<br> Norman Tan
+<img src="/images/Norman Tan.jpg" alt="Norman Tan" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br>
+<strong> Norman Tan</strong>
 <br> Civil Engineer
 <br> Marine Port Authority
 

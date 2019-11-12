@@ -1,13 +1,15 @@
 ---
 layout: leftnav-page-content
 title: Faisal Ahmad
-permalink: /meet-the-engineers/faisal/
+permalink: /meet-the-engineers/Faisal Ahmad/
 breadcrumb: Faisal Ahmad
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Faisal.jpg" width="300" height="300">
-<br> Faisal Ahmad
+<img src="/images/Faisal.jpg" alt="Faisal Ahmad" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br>
+<strong>Faisal Ahmad</strong>
 <br> Senior Engineer
 <br> Public Utilities Board
 

@@ -5,35 +5,45 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-isomer.ico
+favicon: /images/favicon-ewnIcon.ico
 
 # Agency logo
 agency-logo: /images/logo.png
 
 # Hero Banner
-hero-title: Engineer what's next
+hero-title: Engineer 
+            What's Next.
 hero-subtitle: Be an engineer. Make it your next move.
-hero-banner: /images/hero-banner.png
+hero-banner: /images/Website-Banner.png
+
+# Google analytics
+google-analytics: UA-73732262-1
 
 #Call to Action Button
 button:
   - text: Learn More
-    url: /who-we-are/
+    url: /types-of-engineering/chemical/
     
 key-highlights:
   - title: Ideas 
     description: that become reality
-    url: /engineering-wow/iwmf/
-    external: false
+    url: /engineering-marvels/punggol-digital-district/
+ 
   - title: Engineers
     description: who transformed how we live
-    url: /meet-the-engineers/
-    external: false
+    url: /meet-the-engineers/wee-kiang/
+ 
   - title: Careers
     description: that make a difference
     url: /engineering-careers/bca/
 
-resources-title: Resources
-resources-subtitle: Be in the know
-resources-more-button: More Resources
-resources-more-button-url: resource-room/
+  - title: Resources
+    description: to find out more
+    url: /resource-room/
+
+#resources-title: Resources
+#resources-subtitle: Be in the know
+#resources-more-button: More Resources
+#resources-more-button-url: resource-room/
+
+show-reach: false

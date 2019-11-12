@@ -1,13 +1,15 @@
 ---
 layout: leftnav-page-content
 title: Farook Maideen
-permalink: /meet-the-engineers/farook/
+permalink: /meet-the-engineers/Farook-Maideen/
 breadcrumb: Farook Maideen
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Farook.jpg" width="300" height="300">
-<br> Farook Maideen
+<img src="/images/Farook.jpg" alt="Farook Maideen" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br>
+<strong>Farook Maideen</strong>
 <br> Senior Project Engineer
 <br> Land Transport Authority
 

@@ -27,3 +27,5 @@ You can be involved in many exciting projects including:
 - Growing Singapore into a global hydrohub
 
 Is water your calling? Join us in shaping the future with water. 
+
+Find out more [here](https://www.pub.gov.sg/careers)!

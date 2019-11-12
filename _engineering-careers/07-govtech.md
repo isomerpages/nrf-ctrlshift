@@ -16,15 +16,15 @@ Agile. Bold. Collaborative. We are growing in ways we may never have predicted. 
 
 ### ENGINEERS WE’D LIKE TO WORK WITH
 
-1.	Computer Engineering
-2.	Computer Networking Engineering
-3.	Computer Science
-4.	Data Science
-5.	Electrical & Electronic Engineering
-6.	Information Systems
-7.	Information Technology
-8.	IT Security
-9	Mechanical Engineering
+1. Computer Engineering
+2. Computer Networking Engineering
+3. Computer Science
+4. Data Science
+5. Electrical & Electronic Engineering
+6. Information Systems
+7. Information Technology
+8. IT Security
+9. Mechanical Engineering
 10.	UX Design
 
 ### HERE’S HOW YOU CAN ENGINEER WOW
@@ -38,4 +38,5 @@ Software Developer/Engineer: Deliver citizen-centric services to improve Singapo
 Network Engineer: Build agile and responsive IT systems for our Smart Nation.
 
 UX Designer: Synthesise impactful user experience design and design thinking to innovate and solve problems that citizens face and to improve their lives. 
-FIND OUT MORE
+
+Find out more [here](https://www.tech.gov.sg/careers/overview/)!

@@ -1,13 +1,15 @@
 ---
 layout: leftnav-page-content
 title: Chua Wee Liang
-permalink: /meet-the-engineers/weeliang/
+permalink: /meet-the-engineers/Chua-Wee-Liang/
 breadcrumb: Chua Wee Liang
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Wee Liang.jpg" width="300" height="300">
-<br> Chua Wee Liang
+<img src="/images/Wee Liang.jpg" alt="Wee Liang" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br>
+<strong>Chua Wee Liang</strong>
 <br> Senior Project Manager
 <br> JTC
 

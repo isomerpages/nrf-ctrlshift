@@ -1,13 +1,15 @@
 ---
 layout: leftnav-page-content
 title: Chen Juncheng
-permalink: /meet-the-engineers/juncheng/
+permalink: /meet-the-engineers/Chen-Juncheng/
 breadcrumb: Chen Juncheng
 collection_name: meet-the-engineers
 ---
 
-<img src="/images/Juncheng.jpg" width="300" height="300">
-<br> Chen Juncheng
+<img src="/images/Juncheng.jpg" alt="Chen Juncheng" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br>
+<strong>Chen Juncheng</strong>
 <br> Defence Engineer
 <br> Defence Science and Technology Agency
 

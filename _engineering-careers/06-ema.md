@@ -21,3 +21,5 @@ Energy powers our economy, lights up our city and connects us all. The Power Sec
 As a small city-state with no natural resources, Singapore has more than its fair share of energy challenges. Nevertheless, EMA is committed to bringing about reliable, sustainable and competitively priced energy to fuel our growth. Projects underway range from building a second LNG terminal to test-bedding micro-grids, to facilitating solar energy deployment. We also work closely alongside the private sector in developing a dynamic energy sector. Here, we have created the annual Singapore International Energy Week as a platform to bring together policymakers and industry decision-makers worldwide to debate and exchange best practices, ideas and strategies in the energy space.
 
 At EMA, you will play a key role in shaping Singapore's energy landscape. You will also be part of the Public Service committed to ensuring the security, reliability and adequacy of electricity supply to keep the lights on for Singapore. 
+
+Find out more [here](https://www.ema.gov.sg/Career_Seekers.aspx)!
