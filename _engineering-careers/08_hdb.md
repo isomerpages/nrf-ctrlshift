@@ -28,3 +28,4 @@ With the wide range of opportunities available in HDB, play a part in redefining
 If you relish the opportunity to build the heartlands that matter to us, join us to make a difference.
 
 Find out more [here](https://www.hdb.gov.sg/cs/infoweb/about-us/careers/career-opportunities)!
+Find out more <a href="https://career.dso.org.sg/career-openings/index.html" target="_blank">here!</a>
