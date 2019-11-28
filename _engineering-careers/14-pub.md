@@ -28,5 +28,4 @@ You can be involved in many exciting projects including:
 
 Is water your calling? Join us in shaping the future with water. 
 
-Find out more [here](https://www.pub.gov.sg/careers)!
-Find out more <a href="https://career.dso.org.sg/career-openings/index.html" target="_blank">here!</a>
+Find out more <a href="https://www.pub.gov.sg/careers" target="_blank">here!</a>
