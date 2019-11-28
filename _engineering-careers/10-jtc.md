@@ -32,3 +32,4 @@ JTC is creating tomorrow’s industry spaces. Our work exemplifies the vital rol
 At JTC, there are many opportunities for you to learn, grow, and contribute. We believe in investing in your development through programmes and initiatives such as a structured development pathway, sponsorship for further studies, training as well as job rotation opportunities. Join us to create tomorrow’s industry spaces and play a part in shaping Singapore’s industrial landscape!
 
 Find out more [here](https://www.jtc.gov.sg/careers/Pages/default.aspx)!
+Find out more <a href="https://career.dso.org.sg/career-openings/index.html" target="_blank">here!</a>
