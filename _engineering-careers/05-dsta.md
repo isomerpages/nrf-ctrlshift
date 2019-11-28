@@ -50,4 +50,5 @@ At DSTA, we manage a multi-disciplinary and multi-industry portfolio where you c
 - Cybersecurity
 - National Security
 
-Find out more [here](https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers/)!
+Find out more <a href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers" target="_blank">here!</a>
+
