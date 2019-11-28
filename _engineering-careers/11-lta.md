@@ -25,3 +25,4 @@ As one of the largest developers in Singapore, LTA employs state-of-the-art tech
 Your focus lies in the intricate architectural and technical design details of our MRT stations and tunnels, roads and road viaducts, and other civil structures. Catering to the diverse needs of the commuters, you will also help ensure that commuter facilities are integrated with transport hubs and other developments to provide a seamless journey for all commuters. 
 
 Find out more [here](https://www.lta.gov.sg/content/ltaweb/en/careers.html)!
+Find out more <a href="https://career.dso.org.sg/career-openings/index.html" target="_blank">here!</a>
