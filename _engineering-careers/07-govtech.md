@@ -39,5 +39,4 @@ Network Engineer: Build agile and responsive IT systems for our Smart Nation.
 
 UX Designer: Synthesise impactful user experience design and design thinking to innovate and solve problems that citizens face and to improve their lives. 
 
-Find out more [here](https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl)!
-Find out more <a href="https://career.dso.org.sg/career-openings/index.html" target="_blank">here!</a>
+Find out more <a href="https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl" target="_blank">here!</a>
