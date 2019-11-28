@@ -30,5 +30,4 @@ As a military engineer, you will take on a diverse range of challenging appointm
 ### Air Force
 • Air Force Engineer - Specialise in engineering fields of Aeronautics, Aircraft Propulsion and Avionics to lead a team of professionals to ensure the operational readiness of the RSAF’s aircraft and weapon systems.
 
-Find out more [here](https://www.mindef.gov.sg/oms/scholarship/)!
-Find out more <a href="https://career.dso.org.sg/career-openings/index.html" target="_blank">here!</a>
+Find out more <a href="https://www.mindef.gov.sg/oms/scholarship" target="_blank">here!</a>
