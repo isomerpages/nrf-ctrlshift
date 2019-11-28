@@ -33,4 +33,5 @@ Technology – Drive national cyber security capability development and programm
 
 Strategy and Policy Development – Formulate and communicate strategies, policies and programmes to meet new challenges and opportunities presented by the evolving cyber environment.
 
-Find out more [here](https://www.csa.gov.sg/careers/job-opportunities)!
+Find out more <a href="https://www.csa.gov.sg/careers/job-opportunities" target="_blank">here!</a>
+
