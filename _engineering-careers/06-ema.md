@@ -22,4 +22,5 @@ As a small city-state with no natural resources, Singapore has more than its fai
 
 At EMA, you will play a key role in shaping Singapore's energy landscape. You will also be part of the Public Service committed to ensuring the security, reliability and adequacy of electricity supply to keep the lights on for Singapore. 
 
-Find out more [here](https://www.ema.gov.sg/Career_Seekers.aspx)!
+Find out more <a href="https://www.ema.gov.sg/Career_Seekers.aspx" target="_blank">here!</a>
+
