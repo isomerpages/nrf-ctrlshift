@@ -23,5 +23,4 @@ At IRAS, we are working to create a future-forward tax system for Singapore. As 
 
 As an Infocomm Specialist at IRAS, you can create and build digital solutions with new technologies and architectures – think Microservices, Cloud computing, DevOps, Agile and many more. With exposure to big data platforms, you will unleash your technical expertise to create innovative digital enterprise solutions. 
 
-Find out more [here](https://www.iras.gov.sg/irashome/Careers/Work-At-IRAS/Job-Opportunities/)!
-Find out more <a href="https://career.dso.org.sg/career-openings/index.html" target="_blank">here!</a>
+Find out more <a href="https://www.iras.gov.sg/irashome/Careers/Work-At-IRAS/Job-Opportunities/="blank">here!</a>
