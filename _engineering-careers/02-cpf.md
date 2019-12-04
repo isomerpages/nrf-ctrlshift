@@ -6,7 +6,7 @@ breadcrumb: CPF
 collection_name: engineering-careers
 ---
 
-<img src="/images/logo_bca.png" alt="bca" style="width:393px;height:110px;" align="left">
+<img src="/images/cpf.jpg" alt="cpf" style="width:393px;height:110px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
