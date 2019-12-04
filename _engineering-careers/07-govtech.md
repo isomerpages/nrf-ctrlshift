@@ -6,6 +6,9 @@ breadcrumb: GovTech
 collection_name: engineering-careers
 ---
 
+<img src="/images/govtech.gif" alt="govtech" style="width:300px;height:268px;" align="left">
+<br clear="left">
+
 ### A BIT ABOUT US
 
 We are the lead technology agency driving Singapore’s Smart Nation initiative and public sector digital transformation. We use technology to improve lives of everyday Singaporeans – tackling real-world problems of transport, housing, security, healthcare, and the environment. We are excited about building the Government Tech Stack, and developing meaningful products, platforms and solutions for the public good.
