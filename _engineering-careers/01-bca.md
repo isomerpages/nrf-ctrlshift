@@ -6,6 +6,10 @@ breadcrumb: BCA
 collection_name: engineering-careers
 ---
 
+<img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
+<br clear="left">
+
+
 ### A BIT ABOUT US
 An agency under the Ministry of National Development, BCA champions the development of a future-ready built environment that is safe, high quality, sustainable and friendly. “Built environment” refers to buildings, and infrastructure in our surroundings that provide the setting for the community’s activities. 
 
