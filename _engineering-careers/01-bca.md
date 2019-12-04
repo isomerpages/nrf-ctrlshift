@@ -6,7 +6,7 @@ breadcrumb: BCA
 collection_name: engineering-careers
 ---
 
-<img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
+<img src="/images/bca.jpg" alt="bca" style="width:222px;height:278px;" align="left">
 <br clear="left">
 
 
