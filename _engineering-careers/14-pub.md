@@ -6,7 +6,7 @@ breadcrumb: PUB
 collection_name: engineering-careers
 ---
 
-<img src="/images/pub2.jpg" alt="pub" style="width:393px;height:110px;" align="left">
+<img src="/images/pub2.jpg" alt="pub" style="width:174px;height:83px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
