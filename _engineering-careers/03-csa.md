@@ -6,6 +6,10 @@ breadcrumb: CSA
 collection_name: engineering-careers
 ---
 
+
+<img src="/images/csa.jpg" alt="csa" style="width:393px;height:110px;" align="left">
+<br clear="left">
+
 ### A BIT ABOUT US
 
 The Cyber Security Agency of Singapore (CSA) is the national body overseeing cyber security strategy, operation, education and outreach, technology and industry development for our nation's critical information infrastructures. CSA provides dedicated and centralised oversight of Singapore's national cyber security functions, and focuses on engagement and partnership to ensure the holistic development of Singapore's cyber security landscape. It is managed by the Ministry of Communications and Information and reports to the Prime Minister's Office.
