@@ -7,7 +7,7 @@ collection_name: engineering-careers
 ---
 
 
-<img src="/images/dso.ipg" alt="bca" style="width:393px;height:110px;" align="left">
+<img src="/images/dso.ipg" alt="dso" style="width:393px;height:110px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
