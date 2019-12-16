@@ -6,7 +6,7 @@ breadcrumb: NEA
 collection_name: engineering-careers
 ---
 
-<img src="/images/nea.jpg" alt="nea" style="width:393px;height:110px;" align="left">
+<img src="/images/nea.png" alt="nea" style="width:393px;height:110px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
