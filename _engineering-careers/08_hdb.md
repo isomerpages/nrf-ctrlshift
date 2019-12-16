@@ -6,6 +6,9 @@ breadcrumb: HDB
 collection_name: engineering-careers
 ---
 
+<img src="/images/dso.jpg" alt="dso" style="width:393px;height:110px;" align="left">
+<br clear="left">
+
 ### A BIT ABOUT US
 HDB is Singapore's public housing authority and a statutory board under the Ministry of National Development. It takes pride in creating well-designed, sustainable, and community-centric homes and towns to deliver quality living for all.
 
