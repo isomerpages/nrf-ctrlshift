@@ -6,7 +6,7 @@ breadcrumb: HDB
 collection_name: engineering-careers
 ---
 
-<img src="/images/hdb.png" alt="hdb" style="width:393px;height:110px;" align="left">
+<img src="/images/hdb.png" alt="hdb" style="width:150px;height:110px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
