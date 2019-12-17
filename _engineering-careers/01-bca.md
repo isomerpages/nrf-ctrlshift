@@ -6,7 +6,7 @@ breadcrumb: BCA
 collection_name: engineering-careers
 ---
 
-<img src="/images/logo_bca.png" alt="bca" style="width:393px;height:110px;" align="left">
+<img src="/images/bca.jpg" alt="bca" style="width:393px;height:110px;" align="left">
 <br clear="left">
 
 
