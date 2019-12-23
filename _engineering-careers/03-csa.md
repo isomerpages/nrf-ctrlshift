@@ -7,7 +7,7 @@ collection_name: engineering-careers
 ---
 
 
-<img src="/images/csa.jpg" alt="csa" style="width:184px;height:93px;" align="left">
+<img src="/images/csa.jpg" alt="csa" style="width:274px;height:193px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
