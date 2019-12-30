@@ -9,8 +9,8 @@ collection_name: meet-the-engineers
 <br clear="left">
 <br>
 <strong>Chee Wee Kiang</strong>
-<br> Deputy Director (Automation & Robotics)
-<br> Ministry of Home Affairs
+<br> Director, Robotics, Automation and Unmanned Systems Centre of Expertise
+<br> Home Team Science & Technology Agency (HTX)
 
 ### What is the best part about engineering?
 As engineers, we use our knowledge and experience to make people’s lives better. This is perhaps the most fulfilling part of my job; to contribute the best of what I know to a project’s completion and seeing the value that I can help create for others.
