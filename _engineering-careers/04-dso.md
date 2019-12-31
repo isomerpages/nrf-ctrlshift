@@ -7,7 +7,7 @@ collection_name: engineering-careers
 ---
 
 
-<img src="/images/dso.jpg" alt="dso" style="width:393px;height:110px;" align="left">
+<img src="/images/dso.jpg" alt="dso" style="width:300px;height:180px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
