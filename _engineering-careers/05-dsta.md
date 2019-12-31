@@ -6,7 +6,7 @@ breadcrumb: DSTA
 collection_name: engineering-careers
 ---
 
-<img src="/images/dsta.png" alt="dsta" style="width:340px;height:110px;" align="left">
+<img src="/images/dsta.png" alt="dsta" style="width:320px;height:110px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
