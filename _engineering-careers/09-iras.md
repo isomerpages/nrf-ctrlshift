@@ -6,7 +6,7 @@ breadcrumb: IRAS
 collection_name: engineering-careers
 ---
 
-<img src="/images/Iras.png" alt="Iras" style="width:393px;height:110px;" align="left">
+<img src="/images/Iras.png" alt="Iras" style="width:300px;height:300px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
