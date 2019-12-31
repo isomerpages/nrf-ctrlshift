@@ -6,7 +6,7 @@ breadcrumb: JTC
 collection_name: engineering-careers
 ---
 
-<img src="/images/jtc.png" alt="jtc" style="width:200px;height:200px;" align="left">
+<img src="/images/jtc.png" alt="jtc" style="width:300px;height:300px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
