@@ -1,14 +1,14 @@
 ---
 layout: leftnav-page-content
-title: Chee Wee Kiang
+title: Cheng Wee Kiang
 permalink: /meet-the-engineers/wee-kiang/
-breadcrumb: Chee Wee Kiang
+breadcrumb: Cheng Wee Kiang
 collection_name: meet-the-engineers
 ---
 <img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
-<strong>Chee Wee Kiang</strong>
+<strong>Cheng Wee Kiang</strong>
 <br> Director, Robotics, Automation and Unmanned Systems Centre of Expertise
 <br> Home Team Science & Technology Agency (HTX)
 
