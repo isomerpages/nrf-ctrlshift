@@ -6,8 +6,6 @@ breadcrumb: Materials
 collection_name: types-of-engineering
 ---
 
-### HOW WILL YOU ENGINEER WOW?
-
 Materials Engineers know deeply about the basic structure and properties of materials, and understand how different materials can be processed and modified to make the products of modern technology more durable, faster, lighter and better suited to human needs.
 
 ### HERE’S WHAT TO EXPECT
