@@ -6,6 +6,9 @@ breadcrumb: NEA
 collection_name: engineering-careers
 ---
 
+<img src="/images/nea.png" alt="nea" style="width:393px;height:110px;" align="left">
+<br clear="left">
+
 ### A BIT ABOUT US
 Being the leading public organisation responsible for improving and sustaining a clean and green environment, NEA is committed to motivating every individual to take up environmental ownership and care for the environment as a way of life. In our efforts to ensure sustainable development and a quality living environment for present and future generations, we are responsible for developing and spearheading environmental initiatives and programmes through partnerships with the People, Public and Private sectors.
 
@@ -26,4 +29,4 @@ We seek individuals who have the passion to make a difference to the environment
 - Radiation Protection
 - Waste & Resource Management
 
-Find out more [here](https://www.nea.gov.sg/corporate-functions/who-we-are/careers/job-opportunities)!
+Find out more <a href="https://www.nea.gov.sg/corporate-functions/who-we-are/careers/job-opportunities" target="_blank">here!</a>

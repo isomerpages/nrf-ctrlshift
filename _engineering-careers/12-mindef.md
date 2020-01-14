@@ -6,6 +6,9 @@ breadcrumb: MINDEF
 collection_name: engineering-careers
 ---
 
+<img src="/images/mindef.png" alt="mindef" style="width:300px;height:300px;" align="left">
+<br clear="left">
+
 ### A BIT ABOUT US
 The Singapore Armed Forces (SAF) is a strong, professional armed force whose mission is to enhance Singapore’s national security through deterrence and diplomacy. Since its inception in the 1960s, the SAF has evolved to a modern, networked Army, Navy and Air Force that is capable of combatting a wide spectrum of threats such as terrorism and piracy. The SAF continues to transform itself into an integrated fighting system with leading-edge capabilities to meet Singapore’s changing security needs.
 
@@ -30,4 +33,4 @@ As a military engineer, you will take on a diverse range of challenging appointm
 ### Air Force
 • Air Force Engineer - Specialise in engineering fields of Aeronautics, Aircraft Propulsion and Avionics to lead a team of professionals to ensure the operational readiness of the RSAF’s aircraft and weapon systems.
 
-Find out more [here](https://www.mindef.gov.sg/oms/scholarship/)!
+Find out more <a href="https://www.mindef.gov.sg/oms/scholarship" target="_blank">here!</a>

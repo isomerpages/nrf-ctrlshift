@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Myresponder
+title: MyResponder
 permalink: /engineering-marvels/Myresponder/
-breadcrumb: Myresponder
+breadcrumb: MyResponder
 collection_name: engineering-marvels
 ---
 

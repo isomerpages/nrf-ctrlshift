@@ -6,6 +6,9 @@ breadcrumb: EMA
 collection_name: engineering-careers
 ---
 
+<img src="/images/ema.jpg" alt="ema" style="width:300px;height:174px;" align="left">
+<br clear="left">
+
 ### A BIT ABOUT US
 As a statutory board under the Ministry of Trade and Industry, our main goals are to ensure a reliable and secure energy supply, promote effective competition in the energy market and develop a dynamic energy sector in Singapore. Through our work, EMA seeks to forge a progressive energy landscape for sustained growth.
 
@@ -22,4 +25,5 @@ As a small city-state with no natural resources, Singapore has more than its fai
 
 At EMA, you will play a key role in shaping Singapore's energy landscape. You will also be part of the Public Service committed to ensuring the security, reliability and adequacy of electricity supply to keep the lights on for Singapore. 
 
-Find out more [here](https://www.ema.gov.sg/Career_Seekers.aspx)!
+Find out more <a href="https://www.ema.gov.sg/Career_Seekers.aspx" target="_blank">here!</a>
+

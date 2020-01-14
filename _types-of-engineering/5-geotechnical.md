@@ -6,8 +6,6 @@ breadcrumb: Geotechnical
 collection_name: types-of-engineering
 ---
 
-### HOW WILL YOU ENGINEER WOW?
-
 Saying the work of a Geotechnical Engineer requires in-depth expertise isn’t an overstatement. It takes you deep underground and into the earth. You will deal with infrastructural works such as tunnels, land reclamations, deep basement excavations, underground storage space, pile foundations, ground improvement, geosynthetics and other related works such as earth retaining structures and slope stabilisation.
 
 ### HERE’S WHAT TO EXPECT

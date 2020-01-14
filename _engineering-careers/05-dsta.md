@@ -6,6 +6,9 @@ breadcrumb: DSTA
 collection_name: engineering-careers
 ---
 
+<img src="/images/dsta.png" alt="dsta" style="width:290px;height:110px;" align="left">
+<br clear="left">
+
 ### A BIT ABOUT US
 
 DSTA develops and implements defence architectures, infrastructures and master plans, and acquires defence equipment and supplies. We also provide command and control, and cybersecurity solutions, as well as systems management services to the Ministry of Defence (MINDEF).
@@ -50,4 +53,5 @@ At DSTA, we manage a multi-disciplinary and multi-industry portfolio where you c
 - Cybersecurity
 - National Security
 
-Find out more [here](https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers/)!
+Find out more <a href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers" target="_blank">here!</a>
+

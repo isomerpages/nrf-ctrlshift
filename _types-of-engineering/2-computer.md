@@ -6,8 +6,6 @@ breadcrumb: Computer
 collection_name: types-of-engineering
 ---
 
-### HOW WILL YOU ENGINEER WOW?
-
 Developing and improving both the software programmes and hardware that make computers run are primarily what a Computer Engineer does. You may choose between two areas of specialisation: software or hardware. Software Engineers transform hardware into fully functional computers with operating system software and computer programmes. Hardware Engineers develop the hardware of computers, including the motherboards, graphics and audio cards and drives that are later programmed by Software Engineers.
 
 ### HERE’S WHAT TO EXPECT

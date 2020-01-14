@@ -1,10 +1,13 @@
 ---
 layout: leftnav-page-content
-title: Govtech
+title: GovTech
 permalink: /engineering-careers/govtech/
-breadcrumb: Govtech
+breadcrumb: GovTech
 collection_name: engineering-careers
 ---
+
+<img src="/images/govtech.gif" alt="govtech" style="width:300px;height:268px;" align="left">
+<br clear="left">
 
 ### A BIT ABOUT US
 
@@ -39,4 +42,4 @@ Network Engineer: Build agile and responsive IT systems for our Smart Nation.
 
 UX Designer: Synthesise impactful user experience design and design thinking to innovate and solve problems that citizens face and to improve their lives. 
 
-Find out more [here](https://www.tech.gov.sg/careers/overview/)!
+Find out more <a href="https://govtech.taleo.net/careersection/govtech_external/jobsearch.ftl" target="_blank">here!</a>

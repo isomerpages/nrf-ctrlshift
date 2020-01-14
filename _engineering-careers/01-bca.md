@@ -6,6 +6,10 @@ breadcrumb: BCA
 collection_name: engineering-careers
 ---
 
+<img src="/images/bca.jpg" alt="bca" style="width:393px;height:110px;" align="left">
+<br clear="left">
+
+
 ### A BIT ABOUT US
 An agency under the Ministry of National Development, BCA champions the development of a future-ready built environment that is safe, high quality, sustainable and friendly. “Built environment” refers to buildings, and infrastructure in our surroundings that provide the setting for the community’s activities. 
 
@@ -19,7 +23,6 @@ As a technical authority, it is essential for BCA to acquire and develop enginee
 6.	Productivity & Quality
 
 ### ENGINEERS WE’D LIKE TO WORK WITH
-Engineer
 - Civil
 - Structural
 - Mechanical
@@ -27,7 +30,7 @@ Engineer
 - Environmental
 - Geological / Geotechnical
 - Coastal
-Project Manager
+- Project Manager
 
 ### HERE'S HOW YOU CAN ENGINEER WOW
 BCA constantly shapes the landscape to prepare for the future of Singapore, rally the built environment sector to achieve far-reaching goals that reach beyond today and improve the living environment for Singaporeans from all walks of life.
