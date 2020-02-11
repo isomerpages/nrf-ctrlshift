@@ -30,3 +30,6 @@ See how a new generation of engineers is shaping the future of Singapore.
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cCaEjiJQeX8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
+<br>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://youtu.be/wXiouZalD68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>      
