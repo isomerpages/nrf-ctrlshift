@@ -50,3 +50,4 @@ collections:
   engineering-careers:
     output: true
 resources_name: resource-room
+google_analytics: UA-73732262-1
