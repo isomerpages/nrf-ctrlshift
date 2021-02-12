@@ -22,7 +22,7 @@ google-analytics: UA-73732262-1
 #Call to Action Button
 button:
   - text: Learn More
-    url: www.google.com
+    url: http://www.google.com
     
 key-highlights:
   - title: Ideas 
