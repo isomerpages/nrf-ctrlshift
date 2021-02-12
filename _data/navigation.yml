@@ -78,7 +78,7 @@
     
     
 - title: Discover whats next
-  url: http:/www.google.com
+  url: https://d37qgc044xwwp2.cloudfront.net/
     
 
 - title: Engineering Careers
@@ -116,8 +116,8 @@
     url: /engineering-careers/ura/
 
 
-- title: Engineers in Action
-  url: /engineers-in-action/
+- title: Signup for VCF
+  url: https://go.gov.sg/ste-vcf
 
 
 #- title: Resource Room
