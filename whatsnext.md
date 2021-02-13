@@ -2,7 +2,7 @@
 layout: simple-page
 permalink: /whatsnext/
 breadcrumb: Whats next
-title: Whats Next
+title: What's Next
 ---
 
 <b>About us page for What's Next</b>
