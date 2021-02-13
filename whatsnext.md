@@ -21,7 +21,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 are shaping the future of Singapore.
 <br>
 <br>
-<b>Location details</b>
+<b>Visit us at</b>
 <br>
 <br>
 <b>National University of Singapore</b>
