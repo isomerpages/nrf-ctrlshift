@@ -11,7 +11,6 @@ title: Whats Next
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXiouZalD68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
-</div>
 <br>
 <b>Get Inspired by What's Next</b>
 <br>
