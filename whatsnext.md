@@ -25,3 +25,27 @@ are shaping the future of Singapore.
 <b>Location details</b>
 <br>
 <br>
+National University of Singapore
+17th To - 24th Feb
+10am-6pm
+<br>
+..................................................................................
+<br>
+Singapore University of Technology and Design
+25th Feb To - 5th March
+10am-6pm
+<br>
+..................................................................................
+<br>
+Our Tampines Hub
+6th March To - 14th March
+10am-6pm
+<br>
+..................................................................................
+<br>
+Singapore Science Center
+15th March To - 21st March
+10am-5pm
+<br>
+..................................................................................
+<br>
