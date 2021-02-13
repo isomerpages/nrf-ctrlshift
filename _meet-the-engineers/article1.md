@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Cheng Wee Kiang
+title: Test Article 1
 permalink: /meet-the-engineers/article1/
-breadcrumb: Cheng Wee Kiang
+breadcrumb: Test Article 1
 collection_name: meet-the-engineers
 ---
 <img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
