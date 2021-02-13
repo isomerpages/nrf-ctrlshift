@@ -14,8 +14,11 @@ title: Whats Next
 <br>
 <b>Get Inspired by What's Next</b>
 <br>
+<br>
  Meet the people behind the science, tech and engineering projects that 
 are shaping the future of Singapore.
 <br>
+<br>
 <b>Location details</b>
+<br>
 <br>
