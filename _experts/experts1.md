@@ -1,5 +1,3 @@
-# Sample code snippet for simple page
-# Always replace the spaces in your permalink with dash (-) otherwise your website will break!
 ---
 title: Experts copy1
 permalink: /experts/experts1/
