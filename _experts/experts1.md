@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: BCA
-permalink: /engineering-careers/experts1/
+permalink: /experts/experts1/
 breadcrumb: BCA
 collection_name: experts
 ---
