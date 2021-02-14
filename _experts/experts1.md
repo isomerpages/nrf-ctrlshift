@@ -1,13 +1,10 @@
+# Sample code snippet for simple page
+# Always replace the spaces in your permalink with dash (-) otherwise your website will break!
 ---
-layout: leftnav-page-content
-title: BCA
+title: Experts copy1
 permalink: /experts/experts1/
-breadcrumb: BCA
-collection_name: experts
+breadcrumb: /experts/experts1/
 ---
-
-<img src="/images/bca.jpg" alt="bca" style="width:393px;height:110px;" align="left">
-<br clear="left">
 
 
 ### A BIT ABOUT US
