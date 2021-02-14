@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Cheng Wee Kiang
-permalink: /experts/experst1/
+permalink: /experts/experts1/
 breadcrumb: Cheng Wee Kiang
 collection_name: experts
 ---
