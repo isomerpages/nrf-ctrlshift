@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Test Article 1
 permalink: /meet/01article/
 breadcrumb: Test Article 1
-collection_name: meet-the-experts
+collection_name: meet
 ---
 <img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
 <br clear="left">
