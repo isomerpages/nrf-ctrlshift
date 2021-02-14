@@ -6,12 +6,12 @@
 
 - title: What's Next
   url: /whatsnext/
-  
+
 - title: Meet the Engineers
-  url: /meet-the-engineers/article1/
+  url: /meet-the-engineers/wee-kiang/
   sub-links:
   - title: Cheng Wee Kiang
-    url: /meet-the-engineers/article1/
+    url: /meet-the-engineers/wee-kiang/
   - title: Ahmad Nadim bin Zainal
     url: /meet-the-engineers/ahmad-nadim/
   - title: Norman Tan
@@ -38,15 +38,7 @@
     url: /meet-the-engineers/Khairunnisa-Binte-Yahya/
   - title: Chen Juncheng
     url: /meet-the-engineers/Chen-Juncheng/
-
-
-- title: Meet the Experts
-  url: /changemaker/art2/
-  sub-links:
-  - title: Article 1
-    url: /changemaker/art1/
-  - title: Article 2
-    url: /changemaker/art2/
+    
     
 - title: Take the Career Profiler Quiz
   url: https://d37qgc044xwwp2.cloudfront.net/
