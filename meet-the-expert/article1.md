@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Test Article 1
-permalink: /meet-the-engineers/article1/
+permalink: /meet-the-experts/article1/
 breadcrumb: Test Article 1
 collection_name: meet-the-engineers
 ---
