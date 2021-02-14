@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Harmesh Singh Dhillon
 permalink: /meet-the-engineers/harmesh-singh/
 breadcrumb: Harmesh Singh Dhillon
-collection_name: meet-the-experts
+collection_name: meet-the-engineers
 ---
 <img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
 <br clear="left">
