@@ -8,12 +8,12 @@
   url: /whatsnext/
 
 - title: Meet the Experts
-  url: /meet-the-experts/article1/
+  url: /meet-the-experts/article1.md/
   sub-links:
   - title: Test1
-    url: /meet-the-experts/article1/
+    url: /meet-the-experts/article1.md/
   - title: Test2
-    url: /meet-the-experts/article2/
+    url: /meet-the-experts/article2.md/
     
     
 - title: Take the Career Profiler Quiz
