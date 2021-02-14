@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Cheng Wee Kiang
 permalink: /experts/experts1/
-breadcrumb: Cheng Wee Kiang
+breadcrumb: /Meet the Experts/Cheng Wee Kiang
 collection_name: experts
 ---
 <img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
