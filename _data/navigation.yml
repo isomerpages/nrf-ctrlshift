@@ -9,12 +9,12 @@
   
   
 - title: Meet the Experts
-  url: /meet/art1/
+  url: /_meet/art1/
   sub-links:
   - title: Article 1
-    url: /art1/
+    url: /_meet/art1/
   - title: Article 2
-    url: /art2/
+    url: /_meet/art2/
     
 - title: Take the Career Profiler Quiz
   url: https://d37qgc044xwwp2.cloudfront.net/
