@@ -1,35 +1,29 @@
 ---
-title: Experts copy1
-permalink: /experts/experts1/
-breadcrumb: /experts/experts1/
+layout: leftnav-page-content
+title: Cheng Wee Kiang
+permalink: /experts/experst1/
+breadcrumb: Cheng Wee Kiang
+collection_name: experts
 ---
+<img src="/images/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
+<br clear="left">
+<br>
+<strong>Cheng Wee Kiang</strong>
+<br> Director, Robotics, Automation and Unmanned Systems Centre of Expertise
+<br> Home Team Science & Technology Agency (HTX)
 
+### What is the best part about engineering?
+As engineers, we use our knowledge and experience to make people’s lives better. This is perhaps the most fulfilling part of my job; to contribute the best of what I know to a project’s completion and seeing the value that I can help create for others.
 
-### A BIT ABOUT US
-An agency under the Ministry of National Development, BCA champions the development of a future-ready built environment that is safe, high quality, sustainable and friendly. “Built environment” refers to buildings, and infrastructure in our surroundings that provide the setting for the community’s activities. 
+### How are you transforming the future as an engineer?
+I lead a team of engineers in identifying promising automation and robotics technologies that can be developed into operational prototype systems to support the Home Team.
 
-As a technical authority, it is essential for BCA to acquire and develop engineering expertise to uplift the capabilities and standards of the industry. To strengthen internal capabilities and build engaging careers for our engineers, BCA has specialist career pathways designed to provide engineers with learning, developmental and progression opportunities in the following areas:
+In 2017, my team worked closely with Singapore Police Force to develop a patrol robot, namely the Multipurpose All Terrain Autonomous Robot (M.A.T.A.R.) 2.0, to augment Police officers in performing their policing duties. The robot is integrated with advanced sensors, driven by intelligent autonomous navigation and mapping algorithms, that would execute missions autonomously with minimal human intervention. M.A.T.A.R. 2.0 was deployed for operational trialing during NDP 2018 to patrol a given location and provide live feeds to the Command Post.
 
-1.	Structural 
-2.	Geotechnical
-3.	Mechanical & Electrical Engineering
-4.	Universal Design
-5.	Environmental Sustainability
-6.	Productivity & Quality
+Another memorable team accomplishment was our successful development of the Automated Passenger In-car Clearance System (APICS) prototype after working on it for a year from a blank slate. This APICS prototype is a homegrown and unique system that uses advanced robotics and sensor systems to perform immigration clearance for cars. The first prototype was deployed for trial in early 2017.
 
-### ENGINEERS WE’D LIKE TO WORK WITH
-- Civil
-- Structural
-- Mechanical
-- Electrical
-- Environmental
-- Geological / Geotechnical
-- Coastal
-- Project Manager
+### Why do you choose to be a Public Service engineer?
+I appreciate the vast array of opportunities offered by the Public Service for engineers to nurture, apply and hone their engineering skills especially towards nation building. Our work helps Home Team officers carry out their mission more effectively and efficiently, thus making Singapore a safer place to live in.
 
-### HERE'S HOW YOU CAN ENGINEER WOW
-BCA constantly shapes the landscape to prepare for the future of Singapore, rally the built environment sector to achieve far-reaching goals that reach beyond today and improve the living environment for Singaporeans from all walks of life.
-Join us in our journey in transforming the way we BuildSG, together.
-
-Find out more <a href="https://www.bca.gov.sg/Careers/careers.html" target="_blank">here!</a>
-
+### Who will benefit from your project?
+The best part about engineering is seeing first-hand the innovation journey, where an idea gets conceived and developed into a prototype, and subsequently adopted for operational use. Nothing beats that sense of achievement when a difficult engineering problem is solved.
