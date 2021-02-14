@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Test Article 1
-permalink: /meet/01article/
+permalink: /meet/art1/
 breadcrumb: Test Article 1
 collection_name: meet
 ---
