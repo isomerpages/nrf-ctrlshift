@@ -10,7 +10,7 @@ title: What's Next
 <br>
 Through Engineer What's Next, you'll meet the people behind some of the most exciting Science, Technology and Engineering projects that are changing the future of Singapore. Be inspired by their stories on our website and at our Smart Gallery (locations below)! 
 
-Ready to decide what’s next? Take our profiler quiz and discover the field that you're best suited for. Then, sign up for our Virtual Career Fair happening on Friday, 12 March, where you can connect with industry professionals and chat with recruiters in the Science, Technology and Engineering fields in the public service.
+Ready to decide what’s next? Take our profiler quiz and discover the field that you're best suited for. Then, sign up for our Virtual Career Fair happening on Friday, 12 March, where you can connect with industry professionals and chat with public service recruiters in the Science, Technology and Engineering fields.
 
 How will you discover, imagine and create what’s next for Singapore?
 <br>
@@ -21,7 +21,7 @@ How will you discover, imagine and create what’s next for Singapore?
 <b>Get Inspired by What's Next</b>
 <br>
 <br>
-Visit our Smart Gallery for the full experience.
+Visit us at
 <br>
 <br>
 <b>Visit us at</b>
