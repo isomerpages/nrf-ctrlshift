@@ -24,7 +24,7 @@ How will you discover, imagine and create what’s next for Singapore?
 Visit us at
 <br>
 <br>
-<b>Visit us at</b>
+<b>Visit our Smart Gallery for the full experience.</b>
 <br>
 <br>
 <b>National University of Singapore</b>
