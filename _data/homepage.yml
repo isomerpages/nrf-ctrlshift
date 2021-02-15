@@ -12,7 +12,7 @@ agency-logo: /images/logo2.png
 
 # Hero Banner
 hero-title: Inspire
-            What's Next.
+            What's Next
 hero-subtitle: At our smart gallery experience
 hero-banner: /images/Website-Banner2.png
 
@@ -21,7 +21,7 @@ google-analytics: UA-73732262-1
 
 #Call to Action Button
 button:
-  - text: Learn More
+  - text: Find out where
     url: /whatsnext/
     
 
