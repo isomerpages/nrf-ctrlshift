@@ -5,10 +5,14 @@ breadcrumb: Whats next
 title: What's Next
 ---
 
-<b>About us page for What's Next</b>
+<b>About What's Next</b>
 <br>
 <br>
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+Through Engineer What's Next, you'll meet the people behind some of the most exciting Science, Technology and Engineering projects that are changing the future of Singapore. Be inspired by their stories on our website and at our Smart Gallery (locations below)! 
+
+Ready to decide what’s next? Take our profiler quiz and discover the field that you're best suited for. Then, sign up for our Virtual Career Fair happening on Friday, 12 March, where you can connect with industry professionals and chat with recruiters in the Science, Technology and Engineering fields in the public service.
+
+How will you discover, imagine and create what’s next for Singapore?
 <br>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXiouZalD68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -17,8 +21,7 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 <b>Get Inspired by What's Next</b>
 <br>
 <br>
- Meet the people behind the science, tech and engineering projects that 
-are shaping the future of Singapore.
+Visit our Smart Gallery for the full experience.
 <br>
 <br>
 <b>Visit us at</b>
@@ -26,23 +29,23 @@ are shaping the future of Singapore.
 <br>
 <b>National University of Singapore</b>
 <br>
-17th To - 24th Feb
+17–24 February 2021
 <br>
-10am-6pm
+10am to 6pm
 <br>
 ....................................................................................................................................................................
 <br>
 <b>Singapore University of Technology and Design</b>
 <br>
-25th Feb To - 5th March
+25 February–5 March 2021
 <br>
-10am-6pm
+10am to 6pm
 <br>
 ....................................................................................................................................................................
 <br>
 <b>Our Tampines Hub</b>
 <br>
-6th March To - 14th March
+6–14 March 2021
 <br>
 10am-6pm
 <br>
@@ -50,7 +53,7 @@ are shaping the future of Singapore.
 <br>
 <b>Singapore Science Center</b>
 <br>
-15th March To - 21st March
+15–21 March 2021
 <br>
 10am-5pm
 <br>
