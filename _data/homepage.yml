@@ -11,9 +11,8 @@ favicon: /images/favicon-logo.ico
 agency-logo: /images/logo2.png
 
 # Hero Banner
-hero-title: Inspire
-            What's Next
-hero-subtitle: At our smart gallery experience
+hero-title:
+hero-subtitle: Visit our Smart Gallery for the full experience
 hero-banner: /images/Website-Banner3.png
 
 # Google analytics
