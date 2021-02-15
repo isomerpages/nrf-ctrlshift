@@ -1,11 +1,10 @@
 ---
 layout: leftnav-page-content
-title:Shaping Dynamic Living Spaces through Technology  
-permalink: /experts/experts6/
+title: Shaping Dynamic Living Spaces through Technology
+permalink: /experts/experts1/
 breadcrumb: /Meet the Experts/Ng Hiang Teck Joshua, HDB
 collection_name: experts
 ---
-
 <br>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXiouZalD68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
