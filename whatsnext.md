@@ -8,9 +8,9 @@ title: What's Next
 <b>About What's Next</b>
 <br>
 <br>
-Through Engineer What's Next, you'll meet the people behind some of the most exciting Science, Technology and Engineering projects that are changing the future of Singapore. Be inspired by their stories on our website and at our Smart Gallery (locations below)! 
+Through Engineer What's Next, you'll meet the people behind some of the most exciting Science, Technology and Engineering projects that are changing the future of Singapore. Be inspired by their stories on our website and at our Smart Gallery (locations below)! 
 
-Ready to decide what’s next? Take our profiler quiz and discover the field that you're best suited for. Then, sign up for our Virtual Career Fair happening on Friday, 12 March, where you can connect with industry professionals and chat with public service recruiters in the Science, Technology and Engineering fields.
+Ready to decide what’s next? Take our Profiler Quiz and discover the field that you're best suited for. Then, sign up for our Virtual Career Fair happening on Friday, 12 March, where you can connect with industry professionals and chat with Public Service recruiters in the Science, Technology and Engineering fields.
 
 How will you discover, imagine and create what’s next for Singapore?
 <br>
@@ -26,11 +26,11 @@ How will you discover, imagine and create what’s next for Singapore?
 <br>
 <b>National University of Singapore</b>
 <br>
-17–24 February 2021
+18–24 February 2021
 <br>
 10am to 6pm
 <br>
-....................................................................................................................................................................
+<br>
 <br>
 <b>Singapore University of Technology and Design</b>
 <br>
@@ -38,7 +38,7 @@ How will you discover, imagine and create what’s next for Singapore?
 <br>
 10am to 6pm
 <br>
-....................................................................................................................................................................
+<br>
 <br>
 <b>Our Tampines Hub</b>
 <br>
@@ -46,7 +46,7 @@ How will you discover, imagine and create what’s next for Singapore?
 <br>
 10am to 6pm
 <br>
-....................................................................................................................................................................
+<br>
 <br>
 <b>Singapore Science Center</b>
 <br>
@@ -54,5 +54,5 @@ How will you discover, imagine and create what’s next for Singapore?
 <br>
 10am to 5pm
 <br>
-....................................................................................................................................................................
+<br>
 <br>
