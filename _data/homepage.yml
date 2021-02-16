@@ -23,6 +23,23 @@ button:
   - text: Find out where
     url: /whatsnext/
     
+key-highlights:
+  - title: Ideas 
+    description: that become reality
+    url: /engineering-marvels/punggol-digital-district/
+ 
+  - title: Engineers
+    description: who transformed how we live
+    url: /meet-the-engineers/wee-kiang/
+ 
+  - title: Careers
+    description: that make a difference
+    url: /engineering-careers/bca/
+
+  - title: Resources
+    description: to find out more
+    url: /resource-room/
+    
 
 #resources-title: Resources
 #resources-subtitle: Be in the know
