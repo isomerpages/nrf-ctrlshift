@@ -45,6 +45,8 @@ collections:
     output: true
   experts:
     output: true
+  stories:
+    output: true
   engineering-marvels:
     output: true
   types-of-engineering:
