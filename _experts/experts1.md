@@ -11,7 +11,7 @@ collection_name: experts
 </div>
 <br>
 
-<b>Cheong Yiting, Principal Engineer, Engineering & Project Management Division, Maritime and Port Authority of Singapore (MPA)</b>, shares about her work on the Tuas Port and Tuas Ecosystem, as well as her thoughts on the type of superpower that would help her plan this next-generation port.
+<b>Cheong Yiting, Principal Engineer, Engineering & Project Management Division, Maritime and Port Authority of Singapore,</b> is involved in the development of the Tuas Port and Tuas Ecosystem. In the video above, she reflects on why she chose to be an engineer and shares more about her work. 
 
 <br>
 <div class="bp-youtube">
@@ -19,4 +19,4 @@ collection_name: experts
 </div>
 <br>
 
-Have you ever wished that you had x-ray vision? Cheong Yiting, Principal Engineer, Maritime and Port Authority of Singapore, muses about how this could help her at work, and discusses the personality trait that helps her excel as an engineer.
+Have you ever wished that you had x-ray vision? Yiting muses about how this could help her at work, and discusses the personality trait that helps her excel as an engineer.
