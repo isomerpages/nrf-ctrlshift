@@ -12,7 +12,7 @@ collection_name: experts
 <br>
 
 <b>Cheong Yiting, Principal Engineer, Engineering & Project Management Division, Maritime and Port Authority of Singapore,</b> is involved in the development of the Tuas Port and Tuas Ecosystem. In the video above, she reflects on why she chose to be an engineer and shares more about her work. 
-
+<br>
 <br>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXiouZalD68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
