@@ -22,9 +22,9 @@ How will you discover, imagine and create what’s next for Singapore?
 <b>Visit our Smart Gallery for the full experience.</b>
 <br>
 <br>
-<b>National University of Singapore (UTown)</b>
+<b>National University of Singapore (UTown, Town Plaza)</b>
 <br>
-18–24 February 2021
+18 Feb to 24 Feb 2021
 <br>
 10am to 6pm
 <br>
@@ -32,23 +32,23 @@ How will you discover, imagine and create what’s next for Singapore?
 <br>
 <b>Singapore University of Technology and Design (Campus Centre, Building 2, Level 2)</b>
 <br>
-25 February–5 March 2021
+25 Feb to 5 Mar 2021
 <br>
 8am to 7pm
 <br>
 <br>
 <br>
-<b>Our Tampines Hub (Level 1)</b>
+<b>Our Tampines Hub (Level 1, Festive Walk West)</b>
 <br>
-6–14 March 2021
+6 Mar to 14 Mar 2021
 <br>
 10am to 10pm
 <br>
 <br>
 <br>
-<b>Science Centre Singapore (Level 1, Hall A gallery corridor)</b>
+<b>Science Centre Singapore (Level 1, Hall A)</b>
 <br>
-15–21 March 2021
+15 Mar to 21 Mar 2021
 <br>
 10am to 5pm
 <br>
