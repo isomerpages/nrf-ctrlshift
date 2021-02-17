@@ -11,7 +11,7 @@ collection_name: experts
 <iframe width="560" height="315" src="https://www.youtube.com/embed/wXiouZalD68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
-Plant-based yogurts and ice creams that are healthier and just as tasty as their dairy counterparts could soon become more common in supermarkets near you, thanks to food technologists like <b>Dr Chiang Jie Hong, a Research Fellow in the Nutrition Group at the Agency for Science, Technology and Research.</b> He talks about his work in plant-based proteins here.
+Plant-based yogurts and ice creams that are healthier and just as tasty as their dairy counterparts could soon become more common in supermarkets near you, thanks to food technologists like <b>Dr Chiang Jie Hong, a Research Fellow in the Singapore Institute of Food and Biotechnology Innovation at the Agency for Science, Technology and Research.</b> He talks about his work in plant-based proteins here.
 <br>
 <br>
 <div class="bp-youtube">
