@@ -8,6 +8,16 @@
   - title:Engineer What's Next
   
 # Contact Us
+# For line: If you have an email, put "(email)" after the actual email
+column:
+  - title: General Enquiries & Feedback
+    content:
+    - line: engineering@psd.gov.sg (email)
+  - title: General Enquiries & Feedback
+    content:
+    - line: S&TPPO_enquiries@pmo.gov.sg (email)
+  
+# Contact Us
 column:
   - title: General Enquiries & Feedback
     content:
