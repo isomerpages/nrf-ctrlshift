@@ -22,7 +22,7 @@ How will you discover, imagine and create what’s next for Singapore?
 <b>Visit our Smart Gallery for the full experience.</b>
 <br>
 <br>
-<b>National University of Singapore (UTown, main alley near Koufu)</b>
+<b>National University of Singapore (UTown)</b>
 <br>
 18–24 February 2021
 <br>
@@ -50,7 +50,7 @@ How will you discover, imagine and create what’s next for Singapore?
 <br>
 15–21 March 2021
 <br>
-9.30am to 5pm
+10am to 5pm
 <br>
 <br>
 <br>
