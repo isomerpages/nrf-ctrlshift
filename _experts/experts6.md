@@ -14,7 +14,7 @@ How much science and data drive the way our buildings are designed? <b>Ng Hiang 
 <br>
 <br>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wXiouZalD68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mwOPwQJHPkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 Joshua shares more on what helps him maximise his potential at work and the superpower that would help him achieve his goal in life.
