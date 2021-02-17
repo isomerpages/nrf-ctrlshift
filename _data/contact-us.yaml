@@ -1,17 +1,6 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-#Contact Us
-#  - title:Engineer What's Next
-
+# Contact Us
+# For line: If you have an email, put "(email)" after the actual email
+column:
   - title: General Enquiries & Feedback
     content:
     - line: S&TPPO_enquiries@pmo.gov.sg (email)
-    
-  - title: General Enquiries & Feedback
-    content:
-    - line: S&TPPO_enquiries@pmo.gov.sg (email)
-
