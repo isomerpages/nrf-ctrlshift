@@ -5,24 +5,23 @@
 ##################################
 
 # Favicon
-favicon: /images/favicon-ewnIcon.ico
+favicon: /images/favicon-logo.ico
 
 # Agency logo
-agency-logo: /images/logo.png
+agency-logo: /images/logo2.png
 
 # Hero Banner
-hero-title: Engineer 
-            What's Next.
-hero-subtitle: Be an engineer. Make it your next move.
-hero-banner: /images/Website-Banner.png
+hero-title: Inspire What's Next
+hero-subtitle: Visit our Smart Gallery for the full experience
+hero-banner: /images/Website-Banner4.png
 
 # Google analytics
 google-analytics: UA-73732262-1
 
 #Call to Action Button
 button:
-  - text: Learn More
-    url: /types-of-engineering/chemical/
+  - text: Find out where
+    url: /whatsnext/
     
 key-highlights:
   - title: Ideas 
@@ -40,6 +39,7 @@ key-highlights:
   - title: Resources
     description: to find out more
     url: /resource-room/
+    
 
 #resources-title: Resources
 #resources-subtitle: Be in the know

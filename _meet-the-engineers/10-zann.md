@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Zann Tay
 permalink: /meet-the-engineers/Zann-Tay/
 breadcrumb: Zann Tay
-collection_name: meet-the-engineers
+collection_name: meet-the
 ---
 
 <img src="/images/Zann.jpg" alt="Zann Tay" style="width:222px;height:278px;" align="left">

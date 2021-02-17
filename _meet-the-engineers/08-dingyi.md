@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Hoon Ding Yi
 permalink: /meet-the-engineers/Hoon-Ding-Yi/
 breadcrumb: Hoon Ding Yi
-collection_name: meet-the-engineers
+collection_name: meet-the
 ---
 
 <img src="/images/Hoon Ding Yi.jpg" alt="Hoon Ding Yi" style="width:222px;height:278px;" align="left">

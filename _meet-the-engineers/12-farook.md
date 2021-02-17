@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Farook Maideen
 permalink: /meet-the-engineers/Farook-Maideen/
 breadcrumb: Farook Maideen
-collection_name: meet-the-engineers
+collection_name: meet-the
 ---
 
 <img src="/images/Farook.jpg" alt="Farook Maideen" style="width:222px;height:278px;" align="left">

@@ -43,6 +43,10 @@ exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.j
 collections:
   meet-the-engineers:
     output: true
+  experts:
+    output: true
+  stories:
+    output: true
   engineering-marvels:
     output: true
   types-of-engineering:
@@ -50,3 +54,4 @@ collections:
   engineering-careers:
     output: true
 resources_name: resource-room
+google_analytics: UA-73732262-1

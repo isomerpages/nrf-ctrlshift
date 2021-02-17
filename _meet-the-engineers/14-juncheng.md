@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Chen Juncheng
 permalink: /meet-the-engineers/Chen-Juncheng/
 breadcrumb: Chen Juncheng
-collection_name: meet-the-engineers
+collection_name: meet-the
 ---
 
 <img src="/images/Juncheng.jpg" alt="Chen Juncheng" style="width:222px;height:278px;" align="left">
