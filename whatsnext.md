@@ -15,7 +15,7 @@ Ready to decide what’s next? Take our Profiler Quiz and discover the field tha
 How will you discover, imagine and create what’s next for Singapore?
 <br>
 <div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/wXiouZalD68" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="1248" height="702" src="https://www.youtube.com/embed/7iA-pOVms8Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
 <b>Get Inspired by What's Next</b>
