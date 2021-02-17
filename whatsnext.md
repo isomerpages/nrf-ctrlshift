@@ -19,6 +19,7 @@ How will you discover, imagine and create what’s next for Singapore?
 </div>
 <br>
 <b>Get Inspired by What's Next</b>
+<br>
 <b>Visit our Smart Gallery for the full experience.</b>
 <br>
 <br>
