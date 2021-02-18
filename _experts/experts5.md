@@ -11,7 +11,7 @@ collection_name: experts
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OfSg6bZ2AS8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
-<b>Nurul Rekha d/o Fuad Mohan, Manager, Wildlife Management Division, National Parks Board,</b> discusses how she leverages technology to protect native and endangered animals, and make Singapore a better home for our wildlife friends, and us! 
+<b>Nurul Rekha d/o Fuad Mohan, Manager (Wildlife Management), National Parks Board,</b> discusses how she leverages technology to protect native and endangered animals, and make Singapore a better home for our wildlife friends, and us! 
 <br>
 <br>
 <div class="bp-youtube">
