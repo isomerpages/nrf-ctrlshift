@@ -11,7 +11,7 @@ collection_name: experts
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yIxCmpPZ1HE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
-<b>Lim Jia Qi, a Bioinformatics Scientist at the National Centre for Food Science, which is part of the Singapore Food Agency</b>, shares about how hokkien mee and char kway teow relate to her work in supporting SFA's mission to ensure and secure a supply of safe food for Singapore.
+<b>Lim Jia Qi, Bioinformatics Scientist (National Centre for Food Science), Singapore Food Agency,</b>, shares about how hokkien mee and char kway teow relate to her work in supporting SFA's mission to ensure and secure a supply of safe food for Singapore.
 <br>
 <br>
 <div class="bp-youtube">
