@@ -10,6 +10,7 @@ collection_name: stories
 <br>
 Hear from Ong Chong Ren, deputy director of development at Jurong Lake Gardens, how technology and nature come together in his work.
 <br>
+<br>
 ![Nparks2](/images/s1.2.jpg)
 <br>
 For most of us, nature played a role in our childhood in the form of parks: it was where we first set eyes on different types of flora and fauna, had picnics with our family and cycled with friends. Nature’s role in Chong Ren’s life has extended far beyond that.  
