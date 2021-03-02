@@ -3,7 +3,7 @@ layout: leftnav-page-content
 title: Building a Next-generation Port
 permalink: /stories/story1/
 breadcrumb: /What's Next stories/story1
-collection_name: stories
+collection_name:stories
 ---
 <br>
 <div class="bp-youtube">
