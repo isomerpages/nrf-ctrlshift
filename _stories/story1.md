@@ -25,7 +25,6 @@ A fond childhood memory of his is attending the GardenTech event organised by Na
 <br>
 Today, Chong Ren works at NParks as the deputy director of development at Jurong Lake Gardens — Singapore’s third national garden and the first to be located in the heartlands. “I decided that I wanted to work on something that I’m personally passionate about,” he explains.  
 <br>
-<br>
 ![Nparks5](/images/s1.5.jpg)
 <br>
 Chong Ren doesn’t just work with plants; a large part of his work involves technology as well.    
