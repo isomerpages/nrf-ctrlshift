@@ -6,7 +6,7 @@ breadcrumb: /What's Next stories/Tech at Play-Rolling Out Innovations at Jurong 
 collection_name: stories
 ---
 # <b>Tech at Play-Rolling Out Innovations at Jurong Lake Gardens</b>
-![Punggol](/images/s1.1.jpg)
+![Nparks1](/images/s1.1.jpg)
 <br>
 Hear from Ong Chong Ren, deputy director of development at Jurong Lake Gardens, how technology and nature come together in his work.
 <br>
