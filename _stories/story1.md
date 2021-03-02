@@ -1,8 +1,9 @@
+# Sample code snippet for left nav page
+# Always replace the spaces in your permalink with dash (-) otherwise your website will break!
 ---
-layout: leftnav-page-content
-title: Tech at Play: Rolling Out Innovations at Jurong Lake Gardens
-permalink: /stories/story1/
-breadcrumb: /stories/Rolling Out Innovations at Jurong Lake Gardens
+title: Rolling Out Innovations at Jurong Lake Gardens
+permalink: /stories/Rolling-Out-Innovations-at-Jurong-Lake-Gardens
+breadcrumb: Rolling Out Innovations at Jurong Lake Gardens
 collection_name: stories
 ---
 
