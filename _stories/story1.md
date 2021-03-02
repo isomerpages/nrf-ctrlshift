@@ -12,7 +12,7 @@ Hear from Ong Chong Ren, deputy director of development at Jurong Lake Gardens, 
 <br>
 <br>
 ![Nparks2](/images/s1.2.jpg)
-Caption: Jurong Lake Gardens is Singapore’s first national gardens to be located in the heartlands, and it is home to many attractions such as the Grasslands. (Photo credit: NParks)  
+Caption: Jurong Lake Gardens is Singapore’s first national gardens to be located in the heartlands, and it is home to many attractions such as the Grasslands. (Photo credit: NParks)
 <br>
 <br>
 For most of us, nature played a role in our childhood in the form of parks: it was where we first set eyes on different types of flora and fauna, had picnics with our family and cycled with friends. Nature’s role in Chong Ren’s life has extended far beyond that.  
