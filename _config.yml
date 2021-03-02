@@ -47,6 +47,8 @@ collections:
     output: true
   stories:
     output: true
+  art:
+    output: true
   engineering-marvels:
     output: true
   types-of-engineering:
