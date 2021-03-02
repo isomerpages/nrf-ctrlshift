@@ -10,16 +10,13 @@ collection_name: stories
 <br>
 Hear from Ong Chong Ren, deputy director of development at Jurong Lake Gardens, how technology and nature come together in his work.
 <br>
-<br>
 ![Nparks2](/images/s1.2.jpg)
 <br>
 For most of us, nature played a role in our childhood in the form of parks: it was where we first set eyes on different types of flora and fauna, had picnics with our family and cycled with friends. Nature’s role in Chong Ren’s life has extended far beyond that.  
 <br>
-<br>
 ![Nparks3](/images/s1.3.jpg)
 <br>
 A fond childhood memory of his is attending the GardenTech event organised by National Parks Board (NParks). Chong Ren was so fascinated by the displays that gardening soon became his favourite pastime. “I started growing heliconias, one of my favourite groups of plants, and I had about 60 varieties of those in my house by the time I was 15 years old,” he chuckles. 
-<br>
 <br>
 ![Nparks4](/images/s1.4.jpg)
 <br>
