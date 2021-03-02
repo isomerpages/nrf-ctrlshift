@@ -19,6 +19,7 @@ For most of us, nature played a role in our childhood in the form of parks: it w
 <br>
 A fond childhood memory of his is attending the GardenTech event organised by National Parks Board (NParks). Chong Ren was so fascinated by the displays that gardening soon became his favourite pastime. “I started growing heliconias, one of my favourite groups of plants, and I had about 60 varieties of those in my house by the time I was 15 years old,” he chuckles. 
 <br>
+<br>
 ![Nparks4](/images/s1.4.jpg)
 <br>
 Today, Chong Ren works at NParks as the deputy director of development at Jurong Lake Gardens — Singapore’s third national garden and the first to be located in the heartlands. “I decided that I wanted to work on something that I’m personally passionate about,” he explains.  
