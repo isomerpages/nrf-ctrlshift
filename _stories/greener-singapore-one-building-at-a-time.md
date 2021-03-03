@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: A Greener Singapore, One Building at a Time
-permalink: /stories/story3/
+permalink: /stories/greener-singapore-one-building-at-a-time/
 breadcrumb: /What's Next stories/story3
 collection_name: stories
 ---
