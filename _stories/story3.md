@@ -8,7 +8,6 @@ collection_name: stories
 
 # <b>A Greener Singapore, One Building at a Time</b>
 <br>
-
 Meet the woman who is helping to engineer what’s next in low-energy buildings for a greener Singapore. 
 <br>
 
