@@ -18,7 +18,7 @@ Can we transform our built environment to be more sustainable? Can we craft work
 These are key questions for Singapore to answer, given that the country has committed to reducing its emissions intensity by 36% by 2030 from 2005 levels. The building sector, which consumes a whopping one-third of Singapore’s total electricity consumption, plays a big part in developing impactful climate change solutions. The only question is, how? 
 <br> 
 
-That’s where Lee Si Min comes in. A senior engineer at the Building and Construction Authority (BCA), she works in a department that sounds like a laboratory in a sci-fi movie: the Super Low Energy Department. And in a way, it does dip its toes into the realms of the unknown; it has to, if it’s to achieve its goal.  
+That’s where Lee Si Min comes in. A senior engineer at the Building and Construction Authority (BCA), she works in a department that sounds like a laboratory in a sci-fi movie: the Super Low Energy Department. And in a way, it does dip its toes into the realms of the unknown; it has to, if it’s to achieve its goal.
 <br>
 
 “I am currently involved in formulating policies and strategies to make the adoption of Super Low Energy or SLE Buildings in Singapore mainstream,” Si Min says. “A SLE building achieves at least 40% energy savings based on the prevailing code. Such buildings push the boundaries of energy efficiency, helping us move toward a low-carbon built environment.” 
@@ -27,10 +27,10 @@ That’s where Lee Si Min comes in. A senior engineer at the Building and Constr
 Supporting BCA’s mission to green up Singapore’s structures, Si Min is the secretariat of the taskforce on “Pushing Boundaries towards Net Zero Energy”. “I review the Green Building framework and standards,” she notes, “and develop strategies to build a robust ecosystem to encourage the adoption of SLE buildings in Singapore.”  
 <br>
 
-## Simple Green Touches 
+## Simple Green Touches
 <br>
 
-There is a host of next-generation technology that can be used to make buildings more eco-friendly, from sensors that adjust lighting levels depending on occupancy levels, to machine learning that optimises an entire skyscraper’s intelligent building control systems.  
+There is a host of next-generation technology that can be used to make buildings more eco-friendly, from sensors that adjust lighting levels depending on occupancy levels, to machine learning that optimises an entire skyscraper’s intelligent building control systems.
 <br>
 
 * Caption: BCA launched the BCA SkyLab with the aim of test-bedding innovative energy-efficient technologies that can help Singapore construct greener buildings. (Photo credit: BCA)  
