@@ -7,6 +7,8 @@ collection_name: stories
 ---
 
 # <b>Shoring Up Sustainability-Reshaping the Coastline of Pulau Tekong</b>
+![BCA](/images/s3.1.jpg)
+<br>
 Find out how Goh Pei Ling, Acting Deputy Director (Land Reclamation Section 1) in Infrastructure and Reclamation Department at the Housing and Development Board, is literally changing the shape of Singapore and making sustainability more than just a buzzword.
 <br>
 
@@ -16,7 +18,9 @@ As a land-scarce country, Singapore has been reclaiming land since the 19th cent
 “Polder development is a breakthrough in how Singapore could reclaim land in the future,” Pei Ling says. “Not only will creating new land through empoldering provide a sustainable alternative for Singapore to meet long-term land needs, but it also offers the flexibility to adapt to the evolving coastal environment and sea level.”
 <br>
 
-* Caption: Aerial view of the pilot polder project taking place at Pulau Tekong. This first-of-its-kind land reclamation project is meant to reduce Singapore’s dependency on sand imports. (Photo credit: HDB)
+![BCA](/images/s3.2.jpg)
+<br>
+Caption: Aerial view of the pilot polder project taking place at Pulau Tekong. This first-of-its-kind land reclamation project is meant to reduce Singapore’s dependency on sand imports. (Photo credit: HDB)
 <br>
 
 Essentially, a polder is a reclaimed tract of land that is below surrounding sea level. It is typically protected by a dike. “The polder is then managed by a system of drainage canals and pumps which control the water levels within it,” Pei Ling explains. Rainwater is channelled by drains to a stormwater collection pond, while a central pumping station circulates the water to ensure good water quality. Meanwhile, a drainage pumping system pumps excess water out to the sea. This network of drains and water pumping systems prevent the polder from becoming waterlogged.
