@@ -12,7 +12,6 @@ Hear from Ong Chong Ren, deputy director of development at Jurong Lake Gardens, 
 <br>
 <br>
 ![Nparks2](/images/s1.2.jpg)
-
 * Caption: Jurong Lake Gardens is Singapore’s first national gardens to be located in the heartlands, and it is home to many attractions such as the Grasslands. (Photo credit: NParks)
 <br>
 <br>
@@ -33,7 +32,7 @@ A fond childhood memory of his is attending the GardenTech event organised by Na
 <br>
 Today, Chong Ren works at NParks as the deputy director of development at Jurong Lake Gardens — Singapore’s third national garden and the first to be located in the heartlands. “I decided that I wanted to work on something that I’m personally passionate about,” he explains.  
 <br>
-![Nparks5](/images/s1.5.jpg)
+![Nparks1](/images/s1.5.jpg)
 <br>
 * Caption: You can spot many different types of waterbirds at Rasau Walk in Jurong Lake Gardens. (Photo credit: NParks) 
 <br>
