@@ -45,8 +45,6 @@ Si Min is also involved in developing the next edition of the Green Building Mas
 <br>
 Slashing energy output will not be easy. “The key challenge faced is that buildings come in various types and sizes: there is no one-size-fits-all solution,” notes Si Min. That’s why it’s so vital, she adds, “to understand the constraints of the building typologies and develop bespoke criteria that will best suit the structure.” 
 <br>
-
 But despite the trials, Si Min’s passion for her career is anything but low energy. Knowing that her career contributes meaningful to mitigating climate change by reducing Singapore’s carbon footprint, she says, “gives me a lot of satisfaction and motivation.” That passion inspires her day-to-day life, too. “I am more aware of how my actions impact the environment,” laughs Si Min. “I now proactively try to influence my friends and family members to live more sustainably too.”  
 <br>
-
 “My work in promoting the adoption of Super Low Energy buildings helps contribute directly to a low-carbon and sustainable Singapore. I am proud and honoured to be able to make a positive impact on our built environment.”  
