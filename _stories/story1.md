@@ -37,7 +37,6 @@ Today, Chong Ren works at NParks as the deputy director of development at Jurong
 <br>
 ![Nparks1](/images/s1.5.jpg)
 <br>
-
 Caption: You can spot many different types of waterbirds at Rasau Walk in Jurong Lake Gardens. (Photo credit: NParks)
 <br>
 <br>
