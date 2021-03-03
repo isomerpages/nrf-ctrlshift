@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Shoring Up Sustainability-Reshaping the Coastline of Pulau Tekong
-permalink: /stories/story4/
+title: Shoring Up Sustainability - Reshaping the Coastline of Pulau Tekong
+permalink: /stories/sustainability-reshaping-coastline-of-pulau-tekong/
 breadcrumb: /What's Next stories/story4
 collection_name: stories
 ---
 
-# <b>Shoring Up Sustainability-Reshaping the Coastline of Pulau Tekong</b>
+# <b>Shoring Up Sustainability - Reshaping the Coastline of Pulau Tekong</b>
 ![BCA](/images/s3.1.jpg)
 <br>
 *Find out how Goh Pei Ling, Acting Deputy Director (Land Reclamation Section 1) in Infrastructure and Reclamation Department at the Housing and Development Board, is literally changing the shape of Singapore and making sustainability more than just a buzzword.*
