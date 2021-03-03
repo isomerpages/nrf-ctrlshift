@@ -19,7 +19,7 @@ Hear from Ong Chong Ren, deputy director of development at Jurong Lake Gardens, 
 For most of us, nature played a role in our childhood in the form of parks: it was where we first set eyes on different types of flora and fauna, had picnics with our family and cycled with friends. Nature’s role in Chong Ren’s life has extended far beyond that.  
 <br>
 ![Nparks3](/images/s1.3.jpg)
-
+<br>
 * Caption: The integrated management system allows staff at Jurong Lake Gardens to know what’s happening on the ground at a glance. (Photo credit: NParks) 
 <br>
 <br>
@@ -27,14 +27,14 @@ A fond childhood memory of his is attending the GardenTech event organised by Na
 <br>
 <br>
 ![Nparks4](/images/s1.4.jpg)
-
+<br>
 * Caption: NParks is currently testing the use of an 11-seater autonomous vehicle to bring visitors around Lakeside Garden, the western section of Jurong Lake Gardens. (Photo credit: NParks)
 <br>
 <br>
 Today, Chong Ren works at NParks as the deputy director of development at Jurong Lake Gardens — Singapore’s third national garden and the first to be located in the heartlands. “I decided that I wanted to work on something that I’m personally passionate about,” he explains.  
 <br>
 ![Nparks5](/images/s1.5.jpg)
-
+<br>
 * Caption: You can spot many different types of waterbirds at Rasau Walk in Jurong Lake Gardens. (Photo credit: NParks) 
 <br>
 <br>
