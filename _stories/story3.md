@@ -32,7 +32,7 @@ There is a host of next-generation technology that can be used to make buildings
 
 ![BCA](/images/s2.2.jpg)
 <br>
-* Caption: BCA launched the BCA SkyLab with the aim of test-bedding innovative energy-efficient technologies that can help Singapore construct greener buildings. (Photo credit: BCA)  
+*Caption: BCA launched the BCA SkyLab with the aim of test-bedding innovative energy-efficient technologies that can help Singapore construct greener buildings. (Photo credit: BCA)*
 <br>
 
 When it comes to changing attitudes towards energy use, even small touches can make a difference, and in these cases the BCA practises what it preaches. Si Min suggested a simple energy-saving solution: switch off the overhead lights when the team goes out for lunch. “Building occupants contribute around half the total energy usage in a building,” she shares.  
