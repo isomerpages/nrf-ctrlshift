@@ -1,12 +1,12 @@
 ---
 layout: leftnav-page-content
-title: Smart Homes-How Technology is Changing Your HDB Estate
-permalink: /stories/story5/
+title: Smart Homes - How Technology is Changing Your HDB Estate
+permalink: /stories/smart-homes-technology-changing-hdb-estate/
 breadcrumb: /What's Next stories/story5
 collection_name: stories
 ---
 
-# <b> Smart Homes-How Technology is Changing Your HDB Estate</b>
+# <b> Smart Homes - How Technology is Changing Your HDB Estate</b>
 ![HDB](/images/s4.1.jpg)
 <br>
 *The future of residential living is already here. Meet the engineer who’s introducing “smart” into housing estates.*
