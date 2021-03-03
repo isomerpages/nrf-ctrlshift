@@ -6,8 +6,6 @@ breadcrumb: /What's Next stories/Revolutionising the Future of Nutrition
 collection_name: stories
 ---
 # <b>Revolutionising the Future of Nutrition</b>
-<br>
-
 From culturing bacteria to extracting lycopene crystals, Dr Chen Xixian takes great pride in bringing her bioengineering breakthroughs from lab to table.
 <br>
 
@@ -20,7 +18,6 @@ A problem solver at heart, Dr Chen Xixian was determined to pursue a career in b
 As a research scientist at the Agency for Science, Technology and Research (A*STAR), Dr Chen’s role requires her to develop and apply advance genetic engineering tools to produce high-value ingredients. Her greater goal — owing to her key function in A*STAR’s Biotransformation Innovation Platform (BioTrans) research initiative — is to create sustainable bioprocesses to meet consumers’ inclination for natural ingredients.
 <br>
 ## Discovering What’s Next in Nutrition
-<br>
 One project that Dr Chen has been focusing on lately is developing sustainable and larger yields of high-quality compounds, such as lycopene found in fruits like tomatoes and watermelons. This is part of BioTrans’ partnership with local biotechnology start-up Fermatics, which licensed A STAR’s strain engineering technology for commercialisation. 
 <br>
 
@@ -40,7 +37,6 @@ Ultimately, it’s all worth it as Dr Chen believes this new technology will be 
 <br>
 
 ## Making a Difference
-<br>
 Besides her passion for solving scientific problems, Dr Chen also finds inspiration when she works with industry partners and the larger scientific community. In 2020, BioTrans became a part of the Singapore Institute of Food and Biotechnology Innovation (SIFBI), which hosts cross-disciplinary teams with expertise extending beyond biotechnology, a move that has provided Dr Chen with more opportunities to collaborate and learn from other experts.
 <br>
 
