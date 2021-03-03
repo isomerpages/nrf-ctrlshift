@@ -7,6 +7,8 @@ collection_name: stories
 ---
 
 # <b> Smart Homes-How Technology is Changing Your HDB Estate</b>
+![HDB](/images/s4.1.jpg)
+<br>
 The future of residential living is already here. Meet the engineer who’s introducing “smart” into housing estates.
 <br>
 
@@ -20,7 +22,9 @@ With over 80% of Singapore’s resident population living in flats built by the 
 The Smart Hub is a shining example of how HDB leverages Information and Communications Technology (ICT) to make its towns and housing estates more liveable, efficient and sustainable for its residents. ICT is used to augment current efforts like solar energy generation, waste collection, as well as lift and water pump monitoring, to provide residents with more reliable estate services, quicker incident response time and greater savings.
 <br>
 
-* Caption: The HDB Smart Hub acts as the central brain that oversees the health of all housing estates and building systems. (Photo credit: HDB)
+![HDB](/images/s4.2.jpg)
+<br>
+Caption: The HDB Smart Hub acts as the central brain that oversees the health of all housing estates and building systems. (Photo credit: HDB)
 <br>
 
 Here’s how it works. First, sensors are installed on estate fixtures like common area lighting to capture real-time information — for example, ambient light levels, energy used, and even nearby motion-sensing which helps brighten residents’ paths. The sensors then feed this data back to the Smart Hub. Engineers like Zacary work in tandem with estate managers, tech companies and university researchers to analyse the collected data. Insights gleaned will then be used towards saving energy, optimising maintenance cycles and even predicting issues before they occur. For instance, lighting sensors enable HDB to understand human traffic patterns and optimise the provision of lighting. The lighting in common areas would be dimmed slightly if no human traffic is detected, and this reduces energy usage by as much as 60%.
