@@ -2,7 +2,7 @@
 layout: leftnav-page-content
 title: Shoring Up Sustainability - Reshaping the Coastline of Pulau Tekong
 permalink: /stories/sustainability-reshaping-coastline-of-pulau-tekong/
-breadcrumb: /What's Next stories/story4
+breadcrumb: /What's Next stories/Reshaping the Coastline of Pulau Tekong
 collection_name: stories
 ---
 
