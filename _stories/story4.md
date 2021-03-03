@@ -20,7 +20,7 @@ As a land-scarce country, Singapore has been reclaiming land since the 19th cent
 
 ![BCA](/images/s3.2.jpg)
 <br>
-Caption: Aerial view of the pilot polder project taking place at Pulau Tekong. This first-of-its-kind land reclamation project is meant to reduce Singapore’s dependency on sand imports. (Photo credit: HDB)
+*Caption: Aerial view of the pilot polder project taking place at Pulau Tekong. This first-of-its-kind land reclamation project is meant to reduce Singapore’s dependency on sand imports. (Photo credit: HDB)*
 <br>
 
 Essentially, a polder is a reclaimed tract of land that is below surrounding sea level. It is typically protected by a dike. “The polder is then managed by a system of drainage canals and pumps which control the water levels within it,” Pei Ling explains. Rainwater is channelled by drains to a stormwater collection pond, while a central pumping station circulates the water to ensure good water quality. Meanwhile, a drainage pumping system pumps excess water out to the sea. This network of drains and water pumping systems prevent the polder from becoming waterlogged.
