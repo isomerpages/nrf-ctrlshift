@@ -23,7 +23,7 @@ Chong Ren doesn’t just work with plants; a large part of his work involves tec
 <br>
 *Jurong Lake Gardens is Singapore’s first national gardens to be located in the heartlands, and it is home to many attractions such as the Grasslands. (Photo credit: NParks)*
 <br>
-<br>
+
 ## When Tech Meets Nature
 Step into the lush landscape of Jurong Lake Gardens and the first thing that might strike you is the sheer scale of the area, but underpinning it all is a wealth of technology that visitors may not know about. The Gardens is one of NParks’ living laboratories, Chong Ren explains.
 <br><br>
@@ -32,7 +32,6 @@ His work involves actively seeking and test-bedding new technologies and innovat
 One example is the integrated management system (IMS). In a nutshell, this system allows park staff to know what’s happening on the ground at any time, at a glance. It combines various sensor systems — from smart bins with bin capacity sensors and light fault reporting systems to environmental sensors that monitor water quality and weather — all in one automated and centralised platform. To implement the IMS, Chong Ren needed to ensure that the different sensors and systems can communicate and transmit information effectively.
 <br>
 <br>
-
 ![Nparks3](/images/s1.3.jpg)
 <br>
 *The integrated management system allows staff at Jurong Lake Gardens to know what’s happening on the ground at a glance. (Photo credit: NParks)* 
@@ -50,7 +49,6 @@ NParks is also exploring technologies that could improve visitor experience at J
 <br>
 *NParks is currently testing the use of an 11-seater autonomous vehicle to bring visitors around Lakeside Garden, the western section of Jurong Lake Gardens. (Photo credit: NParks)*
 <br>
-<br>
 ## Growing at Work
 While Chong Ren’s interest in technology is partly because he is an avid fan of the Star Wars franchise, technology hasn’t always been a part of his job. He first began in the Streetscape division in 2013, where he was in charge of caring for roadside trees and ensuring that they were well maintained.
 <br><br>
@@ -60,7 +58,6 @@ Take Rasau Walk, a meandering boardwalk on the fringe of the waterfront area, fo
 <br>
 <br>
 ![Nparks1](/images/s1.5.jpg)
-<br>
 *You can spot many different types of waterbirds at Rasau Walk in Jurong Lake Gardens. (Photo credit: NParks)*
 <br>
 <br>
