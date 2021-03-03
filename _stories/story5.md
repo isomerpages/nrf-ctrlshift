@@ -24,7 +24,7 @@ The Smart Hub is a shining example of how HDB leverages Information and Communic
 
 ![HDB](/images/s4.2.jpg)
 <br>
-Caption: The HDB Smart Hub acts as the central brain that oversees the health of all housing estates and building systems. (Photo credit: HDB)
+*Caption: The HDB Smart Hub acts as the central brain that oversees the health of all housing estates and building systems. (Photo credit: HDB)*
 <br>
 
 Here’s how it works. First, sensors are installed on estate fixtures like common area lighting to capture real-time information — for example, ambient light levels, energy used, and even nearby motion-sensing which helps brighten residents’ paths. The sensors then feed this data back to the Smart Hub. Engineers like Zacary work in tandem with estate managers, tech companies and university researchers to analyse the collected data. Insights gleaned will then be used towards saving energy, optimising maintenance cycles and even predicting issues before they occur. For instance, lighting sensors enable HDB to understand human traffic patterns and optimise the provision of lighting. The lighting in common areas would be dimmed slightly if no human traffic is detected, and this reduces energy usage by as much as 60%.
