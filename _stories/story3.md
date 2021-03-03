@@ -7,7 +7,6 @@ collection_name: stories
 ---
 
 # <b>A Greener Singapore, One Building at a Time</b>
-<br>
 Meet the woman who is helping to engineer what’s next in low-energy buildings for a greener Singapore. 
 <br>
 
@@ -26,7 +25,6 @@ That’s where Lee Si Min comes in. A senior engineer at the Building and Constr
 Supporting BCA’s mission to green up Singapore’s structures, Si Min is the secretariat of the taskforce on “Pushing Boundaries towards Net Zero Energy”. “I review the Green Building framework and standards,” she notes, “and develop strategies to build a robust ecosystem to encourage the adoption of SLE buildings in Singapore.”  
 
 ## Simple Green Touches
-<br>
 There is a host of next-generation technology that can be used to make buildings more eco-friendly, from sensors that adjust lighting levels depending on occupancy levels, to machine learning that optimises an entire skyscraper’s intelligent building control systems.
 
 <br>
@@ -42,7 +40,6 @@ On a larger scale, part of BCA’s remit is to encourage more stakeholders in Si
 Si Min is also involved in developing the next edition of the Green Building Masterplan, a document that lays out the landscape and opportunities for Singapore structures to modernise sustainably. Engaging a broad swathe of stakeholders, such as trade associations, tenants, home buyers and interest groups, ensures that everyone is a part of the conversation and has a voice in creating the masterplan.  
 
 ## Challenges and Hope Ahead 
-<br>
 Slashing energy output will not be easy. “The key challenge faced is that buildings come in various types and sizes: there is no one-size-fits-all solution,” notes Si Min. That’s why it’s so vital, she adds, “to understand the constraints of the building typologies and develop bespoke criteria that will best suit the structure.” 
 <br>
 But despite the trials, Si Min’s passion for her career is anything but low energy. Knowing that her career contributes meaningful to mitigating climate change by reducing Singapore’s carbon footprint, she says, “gives me a lot of satisfaction and motivation.” That passion inspires her day-to-day life, too. “I am more aware of how my actions impact the environment,” laughs Si Min. “I now proactively try to influence my friends and family members to live more sustainably too.”  
