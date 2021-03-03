@@ -29,7 +29,6 @@ A fond childhood memory of his is attending the GardenTech event organised by Na
 
 ![Nparks4](/images/s1.4.jpg)
 <br>
-
 Caption: NParks is currently testing the use of an 11-seater autonomous vehicle to bring visitors around Lakeside Garden, the western section of Jurong Lake Gardens. (Photo credit: NParks)
 <br>
 <br>
