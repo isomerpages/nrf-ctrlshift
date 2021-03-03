@@ -28,7 +28,7 @@ Lycopene, the compound that gives tomatoes their red colour, is an antioxidant a
 
 ![Nparks2](/images/s5.2.jpg)
 <br>
-Caption: Dr Chen (centre) and her teammates with the extracted lycopene. (Photo credit: A STAR)
+*Caption: Dr Chen (centre) and her teammates with the extracted lycopene. (Photo credit: A STAR)*
 <br>
 
 BioTrans’ approach is to culture bacteria via a bioreactor to produce lycopene in a more sustainable and scalable manner. By grafting tomato enzymes onto microbial cells, Dr Chen and her team are able to extract 30 grams of lycopene crystals from one kilogram of microbial cells — equivalent to more than 1,000 times the amount of lycopene produced naturally! Producing lycopene in the lab also requires significantly less land and water than growing tomatoes via traditional farming methods. 
