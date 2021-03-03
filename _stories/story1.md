@@ -20,7 +20,6 @@ Today, Chong Ren works at NParks as the deputy director of development at Jurong
 Chong Ren doesn’t just work with plants; a large part of his work involves technology as well.
 <br><br>
 ![Nparks2](/images/s1.2.jpg)
-<br>
 *Jurong Lake Gardens is Singapore’s first national gardens to be located in the heartlands, and it is home to many attractions such as the Grasslands. (Photo credit: NParks)*
 <br>
 
@@ -33,7 +32,6 @@ One example is the integrated management system (IMS). In a nutshell, this syste
 <br>
 <br>
 ![Nparks3](/images/s1.3.jpg)
-<br>
 *The integrated management system allows staff at Jurong Lake Gardens to know what’s happening on the ground at a glance. (Photo credit: NParks)* 
 <br>
 <br>
@@ -46,7 +44,6 @@ NParks is also exploring technologies that could improve visitor experience at J
 <br>
 
 ![Nparks4](/images/s1.4.jpg)
-<br>
 *NParks is currently testing the use of an 11-seater autonomous vehicle to bring visitors around Lakeside Garden, the western section of Jurong Lake Gardens. (Photo credit: NParks)*
 <br>
 ## Growing at Work
