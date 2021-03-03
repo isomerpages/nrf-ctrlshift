@@ -7,6 +7,8 @@ collection_name: stories
 ---
 
 # <b>A Greener Singapore, One Building at a Time</b>
+![BCA](/images/s2.1.jpg)
+<br>
 Meet the woman who is helping to engineer what’s next in low-energy buildings for a greener Singapore. 
 <br>
 
@@ -26,7 +28,9 @@ Supporting BCA’s mission to green up Singapore’s structures, Si Min is the s
 
 ## Simple Green Touches
 There is a host of next-generation technology that can be used to make buildings more eco-friendly, from sensors that adjust lighting levels depending on occupancy levels, to machine learning that optimises an entire skyscraper’s intelligent building control systems.
+<br>
 
+![BCA](/images/s2.2.jpg)
 <br>
 * Caption: BCA launched the BCA SkyLab with the aim of test-bedding innovative energy-efficient technologies that can help Singapore construct greener buildings. (Photo credit: BCA)  
 <br>
