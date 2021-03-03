@@ -24,7 +24,7 @@ That’s where Lee Si Min comes in. A senior engineer at the Building and Constr
 “I am currently involved in formulating policies and strategies to make the adoption of Super Low Energy or SLE Buildings in Singapore mainstream,” Si Min says. “A SLE building achieves at least 40% energy savings based on the prevailing code. Such buildings push the boundaries of energy efficiency, helping us move toward a low-carbon built environment.”
 <br>
 <br>
-Supporting BCA’s mission to green up Singapore’s structures, Si Min is the secretariat of the taskforce on “Pushing Boundaries towards Net Zero Energy”. “I review the Green Building framework and standards,” she notes, “and develop strategies to build a robust ecosystem to encourage the adoption of SLE buildings in Singapore.”  
+Supporting BCA’s mission to green up Singapore’s structures, Si Min is the secretariat of the taskforce on “Pushing Boundaries towards Net Zero Energy”. “I review the Green Building framework and standards,” she notes, “and develop strategies to build a robust ecosystem to encourage the adoption of SLE buildings in Singapore.”
 <br>
 ## Simple Green Touches
 There is a host of next-generation technology that can be used to make buildings more eco-friendly, from sensors that adjust lighting levels depending on occupancy levels, to machine learning that optimises an entire skyscraper’s intelligent building control systems.
@@ -34,7 +34,7 @@ There is a host of next-generation technology that can be used to make buildings
 *BCA launched the BCA SkyLab with the aim of test-bedding innovative energy-efficient technologies that can help Singapore construct greener buildings. (Photo credit: BCA)*
 <br>
 <br>
-When it comes to changing attitudes towards energy use, even small touches can make a difference, and in these cases the BCA practises what it preaches. Si Min suggested a simple energy-saving solution: switch off the overhead lights when the team goes out for lunch. “Building occupants contribute around half the total energy usage in a building,” she shares.  
+When it comes to changing attitudes towards energy use, even small touches can make a difference, and in these cases the BCA practises what it preaches. Si Min suggested a simple energy-saving solution: switch off the overhead lights when the team goes out for lunch. “Building occupants contribute around half the total energy usage in a building,” she shares.
 <br>
 <br>
 On a larger scale, part of BCA’s remit is to encourage more stakeholders in Singapore to take up the (low-energy) torch. In 2018, they invited Singapore’s government agencies to take on the SLE Challenge. As a result, the Defence Science and Technology Agency worked with the Army to lessen energy usage in Seletar and Kranji Camps. Their solutions tapped on the best of Mother Nature, as teams designed buildings for optimal natural ventilation, crafted solar light pipes that maximise the sunlight channelled into a building, and used mass engineered timber, a sustainable material, for the buildings. Simple enough solutions, yet the result was an energy saving the equivalent to the annual electricity consumption of 116 four-bedroom HDBs.
