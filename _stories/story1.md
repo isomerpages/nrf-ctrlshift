@@ -35,6 +35,7 @@ Caption: NParks is currently testing the use of an 11-seater autonomous vehicle 
 <br>
 Today, Chong Ren works at NParks as the deputy director of development at Jurong Lake Gardens — Singapore’s third national garden and the first to be located in the heartlands. “I decided that I wanted to work on something that I’m personally passionate about,” he explains.
 <br>
+<br>
 ![Nparks1](/images/s1.5.jpg)
 <br>
 Caption: You can spot many different types of waterbirds at Rasau Walk in Jurong Lake Gardens. (Photo credit: NParks)
