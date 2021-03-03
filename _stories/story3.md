@@ -25,7 +25,6 @@ That’s where Lee Si Min comes in. A senior engineer at the Building and Constr
 <br>
 
 Supporting BCA’s mission to green up Singapore’s structures, Si Min is the secretariat of the taskforce on “Pushing Boundaries towards Net Zero Energy”. “I review the Green Building framework and standards,” she notes, “and develop strategies to build a robust ecosystem to encourage the adoption of SLE buildings in Singapore.”  
-<br>
 
 ## Simple Green Touches
 <br>
@@ -42,7 +41,6 @@ On a larger scale, part of BCA’s remit is to encourage more stakeholders in Si
 <br>
 
 Si Min is also involved in developing the next edition of the Green Building Masterplan, a document that lays out the landscape and opportunities for Singapore structures to modernise sustainably. Engaging a broad swathe of stakeholders, such as trade associations, tenants, home buyers and interest groups, ensures that everyone is a part of the conversation and has a voice in creating the masterplan.  
-<br>
 
 ## Challenges and Hope Ahead 
 <br>
