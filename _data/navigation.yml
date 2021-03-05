@@ -23,10 +23,27 @@
     url: /experts/experts5/
   - title: Shaping Dynamic Living Spaces through Technology 
     url: /experts/experts6/
-    
+ 
+ 
 - title: Take the Profiler Quiz
   url: https://profiler.engineerwhatsnext.gov.sg/
 
+
+- title: What's Next Stories
+  url: /stories/greener-singapore-one-building-at-a-time/
+  sub-links:
+  - title: A Greener Singapore, One Building at a Time
+    url: /stories/greener-singapore-one-building-at-a-time/
+  - title: Revolutionising the Future of Nutrition
+    url: /stories/revolutionising-the-future-of-nutrition/
+  - title: Smart Homes - How Technology is Changing Your HDB Estate
+    url: /stories/smart-homes-technology-changing-hdb-estate/
+  - title: Shoring Up Sustainability - Reshaping the Coastline of Pulau Tekong
+    url: /stories/sustainability-reshaping-coastline-of-pulau-tekong/
+  - title: Tech at Play - Rolling Out Innovations at Jurong Lake Gardens
+    url: /stories/tech-innovations-jurong-lake-gardens/
+
+    
 - title: Sign up for Virtual Career Fair
   url: https://go.gov.sg/ste-vcf
 
