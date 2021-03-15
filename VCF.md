@@ -14,7 +14,44 @@ We are happy to share insights from thought leaders and professionals in the Sci
 Mr Frederick Chew, Chief, Public Sector Science & Technology Policy & Plans Office, Prime Minister's Office/CEO, A STAR opened the inaugural event with an address on why STE capabilities continue to be important for the Public Service and for Singapore.
 <br>
 <div class="bp-youtube">
-<iframe width="1248" height="702" src="https://www.youtube.com/embed/7iA-pOVms8Y" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cA6CQanEtMk" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <br>
-
+We heard from thought leaders on how they push the boundaries of innovation to strengthen food resilience, develop world-class public housing and create a sustainable transport system of the future.
+<br>
+<br>
+<b>Keynote 1: Spice Up Your Life... with Food Science & Tech</b>
+Dr Hazel Khoo, Executive Director of Singapore Institute of Food and Biotechnology Innovation (SIFBI) at ASTAR brought the passionate work of public sector food tech scientists to life through stories from SIFBI; giving us plenty of food for thought.
+<br>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RDRuS3SaDFw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+<b>Keynote 2: Making a Difference in Public Housing Development through Technology</b>
+Dr Johnny Wong, Chief Technology Officer of MND and Group Director for HDB’s Building & Research Institute shared HDB’s journey in developing world-class public housing, while pushing the boundaries of Construction, Sustainability & Smart Towns.
+<br>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aBWYSNc5lM0" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+<b>Keynote 3: Technology in the Future of Urban Mobility in Singapore</b>
+Mr Lam Wee Shann, Chief Innovation & Technology Officer at Land Transport Authority (LTA) discussed how technology like autonomous and electric vehicles solve urban mobility challenges and make land transport more connected, comfortable and sustainable.
+<br>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nzXjuXZaZAA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+<b>Panel Discussion 1: Ask Your Questions!</b>
+Dr Hazel Khoo, Dr Johnny Wong and Mr Lam Wee Shann joined moderator Roy Yuen, Assistant Manager at Singapore Land Authority (SLA) to answer your questions, and shared more about their views on STE careers in the Public Service
+<br>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bf0xPTxbY9M" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+<b>Panel Discussion 2: Ask Your Questions!</b>
+Lee Silin, Senior Forensic Examiner, Technology Crime Forensic Branch at HTX, Eric Ong, Director (Streetscape) at National Parks Board (NParks) and Evert Mulder, Executive Surveyor, Survey & Geomatics Division at Singapore Land Authority (SLA) joined moderator Roy Yuen, Assistant Manager at Singapore Land Authority (SLA) for a second panel discussion to answer your questions, and shared their experiences around joining the Public Service
+<br>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hhb-aKRfDmM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
