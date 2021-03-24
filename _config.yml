@@ -2,7 +2,7 @@ title: Government of Singapore
 title-abbreviated: Engineer What's Next Team
 description: >- # this means to ignore newlines until "baseurl:"
   Description
-url: "https://www.engineerwhatsnext.sg" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://www.engineerwhatsnext.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
@@ -56,4 +56,4 @@ collections:
   engineering-careers:
     output: true
 resources_name: resource-room
-google_analytics: UA-73732262-1
+google_analytics: UA-73732262-2
