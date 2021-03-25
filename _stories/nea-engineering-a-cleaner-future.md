@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
 title: Waste Not, Want Not - Engineering a Cleaner Future
-permalink: /stories/engineering-a-cleaner-future/
-breadcrumb: /What's Next stories/Engineering a Cleaner Future
+permalink: /stories/nea-engineering-a-cleaner-future/
+breadcrumb: /What's Next stories/Waste Not, Want Not - Engineering a Cleaner Future
 collection_name: stories
 ---
 # <b>Waste Not, Want Not - Engineering a Cleaner Future</b>
