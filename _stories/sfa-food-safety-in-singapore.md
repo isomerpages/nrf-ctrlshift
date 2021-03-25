@@ -1,7 +1,7 @@
 ---
 layout: leftnav-page-content
 title: Safety on Your Plate – Ensuring Food Safety in Singapore
-permalink: /stories/food-safety-in-singapore/
+permalink: /stories/sfa-food-safety-in-singapore/
 breadcrumb: /What's Next stories/Safety on Your Plate – Ensuring Food Safety in Singapore
 collection_name: stories
 ---
