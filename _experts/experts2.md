@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Powering EVs for a Greener Future
+title: 'Powering EVs for a Greener Future'
 permalink: /experts/experts2/
-breadcrumb: /Meet the Experts/Harmesh Singh Dhillon, LTA
-collection_name: experts
+breadcrumb: '/Meet the Experts/Harmesh Singh Dhillon, LTA'
+
 ---
+
 
 <br>
 <div class="bp-youtube">
