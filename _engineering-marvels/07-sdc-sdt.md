@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Flood-free Orchard Road
+title: 'Flood-free Orchard Road'
 permalink: /engineering-marvels/sdc-sdt/
-breadcrumb: KEEPING ORCHARD ROAD FLOOD-FREE
-collection_name: engineering-marvels
+breadcrumb: 'KEEPING ORCHARD ROAD FLOOD-FREE'
+
 ---
+
 
 ![floodfree](/images/floodfree.jpg)
 
