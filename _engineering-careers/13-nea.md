@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: NEA
 permalink: /engineering-careers/nea/
 breadcrumb: NEA
-collection_name: engineering-careers
+
 ---
+
 
 <img src="/images/nea.png" alt="nea" style="width:393px;height:110px;" align="left">
 <br clear="left">
