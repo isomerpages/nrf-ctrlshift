@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: A Better Home for People and Wildlife
+title: 'A Better Home for People and Wildlife'
 permalink: /experts/experts5/
-breadcrumb: /Meet the Experts/Nurul Rekha, NParks
-collection_name: experts
+breadcrumb: '/Meet the Experts/Nurul Rekha, NParks'
+
 ---
+
 
 <br>
 <div class="bp-youtube">
