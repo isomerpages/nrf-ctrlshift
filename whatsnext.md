@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 permalink: /whatsnext/
-breadcrumb: Whats next
-title: What's Next
+breadcrumb: 'Whats next'
+title: 'What''s Next'
+
 ---
+
 
 <b>About What's Next</b>
 <br>
