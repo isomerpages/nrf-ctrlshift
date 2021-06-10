@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Ahmad Nadim bin Zainal 
+title: 'Ahmad Nadim bin Zainal'
 permalink: /meet-the-engineers/ahmad-nadim/
-breadcrumb: Adhmad Nadim bin Zainal
-collection_name:  meet-the-engineers
+breadcrumb: 'Adhmad Nadim bin Zainal'
+
 ---
+
 
 <img src="/images/nadim.jpg" alt="Ahmad Nadim" style="width:222px;height:278px;" align="left">
 <br clear="left">
