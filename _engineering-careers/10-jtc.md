@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: JTC
 permalink: /engineering-careers/jtc/
 breadcrumb: JTC
-collection_name: engineering-careers
+
 ---
+
 
 <img src="/images/jtc.png" alt="jtc" style="width:300px;height:300px;" align="left">
 <br clear="left">
