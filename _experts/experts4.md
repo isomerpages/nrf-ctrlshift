@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Enhancing Food Resilience with Plant Proteins
+title: 'Enhancing Food Resilience with Plant Proteins'
 permalink: /experts/experts4/
-breadcrumb: /Meet the Experts/Chiang Jie Hong, A*STAR
-collection_name: experts
+breadcrumb: '/Meet the Experts/Chiang Jie Hong, A*STAR'
+
 ---
+
 
 <br>
 <div class="bp-youtube">
