@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Integrated Digital Delivery
+title: 'Integrated Digital Delivery'
 permalink: /engineering-marvels/idd/
-breadcrumb: Integrated Digital Delivery
-collection_name: engineering-marvels
+breadcrumb: 'Integrated Digital Delivery'
+
 ---
+
 
 ![IDD](/images/IDD.jpg)
 
