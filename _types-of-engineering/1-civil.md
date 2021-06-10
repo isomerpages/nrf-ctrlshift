@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Civil
 permalink: /types-of-engineering/civil/
 breadcrumb: Civil
-collection_name: types-of-engineering
+
 ---
+
 
 As a Civil Engineer, you will build the world’s infrastructures, both modest and magnificent, making the world a more habitable place to live in.As one of the broadest fields in engineering, Civil Engineering deals with the planning, construction, operation and maintenance of fixed structures or public infrastructure. With ever-changing needs in how we live, work, travel and play, you will continue to seek innovative solutions to develop and design a better living environment for all.
 
