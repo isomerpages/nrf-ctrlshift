@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Electronic Tourist Refund Scheme
+title: 'Electronic Tourist Refund Scheme'
 permalink: /engineering-marvels/etrs/
-breadcrumb: Electronic Tourist Refund Scheme
-collection_name: engineering-marvels
+breadcrumb: 'Electronic Tourist Refund Scheme'
+
 ---
+
 
 ![etrs](/images/etrs.png)
 
