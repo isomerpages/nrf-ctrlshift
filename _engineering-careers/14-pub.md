@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: PUB
 permalink: /engineering-careers/pub/
 breadcrumb: PUB
-collection_name: engineering-careers
+
 ---
+
 
 <img src="/images/pub.jpg" alt="pub" style="width:276px;height:193px;" align="left">
 <br clear="left">
