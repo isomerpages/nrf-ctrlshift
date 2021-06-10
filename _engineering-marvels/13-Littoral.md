@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Littoral Mission Vessel
+title: 'Littoral Mission Vessel'
 permalink: /engineering-marvels/Littoral/
-breadcrumb: Littoral Mission Vessel
-collection_name: engineering-marvels
+breadcrumb: 'Littoral Mission Vessel'
+
 ---
+
 
 ![Littoral](/images/Littoral.jpg)
 
