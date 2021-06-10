@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Singapore LNG Terminal
+title: 'Singapore LNG Terminal'
 permalink: /engineering-marvels/LNG/
-breadcrumb: Singapore LNG Terminal
-collection_name: engineering-marvels
+breadcrumb: 'Singapore LNG Terminal'
+
 ---
+
 
 ![LNGterm](/images/LNGterm.jpg)
 
