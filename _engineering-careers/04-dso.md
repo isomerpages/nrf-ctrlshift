@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: DSO
 permalink: /engineering-careers/dso/
 breadcrumb: DSO
-collection_name: engineering-careers
+
 ---
+
 
 
 <img src="/images/dso.jpg" alt="dso" style="width:300px;height:180px;" align="left">
