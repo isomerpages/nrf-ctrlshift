@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Integrated Waste Management
+title: 'Integrated Waste Management'
 permalink: /engineering-marvels/iwmf/
-breadcrumb: Integrated Waste Management
-collection_name: engineering-marvels
+breadcrumb: 'Integrated Waste Management'
+
 ---
+
 
 ![wastenot](/images/wastenot.jpg)
 
