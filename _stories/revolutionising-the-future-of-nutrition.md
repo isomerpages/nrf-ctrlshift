@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Revolutionising the Future of Nutrition
+title: 'Revolutionising the Future of Nutrition'
 permalink: /stories/revolutionising-the-future-of-nutrition/
-breadcrumb: /What's Next stories/Revolutionising the Future of Nutrition
-collection_name: stories
+breadcrumb: '/What''s Next stories/Revolutionising the Future of Nutrition'
+
 ---
+
 # <b>Revolutionising the Future of Nutrition</b>
 ![Nparks2](/images/s5.1.jpg)
 <br>
