@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Norman Tan
+title: 'Norman Tan'
 permalink: /meet-the-engineers/norman/
-breadcrumb: Norman Tan
-collection_name: meet-the
+breadcrumb: 'Norman Tan'
+
 ---
+
 
 <img src="/images/Norman Tan.jpg" alt="Norman Tan" style="width:222px;height:278px;" align="left">
 <br clear="left">
