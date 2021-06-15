@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Transforming the Future of Rail
+title: 'Transforming the Future of Rail'
 permalink: /stories/transforming-the-future-of-rail/
-breadcrumb: /What's Next stories/Transforming the Future of Rail
-collection_name: stories
+breadcrumb: '/What''s Next stories/Transforming the Future of Rail'
+
 ---
+
 
 # <b>Transforming the Future of Rail</b>
 ![LTA](/images/LTA_Low%20Aik%20Seng%202.jpg)
