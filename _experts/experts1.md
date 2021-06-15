@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Building a Next-generation Port
+title: 'Building a Next-generation Port'
 permalink: /experts/experts1/
-breadcrumb: /Meet the Experts/Cheong Yiting, MPA
-collection_name: experts
+breadcrumb: '/Meet the Experts/Cheong Yiting, MPA'
+
 ---
+
 <br>
 <div class="bp-youtube">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JxOFDQi9P58" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
