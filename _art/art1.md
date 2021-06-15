@@ -1,8 +1,8 @@
 ---
 layout: leftnav-page-content
-title: Tech at Play: Rolling Out Innovations at Jurong Lake Gardens
+title: "Tech at Play: Rolling Out Innovations at Jurong Lake Gardens"
 permalink: /art/art1/
-breadcrumb: Tech at Play: Rolling Out Innovations at Jurong Lake Gardens
+breadcrumb: "Tech at Play: Rolling Out Innovations at Jurong Lake Gardens"
 collection_name: art
 ---
 
