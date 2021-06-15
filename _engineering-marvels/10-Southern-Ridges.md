@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Southern Ridges
+title: 'Southern Ridges'
 permalink: /engineering-marvels/Southern-Ridges/
-breadcrumb: Southern Ridges
-collection_name: engineering-marvels
+breadcrumb: 'Southern Ridges'
+
 ---
+
 
 ![Ridges](/images/Ridges.jpg)
 
