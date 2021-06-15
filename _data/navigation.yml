@@ -5,8 +5,8 @@ links:
     - title: 'Virtual Career Fair 2021'
       url: /vcf/
     - title: 'Meet the Professionals'
-      collection: meet-the-professionals
+      collection: experts
     - title: 'Take the Profiler Quiz'
       url: 'https://profiler.engineerwhatsnext.gov.sg/'
     - title: 'What''s Next Stories'
-      collection: whats-next-stories
+      collection: stories
