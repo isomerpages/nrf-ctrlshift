@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: CPF
 permalink: /engineering-careers/cpf/
 breadcrumb: CPF
-collection_name: engineering-careers
+
 ---
+
 
 <img src="/images/cpf-logo.png" alt="cpf" style="width:200px;height:200px;" align="left">
 <br clear="left">

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Mechanical
 permalink: /types-of-engineering/mechanical/
 breadcrumb: Mechanical
-collection_name: types-of-engineering
+
 ---
+
 
 Mechanical Engineers deeply understand the relationships between motion, energy and force. They use their knowledge to design products and systems, crafting mechanical solutions that help satisfy the needs of society. From mobile phones to biomedical devices, and even aeroplanes, the creations of these engineers are everywhere. While Electrical Engineers power the devices they create, Mechanical Engineers determine the form of the devices. As such, their prints are everywhere in our lives.
 

@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Smart Planning For Hdb Towns & Estates
+title: 'Smart Planning For Hdb Towns & Estates'
 permalink: /engineering-marvels/Smart-Plan/
-breadcrumb: Smart Planning For Hdb Towns & Estates
-collection_name: engineering-marvels
+breadcrumb: 'Smart Planning For Hdb Towns & Estates'
+
 ---
+
 
 ![smartplan](/images/smartplan.jpg)
 

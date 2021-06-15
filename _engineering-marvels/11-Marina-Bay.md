@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Marina Bay
+title: 'Marina Bay'
 permalink: /engineering-marvels/Marina-Bay/
-breadcrumb: Marina Bay
-collection_name: engineering-marvels
+breadcrumb: 'Marina Bay'
+
 ---
+
 
 ![Marina](/images/Marina.jpg)
 

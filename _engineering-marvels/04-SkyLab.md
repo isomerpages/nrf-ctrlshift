@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: SkyLab
 permalink: /engineering-marvels/SkyLab/
 breadcrumb: SkyLab
-collection_name: engineering-marvels
+
 ---
+
 
 ![Skylab](/images/Skylab.jpg)
 

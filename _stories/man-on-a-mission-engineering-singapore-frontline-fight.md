@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Man on a Mission – Engineering Singapore’s Frontline Fight
+title: 'Man on a Mission – Engineering Singapore’s Frontline Fight'
 permalink: /stories/man-on-a-mission-engineering-singapore-frontline-fight/
-breadcrumb: /What's Next stories/Engineering Singapore's Frontline Fight
-collection_name: stories
+breadcrumb: '/What''s Next stories/Engineering Singapore''s Frontline Fight'
+
 ---
+
 # <b>Man on a Mission – Engineering Singapore’s Frontline Fight</b>
 ![HTX](/images/HTX_Samuel%20Seah.jpg)
 <br>

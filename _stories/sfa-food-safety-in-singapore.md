@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Safety on Your Plate – Ensuring Food Safety in Singapore
+title: 'Safety on Your Plate – Ensuring Food Safety in Singapore'
 permalink: /stories/sfa-food-safety-in-singapore/
-breadcrumb: /What's Next stories/Safety on Your Plate – Ensuring Food Safety in Singapore
-collection_name: stories
+breadcrumb: '/What''s Next stories/Safety on Your Plate – Ensuring Food Safety in Singapore'
+
 ---
+
 # <b>Safety on Your Plate – Ensuring Food Safety in Singapore</b>
 ![SFA](/images/SFA_Johnny%20Yeung.jpg)
 <br>

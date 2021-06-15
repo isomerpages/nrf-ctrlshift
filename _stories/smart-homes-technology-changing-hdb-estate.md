@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Smart Homes - How Technology is Changing Your HDB Estate
+title: 'Smart Homes - How Technology is Changing Your HDB Estate'
 permalink: /stories/smart-homes-technology-changing-hdb-estate/
-breadcrumb: /What's Next stories/How Technology is Changing Your HDB Estate
-collection_name: stories
+breadcrumb: '/What''s Next stories/How Technology is Changing Your HDB Estate'
+
 ---
+
 
 # <b> Smart Homes - How Technology is Changing Your HDB Estate</b>
 ![HDB](/images/s4.1.jpg)

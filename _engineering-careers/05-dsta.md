@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: DSTA
 permalink: /engineering-careers/dsta/
 breadcrumb: DSTA
-collection_name: engineering-careers
+
 ---
+
 
 <img src="/images/dsta.png" alt="dsta" style="width:290px;height:110px;" align="left">
 <br clear="left">

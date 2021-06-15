@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Electrical
 permalink: /types-of-engineering/electrical/
 breadcrumb: Electrical
-collection_name: types-of-engineering
+
 ---
+
 
 Electrical Engineers specialise in the generation and supply of power. Many of our everyday gadgets, such as the iPhones and tablets cannot function without power. Electrical Engineers design, develop, test and supervise the manufacture of these gadgets, making sure that they can charge faster, last longer and be safer to use. They are also indispensable in the running of towns, lighting the buildings and roads within, making sure that Singapore and the world is lighted 24/7.
 

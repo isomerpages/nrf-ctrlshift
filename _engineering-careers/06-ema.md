@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: EMA
 permalink: /engineering-careers/ema/
 breadcrumb: EMA
-collection_name: engineering-careers
+
 ---
+
 
 <img src="/images/ema.jpg" alt="ema" style="width:300px;height:174px;" align="left">
 <br clear="left">

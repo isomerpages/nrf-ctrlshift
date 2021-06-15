@@ -1,69 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-- title: About What's Next
-  url: /whatsnext/
-  
-- title: Virtual Career Fair 2021
-  url: /vcf/
-
-
-- title: Meet the Professionals
-  url: /experts/experts1/
-  sub-links:
-  - title: Building a Next-generation Port
-    url: /experts/experts1/
-  - title: Powering EVs for a Greener Future
-    url: /experts/experts2/
-  - title: Ensuring Food Safety in Singapore
-    url: /experts/experts3/
-  - title: Enhancing Food Resilience with Plant Protein
-    url: /experts/experts4/
-  - title: A Better Home for People and Wildlife
-    url: /experts/experts5/
-  - title: Shaping Dynamic Living Spaces through Technology 
-    url: /experts/experts6/
- 
- 
-- title: Take the Profiler Quiz
-  url: https://profiler.engineerwhatsnext.gov.sg/
-
-
-- title: What's Next Stories
-  url: /stories/greener-singapore-one-building-at-a-time/
-  sub-links:
-  - title: A Greener Singapore, One Building at a Time
-    url: /stories/greener-singapore-one-building-at-a-time/
-  - title: Man on a Mission – Engineering Singapore’s Frontline Fight
-    url: /stories/man-on-a-mission-engineering-singapore-frontline-fight/
-  - title: Mapping the Smart Future with 3D Data
-    url: /stories/mapping-smart-future-3d-data/
-  - title: Waste Not, Want Not - Engineering a Cleaner Future
-    url: /stories/nea-engineering-a-cleaner-future/
-  - title: Revolutionising the Future of Nutrition
-    url: /stories/revolutionising-the-future-of-nutrition/
-  - title: Safety on Your Plate – Ensuring Food Safety in Singapore
-    url: /stories/sfa-food-safety-in-singapore/   
-  - title: Smart Homes - How Technology is Changing Your HDB Estate
-    url: /stories/smart-homes-technology-changing-hdb-estate/
-  - title: Shoring Up Sustainability - Reshaping the Coastline of Pulau Tekong
-    url: /stories/sustainability-reshaping-coastline-of-pulau-tekong/
-  - title: Tech at Play - Rolling Out Innovations at Jurong Lake Gardens
-    url: /stories/tech-innovations-jurong-lake-gardens/
-  - title: Transforming the Future of Rail
-    url: /stories/transforming-the-future-of-rail/ 
-
-
-
-#- title: Resource Room
-#  url: /resource-room/
-#  sub-links:
-#  - title: All
-#    url: /resource-room/
-#  - title: Subcategory A
-#    url: /resource-room/subcategory-A/
-#  - title: Subcategory B
-#    url: /resource-room/subcategory-B/
+logo: /images/logo2.png
+links:
+    - title: 'About What''s Next'
+      url: /whatsnext/
+    - title: 'Virtual Career Fair 2021'
+      url: /vcf/
+    - title: 'Meet the Professionals'
+      collection: experts
+    - title: 'Take the Profiler Quiz'
+      url: 'https://profiler.engineerwhatsnext.gov.sg/'
+    - title: 'What''s Next Stories'
+      collection: stories

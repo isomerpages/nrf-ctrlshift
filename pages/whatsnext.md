@@ -1,9 +1,10 @@
 ---
-layout: simple-page
 permalink: /whats-next/
-breadcrumb: Whats next
-title: Whats Next
+breadcrumb: 'Whats next'
+title: 'Whats Next'
+
 ---
+
 
 See how a new generation of engineers is shaping the future of Singapore.
 

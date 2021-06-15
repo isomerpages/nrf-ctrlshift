@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Parents Gateway
+title: 'Parents Gateway'
 permalink: /engineering-marvels/Parents-Gateway/
-breadcrumb: Parents Gateway
-collection_name: engineering-marvels
+breadcrumb: 'Parents Gateway'
+
 ---
+
 
 ![Parents](/images/parents.jpg)
 

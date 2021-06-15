@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Laura Lee
+title: 'Laura Lee'
 permalink: /meet-the-engineers/laura/
-breadcrumb: Laura Lee
-collection_name: meet-the
+breadcrumb: 'Laura Lee'
+
 ---
+
 
 <img src="/images/Laura.png" alt="Laura Lee" style="width:222px;height:278px;" align="left">
 <br clear="left">

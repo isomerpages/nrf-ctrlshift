@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Chua Wee Liang
+title: 'Chua Wee Liang'
 permalink: /meet-the-engineers/Chua-Wee-Liang/
-breadcrumb: Chua Wee Liang
-collection_name: meet-the
+breadcrumb: 'Chua Wee Liang'
+
 ---
+
 
 <img src="/images/Wee Liang.jpg" alt="Wee Liang" style="width:222px;height:278px;" align="left">
 <br clear="left">

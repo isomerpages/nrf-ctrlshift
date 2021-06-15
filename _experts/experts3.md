@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Ensuring Food Safety in Singapore
+title: 'Ensuring Food Safety in Singapore'
 permalink: /experts/experts3/
-breadcrumb: /Meet the Experts/Lim Jia Qi (SFA)
-collection_name: experts
+breadcrumb: '/Meet the Experts/Lim Jia Qi (SFA)'
+
 ---
+
 
 <br>
 <div class="bp-youtube">
