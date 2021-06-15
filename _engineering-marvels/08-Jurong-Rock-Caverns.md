@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Jurong Rock Caverns
+title: 'Jurong Rock Caverns'
 permalink: /engineering-marvels/Jurong-Rock-Caverns/
-breadcrumb: Jurong Rock Caverns
-collection_name: engineering-marvels
+breadcrumb: 'Jurong Rock Caverns'
+
 ---
+
 
 ![Caverns](/images/Caverns.jpg)
 
