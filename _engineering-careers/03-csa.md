@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: CSA
 permalink: /engineering-careers/csa/
 breadcrumb: CSA
-collection_name: engineering-careers
+
 ---
+
 
 
 <img src="/images/csa.jpg" alt="csa" style="width:274px;height:193px;" align="left">
