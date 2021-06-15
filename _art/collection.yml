@@ -1,0 +1,5 @@
+collections:
+  art:
+    output: true
+    order:
+      - rolling-out-innovations-at-jurong-lake-gardens.md

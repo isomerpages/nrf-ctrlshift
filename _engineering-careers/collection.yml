@@ -1,0 +1,19 @@
+collections:
+  engineering-careers:
+    output: true
+    order:
+      - bca.md
+      - cpf.md
+      - csa.md
+      - dso.md
+      - dsta.md
+      - ema.md
+      - govtech.md
+      - hdb.md
+      - iras.md
+      - jtc.md
+      - lta.md
+      - mindef.md
+      - nea.md
+      - pub.md
+      - ura.md

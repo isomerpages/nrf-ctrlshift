@@ -1,0 +1,20 @@
+collections:
+  engineering-marvels:
+    output: true
+    order:
+      - punggol-digital-district.md
+      - parents-gateway.md
+      - tuas-desalination-plant.md
+      - skylab.md
+      - electronic-tourist-refund-scheme.md
+      - integrated-digital-delivery.md
+      - flood-free-orchard-road.md
+      - jurong-rock-caverns.md
+      - smart-planning-for-hdb-towns-estates.md
+      - southern-ridges.md
+      - marina-bay.md
+      - integrated-waste-management.md
+      - littoral-mission-vessel.md
+      - heron-1-uav.md
+      - singapore-lng-terminal.md
+      - myresponder.md

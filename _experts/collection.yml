@@ -1,0 +1,10 @@
+collections:
+  experts:
+    output: true
+    order:
+      - building-a-next-generation-port.md
+      - powering-evs-for-a-greener-future.md
+      - ensuring-food-safety-in-singapore.md
+      - enhancing-food-resilience-with-plant-proteins.md
+      - a-better-home-for-people-and-wildlife.md
+      - shaping-dynamic-living-spaces-through-technology.md
