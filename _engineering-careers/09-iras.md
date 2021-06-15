@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: IRAS
 permalink: /engineering-careers/iras/
 breadcrumb: IRAS
-collection_name: engineering-careers
+
 ---
+
 
 <img src="/images/Iras.png" alt="Iras" style="width:260px;height:260px;" align="left">
 <br clear="left">
