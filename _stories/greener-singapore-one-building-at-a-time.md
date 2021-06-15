@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: A Greener Singapore, One Building at a Time
+title: 'A Greener Singapore, One Building at a Time'
 permalink: /stories/greener-singapore-one-building-at-a-time/
-breadcrumb: /What's Next stories/story3
-collection_name: stories
+breadcrumb: '/What''s Next stories/story3'
+
 ---
+
 
 # <b>A Greener Singapore, One Building at a Time</b>
 ![BCA](/images/s2.1.jpg)
