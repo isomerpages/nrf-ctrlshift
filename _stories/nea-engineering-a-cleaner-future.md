@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Waste Not, Want Not - Engineering a Cleaner Future
+title: 'Waste Not, Want Not - Engineering a Cleaner Future'
 permalink: /stories/nea-engineering-a-cleaner-future/
-breadcrumb: /What's Next stories/Waste Not, Want Not - Engineering a Cleaner Future
-collection_name: stories
+breadcrumb: '/What''s Next stories/Waste Not, Want Not - Engineering a Cleaner Future'
+
 ---
+
 # <b>Waste Not, Want Not - Engineering a Cleaner Future</b>
 ![NEA](/images/NEA_Sarimbun%20Recycling%20Park.jpg)
 <br>
