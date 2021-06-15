@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Idaly Mamat
-permalink: /meet-the-engineers/Idaly-Mamat/ 
-breadcrumb: Idaly Mamat
-collection_name: meet-the
+title: 'Idaly Mamat'
+permalink: /meet-the-engineers/Idaly-Mamat/
+breadcrumb: 'Idaly Mamat'
+
 ---
+
 
 <img src="/images/Idaly Mamat.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
 <br clear="left">
