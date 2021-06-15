@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: LTA
 permalink: /engineering-careers/lta/
 breadcrumb: LTA
-collection_name: engineering-careers
+
 ---
+
 
 <img src="/images/lta.png" alt="lta" style="width:393px;height:110px;" align="left">
 <br clear="left">
