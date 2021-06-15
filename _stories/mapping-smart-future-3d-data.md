@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Mapping the Smart Future with 3D Data
+title: 'Mapping the Smart Future with 3D Data'
 permalink: /stories/mapping-smart-future-3d-data/
-breadcrumb: /What's Next stories/Mapping the Smart Future with 3D Data
-collection_name: stories
+breadcrumb: '/What''s Next stories/Mapping the Smart Future with 3D Data'
+
 ---
+
 # <b>Mapping the Smart Future with 3D Data</b>
 ![SLA](/images/SLA_3D%20Map%203.jpg)
 <br>
