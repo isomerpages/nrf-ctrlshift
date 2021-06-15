@@ -4,49 +4,37 @@ description: Description
 url: 'https://www.engineerwhatsnext.gov.sg'
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-plugins:
-    - jekyll-feed
-    - jekyll-assets
-    - jekyll-paginate
-    - jekyll-sitemap
 paginate: 12
 custom_css_path: /misc/custom.css
 custom_print_css_path: /assets/css/print.css
 exclude:
-    - travis-script.js
-    - .travis.yml
-    - README.md
-    - package.json
-    - package-lock.json
-    - node_modules
-    - vendor/bundle/
-    - vendor/cache/
-    - vendor/gems/
-    - vendor/ruby/
-    - Gemfile
-    - Gemfile.lock
-collections:
-    meet-the-engineers:
-        output: true
-    experts:
-        output: true
-    stories:
-        output: true
-    art:
-        output: true
-    engineering-marvels:
-        output: true
-    types-of-engineering:
-        output: true
-    engineering-careers:
-        output: true
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
 resources_name: resource-room
 google_analytics: UA-73732262-1
 favicon: /images/favicon-logo.ico
 permalink: none
 baseurl: ""
 defaults:
-    - scope:
-          path: ""
-      values:
-          layout: page
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://ewn-staging.netlify.app
+prod: https://ewn-production.netlify.app
+plugins:
+  - jekyll-feed
+  - jekyll-assets
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-remote-theme
