@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: HDB
 permalink: /engineering-careers/hdb/
 breadcrumb: HDB
-collection_name: engineering-careers
+
 ---
+
 
 <img src="/images/hdb.png" alt="hdb" style="width:393px;height:110px;" align="left">
 <br clear="left">
