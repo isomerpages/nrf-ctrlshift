@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: GovTech
 permalink: /engineering-careers/govtech/
 breadcrumb: GovTech
-collection_name: engineering-careers
+
 ---
+
 
 <img src="/images/govtech.gif" alt="govtech" style="width:300px;height:268px;" align="left">
 <br clear="left">
