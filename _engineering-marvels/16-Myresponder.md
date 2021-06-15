@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: MyResponder
 permalink: /engineering-marvels/Myresponder/
 breadcrumb: MyResponder
-collection_name: engineering-marvels
+
 ---
+
 
 ![Myresponder](/images/Myresponder.jpg) 
 
