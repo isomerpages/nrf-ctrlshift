@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Cindy Wang Xiaochen
+title: 'Cindy Wang Xiaochen'
 permalink: /meet-the-engineers/Cindy-Wang-Xiaochen/
-breadcrumb: Cindy Wang Xiaochen
-collection_name: meet-the
+breadcrumb: 'Cindy Wang Xiaochen'
+
 ---
+
 
 <img src="/images/Cindy.jpg" alt="Cindy Wang Xiaochen" style="width:222px;height:278px;" align="left">
 <br clear="left">
