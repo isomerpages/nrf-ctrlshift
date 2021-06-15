@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: BCA
 permalink: /engineering-careers/bca/
 breadcrumb: BCA
-collection_name: engineering-careers
+
 ---
+
 
 <img src="/images/bca.jpg" alt="bca" style="width:393px;height:110px;" align="left">
 <br clear="left">
