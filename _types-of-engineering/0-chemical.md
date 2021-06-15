@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
 title: Chemical
 permalink: /types-of-engineering/chemical/
 breadcrumb: Chemical
-collection_name: types-of-engineering
+
 ---
+
 
 
 Chemical Engineers are critical to the development of new technologies in robust and vibrant chemical and pharmaceutical industries. They use their knowledge of the physical world to manipulate the interactions of individual atoms and molecules, to create groundbreaking materials with atomic precision, so precise that humanity can build nano-scale car the width of a single DNA molecule.
