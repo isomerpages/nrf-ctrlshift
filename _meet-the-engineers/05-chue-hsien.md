@@ -1,10 +1,10 @@
 ---
-layout: leftnav-page-content
-title: Goh Chue Hsien
+title: 'Goh Chue Hsien'
 permalink: /meet-the-engineers/goh-chue-hsien/
-breadcrumb: Goh Chue Hsien
-collection_name: meet-the
+breadcrumb: 'Goh Chue Hsien'
+
 ---
+
 <img src="/images/Goh Chue Hsien.jpg" alt="Goh Chue Hsien" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
