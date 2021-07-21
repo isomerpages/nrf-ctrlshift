@@ -1,10 +1,8 @@
 ---
-title: 'Safety on Your Plate – Ensuring Food Safety in Singapore'
+title: Safety on Your Plate – Ensuring Food Safety in Singapore
 permalink: /stories/sfa-food-safety-in-singapore/
-breadcrumb: '/What''s Next stories/Safety on Your Plate – Ensuring Food Safety in Singapore'
-
+breadcrumb: /What's Next stories/Safety on Your Plate – Ensuring Food Safety in Singapore
 ---
-
 # <b>Safety on Your Plate – Ensuring Food Safety in Singapore</b>
 ![SFA](/images/SFA_Johnny%20Yeung.jpg)
 <br>
@@ -36,3 +34,6 @@ That milk scandal, he says, “demonstrates how chemical molecules, small as the
 <br>
 <br>
 With such life and death decisions as a core part of SFA’s mission and Johnny’s everyday life, it’s not a role that he takes lightly. “It gives me a deep sense of duty to know that my work plays a critical role to safeguard public health in Singapore,” he says.
+<br>
+<br>
+Find out more about SFA careers [here](https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20food%20agency&job-mail-subscribe-privacy=agree)! 
