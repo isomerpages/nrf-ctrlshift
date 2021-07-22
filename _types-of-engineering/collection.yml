@@ -1,0 +1,12 @@
+collections:
+  types-of-engineering:
+    output: true
+    order:
+      - chemical.md
+      - civil.md
+      - computer.md
+      - electrical.md
+      - environment.md
+      - geotechnical.md
+      - materials.md
+      - mechanical.md

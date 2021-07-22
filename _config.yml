@@ -1,59 +1,54 @@
-title: Government of Singapore 
-title-abbreviated: Engineer What's Next Team
-description: >- # this means to ignore newlines until "baseurl:"
-  Description
-url: "https://www.engineerwhatsnext.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-
-# Build settings
-markdown: kramdown
-remote_theme: isomerpages/isomerpages-template
+title: 'Government of Singapore'
+title-abbreviated: 'Engineer What''s Next Team'
+description: Description
+url: 'https://www.engineerwhatsnext.gov.sg'
+remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-
+paginate: 12
+custom_css_path: /misc/custom.css
+custom_print_css_path: /assets/css/print.css
+exclude:
+  - travis-script.js
+  - .travis.yml
+  - README.md
+  - package.json
+  - package-lock.json
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - Gemfile
+  - Gemfile.lock
+resources_name: resource-room
+google_analytics: UA-73732262-1
+favicon: /images/favicon-logo.ico
+permalink: none
+baseurl: ""
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+staging: https://ewn-staging.netlify.app
+prod: https://ewn-production.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
+  - jekyll-paginate
   - jekyll-sitemap
-
-# Breadcrumbs
-breadcrumbs:
-  root:
-    hide: false  # show breadcrumbs on root/home page
-    image: false # Show image or title text
-
-# Resource Room and Pagination
-paginate: 12
-
-# Homepage sections
-homepage_hero_i_want_to: false
-homepage_resources: false
-
-# Feedback Form URL
-feedback_form_url: "https://form.gov.sg/5d96f3d87f5cfb0013137f09"
-
-# FAQ URL
-faq_url: "/faq/"
-faq_url_external: false
-
-# Custom CSS file path
-custom_css_path: "/misc/custom.css"
-custom_print_css_path: "/assets/css/print.css"
-
-exclude: [travis-script.js, .travis.yml, README.md, package.json, package-lock.json, node_modules, vendor/bundle/, vendor/cache/, vendor/gems/, vendor/ruby/, Gemfile, Gemfile.lock]
-
-collections:
-  meet-the-engineers:
-    output: true
-  experts:
-    output: true
-  stories:
-    output: true
-  art:
-    output: true
-  engineering-marvels:
-    output: true
-  types-of-engineering:
-    output: true
-  engineering-careers:
-    output: true
-resources_name: resource-room
-google_analytics: UA-73732262-2
+  - jekyll-remote-theme
+colors:
+  primary-color: '#f65819'
+  secondary-color: '#f65819'
+  media-colors:
+    - title: media-color-one
+      color: '#49759a'
+    - title: media-color-two
+      color: '#744d9f'
+    - title: media-color-three
+      color: '#00838f'
+    - title: media-color-four
+      color: '#00838f'
+    - title: media-color-five
+      color: '#00838f'
