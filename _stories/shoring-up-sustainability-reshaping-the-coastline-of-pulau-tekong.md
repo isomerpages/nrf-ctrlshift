@@ -44,4 +44,4 @@ From the drawing board to actualisation, land reclamation is challenging, back-b
 <br>
 “To be able to apply engineering knowledge to solve real-world problems and to know that your solutions are making a difference to people — to me, this is the best part of engineering.”
 
-Find out more about HDB careers [here](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=housing%20and%20development%20board&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree)!
+Find out more about HDB careers [here](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=housing%20and%20development%20board&job-mail-subscribe-privacy=agree)!
