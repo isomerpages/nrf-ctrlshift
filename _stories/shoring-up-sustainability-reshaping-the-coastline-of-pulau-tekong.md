@@ -1,11 +1,8 @@
 ---
-title: 'Shoring Up Sustainability - Reshaping the Coastline of Pulau Tekong'
+title: Shoring Up Sustainability - Reshaping the Coastline of Pulau Tekong
 permalink: /stories/sustainability-reshaping-coastline-of-pulau-tekong/
-breadcrumb: '/What''s Next stories/Reshaping the Coastline of Pulau Tekong'
-
+breadcrumb: /What's Next stories/Reshaping the Coastline of Pulau Tekong
 ---
-
-
 # <b>Shoring Up Sustainability - Reshaping the Coastline of Pulau Tekong</b>
 ![BCA](/images/s3.1.jpg)
 <br>
@@ -46,3 +43,5 @@ From the drawing board to actualisation, land reclamation is challenging, back-b
 <br>
 <br>
 “To be able to apply engineering knowledge to solve real-world problems and to know that your solutions are making a difference to people — to me, this is the best part of engineering.”
+
+Find out more about HDB careers [here](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=housing%20and%20development%20board&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree)!
