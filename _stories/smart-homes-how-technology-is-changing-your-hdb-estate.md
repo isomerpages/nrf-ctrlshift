@@ -38,4 +38,4 @@ Working in HDB has been a rewarding journey for him. “It was where I felt I wo
 <br>
 Ultimately, he believes that one should not be discouraged by hard work when it comes to engineering. “Engineering teaches one to face big problems by breaking them down into manageable pieces,” he muses. “The work of these small pieces still needs to be done. And when you look back at the finished product and the big picture, you can pinpoint exactly how you’ve made your mark.”
 
-Find out more about HDB careers [here](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=housing%20and%20development%20board&brand=singapore%20land%20authority&job-mail-subscribe-privacy=agree)!
+Find out more about HDB careers [here](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=housing%20and%20development%20board&job-mail-subscribe-privacy=agree)!
