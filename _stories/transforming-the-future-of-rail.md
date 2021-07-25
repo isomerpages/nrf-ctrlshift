@@ -1,11 +1,8 @@
 ---
-title: 'Transforming the Future of Rail'
+title: Transforming the Future of Rail
 permalink: /stories/transforming-the-future-of-rail/
-breadcrumb: '/What''s Next stories/Transforming the Future of Rail'
-
+breadcrumb: /What's Next stories/Transforming the Future of Rail
 ---
-
-
 # <b>Transforming the Future of Rail</b>
 ![LTA](/images/LTA_Low%20Aik%20Seng%202.jpg)
 <br>
@@ -41,3 +38,5 @@ Armed with such data insights, Aik Seng aims to help improve our rail system rel
 As he reflects on his job, Aik Seng shares that one of the most fulfilling aspects is knowing that he is able to help improve our rail system uptime and availability by providing insights to issues and making recommendations using data.
 <br><br>
 For budding engineers who are keen on making a difference in the rail industry, Aik Seng’s advice is to keep an open mind and embrace new knowledge. “Knowing what tools are available and using the right ones can help greatly in the problem-solving process,” he says.
+
+Find out more about LTA careers [here](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=land%20transport%20authority&job-mail-subscribe-privacy=agree)!
