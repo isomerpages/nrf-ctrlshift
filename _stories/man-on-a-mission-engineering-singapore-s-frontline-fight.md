@@ -45,4 +45,4 @@ While a fascination in science and technology has steered Samuel’s outlook sin
 <br>
 While Samuel’s hopes may seem out-of-this-world, it is a familiar saying that keeps him grounded as he works on securing our nation: “Every day can be meaningful and fulfilling when one loves what he does and does what he loves.”
 
-Find out more about HTX careers [here](https://www.htx.gov.sg/join-us/careers)!
+Find out more about HTX careers [here](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=home%20team%20science%20and%20technology%20agency%20(htx)&job-mail-subscribe-privacy=agree)!
