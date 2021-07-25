@@ -1,10 +1,9 @@
 ---
-title: 'Tech at Play - Rolling Out Innovations at Jurong Lake Gardens'
+title: Tech at Play - Rolling Out Innovations at Jurong Lake Gardens
 permalink: /stories/tech-innovations-jurong-lake-gardens/
-breadcrumb: '/What''s Next stories/Tech at Play-Rolling Out Innovations at Jurong Lake Gardens'
-
+breadcrumb: /What's Next stories/Tech at Play-Rolling Out Innovations at Jurong
+  Lake Gardens
 ---
-
 # <b>Tech at Play - Rolling Out Innovations at Jurong Lake Gardens</b>
 ![Nparks1](/images/s1.1.jpg)
 <br>
@@ -61,3 +60,5 @@ Take Rasau Walk, a meandering boardwalk on the fringe of the waterfront area, fo
 “It’s very exciting to see our daily efforts progressively culminating in actual physical features at Jurong Lake Gardens, and be able to implement the latest cutting-edge technologies that can contribute meaningfully to our work,” he says.
 <br><br>
 While Chong Ren does not know if advanced robots like C-3PO and R2-D2 may soon become common fixtures in the park’s operating landscape, one thing’s for sure: his passion for nature and his job will continue to motivate him to imagine what’s next.
+
+Find out more about NParks careers [here](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=national%20parks%20board&job-mail-subscribe-privacy=agree)! 
