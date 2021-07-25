@@ -1,10 +1,8 @@
 ---
-title: 'Waste Not, Want Not - Engineering a Cleaner Future'
+title: Waste Not, Want Not - Engineering a Cleaner Future
 permalink: /stories/nea-engineering-a-cleaner-future/
-breadcrumb: '/What''s Next stories/Waste Not, Want Not - Engineering a Cleaner Future'
-
+breadcrumb: /What's Next stories/Waste Not, Want Not - Engineering a Cleaner Future
 ---
-
 # <b>Waste Not, Want Not - Engineering a Cleaner Future</b>
 ![NEA](/images/NEA_Sarimbun%20Recycling%20Park.jpg)
 <br>
@@ -34,3 +32,5 @@ As an engineer, Anabel enjoys finding innovative ways to overcome obstacles. For
 Undeterred, the team ramped up efforts to engage and educate the stakeholders. Better signages were put up, and talks were held to educate students on the benefits of these digesters and show how the processed product can be used as fertilisers around the school compound. “Gradually, we saw an increase in the utilisation rate and the contamination levels dropped too,” she added.
 <br><br>
 Apart from work, the 3Rs now play a huge role in Anabel’s personal life as well. Saying ‘no’ to plastic bags and single-use disposable items have become second nature to her. As Singapore endeavours to close the waste loop and become a Zero Waste Nation, this NEA engineer knows she’s doing her part — both professionally and personally — in reducing our carbon footprint and shaping a greener future for all.
+
+Find out more about NEA careers [here](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=national%20environment%20agency&job-mail-subscribe-privacy=agree)!
