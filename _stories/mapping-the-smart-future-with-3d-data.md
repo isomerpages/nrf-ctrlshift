@@ -1,10 +1,8 @@
 ---
-title: 'Mapping the Smart Future with 3D Data'
+title: Mapping the Smart Future with 3D Data
 permalink: /stories/mapping-smart-future-3d-data/
-breadcrumb: '/What''s Next stories/Mapping the Smart Future with 3D Data'
-
+breadcrumb: /What's Next stories/Mapping the Smart Future with 3D Data
 ---
-
 # <b>Mapping the Smart Future with 3D Data</b>
 ![SLA](/images/SLA_3D%20Map%203.jpg)
 <br>
@@ -71,3 +69,5 @@ Another perk of her job is a front-row seat to the incredible changes that Singa
 <br>
 <br>
 So how does Sandy find so much joy in her role? Her secret: “Always have fun at work even while you work hard. I find my work full of interesting things, be it new equipment or new software, that I can always learn and explore.”
+
+Find out more about SLA careers [here](http://careers.pageuppeople.com/688/cwlive/en/search/?brand=singapore+land+authority)!

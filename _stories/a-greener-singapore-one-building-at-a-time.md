@@ -1,11 +1,8 @@
 ---
-title: 'A Greener Singapore, One Building at a Time'
+title: A Greener Singapore, One Building at a Time
 permalink: /stories/greener-singapore-one-building-at-a-time/
-breadcrumb: '/What''s Next stories/story3'
-
+breadcrumb: /What's Next stories/story3
 ---
-
-
 # <b>A Greener Singapore, One Building at a Time</b>
 ![BCA](/images/s2.1.jpg)
 <br>
@@ -49,4 +46,6 @@ Slashing energy output will not be easy. “The key challenge faced is that buil
 But despite the trials, Si Min’s passion for her career is anything but low energy. Knowing that her career contributes meaningful to mitigating climate change by reducing Singapore’s carbon footprint, she says, “gives me a lot of satisfaction and motivation.” That passion inspires her day-to-day life, too. “I am more aware of how my actions impact the environment,” laughs Si Min. “I now proactively try to influence my friends and family members to live more sustainably too.”
 <br>
 <br>
-“My work in promoting the adoption of Super Low Energy buildings helps contribute directly to a low-carbon and sustainable Singapore. I am proud and honoured to be able to make a positive impact on our built environment.”  
+“My work in promoting the adoption of Super Low Energy buildings helps contribute directly to a low-carbon and sustainable Singapore. I am proud and honoured to be able to make a positive impact on our built environment.”
+
+Find out more about BCA careers [here](http://careers.pageuppeople.com/688/cwlive/en/filter/?search-keyword=&category=&work-type=&brand=building+and+construction+authority&job-sector=)!

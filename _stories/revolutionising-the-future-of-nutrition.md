@@ -1,10 +1,8 @@
 ---
-title: 'Revolutionising the Future of Nutrition'
+title: Revolutionising the Future of Nutrition
 permalink: /stories/revolutionising-the-future-of-nutrition/
-breadcrumb: '/What''s Next stories/Revolutionising the Future of Nutrition'
-
+breadcrumb: /What's Next stories/Revolutionising the Future of Nutrition
 ---
-
 # <b>Revolutionising the Future of Nutrition</b>
 ![Nparks2](/images/s5.1.jpg)
 <br>
@@ -49,10 +47,6 @@ Over the course of her career at A<span>&#42;</span>STAR, she has also had oppor
 What is perhaps the most fulfilling aspect of her job, however, is the knowledge that her work supports Singapore’s “30-by-30” food security goal — to produce 30% of its nutritional needs locally by 2030. “While we are increasing the local food output, we also need to consider nutritional values," she shares. 
 <br>
 <br>
-“By providing a source of functional ingredients through our microbial technology, we can help strengthen the nutritional values of food products.” 
+“By providing a source of functional ingredients through our microbial technology, we can help strengthen the nutritional values of food products.”
 
-
-
-
-
-
+Find out more about A<span>&#42;</span>STAR careers [here](https://careers.a-star.edu.sg/JobListing.aspx?ID=1klk05BAWCprrKGx9yWbPaUcwy2W0Mi8Cf4PK16sIEngvAkC2kuIC6pWPVwlR5hNvudMzpPi5gjbv0iFLd1hGQ==)!

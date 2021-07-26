@@ -1,10 +1,8 @@
 ---
-title: 'Man on a Mission – Engineering Singapore’s Frontline Fight'
+title: Man on a Mission – Engineering Singapore’s Frontline Fight
 permalink: /stories/man-on-a-mission-engineering-singapore-frontline-fight/
-breadcrumb: '/What''s Next stories/Engineering Singapore''s Frontline Fight'
-
+breadcrumb: /What's Next stories/Engineering Singapore's Frontline Fight
 ---
-
 # <b>Man on a Mission – Engineering Singapore’s Frontline Fight</b>
 ![HTX](/images/HTX_Samuel%20Seah.jpg)
 <br>
@@ -46,3 +44,5 @@ While a fascination in science and technology has steered Samuel’s outlook sin
 <br>
 <br>
 While Samuel’s hopes may seem out-of-this-world, it is a familiar saying that keeps him grounded as he works on securing our nation: “Every day can be meaningful and fulfilling when one loves what he does and does what he loves.”
+
+Find out more about HTX careers [here](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=home%20team%20science%20and%20technology%20agency%20(htx)&job-mail-subscribe-privacy=agree)!
