@@ -21,5 +21,6 @@ sections:
         - title: Resources
           description: to find out more
           url: /resource-room/
+      title: Challenge what's next
 notification: "\n"
 ---
