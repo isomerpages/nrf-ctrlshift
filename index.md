@@ -4,10 +4,10 @@ title: Engineer What's Next
 permalink: /
 sections:
   - hero:
-      subtitle: Come challenge what's next!  Take up Zi Hao's paper challenge on
-        TikTok and  stand to win prizes worth up to $450!
+      subtitle: Come challenge what's next! Take up Zi Hao's paper challenge on TikTok
+        and  stand to win prizes worth up to $450!
       background: /images/banner1.jpg
-      button: Find out where
+      button: Learn more
       url: /whatsnext/
       key_highlights:
         - title: Ideas
