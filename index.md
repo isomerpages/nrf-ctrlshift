@@ -4,8 +4,7 @@ title: Engineer What's Next
 permalink: /
 sections:
   - hero:
-      subtitle: Come challenge what's next! Take up Zi Hao's paper challenge on TikTok
-        and  stand to win prizes worth up to $450!
+      subtitle: " "
       background: /images/banner1.jpg
       button: Learn more
       url: /whatsnext/
@@ -22,6 +21,5 @@ sections:
         - title: Resources
           description: to find out more
           url: /resource-room/
-      title: Challenge       what's next
 notification: "\n"
 ---
