@@ -1,7 +1,7 @@
-title: 'Government of Singapore'
-title-abbreviated: 'Engineer What''s Next Team'
+title: Government of Singapore
+title-abbreviated: Engineer What's Next Team
 description: Description
-url: 'https://www.engineerwhatsnext.gov.sg'
+url: https://www.engineerwhatsnext.gov.sg
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 paginate: 12
@@ -22,7 +22,7 @@ exclude:
   - Gemfile.lock
 resources_name: resource-room
 google_analytics: UA-73732262-1
-favicon: /images/favicon-logo.ico
+favicon: /images/favicon.ico
 permalink: none
 baseurl: ""
 defaults:
@@ -39,16 +39,16 @@ plugins:
   - jekyll-sitemap
   - jekyll-remote-theme
 colors:
-  primary-color: '#f65819'
-  secondary-color: '#f65819'
+  primary-color: "#f65819"
+  secondary-color: "#f65819"
   media-colors:
     - title: media-color-one
-      color: '#49759a'
+      color: "#49759a"
     - title: media-color-two
-      color: '#744d9f'
+      color: "#744d9f"
     - title: media-color-three
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-four
-      color: '#00838f'
+      color: "#00838f"
     - title: media-color-five
-      color: '#00838f'
+      color: "#00838f"
