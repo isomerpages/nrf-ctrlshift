@@ -4,8 +4,8 @@ title: Engineer What's Next
 permalink: /
 sections:
   - hero:
-      subtitle: "Come challenge what's next!  Take up Zi Hao's paper challenge on
-        TikTok and  stand to win prizes worth up to $450! "
+      subtitle: "Come challenge what's next! Take up the #STEwhatsnext challenge with
+        Zi Hao and stand to win $450 worth of prizes."
       background: /images/banner1alt1.png
       button: Learn more
       url: /whatsnext/
