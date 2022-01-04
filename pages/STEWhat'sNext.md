@@ -6,14 +6,13 @@ date: 2022-01-04
 layout: post
 description: ""
 ---
-
 <b>STE What's Next</b>
 <br>
 <br>
 Through STE What’s Next, you’ll meet the people behind some of the most exciting Science, Technology and Engineering projects that are shaping the future of Singapore.
 
 **Experience Exciting Content**
-Get creative with @zhlowart_official on TikTok by searching #STEwhatsnext and bring Science, Technology and Engineering concepts to life with awe-inspiring Kinetic paper sculptures.
+Get creative with @zhlowart_official on TikTok by searching **#STEwhatsnext** and bring Science, Technology and Engineering concepts to life with awe-inspiring Kinetic paper sculptures.
 
 Want to hear tales from STE heroes? Take a peek into the lives of public sector officers with the Excite and Insider Series on TikTok.
 
