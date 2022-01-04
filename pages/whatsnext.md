@@ -3,7 +3,7 @@ permalink: /whatsnext/
 breadcrumb: Whats next
 title: What's Next
 ---
-<b>About What's Next</b>
+<b>STE What's Next</b>
 <br>
 <br>
 Through STE What’s Next, you’ll meet the people behind some of the most exciting Science, Technology and Engineering projects that are shaping the future of Singapore.
