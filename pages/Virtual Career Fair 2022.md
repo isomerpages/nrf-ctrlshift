@@ -5,3 +5,32 @@ date: 2022-01-05
 layout: post
 description: ""
 ---
+# Sign Up to the Careers Fair of Your Life 
+# 
+What’s next for your career in Science, Technology and Engineering? 
+ 
+Find out at the most exciting Virtual Careers Fair of the year.  
+ 
+You could end up with a job at one of these agencies shaping the future — the future of Singapore, the world, and maybe even you: 
+
+* Maritime and Port Authority of Singapore  
+* Land Transport Authority  
+* Singapore Food Agency  
+* Agency for Science, Technology and Research  
+* National Parks Board  
+* Housing and Development Board  
+* Building and Construction Authority  
+* Home Team Science and Technology Agency  
+* Singapore Land Authority  
+* National Environment Agency  
+
+ 
+Highlights of the two-hour session include a fireside chat with four STE experts in their field as they uncover how they got rose the ranks of their field; details of the kind of groundbreaking projects they work on; breakout rooms where you can ask them your burning questions — and more!  
+ 
+PS: did we mention there will be games and prizes? 
+
+Details: 
+Date 25th March 2022
+Time 9am
+ 
+What are you waiting for? Sign up here [URL] 
