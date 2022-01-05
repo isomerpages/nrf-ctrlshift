@@ -25,14 +25,16 @@ You could end up with a job at one of these agencies shaping the future — the 
 * National Environment Agency  
 
  
-Highlights of the two-hour session include a fireside chat with four STE experts in their field as they uncover how they got rose the ranks of their field; details of the kind of groundbreaking projects they work on; breakout rooms where you can ask them your burning questions — and more!  
+Highlights of the two-hour session include **a fireside chat with four STE experts** in their field as they uncover how they got rose the ranks of their field; details of the kind of **groundbreaking projects** they work on; **breakout rooms** where you can ask them your burning questions — and more!  
 
-PS: did we mention there will be games and prizes? 
+PS: did we mention there will be **games and prizes?** 
 
 ![Alt text for image on Isomer site](/images/STE-bannerpage-banner2.png) 
 
 Details: 
+
 Date 25th February 2022
+
 Time 10 am - 1 pm
  
 What are you waiting for? Sign up here [URL]
