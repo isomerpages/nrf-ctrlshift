@@ -6,9 +6,6 @@ date: 2022-01-04
 layout: post
 description: ""
 ---
-
-
-
 See how a new generation of engineers is shaping the future of Singapore.
 
 <div class="bp-youtube">
