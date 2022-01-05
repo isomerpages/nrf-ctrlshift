@@ -5,8 +5,7 @@ date: 2022-01-05
 layout: post
 description: ""
 ---
-# Sign Up to the Careers Fair of Your Life 
-# 
+![Alt text for image on Isomer site](/images/header1.png)
 What’s next for your career in Science, Technology and Engineering? 
  
 Find out at the most exciting Virtual Careers Fair of the year.  
@@ -31,6 +30,6 @@ PS: did we mention there will be games and prizes?
 
 Details: 
 Date 25th March 2022
-Time 9am
+Time 10 am - 1 pm
  
-What are you waiting for? Sign up here [URL] 
+What are you waiting for? Sign up here [URL]
