@@ -33,8 +33,6 @@ PS: did we mention there will be **games and prizes?**
 
 Details: 
 
-Date 25th February 2022
+25th February 2022 | 10 am - 1 pm
 
-Time 10 am - 1 pm
- 
 What are you waiting for? Sign up here [URL]
