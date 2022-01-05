@@ -32,7 +32,7 @@ PS: did we mention there will be games and prizes?
 ![Alt text for image on Isomer site](/images/STE-bannerpage-banner2.png) 
 
 Details: 
-Date 25th March 2022
+Date 25th February 2022
 Time 10 am - 1 pm
  
 What are you waiting for? Sign up here [URL]
