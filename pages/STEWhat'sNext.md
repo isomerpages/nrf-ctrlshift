@@ -20,6 +20,6 @@ Be inspired by their stories of innovation and ingenuity on our YouTube channel 
 
 **Take the Next Step into STE**
 
-Ready to decide what’s next? sign up for our Virtual Career Fair happening on Friday, 18 February 2022, where you can connect with industry professionals and chat with Public Service recruiters in the Science, Technology and Engineering fields.
+Ready to decide what’s next? sign up for our Virtual Career Fair happening on Friday, 25th February 2022, where you can connect with industry professionals and chat with Public Service recruiters in the Science, Technology and Engineering fields.
 
 How will you discover, imagine and create what’s next for Singapore?
