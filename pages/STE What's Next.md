@@ -18,7 +18,7 @@ Want to hear tales from STE heroes? Take a peek into the lives of public sector 
 
 Be inspired by their stories of innovation and ingenuity on our YouTube channel and delve into the intricacies of **What’s Next stories** on our website. www.STEwhatsnext.gov.sg.
 
-**Take the Next Step into STE**
+**Take the next step into STE**
 
 Ready to decide what’s next? Sign up for our **Virtual Career Fair** happening on **Friday, 25th February 2022**, where you can connect with industry professionals and chat with Public Service recruiters in the Science, Technology and Engineering fields.
 
