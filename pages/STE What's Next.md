@@ -14,7 +14,7 @@ Through STE What’s Next, you’ll meet the people behind some of the most exci
 **Experience Exciting Content**
 Get creative with @zhlowart_official on TikTok by searching **#STEwhatsnext** and bring Science, Technology and Engineering concepts to life with awe-inspiring Kinetic paper sculptures.
 
-Want to hear tales from STE heroes? Take a peek into the lives of public sector officers with the **Excite and Insider Series on TikTok.**
+Want to hear tales from STE heroes? Take a peek into the lives of public sector officers with the **Excite and Insider Series on TikTok.**
 
 Be inspired by their stories of innovation and ingenuity on our YouTube channel and delve into the intricacies of **What’s Next stories** on our website. www.STEwhatsnext.gov.sg.
 

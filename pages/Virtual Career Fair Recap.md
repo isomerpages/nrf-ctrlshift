@@ -1,9 +1,13 @@
 ---
 permalink: /VCF/
-breadcrumb: 'Virtual Career Fair Recap'
-title: 'Virtual Career Fair Recap'
-
+breadcrumb: Virtual Career Fair Recap
+title: Virtual Career Fair Recap
+date: 2022-01-07
+layout: post
+description: ""
 ---
+
+
 
 
 Thank you to all of you who joined us for the Science, Technology and Engineering (STE) Virtual Career Fair — an event organised by the Public Sector Science & Technology Policy and Plans Office (S&TPPO) in partnership with the Public Service Division (PSD).

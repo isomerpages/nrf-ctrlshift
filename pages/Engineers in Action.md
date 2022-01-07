@@ -1,9 +1,13 @@
 ---
 permalink: /engineers-in-action/
-breadcrumb: 'Engineers in Action'
-title: 'Engineers in Action'
-
+breadcrumb: Engineers in Action
+title: Engineers in Action
+date: 2022-01-07
+layout: post
+description: ""
 ---
+
+
 
 
 See how a new generation of engineers is shaping the future of Singapore.
