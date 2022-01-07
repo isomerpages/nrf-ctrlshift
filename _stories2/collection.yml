@@ -1,5 +1,5 @@
 collections:
-  stories:
+  stories2:
     output: true
     order:
       - a-greener-singapore-one-building-at-a-time.md
