@@ -1,12 +1,12 @@
-logo: /images/logo2.png
+logo: /images/logo2022.jpg
 links:
-    - title: 'About What''s Next'
-      url: /whatsnext/
-    - title: 'Virtual Career Fair 2021'
-      url: /vcf/
-    - title: 'Meet the Professionals'
-      collection: experts
-    - title: 'Take the Profiler Quiz'
-      url: 'https://profiler.engineerwhatsnext.gov.sg/'
-    - title: 'What''s Next Stories'
-      collection: stories
+  - title: STE what's next
+    url: /stewhatsnext/
+  - title: VIRTUAL CAREER FAIR 2022
+    url: /vcf22
+  - title: VIRTUAL CAREER FAIR 2021 RECAP
+    url: /vcf/
+  - title: Meet the Professionals
+    collection: experts
+  - title: STE What's Next Stories
+    collection: stories
