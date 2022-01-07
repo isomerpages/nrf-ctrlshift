@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Engineer What's Next
+title: "STE What's Next "
 permalink: /
 sections:
   - hero:
@@ -24,4 +24,7 @@ sections:
           url: /resource-room/
       title: Challenge What's Next
 notification: "\n"
+description: Meet the people behind the most exciting Science, Technology and
+  Engineering projects that are shaping the future of Singapore.
 ---
+
