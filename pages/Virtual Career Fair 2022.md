@@ -29,7 +29,7 @@ Highlights of the two-hour session include **a fireside chat with four STE exper
 
 PS: did we mention there will be **games and prizes?** 
 
-![Alt text for image on Isomer site](/images/STE-bannerpage-banner2.png) 
+[![Alt text for image on Isomer site](/images/STE-bannerpage-banner2.png) ](https://go.gov.sg/stevcf)
 
 **Details: **
 
@@ -38,4 +38,3 @@ PS: did we mention there will be **games and prizes?**
 What are you waiting for?
 
 **[Sign up here ](https://go.gov.sg/stevcf)**
-
