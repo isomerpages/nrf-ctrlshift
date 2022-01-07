@@ -35,4 +35,7 @@ PS: did we mention there will be **games and prizes?**
 
 25th February 2022 | 10 am - 1 pm
 
-What are you waiting for? Sign up here [URL]
+What are you waiting for?
+
+**[Sign up here ](https://go.gov.sg/stevcf)**
+
