@@ -20,7 +20,8 @@ Be inspired by stories of innovation and ingenuity on our [YouTube channel](http
 **Take the next step into STE**
 
 Ready to decide what’s next? Sign up for our **Virtual Career Fair** happening on **Friday, 25th February 2022**, where you can connect with industry professionals and chat with Public Service recruiters in the Science, Technology and Engineering fields.
-<br>
+
+
 [![Alt text for image on Isomer site](/images/STE-bannerpage-banner2.png)](https://form.gov.sg/#!/61d65ad6f46e8700123261bf)
 <br>
 How will you discover, imagine and create what’s next for Singapore?
