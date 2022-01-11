@@ -8,7 +8,7 @@ sections:
         Zi Hao and stand to win $450 worth of prizes."
       background: /images/banner1alt1.png
       button: Learn more
-      url: /whatsnext/
+      url: /stewhatsnext/
       key_highlights:
         - title: Ideas
           description: that become reality
@@ -27,4 +27,3 @@ notification: "\n"
 description: Meet the people behind the most exciting Science, Technology and
   Engineering projects that are shaping the future of Singapore.
 ---
-
