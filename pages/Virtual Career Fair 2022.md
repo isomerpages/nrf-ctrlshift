@@ -34,7 +34,7 @@ Event highlights:
 * **Fireside chat with 4 STE experts** - find out how they rose through the ranks in their respective fields and learn all about the groundbreaking projects they are working on
 * **Breakout rooms** with STE professionals  - get your questions answered and uncover the excitement and pride an STE career can bring to you
 * **Recruitment booths** - chat with recruiters from various public agencies and explore career possibilities with the Public Service 
-* **Interactive games and prizes** (!)
+* **Interactive games and prizes**
 
 [![Alt text for image on Isomer site](/images/STE-bannerpage-banner2.png) ](https://go.gov.sg/stevcf)
 
