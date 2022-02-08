@@ -18,16 +18,16 @@ Find out at the STE Virtual Career Fair of the year, happening on:
 **[Sign up now!](go.gov.sg/stevcf)** You may land yourself a job at one of these public agencies, shaping the future of Singapore, the world, and maybe even yours.
 
 ##### Participating Agencies 
-* Agency for Science, Technology and Research  
-* Building and Construction Authority  
-* Home Team Science and Technology Agency  
-* Housing and Development Board  
-* JTC Corporation
-* Land Transport Authority  
-* Maritime and Port Authority of Singapore  
-* National Environment Agency  
-* Singapore Land Authority  
-* Urban Redevelopment Authority
+* Housing and Development Board (HDB)  
+* Land Transport Authority (LTA)
+* Civil Aviation Authority of Singapore (CAAS)
+* Home Team Science and Technology Agency (HTX)
+* National Environment Agency (NEA)
+* Singapore Land Authority (SLA)
+* JTC Corporation (JTC)
+* Urban Redevelopment Authority (URA)
+* Public Utilities Board (PUB)
+* Agency for Science, Technology and Research(A* Star)
 
 ##### Event Highlights
 * **Fireside chat with 4 STE experts** - find out how they rose through the ranks in their respective fields and learn all about the groundbreaking projects they are working on
