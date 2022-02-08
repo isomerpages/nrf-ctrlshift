@@ -7,17 +7,17 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/header1.png)
 
-What’s next for your career in Science, Technology and Engineering? 
+What’s next for your career in Science, Technology and Engineering (STE)? How can you, a freshie or a mid-careerists, embark on an exciting STE career with the Public Service?
  
-Find out at the most exciting Virtual Careers Fair of the year, happening on:
+Find out at the STE Virtual Career Fair of the year, happening on:
 
-**25th February 2022 | 10.00 am - 11.30 am 
-(Recruitment booths will be opened till 1pm)**
+**Date: 25th February 2022**
 
-**[Sign up now!](go.gov.sg/stevcf)**
+**Time: 10.00 am - 11.30 am (Recruitment booths will be opened till 1pm)**
 
-You may land yourself a job at one of these public agencies, shaping the future of Singapore, the world, and maybe even yours:
+**[Sign up now!](go.gov.sg/stevcf)** You may land yourself a job at one of these public agencies, shaping the future of Singapore, the world, and maybe even yours.
 
+##### Participating Agencies 
 * Agency for Science, Technology and Research  
 * Building and Construction Authority  
 * Home Team Science and Technology Agency  
@@ -30,13 +30,14 @@ You may land yourself a job at one of these public agencies, shaping the future 
 * Singapore Land Authority  
 * Urban Redevelopment Authority
 
-Event highlights:
+##### Event Highlights
 * **Fireside chat with 4 STE experts** - find out how they rose through the ranks in their respective fields and learn all about the groundbreaking projects they are working on
 * **Breakout rooms** with STE professionals  - get your questions answered and uncover the excitement and pride an STE career can bring to you
 * **Recruitment booths** - chat with recruiters from various public agencies and explore career possibilities with the Public Service 
 * **Interactive games and prizes**
 
 [![Alt text for image on Isomer site](/images/STE-bannerpage-banner2.png) ](https://go.gov.sg/stevcf)
+
 
 
 Limited seats available, 
