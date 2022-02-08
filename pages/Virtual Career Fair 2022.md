@@ -7,7 +7,7 @@ description: ""
 ---
 ![Alt text for image on Isomer site](/images/header1.png)
 
-What’s next for your career in Science, Technology and Engineering (STE)? How can you, a freshie or a mid-careerists, embark on an exciting STE career with the Public Service?
+What’s next for your career in Science, Technology and Engineering (STE)? How can you, as a freshie or a mid-careerists, embark on an exciting STE career with the Public Service?
  
 Find out at the STE Virtual Career Fair of the year, happening on:
 
