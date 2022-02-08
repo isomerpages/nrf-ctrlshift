@@ -26,7 +26,6 @@ Find out at the STE Virtual Career Fair of the year, happening on:
 * Land Transport Authority  
 * Maritime and Port Authority of Singapore  
 * National Environment Agency  
-* National Parks Board  
 * Singapore Land Authority  
 * Urban Redevelopment Authority
 
