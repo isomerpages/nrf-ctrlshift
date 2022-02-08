@@ -27,7 +27,7 @@ Find out at the STE Virtual Career Fair of the year, happening on:
 * JTC Corporation (JTC)
 * Urban Redevelopment Authority (URA)
 * Public Utilities Board (PUB)
-* Agency for Science, Technology and Research(A* Star)
+* Agency for Science, Technology and Research(A*Star)
 
 ##### Event Highlights
 * **Fireside chat with 4 STE experts** - find out how they rose through the ranks in their respective fields and learn all about the groundbreaking projects they are working on
