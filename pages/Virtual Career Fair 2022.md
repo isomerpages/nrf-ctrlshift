@@ -15,7 +15,7 @@ Find out at the STE Virtual Career Fair of the year, happening on:
 
 **Time: 10.00 am - 11.30 am (Recruitment booths will be opened till 1pm)**
 
-**[Sign up now!](go.gov.sg/stevcf)** You may land yourself a job at one of these public agencies, shaping the future of Singapore, the world, and maybe even yours.
+**[Sign up now!](https://form.gov.sg/#!/61d65ad6f46e8700123261bf)** You may land yourself a job at one of these public agencies, shaping the future of Singapore, the world, and maybe even yours.
 
 ##### Participating Agencies 
 * Housing and Development Board (HDB)  
