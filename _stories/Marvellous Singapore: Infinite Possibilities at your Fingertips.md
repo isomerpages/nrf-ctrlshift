@@ -48,4 +48,4 @@ Besides working on technical tasks, he gets to listen to insider stories behind 
 
 He believes that having the right attitude, a willingness to learn, an openness to trying new approaches and striving for excellence has helped him in his journey.
 
-To Louis, the best career is one that pushes you out of your comfort zone, encourages learning, growing, and problem-solving, and brings you to greater heights. 
+To Louis, the best career is one that pushes you out of your comfort zone, encourages learning, growing, and problem-solving, and brings you to greater heights.
