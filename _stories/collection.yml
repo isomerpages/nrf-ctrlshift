@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - "Marvellous Singapore: Infinite Possibilities at your Fingertips.md"
       - a-greener-singapore-one-building-at-a-time.md
       - man-on-a-mission-engineering-singapore-s-frontline-fight.md
       - mapping-the-smart-future-with-3d-data.md
