@@ -2,6 +2,7 @@ collections:
   experts:
     output: true
     order:
+      - 2021 experts/ensuring-food-safety-in-singapore.md
       - 2021 experts/enhancing-food-resilience-with-plant-proteins.md
       - 2021 experts/a-better-home-for-people-and-wildlife.md
       - 2021 experts/powering-evs-for-a-greener-future.md
