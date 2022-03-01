@@ -2,11 +2,9 @@ logo: /images/logo2022.jpg
 links:
   - title: STE what's next
     url: /stewhatsnext/
-  - title: Virtual Career Fair 2022 recap
-    url: /vcf22
+  - title: Virtual Career Fair Recap
+    collection: virtualcf
   - title: Meet the Professionals
     collection: experts
   - title: STE What's Next Stories
     collection: stories
-  - title: Virtual Career Fair Recap
-    collection: virtualcf
