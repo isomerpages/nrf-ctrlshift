@@ -2,6 +2,7 @@ collections:
   experts:
     output: true
     order:
+      - Redefining the taste, texture and flavour of our hawker favourites.md
       - 2021 experts showcase/shaping-dynamic-living-spaces-through-technology.md
       - 2021 experts showcase/ensuring-food-safety-in-singapore.md
       - 2021 experts showcase/enhancing-food-resilience-with-plant-proteins.md
