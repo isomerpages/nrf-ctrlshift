@@ -5,6 +5,8 @@ description: ""
 ---
 ## Smart Digital Districts: Transforming Singapore’s Landscape with Technology
 
+![](/images/article-imageJTC-article-1.png)
+
 Meet the man who is on a quest to sharpen Singapore’s technology edge.
 
 A haven for businesses, academics, students and families to work, live, play and learn —           that’s what Singapore’s first smart digital district aims to create.
@@ -18,7 +20,9 @@ At PDD, you can witness something that’s easy to talk about, but fiendishly di
 **Welcome to the Testbed for the Future**
 
 As the Senior Project Manager at JTC’s Smart District Division (SDD), Chin Zhi Hui is part of a team that spearheads an ecosystem and works with stakeholders to allow companies to develop, trial, and test-bed fascinating new products or technology solutions in the district.      
-     
+
+![](/images/article-imageJTC-article-2.png)
+
 The result? When put together, the projects within PDD turn an already advanced Singapore into something truly futuristic. Check out just a few of the innovations that make PDD an exciting place to be: 
           
 * Open Digital Platform (ODP): a next-generation, open platform that allows multiple estate systems to sync up and inter operate
@@ -45,6 +49,8 @@ For instance, the sensing of footfall to switch off building lights when they’
 **Work, Live, and Play Differently**
 
 Previously, Zhi Hui was also part of the team that worked on the master plan for the one-north district. Connecting with colleagues, industry players, partners, and fellow officers from other government agencies on the estate’s development introduced Zhi Hui to a whole new world. The knowledge gained from that project served as a solid foundation for PDD.      
+
+![](/images/article-imageJTC-article-3.png)
      
 “Since PDD is an entirely new estate, it is an unprecedented opportunity —  a blank canvas to try a wider scope of features,” he says.
      
@@ -61,4 +67,4 @@ To Zhi Hui, “It’s an invaluable experience.” Tomorrow becomes ever closer,
 [SOURCES]
 Interview with Chin Zhi Hui
 https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Urban-Transformations/Punggol-Digital-District
-https://www.smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation 
+https://www.smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation
