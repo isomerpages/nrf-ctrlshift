@@ -28,8 +28,6 @@ For David, it’s just another day at the office.
 During his early 20s, David had opportunity to carry out shorebird surveys along the coast of the Yellow Sea in China. Since then, he fell in love with the shorebirds — a blanket term for the species of birds that live in wet, coastal environments such as shorelines and mudflats.
  
 Joining the Sungei Buloh Wetland Reserve that is known for its work on shorebird conservation, was thus a natural transition for David, who joined the team in 2008.  
-
-![](/images/article-imageNParks-article-3.png)
  
 If you’ve visited Sungei Buloh and enjoyed the gorgeous scenery, you can thank David and his colleagues. Together they ensure that these delicate habitats, home to over 500 species of plants, mud-dwellers, reptiles, birds, and dragonflies, thrive in a time of climate change and urbanisation.
  
@@ -42,7 +40,9 @@ These are two long-term monitoring programmes at Sungei Buloh that have been ong
 The bird census programme collects monthly data on the bird species that live in the wetland reserve. This includes identifying and counting the number of each bird species found here to understand the key habitat areas for birds, and long-term trends on the overall bird population.
      
 It’s important work, because Sungei Buloh Wetland Reserve is quite the ‘international travel hub’. If you see a small stocky, brown bird with a dazzling white underbelly, it could be the Common Sandpiper. This flighty visitor comes all the way from Central Asia and Central and East Siberia, and David’s work ensures that these ‘tourists’ keep coming to a safe, stable environment.
-     
+
+![](/images/article-imageNParks-article-3.png)
+
 Shorebirds that breed in China and Russia can fly over 5000m above sea level and cross the Himalayas to migrate to Singapore, a crucial rest stop that keeps bird populations alive by serving as a wintering ground.
  
 This fascinating fact was confirmed by David and team when they used bird ringing and tracking technology to keep tabs on threatened and endangered shorebirds. His work uncovers much-needed information on the declining shorebird populations due to loss of habitat. 
