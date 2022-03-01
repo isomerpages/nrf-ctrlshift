@@ -28,6 +28,8 @@ Yan Jie says, “Change is always faced with resistance. Users may be skeptical 
 This is why she says “proper change management, including seeking users’ involvement early on, keeping them engaged throughout the journey, and equipping them with relevant skills is essential”. After all, data isn’t useful unless it is analysed and applied appropriately. 
  
 The core of her job sees her setting up the Digital Lab, planning programs, sourcing solutions and exploring experimental approaches, and engaging stakeholders for partnership on digital initiatives. 
+
+![](/images/article-imageLTA3-article-2.png)
  
 The real-life launch of the Digital Lab in Q2 of 2022 will showcase a range of user-friendly digital tools including: 
 * Panorama: one-stop data platform built in-house to facilitate users on the data analytics journey 
@@ -60,8 +62,14 @@ When she made the move from Corporate Strategy to Digital Lab, Yan Jie took her 
 
 “My work involves a wide range of technologies as it requires me to stay on top of the latest technological trends. On a more daily basis, it involves data processing and analytics, machine learning, artificial intelligence, and software engineering,” she continues. Basically, all of the tools that are forging what people call the Fourth Industrial Revolution.
 
+![](/images/article-imageLTA3-article-3.png)
+
 Despite this, Yan Jie says she does not have the answers to all tech-related questions. But that’s not a problem. Her never-ending search for information means she’s always acquiring new knowledge. 
  
 Moving forward, Yan Jie predicts we will see an increase in remote working and learning, enabled by Artificial Intelligence, Augmented Reality and Virtual Reality — so get those headsets ready. 
 
 “To work in this field, you need to have an open mindset and a thirst for learning, as the technological landscape is constantly changing,” she adds.
+
+[SOURCES]
+Interview with Yan Jie
+
