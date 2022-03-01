@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - 2021 stories/smart-homes-how-technology-is-changing-your-hdb-estate.md
       - 2021 stories/safety-on-your-plate-ensuring-food-safety-in-singapore.md
       - 2021 stories/revolutionising-the-future-of-nutrition.md
       - 2021 stories/waste-not-want-not-engineering-a-cleaner-future.md
