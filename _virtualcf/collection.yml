@@ -1,0 +1,4 @@
+collections:
+  virtualcf:
+    output: true
+    order: []
