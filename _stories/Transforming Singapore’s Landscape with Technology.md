@@ -21,10 +21,13 @@ As the Senior Project Manager at JTC’s Smart District Division (SDD), Chin Zhi
      
 The result? When put together, the projects within PDD turn an already advanced Singapore into something truly futuristic. Check out just a few of the innovations that make PDD an exciting place to be: 
           
-•	Open Digital Platform (ODP): a next-generation, open platform that allows multiple estate systems to sync up and inter operate
-•	Living Lab: enabling plug and play testing for students, academia and businesses to trial and deploy new products and services in a digital twin: a virtual 3D model of PDD that allows companies to experiment and test-bed solutions securely without the risks usually associated with actual trials, paving the way for ideas to be brought to market faster.” 
-•	Smart Grid: a grid to provide clean energy sources and encourage greater energy efficiency and savings 
-•	Autonomous vehicles that make commuting safer, smoother, and greener
+* Open Digital Platform (ODP): a next-generation, open platform that allows multiple estate systems to sync up and inter operate
+
+* Living Lab: enabling plug and play testing for students, academia and businesses to trial and deploy new products and services in a digital twin: a virtual 3D model of PDD that allows companies to experiment and test-bed solutions securely without the risks usually associated with actual trials, paving the way for ideas to be brought to market faster.” 
+
+* Smart Grid: a grid to provide clean energy sources and encourage greater energy efficiency and savings 
+
+* Autonomous vehicles that make commuting safer, smoother, and greener
 
 Wait, there’s more.
 
@@ -55,4 +58,7 @@ The best part about the job? He gets to test exciting new technology before pres
 
 To Zhi Hui, “It’s an invaluable experience.” Tomorrow becomes ever closer, every day.
 
-
+[SOURCES]
+Interview with Chin Zhi Hui
+https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Urban-Transformations/Punggol-Digital-District
+https://www.smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation 
