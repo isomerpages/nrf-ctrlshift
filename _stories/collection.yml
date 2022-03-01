@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Safeguarding Singapore’s Yellow Brick Roads.md
       - Improving our Daily Commute with Engineering and Technology.md
       - Embracing Singapore’s Wild Side.md
       - "Marvellous Singapore: Infinite Possibilities at your Fingertips.md"
