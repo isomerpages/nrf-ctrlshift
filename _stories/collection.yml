@@ -2,8 +2,7 @@ collections:
   stories:
     output: true
     order:
-      - Embracing Singapore’s Wild Side Meet the Most Tech savvy Bird lover in
-        the City.md
+      - Embracing Singapore’s Wild Side.md
       - "Marvellous Singapore: Infinite Possibilities at your Fingertips.md"
       - 2021 stories/transforming-the-future-of-rail.md
       - 2021
