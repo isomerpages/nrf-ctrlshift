@@ -47,3 +47,8 @@ A typical workday for Cheryl entails designing, developing, testing, and impleme
  Cheryl and her team are constantly provided with  opportunities to work on new technologies. For example, although she started out doing mobile app development, she has since progressed to mastering cloud technologies for internal business operations. As Cheryl says, “The learning never stops with technology!”
 
 She finds her work fulfilling and satisfying because it helps to make Singapore a better place. She hopes that technology continues to elevate our lives and above all, that it allows us to keep forging meaningful connections.
+
+[SOURCES]
+Interview with Cheryl Chiam
+https://www.sciencedaily.com/releases/2021/06/210622123229.htm 
+https://www.straitstimes.com/singapore/housing/hdb-makes-it-a-point-to-be-more-accessible-and-real 
