@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Defending Borders and Protecting Our People.md
       - "Fresh Eyes, New Perspectives: Home Improvement with Augmented
         Reality.md"
       - Let There Be Light! What it Takes to Keep Our HDB Estates Clean and
