@@ -2,6 +2,8 @@ collections:
   stories:
     output: true
     order:
+      - 2021
+        stories/shoring-up-sustainability-reshaping-the-coastline-of-pulau-tekong.md
       - 2021 stories/smart-homes-how-technology-is-changing-your-hdb-estate.md
       - 2021 stories/safety-on-your-plate-ensuring-food-safety-in-singapore.md
       - 2021 stories/revolutionising-the-future-of-nutrition.md
