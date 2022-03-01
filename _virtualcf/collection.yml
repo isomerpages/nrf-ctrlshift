@@ -1,4 +1,5 @@
 collections:
   virtualcf:
     output: true
-    order: []
+    order:
+      - Virtual Career Fair 2022.md
