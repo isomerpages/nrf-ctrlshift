@@ -5,6 +5,8 @@ description: ""
 ---
 ## Singapore's Dr Strange: Drawing on Data to Power Up the Digital Nation 
 
+![](/images/article-imageLTA3-article-1.png)
+
 Harnessing the power of data, organising massive data tournaments, and sourcing solutions for Singapore — these are just a few responsibilities of a Digital Lab rat. 
 
 Marvel's Dr Strange gets his powers from the energy of the universe and other mystical entities, but Ang Yan Jie, Deputy Manager at LTA’s Digital Lab, only needs data science to work her magic.  
@@ -62,5 +64,4 @@ Despite this, Yan Jie says she does not have the answers to all tech-related que
  
 Moving forward, Yan Jie predicts we will see an increase in remote working and learning, enabled by Artificial Intelligence, Augmented Reality and Virtual Reality — so get those headsets ready. 
 
-“To work in this field, you need to have an open mindset and a thirst for learning, as the technological landscape is constantly changing,” she adds. 
-
+“To work in this field, you need to have an open mindset and a thirst for learning, as the technological landscape is constantly changing,” she adds.
