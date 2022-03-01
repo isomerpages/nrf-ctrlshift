@@ -2,6 +2,8 @@ collections:
   stories:
     output: true
     order:
+      - "Fresh Eyes, New Perspectives: Home Improvement with Augmented
+        Reality.md"
       - Let There Be Light! What it Takes to Keep Our HDB Estates Clean and
         Green.md
       - Transforming Singapore’s Landscape with Technology.md
