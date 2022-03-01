@@ -82,3 +82,19 @@ Imagine baking over 200 muffins in a day — just for science! Dr Chiang talks a
 </div>
 <br>
 As part of her job managing wildlife research, Rekha reveals that she tracks animals like otters and monkeys! Here, she talks more about how she turned her passion for animals into a career, and what would help her keep up with our animal friends.
+
+**Shaping Dynamic Living Spaces Through Technology**
+
+<br>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YoMnObUw2Ic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+How much science and data drive the way our buildings are designed? <b>Ng Hiang Teck Joshua, Architect (Building & Research Institute), Housing & Development Board,</b>reveals the answer as he talks about his work and how it helps strengthen social sustainability within Singapore's HDB towns.
+<br>
+<br>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mwOPwQJHPkA" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+Joshua shares more on what helps him maximise his potential at work and the superpower that would help him achieve his goal in life.
