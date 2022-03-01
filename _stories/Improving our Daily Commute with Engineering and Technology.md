@@ -19,7 +19,7 @@ As an Executive Engineer at LTA, Jing Tian keeps this software on the knife-edge
 
 “Regardless of whether we work, play, or simply live our lives, commuting will always be an essential part of our day-to-day activities. By leveraging technology to enhance point-to-point transportation and upkeeping safety on roads, I can improve the quality of life,” Jing Tian says. 
 
-![](/images/article-imageLTA-article-2.png)
+![](/images/article-imageLTA-article-3.png)
 
 Singapore has an expansive network of expressways spanning over 160km, with road tunnels, sensors, and cameras situated throughout the network. These tech elements are like the sentinels on the ground, put in place to gather data on traffic flow and road demand, in order to supply users with useful and updated information for travel. 
 
@@ -37,7 +37,7 @@ Having been with LTA for almost five years, Jing Tian has found his journey deep
 
 “During my course of work, I was privileged to be part of the Operation Control Centre renovation team. It was fulfilling to see the operators comfortably using their new consoles and video wall and our efforts coming to fruition,” he adds.
 
-![](/images/article-imageLTA-article-3.png)
+![](/images/article-imageLTA-article-2.png)
 
 Jing Tian says there are many opportunities to learn and excel, if one keeps an open mind and a keenness to learn. “To me, your career is just another learning journey. My passion, motivation, and willingness to learn allow me to make a positive impact on the lives of others,” he continues.
 
