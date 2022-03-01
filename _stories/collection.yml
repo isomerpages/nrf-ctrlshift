@@ -2,6 +2,8 @@ collections:
   stories:
     output: true
     order:
+      - Let There Be Light! What it Takes to Keep Our HDB Estates Clean and
+        Green.md
       - Transforming Singapore’s Landscape with Technology.md
       - Singapore's Dr Strange Drawing on Data to Power Up the Digital Nation.md
       - Safeguarding Singapore’s Yellow Brick Roads.md
