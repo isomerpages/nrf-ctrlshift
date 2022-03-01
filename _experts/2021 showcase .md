@@ -65,3 +65,20 @@ Plant-based yogurts and ice creams that are healthier and just as tasty as their
 </div>
 <br>
 Imagine baking over 200 muffins in a day — just for science! Dr Chiang talks about the experiments he conducts and qualities that help him excel at his job.
+
+<br>
+
+**A Better Home For People And Wildlife**
+
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/OfSg6bZ2AS8" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+<b>Nurul Rekha d/o Fuad Mohan, Manager (Wildlife Management), National Parks Board,</b> discusses how she leverages technology to protect native and endangered animals, and make Singapore a better home for our wildlife friends, and us! 
+<br>
+<br>
+<div class="bp-youtube">
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z5aRhyxOVFU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<br>
+As part of her job managing wildlife research, Rekha reveals that she tracks animals like otters and monkeys! Here, she talks more about how she turned her passion for animals into a career, and what would help her keep up with our animal friends.
