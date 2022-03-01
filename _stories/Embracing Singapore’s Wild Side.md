@@ -5,6 +5,8 @@ description: ""
 ---
 ## Embracing Singapore’s Wild Side: Meet the Most Tech-savvy Bird-lover in the City 
 
+![](/images/article-imageNParks-article-1.png)
+
 From ‘spying’ on birds with high-tech gear to getting up close with crocodiles, Conservation Manager David Li helps to protect the diverse native and migratory species found on our shores. 
 
 Singapore is a city with diverse appeal. Some see it as a vibrant green cityscape. Others think of it as an urbanised city state. But despite it being highly developed, the National Parks Board has conserved and expanded huge swathes of greenery with nature reserves, parks, gardens, an extensive park connector network, therapeutic gardens, nature play gardens, and more. And these green gems are home to a wide range of biodiversity: one with majestic beasts, unique migratory birds, and everything in between. 
@@ -14,6 +16,8 @@ Of course, keeping those areas thriving is a whole other challenge…
 **Protector of Sungei Buloh**
 
 That’s where David Li comes in. He’s the boots on the ground, part of the army of experts that protects our wildlife to allow citizens and visitors alike to visit and witness the magic. He’s part of the team that manages one of our richest nature reserves: Sungei Buloh Wetland Reserve.      
+
+![](/images/article-imageNParks-article-2.png)
           
 As Singapore’s first ASEAN Heritage Park, Sungei Buloh Wetland Reserve is arguably the most unique nature reserve. It boasts stunningly rich biodiversity in its wetlands and mangrove forest. Don’t be surprised if you see tree climbing crabs, mangrove vipers and even ‘archer fish’, which shoot insects using jets of water so they fall into their waiting jaws.      
  
@@ -24,6 +28,8 @@ For David, it’s just another day at the office.
 During his early 20s, David had opportunity to carry out shorebird surveys along the coast of the Yellow Sea in China. Since then, he fell in love with the shorebirds — a blanket term for the species of birds that live in wet, coastal environments such as shorelines and mudflats.
  
 Joining the Sungei Buloh Wetland Reserve that is known for its work on shorebird conservation, was thus a natural transition for David, who joined the team in 2008.  
+
+![](/images/article-imageNParks-article-3.png)
  
 If you’ve visited Sungei Buloh and enjoyed the gorgeous scenery, you can thank David and his colleagues. Together they ensure that these delicate habitats, home to over 500 species of plants, mud-dwellers, reptiles, birds, and dragonflies, thrive in a time of climate change and urbanisation.
  
@@ -78,9 +84,3 @@ https://www.straitstimes.com/singapore/environment/crikey-6-recent-crocodile-sig
 https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/estuarine-crocodiles
 https://thesmartlocal.com/read/the-water-monitor-lizards-of-sungei-buloh/
 https://www.nparks.gov.sg/nparksbuzz/issue-30-vol-3-2016/conservation/spot-these-seven-migratory-birds-at-sungei-buloh-wetland-reserve
-
-
-
-
-
-
