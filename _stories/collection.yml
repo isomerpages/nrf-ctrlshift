@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - 2021 stories/man-on-a-mission-engineering-singapore-s-frontline-fight.md
       - 2021 stories/a-greener-singapore-one-building-at-a-time.md
       - "2021 stories/Marvellous Singapore: Infinite Possibilities at your
         Fingertips.md"
