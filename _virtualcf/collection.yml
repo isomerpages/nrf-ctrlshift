@@ -2,5 +2,5 @@ collections:
   virtualcf:
     output: true
     order:
-      - Virtual Career Fair Recap 2022.md
+      - Virtual Career Fair 2022.md
       - Virtual Career Fair Recap 2021.md
