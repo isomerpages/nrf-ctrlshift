@@ -62,5 +62,4 @@ Approved interview with Jason Ng
 https://www.ica.gov.sg/docs/default-source/ica/stats/annual-stats-report/ica-annual-statistics-2020.pdf 
 https://www.straitstimes.com/tech/tech-news/govts-pick-parcel-delivery-locker-network-launched-with-over-200-lockers-deployed
 https://www.uipath.com/rpa/robotic-process-automation
-https://www.htx.gov.sg/news/featured-news-uncovering-the-unlawful-the-e-commerce-surveillance-tool 
-
+https://www.htx.gov.sg/news/featured-news-uncovering-the-unlawful-the-e-commerce-surveillance-tool
