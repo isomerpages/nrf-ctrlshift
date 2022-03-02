@@ -15,9 +15,9 @@ Faced with the high volume of foreign items swarming through Singapore’s borde
 
 That’s where Jason and his team comes into play with two words: “Bots, activate!”
 
-Hunting Illegal Goods with “Digital Bloodhounds”
-Love online shopping? You may have noticed the decrease in contraband listings online, and this is partly thanks to the work of Jason and his team behind the scenes!
+**Hunting Illegal Goods with “Digital Bloodhounds”**
 
+Love online shopping? You may have noticed the decrease in contraband listings online, and this is partly thanks to the work of Jason and his team behind the scenes!
 
 He secures the cyberspace for netizens by using the E-Commerce Surveillance Tool to enhance the efficiency of detecting contrabands on e-commerce platforms. This is a system that uses bots and artificial intelligence (AI) to sift through listings and detect contraband… like a digital bloodhound.
 
