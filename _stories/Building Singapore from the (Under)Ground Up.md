@@ -47,5 +47,4 @@ He is a strong believer in technology and trusts that everyone should embrace it
 
 "For me, the fun in being a geomatics engineer is getting to play with sophisticated devices and exploring Singapore regularly. Trust me, you never know what you may encounter in the field. The scenic views and undiscovered areas make me forget about the heat and humidity outside. I encourage you to give working in this field a chance — I'm sure you won't regret it!"
 
-[SOURCES]
-Interview with Richard Loo Wei Kiah
+###### [SOURCES] Interview with Richard Loo Wei Kiah
