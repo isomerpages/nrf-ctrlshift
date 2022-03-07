@@ -1,5 +1,5 @@
 collections:
-  virtualcf:
+  virtualcareerfair:
     output: true
     order:
       - Virtual Career Fair 2022 .md
