@@ -52,8 +52,4 @@ Sharon recently participated in the Data Arcade Tournament, a hackathon-style in
      
 Her advice to anyone thinking about a role in engineering in the public sector is to dive right in and find their vocation. “There’s no perfect job — learn what you can wherever you are and make the most of the opportunities you have,” Sharon advises.
 
-###### [SOURCES]Interview with Sharon George
-https://www.hdb.gov.sg/about-us/research-and-innovation/centre-of-building-research-page
-https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/Green-Towns-Progamme
-https://www.hdb.gov.sg/about-us/history/hdb-towns-your-home 
-https://www.energy.gov/energysaver/lighting-choices-save-you-money
+###### [SOURCES]Interview with Sharon George 1.https://www.hdb.gov.sg/about-us/research-and-innovation/centre-of-building-research-page 2.https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/Green-Towns-Progamme 3.https://www.hdb.gov.sg/about-us/history/hdb-towns-your-home 4. https://www.energy.gov/energysaver/lighting-choices-save-you-money
