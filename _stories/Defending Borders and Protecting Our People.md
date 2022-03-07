@@ -57,8 +57,7 @@ The avid lover of technology isn’t afraid to enter unchartered territory. It�
 
 If you’re hungry for knowledge and are a fast adapter, join Jason today — the bots are waiting.
 
-[SOURCES]
-Approved interview with Jason Ng
+###### [SOURCES]Approved interview with Jason Ng 
 https://www.ica.gov.sg/docs/default-source/ica/stats/annual-stats-report/ica-annual-statistics-2020.pdf 
 https://www.straitstimes.com/tech/tech-news/govts-pick-parcel-delivery-locker-network-launched-with-over-200-lockers-deployed
 https://www.uipath.com/rpa/robotic-process-automation
