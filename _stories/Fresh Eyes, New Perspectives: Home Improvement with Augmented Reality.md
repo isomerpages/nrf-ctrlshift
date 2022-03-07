@@ -48,6 +48,4 @@ A typical workday for Cheryl entails designing, developing, testing, and impleme
 
 She finds her work fulfilling and satisfying because it helps to make Singapore a better place. She hopes that technology continues to elevate our lives and above all, that it allows us to keep forging meaningful connections.
 
-###### [SOURCES]Interview with Cheryl Chiam
-https://www.sciencedaily.com/releases/2021/06/210622123229.htm
-https://www.straitstimes.com/singapore/housing/hdb-makes-it-a-point-to-be-more-accessible-and-real
+###### [SOURCES]Interview with Cheryl Chiam 1.https://www.sciencedaily.com/releases/2021/06/210622123229.htm 2.https://www.straitstimes.com/singapore/housing/hdb-makes-it-a-point-to-be-more-accessible-and-real
