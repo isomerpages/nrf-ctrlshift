@@ -71,8 +71,7 @@ His proudest achievement? In the radio-tracking study in 2016, his team found th
  
 He adds, “There is a Chinese saying ‘只要功夫深，铁杵磨成针’ that translates to ‘If you work at it hard enough, you can grind an iron bar into a needle’. To me, this means identifying and fulfilling my purpose, doing my best, continuously learning and improving. This is the best piece of advice that I can share.” 
 
-[SOURCES] 
-Interview with David Li
+###### [SOURCES] Interview with David Li
 https://www.cgs.gov.sg/ 
 https://www.nea.gov.sg/programmes-grants/campaigns/clean-and-green-singapore 
 https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves 
