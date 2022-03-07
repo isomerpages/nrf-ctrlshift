@@ -6,9 +6,6 @@ date: 2022-01-07
 layout: post
 description: ""
 ---
-
-
-
 Thank you to all of you who joined us for the Science, Technology and Engineering (STE) Virtual Career Fair 2021— an event organised by the Public Sector Science & Technology Policy and Plans Office (S&TPPO) in partnership with the Public Service Division (PSD).
  
 We are happy to share insights from thought leaders and professionals in the Science, Technology and Engineering fields as they share the exciting projects that are changing what's next for Singapore. 
