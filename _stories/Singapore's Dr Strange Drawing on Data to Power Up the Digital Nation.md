@@ -70,6 +70,4 @@ Moving forward, Yan Jie predicts we will see an increase in remote working and l
 
 “To work in this field, you need to have an open mindset and a thirst for learning, as the technological landscape is constantly changing,” she adds.
 
-[SOURCES]
-Interview with Yan Jie
-
+###### [SOURCES] Interview with Yan Jie
