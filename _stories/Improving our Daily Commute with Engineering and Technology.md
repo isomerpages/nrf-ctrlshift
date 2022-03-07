@@ -43,4 +43,4 @@ Jing Tian says there are many opportunities to learn and excel, if one keeps an 
 
 Is there one piece of advice he has for engineering students that are looking for career guidance? Not surprisingly, Jing Tian employs a travel metaphor: “I was once told that a career is another form of learning journey. Having the passion and the right motivation in your career will add immense value to ourselves and the organisation, all while creating a positive impact to the lives of others.” 
 
-###### [SOURCES] Interview with Phua Jing Tian 1. https://www.lta.gov.sg/content/ltagov/en/getting_around/driving_in_singapore/intelligent_transport_systems.html 2. https://www.lta.gov.sg/content/ltagov/en/who_we_are/our_work/road.html
+###### [SOURCES] Interview with Phua Jing Tian 1.https://www.lta.gov.sg/content/ltagov/en/getting_around/driving_in_singapore/intelligent_transport_systems.html 2.https://www.lta.gov.sg/content/ltagov/en/who_we_are/our_work/road.html
