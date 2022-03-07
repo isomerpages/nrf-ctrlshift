@@ -2,9 +2,12 @@ collections:
   experts:
     output: true
     order:
-      - building-a-next-generation-port.md
-      - powering-evs-for-a-greener-future.md
-      - ensuring-food-safety-in-singapore.md
-      - enhancing-food-resilience-with-plant-proteins.md
-      - a-better-home-for-people-and-wildlife.md
-      - shaping-dynamic-living-spaces-through-technology.md
+      - How do you maintain Singapore's greenery with Tech?.md
+      - Redefining the taste, texture and flavour of our hawker favourites.md
+      - 2021 experts showcase/shaping-dynamic-living-spaces-through-technology.md
+      - 2021 experts showcase/ensuring-food-safety-in-singapore.md
+      - 2021 experts showcase/enhancing-food-resilience-with-plant-proteins.md
+      - 2021 experts showcase/a-better-home-for-people-and-wildlife.md
+      - 2021 experts showcase/powering-evs-for-a-greener-future.md
+      - 2021 experts showcase/building-a-next-generation-port.md
+      - 2021 experts showcase/.keep

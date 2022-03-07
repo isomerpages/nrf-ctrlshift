@@ -2,13 +2,30 @@ collections:
   stories:
     output: true
     order:
-      - a-greener-singapore-one-building-at-a-time.md
-      - man-on-a-mission-engineering-singapore-s-frontline-fight.md
-      - mapping-the-smart-future-with-3d-data.md
-      - waste-not-want-not-engineering-a-cleaner-future.md
-      - revolutionising-the-future-of-nutrition.md
-      - safety-on-your-plate-ensuring-food-safety-in-singapore.md
-      - smart-homes-how-technology-is-changing-your-hdb-estate.md
-      - shoring-up-sustainability-reshaping-the-coastline-of-pulau-tekong.md
-      - tech-at-play-rolling-out-innovations-at-jurong-lake-gardens.md
-      - transforming-the-future-of-rail.md
+      - Building Singapore from the (Under)Ground Up.md
+      - Defending Borders and Protecting Our People.md
+      - "Fresh Eyes, New Perspectives: Home Improvement with Augmented
+        Reality.md"
+      - Let There Be Light! What it Takes to Keep Our HDB Estates Clean and
+        Green.md
+      - Transforming Singapore’s Landscape with Technology.md
+      - Singapore's Dr Strange Drawing on Data to Power Up the Digital Nation.md
+      - Safeguarding Singapore’s Yellow Brick Roads.md
+      - Improving our Daily Commute with Engineering and Technology.md
+      - Embracing Singapore’s Wild Side.md
+      - "Marvellous Singapore: Infinite Possibilities at your Fingertips.md"
+      - 2021 stories/transforming-the-future-of-rail.md
+      - 2021
+        stories/tech-at-play-rolling-out-innovations-at-jurong-lake-gardens.md
+      - 2021
+        stories/shoring-up-sustainability-reshaping-the-coastline-of-pulau-tekong.md
+      - 2021 stories/smart-homes-how-technology-is-changing-your-hdb-estate.md
+      - 2021 stories/safety-on-your-plate-ensuring-food-safety-in-singapore.md
+      - 2021 stories/revolutionising-the-future-of-nutrition.md
+      - 2021 stories/waste-not-want-not-engineering-a-cleaner-future.md
+      - 2021 stories/mapping-the-smart-future-with-3d-data.md
+      - 2021 stories/man-on-a-mission-engineering-singapore-s-frontline-fight.md
+      - 2021 stories/a-greener-singapore-one-building-at-a-time.md
+      - "2021 stories/Marvellous Singapore: Infinite Possibilities at your
+        Fingertips.md"
+      - 2021 stories/.keep
