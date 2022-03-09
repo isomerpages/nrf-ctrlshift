@@ -2,9 +2,10 @@ collections:
   stories:
     output: true
     order:
+      - 2022 stories/.keep
+      - 2022 stories/Embracing Singapore’s Wild Side.md
       - "2022 stories/Marvellous Singapore: Infinite Possibilities at your
         Fingertips.md"
-      - 2022 stories/Embracing Singapore’s Wild Side.md
       - 2022 stories/Improving our Daily Commute with Engineering and
         Technology.md
       - 2022 stories/Safeguarding Singapore’s Yellow Brick Roads.md
@@ -17,7 +18,6 @@ collections:
         Augmented Reality.md"
       - 2022 stories/Defending Borders and Protecting Our People.md
       - 2022 stories/Building Singapore from the (Under)Ground Up.md
-      - 2022 stories/.keep
       - 2021 stories/transforming-the-future-of-rail.md
       - 2021
         stories/tech-at-play-rolling-out-innovations-at-jurong-lake-gardens.md
