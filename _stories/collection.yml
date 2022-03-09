@@ -2,6 +2,8 @@ collections:
   stories:
     output: true
     order:
+      - 2022 stories/Let There Be Light! What it Takes to Keep Our HDB Estates
+        Clean and Green.md
       - "2022 stories/Fresh Eyes, New Perspectives: Home Improvement with
         Augmented Reality.md"
       - 2022 stories/Defending Borders and Protecting Our People.md
