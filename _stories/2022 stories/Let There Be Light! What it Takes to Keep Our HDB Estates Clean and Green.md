@@ -2,10 +2,11 @@
 title: Let There Be Light! What it Takes to Keep Our HDB Estates Clean and Green
 permalink: /stories/HDBSharon
 description: ""
+third_nav_title: 2022 stories
 ---
 ## Let There Be Light! What it Takes to Keep Our HDB Estates Clean and Green
 
-![](/images/article-imageHDB-article-1.png)
+![](/images/article-imageHDB-article-1rev.png)
 
 How much energy does LED lighting in HDB estates save? What will it take for HDB towns to be more sustainable? Finding the answers to these questions keep Sharon George busy as a data analyst in HDB. 
 

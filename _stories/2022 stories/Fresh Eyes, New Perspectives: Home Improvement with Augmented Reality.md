@@ -2,6 +2,7 @@
 title: "Fresh Eyes, New Perspectives: Home Improvement with Augmented Reality"
 permalink: /stories/HDBCheryl
 description: ""
+third_nav_title: 2022 stories
 ---
 ## Fresh Eyes, New Perspectives: Home Improvement with Augmented Reality
 ![](/images/article-imageHDB2-article-1.png)
@@ -38,7 +39,7 @@ It was a challenging process that involved a lot of research and trials, but Che
 
 A fun bonus? Cheryl and her team get to try exciting new mobile devices, as they must test new features to ensure compatibility with new software. 
 
-Want Cheryl’s Job? Be a Technology Lover! 
+**Want Cheryl’s Job? Be a Technology Lover!**
 
 A typical workday for Cheryl entails designing, developing, testing, and implementing new features on HDB digital platforms. 
 
@@ -48,4 +49,4 @@ A typical workday for Cheryl entails designing, developing, testing, and impleme
 
 She finds her work fulfilling and satisfying because it helps to make Singapore a better place. She hopes that technology continues to elevate our lives and above all, that it allows us to keep forging meaningful connections.
 
-###### [SOURCES]Interview with Cheryl Chiam 1.https://www.sciencedaily.com/releases/2021/06/210622123229.htm 2.https://www.straitstimes.com/singapore/housing/hdb-makes-it-a-point-to-be-more-accessible-and-real
+###### [SOURCES]Interview with Cheryl Chiam 1.https://www.sciencedaily.com/releases/2021/06/210622123229.htm 2.https://www.straitstimes.com/singapore/housing/hdb-makes-it-a-point-to-be-more-accessible-and-real  3. (https://www.straitstimes.com/singapore/housing/upgrading-works-start-for-56000-hdb-flats-built-between-1987-and-1997)

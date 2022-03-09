@@ -2,18 +2,22 @@ collections:
   stories:
     output: true
     order:
-      - Building Singapore from the (Under)Ground Up.md
-      - Defending Borders and Protecting Our People.md
-      - "Fresh Eyes, New Perspectives: Home Improvement with Augmented
-        Reality.md"
-      - Let There Be Light! What it Takes to Keep Our HDB Estates Clean and
-        Green.md
-      - Transforming Singapore’s Landscape with Technology.md
-      - Singapore's Dr Strange Drawing on Data to Power Up the Digital Nation.md
-      - Safeguarding Singapore’s Yellow Brick Roads.md
-      - Improving our Daily Commute with Engineering and Technology.md
-      - Embracing Singapore’s Wild Side.md
-      - "Marvellous Singapore: Infinite Possibilities at your Fingertips.md"
+      - 2022 stories/.keep
+      - 2022 stories/Embracing Singapore’s Wild Side.md
+      - "2022 stories/Marvellous Singapore: Infinite Possibilities at your
+        Fingertips.md"
+      - 2022 stories/Improving our Daily Commute with Engineering and
+        Technology.md
+      - 2022 stories/Safeguarding Singapore’s Yellow Brick Roads.md
+      - 2022 stories/Singapore's Dr Strange Drawing on Data to Power Up the
+        Digital Nation.md
+      - 2022 stories/Transforming Singapore’s Landscape with Technology.md
+      - 2022 stories/Let There Be Light! What it Takes to Keep Our HDB Estates
+        Clean and Green.md
+      - "2022 stories/Fresh Eyes, New Perspectives: Home Improvement with
+        Augmented Reality.md"
+      - 2022 stories/Defending Borders and Protecting Our People.md
+      - 2022 stories/Building Singapore from the (Under)Ground Up.md
       - 2021 stories/transforming-the-future-of-rail.md
       - 2021
         stories/tech-at-play-rolling-out-innovations-at-jurong-lake-gardens.md

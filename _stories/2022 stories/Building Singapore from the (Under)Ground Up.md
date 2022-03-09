@@ -2,7 +2,9 @@
 title: Building Singapore from the (Under)Ground Up
 permalink: /stories/SLARich
 description: ""
+third_nav_title: 2022 stories
 ---
+
 ## Building Singapore from the (Under)Ground Up
 
 ![](/images/article-imageSLA-article-1.png)

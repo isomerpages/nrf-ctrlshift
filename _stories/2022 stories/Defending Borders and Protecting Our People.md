@@ -2,7 +2,9 @@
 title: Defending Borders and Protecting Our People
 permalink: /stories/HTXJason
 description: ""
+third_nav_title: 2022 stories
 ---
+
 ## The Bot-master of Singapore: Defending Borders and Protecting Our People 
 
 ![](/images/article-imageHTX-article-1.png)

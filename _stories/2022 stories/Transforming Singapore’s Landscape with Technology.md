@@ -2,7 +2,9 @@
 title: Transforming Singapore’s Landscape with Technology
 permalink: /stories/JTCZhihui
 description: ""
+third_nav_title: 2022 stories
 ---
+
 ## Smart Digital Districts: Transforming Singapore’s Landscape with Technology
 
 ![](/images/article-imageJTC-article-1.png)
