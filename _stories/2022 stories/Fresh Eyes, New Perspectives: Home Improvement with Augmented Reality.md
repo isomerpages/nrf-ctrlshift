@@ -39,7 +39,7 @@ It was a challenging process that involved a lot of research and trials, but Che
 
 A fun bonus? Cheryl and her team get to try exciting new mobile devices, as they must test new features to ensure compatibility with new software. 
 
-**Want Cheryl’s Job? Be a Technology Lover! **
+**Want Cheryl’s Job? Be a Technology Lover!**
 
 A typical workday for Cheryl entails designing, developing, testing, and implementing new features on HDB digital platforms. 
 
