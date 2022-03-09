@@ -3,7 +3,6 @@ collections:
     output: true
     order:
       - 2022 stories/.keep
-      - Building Singapore from the (Under)Ground Up.md
       - Defending Borders and Protecting Our People.md
       - "Fresh Eyes, New Perspectives: Home Improvement with Augmented
         Reality.md"
