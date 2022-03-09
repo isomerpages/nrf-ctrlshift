@@ -4,9 +4,9 @@ title: "STE What's Next "
 permalink: /
 sections:
   - hero:
-      subtitle: Come explore the What's Next Stories shaping Singapore
+      subtitle: Come explore the Stories shaping the future of Singapore
       background: /images/STE-bannerpage-banner1.png
-      button: Learn more
+      button: view now
       url: /stories/
       key_highlights:
         - title: Ideas
