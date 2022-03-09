@@ -1,5 +1,5 @@
 collections:
-  virtualcareerfair:
+  virtual-career-fair:
     output: true
     order:
       - Virtual Career Fair 2021 Recap .md
