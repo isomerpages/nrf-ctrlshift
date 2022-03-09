@@ -2,6 +2,8 @@ collections:
   stories:
     output: true
     order:
+      - 2022 stories/Singapore's Dr Strange Drawing on Data to Power Up the
+        Digital Nation.md
       - 2022 stories/Transforming Singapore’s Landscape with Technology.md
       - 2022 stories/Let There Be Light! What it Takes to Keep Our HDB Estates
         Clean and Green.md
