@@ -2,6 +2,7 @@ collections:
   experts:
     output: true
     order:
+      - Powering Singapore to go green.md
       - How do you maintain Singapore's greenery with Tech?.md
       - Redefining the taste, texture and flavour of our hawker favourites.md
       - 2021 experts showcase/shaping-dynamic-living-spaces-through-technology.md
