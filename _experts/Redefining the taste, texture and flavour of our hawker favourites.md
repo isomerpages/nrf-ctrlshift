@@ -5,6 +5,6 @@ description: ""
 ---
 # Redefining the taste, texture and flavour of our hawker favourites
 
-Find out how A*Star redefines the taste, texture and flavour of local hawker favourites for future generations. If this excites you, find out more about what a public sector Science, Technology and Engineering career can offer.
+Meet Dr See Xin Yi and Ms Law Li Min,  A*Star researchers who redefine the taste, texture and flavour of local hawker favourites for future generations.
 
 <iframe width="300" height="533" src="https://www.youtube.com/embed/CRCPHgtOfxo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
