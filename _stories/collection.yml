@@ -2,6 +2,8 @@ collections:
   stories:
     output: true
     order:
+      - "2022 stories/Marvellous Singapore: Infinite Possibilities at your
+        Fingertips.md"
       - 2022 stories/Embracing Singapore’s Wild Side.md
       - 2022 stories/Improving our Daily Commute with Engineering and
         Technology.md
