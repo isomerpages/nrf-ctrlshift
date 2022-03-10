@@ -4,7 +4,7 @@ permalink: /stories/JTCZhihui
 description: ""
 third_nav_title: 2022 stories
 ---
-## Smart Digital Districts: Transforming Singapore’s Landscape with Technology
+[](https://www.jtc.gov.sg/about-jtc/news-and-stories/feature-stories/open-digital-platform-the-digital-backbone-of-pdd?utm_source=ste_website&utm_medium=digital&utm_campaign=202203_ste_campaign_feature_zh&utm_term=odp_story)## Smart Digital Districts: Transforming Singapore’s Landscape with Technology
 
 ![](/images/article-imageJTC-article-1.png)
 
@@ -12,7 +12,7 @@ Meet the man who is on a quest to sharpen Singapore’s technology edge.
 
 A haven for businesses, academics, students and families to work, live, play and learn —           that’s what Singapore’s first smart digital district aims to create.
 
-Sounds too good to be true? See it for yourself at Punggol Digital District (PDD) when it’s ready in 2024. Master planned and developed by JTC, the 50-hectare urban district will incubate 28,000 jobs and allow next-gen talents to hone their skills, thanks to industry collaboration.
+Sounds too good to be true? See it for yourself at [Punggol Digital District (PDD)](https://estates.jtc.gov.sg/pdd?utm_source=ste_website&utm_medium=digital&utm_campaign=202203_ste_campaign_feature_zh&utm_term=pdd_homepage) when it’s ready in 2024. Master planned and developed by JTC, the 50-hectare urban district will incubate 28,000 jobs and allow next-gen talents to hone their skills, thanks to industry collaboration.
 
 In Singapore’s quest to continually reinvent ourselves, we are creating a technology-savvy society that empowers people to dream big and guides them towards success.     
 
@@ -26,7 +26,7 @@ As the Senior Project Manager at JTC’s Smart District Division (SDD), Chin Zhi
 
 The result? When put together, the projects within PDD turn an already advanced Singapore into something truly futuristic. Check out just a few of the innovations that make PDD an exciting place to be: 
           
-* Open Digital Platform (ODP): a next-generation, open platform that allows multiple estate systems to sync up and inter operate
+* [Open Digital Platform (ODP)](https://www.jtc.gov.sg/about-jtc/news-and-stories/feature-stories/open-digital-platform-the-digital-backbone-of-pdd?utm_source=ste_website&utm_medium=digital&utm_campaign=202203_ste_campaign_feature_zh&utm_term=odp_story): a next-generation, open platform that allows multiple estate systems to sync up and inter operate
 
 * Living Lab: enabling plug and play testing for students, academia and businesses to trial and deploy new products and services in a digital twin: a virtual 3D model of PDD that allows companies to experiment and test-bed solutions securely without the risks usually associated with actual trials, paving the way for ideas to be brought to market faster.” 
 
@@ -64,13 +64,5 @@ To do so, Zhi Hui says you need to “be versatile and willing to try new things
 The best part about the job? He gets to test exciting new technology before presenting or deploying it (in a controlled environment, of course).
 
 To Zhi Hui, “It’s an invaluable experience.” Tomorrow becomes ever closer, every day.
-
-Learn more about the Punggol Digital District (PDD) at:
-https://estates.jtc.gov.sg/pdd?utm_source=ste_website&utm_medium=digital&utm_campaign=202203_ste_campaign_feature_zh&utm_term=pdd_homepage
-
-and the Open Digital Platform (ODP) at : 
-https://www.jtc.gov.sg/about-jtc/news-and-stories/feature-stories/open-digital-platform-the-digital-backbone-of-pdd?utm_source=ste_website&utm_medium=digital&utm_campaign=202203_ste_campaign_feature_zh&utm_term=odp_story
-
-
 
 ###### [SOURCES] Interview with Chin Zhi Hui 1.https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Urban-Transformations/Punggol-Digital-District 2.https://www.smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation
