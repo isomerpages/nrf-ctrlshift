@@ -4,7 +4,7 @@ permalink: /stories/JTCZhihui
 description: ""
 third_nav_title: 2022 stories
 ---
-[](https://www.jtc.gov.sg/about-jtc/news-and-stories/feature-stories/open-digital-platform-the-digital-backbone-of-pdd?utm_source=ste_website&utm_medium=digital&utm_campaign=202203_ste_campaign_feature_zh&utm_term=odp_story)## Smart Digital Districts: Transforming Singapore’s Landscape with Technology
+## Smart Digital Districts: Transforming Singapore’s Landscape with Technology
 
 ![](/images/article-imageJTC-article-1.png)
 
