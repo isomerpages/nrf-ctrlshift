@@ -4,7 +4,6 @@ permalink: /stories/JTCZhihui
 description: ""
 third_nav_title: 2022 stories
 ---
-
 ## Smart Digital Districts: Transforming Singapore’s Landscape with Technology
 
 ![](/images/article-imageJTC-article-1.png)
@@ -13,7 +12,7 @@ Meet the man who is on a quest to sharpen Singapore’s technology edge.
 
 A haven for businesses, academics, students and families to work, live, play and learn —           that’s what Singapore’s first smart digital district aims to create.
 
-Sounds too good to be true? See it for yourself at Punggol Digital District (PDD) when it’s ready in 2024.Master planned and developed by JTC, the 50-hectare urban district will incubate 28,000 jobs and allow next-gen talents to hone their skills, thanks to industry collaboration.
+Sounds too good to be true? See it for yourself at Punggol Digital District (PDD) when it’s ready in 2024. Master planned and developed by JTC, the 50-hectare urban district will incubate 28,000 jobs and allow next-gen talents to hone their skills, thanks to industry collaboration.
 
 In Singapore’s quest to continually reinvent ourselves, we are creating a technology-savvy society that empowers people to dream big and guides them towards success.     
 
