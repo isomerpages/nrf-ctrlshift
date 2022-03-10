@@ -22,7 +22,7 @@ At PDD, you can witness something that’s easy to talk about, but fiendishly di
 
 As the Senior Project Manager at JTC’s Smart District Division (SDD), Chin Zhi Hui is part of a team that spearheads an ecosystem and works with stakeholders to allow companies to develop, trial, and test-bed fascinating new products or technology solutions in the district.      
 
-![](/images/article-imageJTC-article-2.png)
+![](/images/article%20imageJTC%20article%202.jpg)
 
 The result? When put together, the projects within PDD turn an already advanced Singapore into something truly futuristic. Check out just a few of the innovations that make PDD an exciting place to be: 
           
@@ -51,7 +51,7 @@ For instance, the sensing of footfall to switch off building lights when they’
 
 Previously, Zhi Hui was also part of the team that worked on the master plan for the one-north district. Connecting with colleagues, industry players, partners, and fellow officers from other government agencies on the estate’s development introduced Zhi Hui to a whole new world. The knowledge gained from that project served as a solid foundation for PDD.      
 
-![](/images/article-imageJTC-article-3.png)
+![](/images/article%20imageJTC%20article%203.jpg)
      
 “Since PDD is an entirely new estate, it is an unprecedented opportunity —  a blank canvas to try a wider scope of features,” he says.
      
