@@ -65,4 +65,12 @@ The best part about the job? He gets to test exciting new technology before pres
 
 To Zhi Hui, “It’s an invaluable experience.” Tomorrow becomes ever closer, every day.
 
+Learn more about the Punggol Digital District (PDD) at:
+https://estates.jtc.gov.sg/pdd?utm_source=ste_website&utm_medium=digital&utm_campaign=202203_ste_campaign_feature_zh&utm_term=pdd_homepage
+
+and the Open Digital Platform (ODP) at : 
+https://www.jtc.gov.sg/about-jtc/news-and-stories/feature-stories/open-digital-platform-the-digital-backbone-of-pdd?utm_source=ste_website&utm_medium=digital&utm_campaign=202203_ste_campaign_feature_zh&utm_term=odp_story
+
+
+
 ###### [SOURCES] Interview with Chin Zhi Hui 1.https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Urban-Transformations/Punggol-Digital-District 2.https://www.smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation
