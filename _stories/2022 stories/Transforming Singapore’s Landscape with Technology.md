@@ -25,7 +25,7 @@ As the Senior Project Manager at JTC’s Smart District Division (SDD), Chin Zhi
 ![](/images/article-imageJTC-article-2.png)
 
 The result? When put together, the projects within PDD turn an already advanced Singapore into something truly futuristic. Check out just a few of the innovations that make PDD an exciting place to be:
-*	Open Digital Platform (ODP): a next-generation, open platform that allows multiple estate systems to sync up and inter operate
+* [Open Digital Platform (ODP)](https://www.jtc.gov.sg/about-jtc/news-and-stories/feature-stories/open-digital-platform-the-digital-backbone-of-pdd?utm_source=ste_website&utm_medium=digital&utm_campaign=202203_ste_campaign_feature_zh&utm_term=odp_story): a next-generation, open platform that allows multiple estate systems to sync up and inter operate
 *	Living Lab: enabling plug and play testing for students, academia and businesses to trial and deploy new products and services in a digital twin: a virtual 3D model of PDD that allows companies to experiment and test-bed solutions securely without the risks usually associated with actual trials, paving the way for ideas to be brought to market faster.”
 *	Smart Grid: a grid to provide clean energy sources and encourage greater energy efficiency and savings
 *	Autonomous vehicles that make commuting safer, smoother, and greener
@@ -42,3 +42,26 @@ By integrating all district management systems such as lift operations, robotics
 
 With these technologies in place, just imagine the amount of data and insights we can glean…
 For instance, the sensing of footfall to switch off building lights when they’re not in use, adjusting air conditioning output automatically, and increasing cleaning services in areas that see more people coming through. Through analytics, we can drive not just better decisions: we can drive our sustainability efforts and reduce our carbon footprint.
+
+**Work, Live, and Play Differently**
+
+Previously, Zhi Hui was also part of the team that worked on the master plan for the one-north district. Connecting with colleagues, industry players, partners, and fellow officers from other government agencies on the estate’s development introduced Zhi Hui to a whole new world. The knowledge gained from that project served as a solid foundation for PDD.
+
+![](/images/article-imageJTC-article-3.png)
+
+“Since PDD is an entirely new estate, it is an unprecedented opportunity — a blank canvas to try a wider scope of features,” he says.
+
+Witnessing his efforts come to fruition is what gives him lasting job satisfaction. Zhi Hui loves his job because, “It feels great to know that my work makes a difference to the community.”
+
+To do so, Zhi Hui says you need to “be versatile and willing to try new things, especially in a fast-paced job environment”.
+
+“The ability to think outside the box to come up with innovative solutions for our future, as well as keeping a positive and keen attitude to try out new ideas will serve one well in this field,” he adds.
+
+The best part about the job? He gets to test exciting new technology before presenting or deploying it (in a controlled environment, of course).
+
+To Zhi Hui, “It’s an invaluable experience.” Tomorrow becomes ever closer, every day.
+
+**[SOURCES] Interview with Chin Zhi Hui**
+
+1. https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Urban-Transformations/Punggol-Digital-District
+2. https://www.smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation
