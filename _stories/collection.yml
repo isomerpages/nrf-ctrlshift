@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - 2022 stories/Transforming Singapore’s Landscape with Technology.md
       - 2022 stories/.keep
       - 2022 stories/Embracing Singapore’s Wild Side.md
       - "2022 stories/Marvellous Singapore: Infinite Possibilities at your
