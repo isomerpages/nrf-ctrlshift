@@ -39,26 +39,14 @@ The final segment was when participants got up close and personal with our four 
 </div>
 
 There's more! Leading up to the event, these STE Professionals made their debut on TikTok. Did you manage to catch 'em all?
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LO0V8IW53m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="300" height="533" src="https://www.youtube.com/embed/LO0V8IW53m8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/N6b-kgwpBdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="300" height="533" src="https://www.youtube.com/embed/N6b-kgwpBdQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FWe9T3CUC6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="300" height="533" src="https://www.youtube.com/embed/FWe9T3CUC6c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bTBY-FWiSDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="300" height="533" src="https://www.youtube.com/embed/bTBY-FWiSDM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KnORuGxASVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="300" height="533" src="https://www.youtube.com/embed/KnORuGxASVE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
-<div class="bp-youtube">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/eBHwTiW6_hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+<iframe width="300" height="533" src="https://www.youtube.com/embed/eBHwTiW6_hE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
