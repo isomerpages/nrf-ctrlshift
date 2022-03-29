@@ -63,5 +63,5 @@ To Zhi Hui, “It’s an invaluable experience.” Tomorrow becomes ever closer,
 
 **[SOURCES] Interview with Chin Zhi Hui**
 
-1. https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Urban-Transformations/Punggol-Digital-District
-2. https://www.smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation
+1. [https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Urban-Transformations/Punggol-Digital-District](https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Urban-Transformations/Punggol-Digital-District)
+2. [https://www.smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation](https://www.smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation)
