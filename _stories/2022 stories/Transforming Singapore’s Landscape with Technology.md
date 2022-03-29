@@ -22,7 +22,7 @@ At PDD, you can witness something that’s easy to talk about, but fiendishly di
 
 As the Senior Project Manager at JTC’s Smart District Division (SDD), Chin Zhi Hui is part of a team that spearheads an ecosystem and works with stakeholders to allow companies to develop, trial, and test-bed fascinating new products or technology solutions in the district.
 
-![](/images/article-imagejtc-2.png)
+![](/images/article-imagejtc-2.jpg)
 
 The result? When put together, the projects within PDD turn an already advanced Singapore into something truly futuristic. Check out just a few of the innovations that make PDD an exciting place to be:
 * [Open Digital Platform (ODP)](https://www.jtc.gov.sg/about-jtc/news-and-stories/feature-stories/open-digital-platform-the-digital-backbone-of-pdd?utm_source=ste_website&utm_medium=digital&utm_campaign=202203_ste_campaign_feature_zh&utm_term=odp_story): a next-generation, open platform that allows multiple estate systems to sync up and inter operate
