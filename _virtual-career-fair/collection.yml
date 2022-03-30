@@ -2,4 +2,5 @@ collections:
   virtual-career-fair:
     output: true
     order:
+      - Virtual Career Fair 2022 Recap.md
       - Virtual Career Fair 2021 Recap .md
