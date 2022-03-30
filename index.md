@@ -7,7 +7,7 @@ sections:
       subtitle: Come explore the stories shaping the future of Singapore
       background: /images/STE-bannerpage-banner1.png
       button: view now
-      url: /stories/
+      url: /stories/jtczhihui
       key_highlights:
         - title: Ideas
           description: that become reality
