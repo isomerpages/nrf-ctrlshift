@@ -4,10 +4,7 @@ title: "STE What's Next "
 permalink: /
 sections:
   - hero:
-      subtitle: Come explore the stories shaping the future of Singapore
-      background: /images/STE-bannerpage-banner1.png
-      button: view now
-      url: /stories/jtczhihui
+      background: /images/CTRLSHIFTBANNER.jpeg
       key_highlights:
         - title: Ideas
           description: that become reality
@@ -21,7 +18,6 @@ sections:
         - title: Resources
           description: to find out more
           url: /resource-room/
-      title: Discover What's Next
 notification: "\n"
 description: Meet the people behind the most exciting Science, Technology and
   Engineering projects that are shaping the future of Singapore.
