@@ -1,0 +1,4 @@
+collections:
+  ste-conference:
+    output: true
+    order: []
