@@ -4,9 +4,7 @@ links:
     url: /about/
   - title: Our Ventures
     collection: our-ventures
-  - title: Meet the Professionals
-    collection: experts
-  - title: STE What's Next Stories
-    collection: stories
+  - title: Resources
+    collection: resources
   - title: Contact Us
     url: /contact-us
