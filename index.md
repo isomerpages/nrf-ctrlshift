@@ -14,7 +14,7 @@ sections:
         in building a nation.
       button: Find Out More
       url: /about
-      alt: Image alt text
+      alt: about img
       image: /images/aboutimg.png
 notification: "\n"
 description: Meet the people behind the most exciting Science, Technology and
