@@ -4,8 +4,6 @@ links:
     url: /about/
   - title: Our Ventures
     collection: our-ventures
-  - title: "-"
-    collection: resources
   - title: Resources
     resource_room: true
   - title: Contact Us
