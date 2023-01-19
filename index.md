@@ -18,4 +18,6 @@ sections:
 notification: "\n"
 description: Meet the people behind the most exciting Science, Technology and
   Engineering projects that are shaping the future of Singapore.
+image: /images/isomer-logo.svg
 ---
+
