@@ -42,7 +42,7 @@ plugins:
   - jekyll-remote-theme
 colors:
   primary-color: "#0037cc"
-  secondary-color: "#ffffff"
+  secondary-color: "#000000"
   media-colors:
     - title: media-color-one
       color: "#75d200"
