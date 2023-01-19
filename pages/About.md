@@ -15,7 +15,32 @@ With the Singapore Public Service, you can play a more direct part in realising 
   
 We invite you to follow in their footsteps: to dare to dream about how our world could be better. It's time to discover, debunk, and decide your next steps in the realm of science, tech, and engineering. Ctrl your future and shift your perspectives with us.
 
-![](/images/purpose.png)
+
+<style>
+html, body {
+  height: 100%;
+}
+	
+img.two {
+	height: 50%;
+  width: 50%;
+}
+</style>
+</head>
+<body>
+	
+<img class="two" src="/images/purpose.png" align="left">
+
+</body>
+</html>
+<
+
+
+
+
+<
+
+
 
 CTRL+SHIFT is a multi-year effort spearheaded by the Science & Technology Policy & Plans Office (S&TPPO) which is one of the divisions under the Prime Minister's Office. CTRL+SHIFT aims to reach out to a range of students from secondary school to university graduates and encourage them to either take up the science, tech, or engineering fields of study, as well as inspire them to take up related careers in the Singapore Public Service.
 
