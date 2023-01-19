@@ -1,5 +1,5 @@
 collections:
-  virtual-career-fair:
+  our-ventures:
     output: true
     order:
       - Virtual Career Fair 2022 Recap.md
