@@ -15,7 +15,7 @@ sections:
       button: Find Out More
       url: /about
       alt: Image alt text
-      image: /images/about STE.png
+      image: /images/aboutimg.png
 notification: "\n"
 description: Meet the people behind the most exciting Science, Technology and
   Engineering projects that are shaping the future of Singapore.
