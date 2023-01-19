@@ -1,10 +1,12 @@
 logo: /images/logo2022.jpg
 links:
-  - title: STE what's next
-    url: /stewhatsnext/
-  - title: Virtual Career Fair
+  - title: About
+    url: /about/
+  - title: Our ventures
     collection: virtual-career-fair
   - title: Meet the Professionals
     collection: experts
   - title: STE What's Next Stories
     collection: stories
+  - title: Contact Us
+    url: /contact-us
