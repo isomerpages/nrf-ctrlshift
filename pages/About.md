@@ -8,7 +8,7 @@ description: ""
 ---
 <style>
 .about {
-    width:50%;
+    width:60%;
 	  text-align: left; 
 }
 .about img {
