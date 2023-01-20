@@ -2,5 +2,4 @@ collections:
   meet-the-engineers2:
     output: true
     order:
-      - khairunnisa-binte-yahya.md
       - chen-juncheng.md
