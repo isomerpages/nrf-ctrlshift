@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Engineer Careers/ura.md
       - Engineer Careers/pub.md
       - Engineer Careers/nea.md
       - Engineer Careers/mindef.md
