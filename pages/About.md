@@ -17,19 +17,15 @@ We invite you to follow in their footsteps: to dare to dream about how our world
 
 
 <style>
-html, body {
-  height: 100%;
-}
-	
-img.two {
-	height: 50%;
-  width: 50%;
+img {
+	height: auto;
+  width: 100%;
 }
 </style>
 
 <body>
 	
-<img class="img.two" src="/images/purpose.png" align="left" height="50%" width="50%" >
+<img class="img" src="/images/purpose.png" align="left">
 
 </body>
 
