@@ -2,7 +2,6 @@ collections:
   engineering-careers:
     output: true
     order:
-      - lta.md
       - mindef.md
       - nea.md
       - pub.md
