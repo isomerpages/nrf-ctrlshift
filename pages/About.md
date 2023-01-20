@@ -15,14 +15,13 @@ With the Singapore Public Service, you can play a more direct part in realising 
   
 We invite you to follow in their footsteps: to dare to dream about how our world could be better. It's time to discover, debunk, and decide your next steps in the realm of science, tech, and engineering. Ctrl your future and shift your perspectives with us.
 
-
-
 <style>
 .purpose {
-    text-align: left;
+    width:50%;
+	  text-align: left; 
 }
 .purpose img {
-    max-width:50%;
+    max-width:100%;
     height:auto;
 }
 </style>
