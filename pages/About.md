@@ -6,7 +6,20 @@ date: 2022-01-04
 layout: post
 description: ""
 ---
-![](/images/about%20STE.png)<br>
+<style>
+.purpose {
+    width:50%;
+	  text-align: left; 
+}
+.purpose img {
+    max-width:100%;
+    height:auto;
+}
+</style>
+<div class="purpose">
+    <img src="/images/about%20STE.png">
+</div>
+
 From our childhood years to where we are today, many things about the way that we live, work, and play have changed for the better.  
   
 The marvels of science have allowed us to keep living longer and healthier. Developments in technology make us communicate with virtually any other person worldwide in the blink of an eye. Engineering feats have also ensured that our daily processes remain as efficient as possible. All these would not be possible without the innovative and creative minds of those willing and wanting to catalyse that change.  
