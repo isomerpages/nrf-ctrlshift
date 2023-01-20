@@ -7,16 +7,16 @@ layout: post
 description: ""
 ---
 <style>
-.purpose {
+.about {
     width:50%;
 	  text-align: left; 
 }
-.purpose img {
+.about img {
     max-width:100%;
     height:auto;
 }
 </style>
-<div class="purpose">
+<div class="about">
     <img src="/images/about%20STE.png">
 </div>
 
