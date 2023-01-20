@@ -16,11 +16,11 @@ description: ""
     height:auto;
 }
 @media only screen and (max-width: 600px) {
-    .purpose {
+    .about {
         width:80%;
 				text-align: left
     }
-    .purpose img {
+    .about img {
         max-width:100%;
     }
 }
