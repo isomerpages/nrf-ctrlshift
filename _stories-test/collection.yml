@@ -1,4 +1,5 @@
 collections:
   stories-test:
     output: true
-    order: []
+    order:
+      - Stories/.keep
