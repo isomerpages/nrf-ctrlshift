@@ -17,20 +17,33 @@ We invite you to follow in their footsteps: to dare to dream about how our world
 
 
 <style>
-img {
+.purpose {
 	height: auto;
   width: 100%;
 }
 </style>
 
-<body>
-	
-<img class="img" src="/images/purpose.png" align="left">
-
-</body>
-
+<div class="purpose">
+<img src="/images/purpose.png" align="left">
+</div> 
 
 <br clear="left">
+
+<style>
+.purpose {
+    text-align: left;
+    height: auto;
+    width: 100%;
+}
+.purpose img {
+    display: inline-block;
+}
+</style>
+
+<div class="purpose">
+    <img src="/images/purpose.png">
+</div>
+
 
 
 CTRL+SHIFT is a multi-year effort spearheaded by the Science & Technology Policy & Plans Office (S&TPPO) which is one of the divisions under the Prime Minister's Office. CTRL+SHIFT aims to reach out to a range of students from secondary school to university graduates and encourage them to either take up the science, tech, or engineering fields of study, as well as inspire them to take up related careers in the Singapore Public Service.
