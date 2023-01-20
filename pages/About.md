@@ -17,7 +17,7 @@ We invite you to follow in their footsteps: to dare to dream about how our world
 
 <style>
 .purpose {
-    width:40%;
+    width:30%;
 	  text-align: left; 
 }
 .purpose img {
