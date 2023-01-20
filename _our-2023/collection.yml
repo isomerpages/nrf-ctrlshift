@@ -1,4 +1,5 @@
 collections:
   our-2023:
     output: true
-    order: []
+    order:
+      - Open Houses 2023.md
