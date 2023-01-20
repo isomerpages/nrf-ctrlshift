@@ -22,7 +22,7 @@ We invite you to follow in their footsteps: to dare to dream about how our world
     text-align: left;
 }
 .purpose img {
-    max-width:100%;
+    max-width:50%;
     height:auto;
 }
 </style>
