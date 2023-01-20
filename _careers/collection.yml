@@ -1,4 +1,5 @@
 collections:
   careers:
     output: true
-    order: []
+    order:
+      - Engineers in Action.md
