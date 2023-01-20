@@ -8,7 +8,7 @@ description: ""
 ---
 <style>
 .about {
-    width:60%;
+    width:60vw;
 	  text-align: left; 
 }
 .about img {
@@ -32,7 +32,7 @@ We invite you to follow in their footsteps: to dare to dream about how our world
 
 <style>
 .purpose {
-    width:30%;
+    width:30vw;
 	  text-align: left; 
 }
 .purpose img {
@@ -51,7 +51,7 @@ CTRL+SHIFT is a multi-year effort spearheaded by the Science & Technology Policy
 
 <style>
 .mission {
-    width:30%;
+    width:30vw;
 	  text-align: left; 
 }
 .mission img {
