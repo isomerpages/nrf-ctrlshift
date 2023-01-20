@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Engineers in Practice/.keep
-      - Engineers in Action.md
