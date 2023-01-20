@@ -100,7 +100,7 @@ third_nav_title: Stories
 	<label for="collapsible" class="lbl-toggle">NANYANG POLYTECHNIC</label>
   <div class="collapsible-content">
     <div class="content-inner">
-	## Smart Digital Districts: Transforming Singapore’s Landscape with Technology
+			<p> ## Smart Digital Districts: Transforming Singapore’s Landscape with Technology </p>
 
 ![](/images/article-imagejtc-1.png)
 
