@@ -17,7 +17,7 @@ description: ""
 }
 </style>
 <div class="about">
-    <img src="/images/about%20STE.png">
+    <img src="/images/About%20Us/about%20STE.png">
 </div>
 
 From our childhood years to where we are today, many things about the way that we live, work, and play have changed for the better.  
@@ -27,6 +27,8 @@ The marvels of science have allowed us to keep living longer and healthier. Deve
 With the Singapore Public Service, you can play a more direct part in realising the next generation of advancements that our society needs. Through cross-collaboration with its many different agencies, the Public Service works as one to bring about positive evolutions to our community at large through the fields of science, tech, and engineering. We are looking for dreamers, synergisers, doers, and makers—and you can be one of them.  
   
 We invite you to follow in their footsteps: to dare to dream about how our world could be better. It's time to discover, debunk, and decide your next steps in the realm of science, tech, and engineering. Ctrl your future and shift your perspectives with us.
+
+<br> 
 
 <style>
 .purpose {
@@ -39,7 +41,7 @@ We invite you to follow in their footsteps: to dare to dream about how our world
 }
 </style>
 <div class="purpose">
-    <img src="/images/purpose.png">
+    <img src="/images/About%20Us/purpose.png">
 </div>
 
 
@@ -58,7 +60,7 @@ CTRL+SHIFT is a multi-year effort spearheaded by the Science & Technology Policy
 }
 </style>
 <div class="mission">
-    <img src="/images/Mission.png">
+    <img src="/images/About%20Us/Mission.png">
 </div>
 
 To excite students in Singapore on the educational and career prospects in the fields of science, tech, and engineering in the Singapore Public Service.
