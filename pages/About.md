@@ -40,13 +40,22 @@ We invite you to follow in their footsteps: to dare to dream about how our world
 <br> 
 
 <style>
-.purpose {
+.purpose, .mission {
     width:30%;
 	  text-align: left; 
 }
-.purpose img {
+.purpose img, .mission img {
     max-width:100%;
     height:auto;
+}
+@media only screen and (max-width: 600px) {
+    .purpose, .mission {
+        width:50%;
+				text-align: left
+    }
+    .purpose img, .mission img{
+        max-width:100%;
+    }
 }
 </style>
 <div class="purpose">
@@ -58,16 +67,6 @@ CTRL+SHIFT is a multi-year effort spearheaded by the Science & Technology Policy
 
 <br> 
 
-<style>
-.mission {
-    width:30%;
-	  text-align: left; 
-}
-.mission img {
-    max-width:100%;
-    height:auto;
-}
-</style>
 <div class="mission">
     <img src="/images/About%20Us/Mission.png">
 </div>
