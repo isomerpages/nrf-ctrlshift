@@ -2,6 +2,5 @@ collections:
   meet-the-engineers2:
     output: true
     order:
-      - farook-maideen.md
       - khairunnisa-binte-yahya.md
       - chen-juncheng.md
