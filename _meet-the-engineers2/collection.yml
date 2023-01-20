@@ -2,7 +2,6 @@ collections:
   meet-the-engineers2:
     output: true
     order:
-      - idaly-mamat.md
       - zann-tay.md
       - chua-wee-liang.md
       - farook-maideen.md
