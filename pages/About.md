@@ -26,13 +26,13 @@ img.two {
   width: 50%;
 }
 </style>
-</head>
+
 <body>
 	
-<img class="two" src="/images/purpose.png" align="left">
+<img class="img.two" src="/images/purpose.png" align="left">
 
 </body>
-</html>
+
 
 <br clear="left">
 
