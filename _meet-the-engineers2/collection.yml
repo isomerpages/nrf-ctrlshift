@@ -2,7 +2,6 @@ collections:
   meet-the-engineers2:
     output: true
     order:
-      - faisal-ahmad.md
       - cindy-wang-xiaochen.md
       - hoon-ding-yi.md
       - idaly-mamat.md
