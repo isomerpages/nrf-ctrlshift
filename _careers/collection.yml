@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Engineer Careers/lta.md
       - Engineer Careers/jtc.md
       - Engineer Careers/iras.md
       - Engineer Careers/hdb.md
