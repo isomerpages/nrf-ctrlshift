@@ -2,7 +2,6 @@ collections:
   engineering-careers:
     output: true
     order:
-      - cpf.md
       - csa.md
       - dso.md
       - dsta.md
