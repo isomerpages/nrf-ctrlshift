@@ -2,7 +2,6 @@ collections:
   meet-the-engineers2:
     output: true
     order:
-      - cheng-wee-kiang.md
       - ahmad-nadim-bin-zainal.md
       - norman-tan.md
       - laura-lee.md
