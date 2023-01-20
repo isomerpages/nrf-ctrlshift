@@ -2,5 +2,4 @@ collections:
   engineering-careers:
     output: true
     order:
-      - pub.md
       - ura.md
