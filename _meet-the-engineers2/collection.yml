@@ -2,7 +2,6 @@ collections:
   meet-the-engineers2:
     output: true
     order:
-      - laura-lee.md
       - goh-chue-hsien.md
       - faisal-ahmad.md
       - cindy-wang-xiaochen.md
