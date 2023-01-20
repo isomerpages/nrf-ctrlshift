@@ -4,6 +4,8 @@ links:
     url: /about/
   - title: Our 2023
     url: /our-2023
+  - title: Careers
+    collection: careers
   - title: Resources
     resource_room: true
   - title: Contact Us
