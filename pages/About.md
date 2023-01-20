@@ -29,7 +29,7 @@ img.two {
 
 <body>
 	
-<img class="img.two" src="/images/purpose.png" align="left">
+<img class="img.two" src="/images/purpose.png" align="left" height="50%" width="50%" >
 
 </body>
 
