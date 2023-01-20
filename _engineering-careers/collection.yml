@@ -2,7 +2,6 @@ collections:
   engineering-careers:
     output: true
     order:
-      - dso.md
       - dsta.md
       - ema.md
       - govtech.md
