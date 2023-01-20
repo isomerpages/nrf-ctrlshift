@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Engineer Careers/hdb.md
       - Engineer Careers/govtech.md
       - Engineer Careers/ema.md
       - Engineer Careers/dsta.md
