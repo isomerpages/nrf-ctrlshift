@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Engineer Careers/csa.md
       - Engineer Careers/cpf.md
       - Engineer Careers/bca.md
       - Engineer Careers/.keep
