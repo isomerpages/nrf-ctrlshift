@@ -22,7 +22,7 @@ exclude:
   - vendor/ruby/
   - Gemfile
   - Gemfile.lock
-resources_name: resources
+resources_name: newsroom
 google_analytics: UA-73732262-1
 favicon: /images/favicon.ico
 permalink: none
