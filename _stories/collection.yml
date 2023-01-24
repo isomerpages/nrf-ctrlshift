@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Ideas/myresponder.md
       - Ideas/singapore-lng-terminal.md
       - Ideas/heron-1-uav.md
       - Ideas/littoral-mission-vessel.md
