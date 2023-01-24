@@ -2,7 +2,6 @@ collections:
   engineering-marvels:
     output: true
     order:
-      - punggol-digital-district.md
       - parents-gateway.md
       - tuas-desalination-plant.md
       - skylab.md
