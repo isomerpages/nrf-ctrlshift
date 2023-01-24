@@ -2,7 +2,6 @@ collections:
   engineering-marvels:
     output: true
     order:
-      - tuas-desalination-plant.md
       - skylab.md
       - electronic-tourist-refund-scheme.md
       - integrated-digital-delivery.md
