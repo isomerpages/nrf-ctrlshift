@@ -2,7 +2,6 @@ collections:
   engineering-marvels:
     output: true
     order:
-      - integrated-digital-delivery.md
       - flood-free-orchard-road.md
       - jurong-rock-caverns.md
       - smart-planning-for-hdb-towns-estates.md
