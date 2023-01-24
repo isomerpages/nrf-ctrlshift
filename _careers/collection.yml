@@ -2,22 +2,22 @@ collections:
   careers:
     output: true
     order:
-      - Careers in the Public Sector/.keep
-      - Careers in the Public Sector/ura.md
-      - Careers in the Public Sector/pub.md
-      - Careers in the Public Sector/nea.md
-      - Careers in the Public Sector/mindef.md
-      - Careers in the Public Sector/lta.md
-      - Careers in the Public Sector/jtc.md
-      - Careers in the Public Sector/iras.md
-      - Careers in the Public Sector/hdb.md
-      - Careers in the Public Sector/govtech.md
-      - Careers in the Public Sector/ema.md
-      - Careers in the Public Sector/dsta.md
-      - Careers in the Public Sector/dso.md
-      - Careers in the Public Sector/csa.md
-      - Careers in the Public Sector/cpf.md
-      - Careers in the Public Sector/bca.md
+      - Careers in the Public Sectors/.keep
+      - Careers in the Public Sectors/ura.md
+      - Careers in the Public Sectors/pub.md
+      - Careers in the Public Sectors/nea.md
+      - Careers in the Public Sectors/mindef.md
+      - Careers in the Public Sectors/lta.md
+      - Careers in the Public Sectors/jtc.md
+      - Careers in the Public Sectors/iras.md
+      - Careers in the Public Sectors/hdb.md
+      - Careers in the Public Sectors/govtech.md
+      - Careers in the Public Sectors/ema.md
+      - Careers in the Public Sectors/dsta.md
+      - Careers in the Public Sectors/dso.md
+      - Careers in the Public Sectors/csa.md
+      - Careers in the Public Sectors/cpf.md
+      - Careers in the Public Sectors/bca.md
       - Meet the Professionals/.keep
       - Meet the Engineers/.keep
       - Meet the Engineers/chen-juncheng.md
