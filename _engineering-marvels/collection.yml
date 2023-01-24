@@ -2,7 +2,6 @@ collections:
   engineering-marvels:
     output: true
     order:
-      - jurong-rock-caverns.md
       - smart-planning-for-hdb-towns-estates.md
       - southern-ridges.md
       - marina-bay.md
