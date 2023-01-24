@@ -2,7 +2,6 @@ collections:
   engineering-marvels:
     output: true
     order:
-      - electronic-tourist-refund-scheme.md
       - integrated-digital-delivery.md
       - flood-free-orchard-road.md
       - jurong-rock-caverns.md
