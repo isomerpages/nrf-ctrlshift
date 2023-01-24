@@ -2,7 +2,6 @@ collections:
   engineering-marvels:
     output: true
     order:
-      - southern-ridges.md
       - marina-bay.md
       - integrated-waste-management.md
       - littoral-mission-vessel.md
