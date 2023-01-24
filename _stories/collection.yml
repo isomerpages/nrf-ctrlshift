@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Ideas/littoral-mission-vessel.md
       - Ideas/integrated-waste-management.md
       - Ideas/marina-bay.md
       - Ideas/southern-ridges.md
