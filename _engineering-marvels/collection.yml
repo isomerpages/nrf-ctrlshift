@@ -2,7 +2,6 @@ collections:
   engineering-marvels:
     output: true
     order:
-      - marina-bay.md
       - integrated-waste-management.md
       - littoral-mission-vessel.md
       - heron-1-uav.md
