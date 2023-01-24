@@ -2,6 +2,7 @@ collections:
   careers:
     output: true
     order:
+      - Meet the Professionals/.keep
       - Careers in the Public Sector/ura.md
       - Careers in the Public Sector/pub.md
       - Careers in the Public Sector/nea.md
