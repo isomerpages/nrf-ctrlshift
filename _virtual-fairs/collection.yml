@@ -1,5 +1,5 @@
 collections:
-  our-ventures:
+  virtual-fairs:
     output: true
     order:
       - Virtual Career Fair 2022.md
