@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Ideas/punggol-digital-district.md
       - Ideas/.keep
       - 2022 stories/Transforming Singapore’s Landscape with Technology.md
       - 2022 stories/.keep
