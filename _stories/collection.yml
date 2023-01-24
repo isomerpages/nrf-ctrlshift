@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Ideas/marina-bay.md
       - Ideas/southern-ridges.md
       - Ideas/smart-planning-for-hdb-towns-estates.md
       - Ideas/jurong-rock-caverns.md
