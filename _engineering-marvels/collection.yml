@@ -2,7 +2,6 @@ collections:
   engineering-marvels:
     output: true
     order:
-      - littoral-mission-vessel.md
       - heron-1-uav.md
       - singapore-lng-terminal.md
       - myresponder.md
