@@ -2,6 +2,5 @@ collections:
   engineering-marvels:
     output: true
     order:
-      - heron-1-uav.md
       - singapore-lng-terminal.md
       - myresponder.md
