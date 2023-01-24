@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - Ideas/integrated-digital-delivery.md
       - Ideas/electronic-tourist-refund-scheme.md
       - Ideas/skylab.md
       - Ideas/tuas-desalination-plant.md
