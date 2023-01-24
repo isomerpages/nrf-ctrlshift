@@ -1,5 +1,5 @@
 collections:
-  experts:
+  meet-the-professionals:
     output: true
     order:
       - Powering Singapore to go green.md
