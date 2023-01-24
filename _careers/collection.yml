@@ -2,7 +2,7 @@ collections:
   careers:
     output: true
     order:
-      - Meet the Professionals/.keep
+      - Careers in the Public Sector/.keep
       - Careers in the Public Sector/ura.md
       - Careers in the Public Sector/pub.md
       - Careers in the Public Sector/nea.md
@@ -18,7 +18,8 @@ collections:
       - Careers in the Public Sector/csa.md
       - Careers in the Public Sector/cpf.md
       - Careers in the Public Sector/bca.md
-      - Careers in the Public Sector/.keep
+      - Meet the Professionals/.keep
+      - Meet the Engineers/.keep
       - Meet the Engineers/chen-juncheng.md
       - Meet the Engineers/khairunnisa-binte-yahya.md
       - Meet the Engineers/farook-maideen.md
@@ -33,4 +34,3 @@ collections:
       - Meet the Engineers/norman-tan.md
       - Meet the Engineers/ahmad-nadim-bin-zainal.md
       - Meet the Engineers/cheng-wee-kiang.md
-      - Meet the Engineers/.keep
