@@ -2,5 +2,4 @@ collections:
   engineering-marvels:
     output: true
     order:
-      - singapore-lng-terminal.md
       - myresponder.md
