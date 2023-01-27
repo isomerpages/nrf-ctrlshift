@@ -2,23 +2,23 @@ collections:
   stories:
     output: true
     order:
-      - Ideas/.keep
-      - Ideas/punggol-digital-district.md
-      - Ideas/parents-gateway.md
-      - Ideas/tuas-desalination-plant.md
-      - Ideas/skylab.md
-      - Ideas/electronic-tourist-refund-scheme.md
-      - Ideas/integrated-digital-delivery.md
-      - Ideas/flood-free-orchard-road.md
-      - Ideas/jurong-rock-caverns.md
-      - Ideas/smart-planning-for-hdb-towns-estates.md
-      - Ideas/southern-ridges.md
-      - Ideas/marina-bay.md
-      - Ideas/integrated-waste-management.md
-      - Ideas/littoral-mission-vessel.md
-      - Ideas/heron-1-uav.md
-      - Ideas/singapore-lng-terminal.md
-      - Ideas/myresponder.md
+      - STE Innovations/.keep
+      - STE Innovations/punggol-digital-district.md
+      - STE Innovations/parents-gateway.md
+      - STE Innovations/tuas-desalination-plant.md
+      - STE Innovations/skylab.md
+      - STE Innovations/electronic-tourist-refund-scheme.md
+      - STE Innovations/integrated-digital-delivery.md
+      - STE Innovations/flood-free-orchard-road.md
+      - STE Innovations/jurong-rock-caverns.md
+      - STE Innovations/smart-planning-for-hdb-towns-estates.md
+      - STE Innovations/southern-ridges.md
+      - STE Innovations/marina-bay.md
+      - STE Innovations/integrated-waste-management.md
+      - STE Innovations/littoral-mission-vessel.md
+      - STE Innovations/heron-1-uav.md
+      - STE Innovations/singapore-lng-terminal.md
+      - STE Innovations/myresponder.md
       - 2022 stories/Transforming Singapore’s Landscape with Technology.md
       - 2022 stories/.keep
       - 2022 stories/Embracing Singapore’s Wild Side.md
