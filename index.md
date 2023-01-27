@@ -15,6 +15,8 @@ sections:
       url: /about
       alt: about img
       image: /images/aboutimghorizontal.png
+      description: The fields of science, technology and engineering (STE) are crucial
+        in building a nation.
 notification: "\n"
 description: Meet the people behind the most exciting Science, Technology and
   Engineering projects that are shaping the future of Singapore.
