@@ -2,22 +2,22 @@ collections:
   careers:
     output: true
     order:
-      - Careers in the Public Sectors/.keep
-      - Careers in the Public Sectors/bca.md
-      - Careers in the Public Sectors/cpf.md
-      - Careers in the Public Sectors/csa.md
-      - Careers in the Public Sectors/dso.md
-      - Careers in the Public Sectors/dsta.md
-      - Careers in the Public Sectors/ema.md
-      - Careers in the Public Sectors/govtech.md
-      - Careers in the Public Sectors/hdb.md
-      - Careers in the Public Sectors/iras.md
-      - Careers in the Public Sectors/jtc.md
-      - Careers in the Public Sectors/lta.md
-      - Careers in the Public Sectors/mindef.md
-      - Careers in the Public Sectors/nea.md
-      - Careers in the Public Sectors/pub.md
-      - Careers in the Public Sectors/ura.md
+      - Career Opportunities/.keep
+      - Career Opportunities/bca.md
+      - Career Opportunities/cpf.md
+      - Career Opportunities/csa.md
+      - Career Opportunities/dso.md
+      - Career Opportunities/dsta.md
+      - Career Opportunities/ema.md
+      - Career Opportunities/govtech.md
+      - Career Opportunities/hdb.md
+      - Career Opportunities/iras.md
+      - Career Opportunities/jtc.md
+      - Career Opportunities/lta.md
+      - Career Opportunities/mindef.md
+      - Career Opportunities/nea.md
+      - Career Opportunities/pub.md
+      - Career Opportunities/ura.md
       - Meet the Professionals/building-a-next-generation-port.md
       - Meet the Professionals/powering-evs-for-a-greener-future.md
       - Meet the Professionals/a-better-home-for-people-and-wildlife.md
