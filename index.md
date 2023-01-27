@@ -6,12 +6,11 @@ sections:
   - hero:
       background: /images/ISOMER_Banner3.png
       title: Just Around The Corner.
-      subtitle: Science, Tech and Engineering is all around, why not be a part of it?
-        It’s for anyone who wants to change the world.
+      subtitle: "Get ready to level up and be part of the Science, Tech and
+        Engineering revolution! Don't sit on the sidelines, make your mark and
+        change the world together. "
   - infopic:
       title: About Science + Tech + Engineering
-      description: The fields of science, technology and engineering (STE) are crucial
-        in building a nation.
       button: Find Out More
       url: /about
       alt: about img
