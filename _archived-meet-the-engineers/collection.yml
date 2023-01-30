@@ -1,4 +1,5 @@
 collections:
   archived-meet-the-engineers:
     output: true
-    order: []
+    order:
+      - chen-juncheng.md
