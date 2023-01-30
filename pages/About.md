@@ -29,6 +29,8 @@ description: ""
     <img src="/images/About%20Us/about%20STE.png">
 </div>
 
+STE What’s Next? We’ll tell you what! Be prepared to CTRL your future and SHIFT your perspectives with a brand new take on the many exciting possibilities  Science, Tech and Engineering has for the future. 
+
 From our childhood years to where we are today, many things about the way that we live, work, and play have changed for the better.  
   
 The marvels of science have allowed us to keep living longer and healthier. Developments in technology make us communicate with virtually any other person worldwide in the blink of an eye. Engineering feats have also ensured that our daily processes remain as efficient as possible. All these would not be possible without the innovative and creative minds of those willing and wanting to catalyse that change.  
