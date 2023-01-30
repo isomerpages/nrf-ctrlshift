@@ -1,5 +1,5 @@
 collections:
-  stories-test:
+  archived-stories-test:
     output: true
     order:
       - Stories/Test page.md
