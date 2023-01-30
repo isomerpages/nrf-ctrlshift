@@ -15,8 +15,9 @@ sections:
       url: /about
       alt: about img
       image: /images/aboutimghorizontal.png
-      description: The fields of science, technology and engineering (STE) are crucial
-        in building a nation.
+      description: Science, Tech and Engineering are the main driving forces behind
+        innovation and growth. Join us as we explore how STE is in the way we
+        live, work and play.
 notification: "\n"
 description: Meet the people behind the most exciting Science, Technology and
   Engineering projects that are shaping the future of Singapore.
