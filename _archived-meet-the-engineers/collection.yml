@@ -2,6 +2,7 @@ collections:
   archived-meet-the-engineers:
     output: true
     order:
+      - zann-tay.md
       - chua-wee-liang.md
       - farook-maideen.md
       - khairunnisa-binte-yahya.md
