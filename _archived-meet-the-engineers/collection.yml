@@ -2,6 +2,7 @@ collections:
   archived-meet-the-engineers:
     output: true
     order:
+      - norman-tan.md
       - laura-lee.md
       - goh-chue-hsien.md
       - faisal-ahmad.md
