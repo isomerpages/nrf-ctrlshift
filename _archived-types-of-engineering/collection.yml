@@ -1,5 +1,5 @@
 collections:
-  types-of-engineering:
+  archived-types-of-engineering:
     output: true
     order:
       - chemical.md
