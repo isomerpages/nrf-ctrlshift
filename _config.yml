@@ -47,7 +47,7 @@ colors:
     - title: media-color-one
       color: "#75d200"
     - title: media-color-two
-      color: "#0037cc"
+      color: "#000000"
     - title: media-color-three
       color: "#ffd700"
     - title: media-color-four
