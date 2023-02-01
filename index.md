@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: "STE What's Next "
+title: CTRL Your Future, SHIFT Your Perspective
 permalink: /
 sections:
   - hero:
@@ -19,7 +19,8 @@ sections:
         innovation and growth. Join us as we explore how STE is in the way we
         live, work and play.
 notification: "\n"
-description: Meet the people behind the most exciting Science, Technology and
-  Engineering projects that are shaping the future of Singapore.
+description: Ready to join our STE movement? Say goodbye to stereotypes and
+  hello to endless opportunities in the world of science, tech and engineering.
 image: /images/isomer-logo.svg
 ---
+
