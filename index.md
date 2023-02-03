@@ -4,7 +4,7 @@ title: CTRL Your Future, SHIFT Your Perspective
 permalink: /
 sections:
   - hero:
-      background: /images/ISOMER_Banner3.png
+      background: /images/ISOMER_Banner_nologo.png
       title: Just Around The Corner.
       subtitle: "Get ready to level up and be part of the Science, Tech and
         Engineering revolution! Don't sit on the sidelines, make your mark and
@@ -23,4 +23,3 @@ description: Ready to join our STE movement? Say goodbye to stereotypes and
   hello to endless opportunities in the world of science, tech and engineering.
 image: /images/isomer-logo.svg
 ---
-
