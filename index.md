@@ -5,9 +5,10 @@ permalink: /
 sections:
   - hero:
       background: /images/ISOMER_Banner_nologo.png
-      title: Who says Science + Tech + Engineering has to be boring?
-      subtitle: Get ready to level up and be part of the STE revolution! Don't sit on
-        the sidelines, make your mark and change the world together.
+      title: "Take a Glimpse into Your Future "
+      subtitle: Get ready to level up and be part of the Science, Tech and Engineering
+        revolution! Don't sit on the sidelines, make your mark and change the
+        world together.
   - infopic:
       title: About Science + Tech + Engineering
       button: Find Out More
