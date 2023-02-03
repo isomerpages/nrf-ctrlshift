@@ -21,5 +21,6 @@ sections:
 notification: "\n"
 description: Ready to join our STE movement? Say goodbye to stereotypes and
   hello to endless opportunities in the world of science, tech and engineering.
-image: /images/isomer-logo.svg
+image: /images/Social Thumbnail.png
 ---
+
