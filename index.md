@@ -12,7 +12,7 @@ sections:
   - infopic:
       title: About Science + Tech + Engineering
       button: Find Out More
-      url: /about
+      url: /about-us
       alt: about img
       image: /images/aboutimghorizontal.png
       description: Science, Tech and Engineering are the main driving forces behind
@@ -23,4 +23,3 @@ description: Ready to join our STE movement? Say goodbye to stereotypes and
   hello to endless opportunities in the world of science, tech and engineering.
 image: /images/Social Thumbnail.png
 ---
-
