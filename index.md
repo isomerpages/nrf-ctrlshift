@@ -5,7 +5,7 @@ permalink: /
 sections:
   - hero:
       background: /images/ISOMER_Banner_nologo.png
-      title: "Take a Glimpse into Your Future "
+      title: "Glimpse into Your Future "
       subtitle: Get ready to level up and be part of the Science, Tech and Engineering
         revolution! Don't sit on the sidelines, make your mark and change the
         world together.
