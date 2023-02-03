@@ -5,7 +5,7 @@ permalink: /
 sections:
   - hero:
       background: /images/ISOMER_Banner_nologo.png
-      title: Who says Science, Tech and Engineering has to be boring?
+      title: Who says Science + Tech + Engineering has to be boring?
       subtitle: Get ready to level up and be part of the STE revolution! Don't sit on
         the sidelines, make your mark and change the world together.
   - infopic:
