@@ -9,6 +9,8 @@ sections:
       subtitle: Get ready to level up and be part of the Science, Tech and Engineering
         revolution! Don't sit on the sidelines, make your mark and change the
         world together.
+      url: ctrl-shift-truck/
+      button: Ctrl+shift tRUCK
   - infopic:
       title: About Science + Tech + Engineering
       button: Find Out More
