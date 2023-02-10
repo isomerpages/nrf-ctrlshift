@@ -26,13 +26,13 @@ description: ""
     <img src="/images/About%20Us/about%20STE.png">
 </div>
 
-From our childhood years to where we are today, many things about the way that we live, work, and play have changed for the better. All these would not be possible without the innovative and creative minds of those willing and wanting to catalyse that change.
+Be prepared to CTRL your future and SHIFT your perspectives with a brand new take on the many exciting possibilities in Science, Tech and Engineering (STE). 
 
-As part of the Singapore Public Service, you can play a more direct part in realising the next generation of advancements that our society needs. Through cross-collaboration with the many different agencies, the Public Service works as one to bring about positive evolutions to our community at large through the fields of science, technology, and engineering. We are looking for dreamers, synergisers, doers, and makers—and you can be one of them.
 
-We invite you to dare to dream about how our world could be better. It's time to discover, debunk, and decide your next steps in the realm of science, technology, and engineering. 
+With STE being prominent in the way we live, work and play – it has become inevitable for us. The Singapore Public Service sector is a living machine of different agencies coming together to create a better Singapore using the power of STE.
 
-CTRL your future and SHIFT your perspectives with us.
+We want to revolutionise STE further in our lives and that’s where you come in. Dreamers, synergisers, innovators - you can be one of them too. 
+
 
 <br> 
 
@@ -60,8 +60,7 @@ CTRL your future and SHIFT your perspectives with us.
 </div>
 
 
-CTRL+SHIFT is a multi-year campaign effort spearheaded by the Public Sector Science & Technology Policy & Plans Office (S&TPPO) which is one of the divisions under the Prime Minister's Office (PMO). CTRL+SHIFT aims to reach out to students ranging from secondary school to university graduates and encourage them to take up science, technology, or engineering fields of study, as well as inspire them to pursue related careers in the Singapore Public Service.
-
+CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of students and influencers alike for the STE courses and careers in the public sector. 
 
 <style> 
 .column {
