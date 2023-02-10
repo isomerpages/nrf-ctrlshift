@@ -74,6 +74,7 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
         width:20%;
 				text-align: left
     }
+}
 	</style>
 	
   <div class="column">
