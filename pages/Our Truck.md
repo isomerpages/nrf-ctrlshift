@@ -14752,7 +14752,7 @@ description: ""
                 </div>
                 <div class="row py-5 mobile-row-padding">
                     <div class="col-lg-6">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/4DAA9AC4-31CB-4F1D-84D5-665973217A7A.png" alt="img truck" />
+                        <img src="/images/up%20for%20the%20challenge.jpg" alt="img truck" />
                     </div>
                     <div class="col-lg-6">
                         <div class="wrapper-desc-item-truck flex-right">
