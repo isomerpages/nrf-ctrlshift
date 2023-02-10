@@ -14741,7 +14741,7 @@ description: ""
                                     <h2>About our CTRL+SHIFT truck</h2>
                                 </div>
                                 <div class="text-item-truck">
-                                    <p> Get ready to CTRL your future and SHIFT your perspectives as we hit the road with our CTRL+SHIFT truck! </p><p>We’re stopping by multiple Open Houses and Career Fairs to mingle with students and educators, to find out what people really think about Science, Tech and Engineering jobs in the public sector.</p><p>And the best part? Not only are we hosting giveaways, but we’ve also got industry experts joining us to share amazing stories and insider tips on what it is really like to work in their field”</p>
+                                    <p> Get ready to CTRL your future and SHIFT your perspectives as we hit the road with our CTRL+SHIFT truck! </p><p>We’re stopping by multiple Open Houses and Career Fairs to mingle with students and educators, to find out what people really think about Science, Tech and Engineering jobs in the public sector.</p><p>And the best part? Not only are we hosting giveaways, but we’ve also got industry experts joining us to share amazing stories and insider tips on what it is really like to work in their field.</p>
                                 </div>
                             </div>
                         </div>
