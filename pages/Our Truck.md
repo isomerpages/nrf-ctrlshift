@@ -3,8 +3,6 @@ title: Our Truck
 permalink: /our-truck/
 description: ""
 ---
-
-
 ```
 ```
 <style>
@@ -14601,7 +14599,7 @@ description: ""
                             alt="title page truck"
                             class="title-page-truck" style="width: auto"
                         />
-											<p class="subtitle-main">Get the chance to catch Singapore's first ever CTRL+SHIFT truck! Spot us to<br> participate in our giveaway and redeem bubble tea or a lenticular card!<br> Participants will get first dibs to attend our upcoming, secret insider experiences</p>
+											<p class="subtitle-main">Get the chance to catch Singapore's first ever CTRL+SHIFT truck! <br>Spot us to participate in our giveaway and get up close and personal with  our STE industry experts! <br> Participants will get first dibs to attend our upcoming, secret insider experiences.</p>
                     </div>
                 </div>
                 <img
@@ -14743,7 +14741,7 @@ description: ""
                                     <h2>About our CTRL+SHIFT truck</h2>
                                 </div>
                                 <div class="text-item-truck">
-                                    <p>Organised by the Public Sector Science & Technology Policy & Plans Office (S&TPPO) on behalf of the Public Service, CTRL+SHIFT is a rebranding campaign that aims to shed light on the true potential of STE careers and shift perpectives in STE careers in public service.</p><p>Come on down to our CTRL+SHIFT event truck and learn more about exciting STE opportunities available in the public sector.</p>
+                                    <p> Get ready to CTRL your future and SHIFT your perspectives as we hit the road with our CTRL+SHIFT truck! </p><p>We’re stopping by multiple Open Houses and Career Fairs to mingle with students and educators, to find out what people really think about Science, Tech and Engineering jobs in the public sector.</p><p>And the best part? Not only are we hosting giveaways, but we’ve also got industry experts joining us to share amazing stories and insider tips on what it is really like to work in their field”</p>
                                 </div>
                             </div>
                         </div>
@@ -14763,7 +14761,7 @@ description: ""
                                     <h2>Up for the challenge? Come find us</h2>
                                 </div>
                                 <div class="text-item-truck">
-                                    <p>To kickstart our campaign, we headed to Open Houses and Career Fairs!</p><p>Complete a short survey to take part in interactive quizzes and redeem some cool items like bubble tea or a lenticular card!</p>
+                                    <p>We’re dying to hear your take on Science, Tech and Engineering! So why not come hang out with us at our upcoming school visits? It is going to be a blast and we promise you won’t regret it!</p>
                                 </div>
                             </div>
                         </div>
