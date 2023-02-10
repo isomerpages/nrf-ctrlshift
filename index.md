@@ -10,6 +10,13 @@ sections:
         revolution! Don't sit on the sidelines, make your mark and change the
         world together.
   - infopic:
+      title: Our CTRL+SHIFT Truck
+      description: "Get the chance to catch Singapore's first ever CTRL+SHIFT truck. "
+      button: Join us now
+      url: /our-truck
+      image: /images/up for the challenge.jpg
+      alt: Image alt text
+  - infopic:
       title: About Science + Tech + Engineering
       button: Find Out More
       url: /about-us
