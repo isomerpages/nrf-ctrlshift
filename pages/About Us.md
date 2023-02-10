@@ -84,5 +84,3 @@ CTRL+SHIFT is a multi-year campaign effort spearheaded by the Public Sector Scie
   <div class="column">
     <img src="/images/logo2022.jpg" alt="stppo logo" style="width:100%">
   </div>
-</div>
-
