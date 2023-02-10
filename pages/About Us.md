@@ -61,3 +61,28 @@ CTRL your future and SHIFT your perspectives with us.
 
 
 CTRL+SHIFT is a multi-year campaign effort spearheaded by the Public Sector Science & Technology Policy & Plans Office (S&TPPO) which is one of the divisions under the Prime Minister's Office (PMO). CTRL+SHIFT aims to reach out to students ranging from secondary school to university graduates and encourage them to take up science, technology, or engineering fields of study, as well as inspire them to pursue related careers in the Singapore Public Service.
+
+
+<style> 
+.column {
+  float: left;
+  width: 20%;
+  padding: 5px;
+	
+@media only screen and (max-width: 768px) {
+    .column {
+        width:10%;
+				text-align: left
+    }
+}
+
+	</style>
+	
+  <div class="column">
+    <img src="/images/logo2022.jpg" alt="ste logo" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="/images/logo2022.jpg" alt="stppo logo" style="width:100%">
+  </div>
+</div>
+
