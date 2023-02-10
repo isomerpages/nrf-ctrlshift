@@ -5,12 +5,10 @@ permalink: /
 sections:
   - hero:
       background: /images/ISOMER_Banner_nologo.png
-      title: "Glimpse into Your Future "
+      title: "A Glimpse into Your Future "
       subtitle: Get ready to level up and be part of the Science, Tech and Engineering
         revolution! Don't sit on the sidelines, make your mark and change the
         world together.
-      url: /our-truck/
-      button: Ctrl+shift tRUCK
   - infopic:
       title: About Science + Tech + Engineering
       button: Find Out More
