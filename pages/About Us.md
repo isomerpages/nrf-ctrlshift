@@ -71,7 +71,7 @@ CTRL+SHIFT is a multi-year campaign effort spearheaded by the Public Sector Scie
 	
 @media only screen and (max-width: 768px) {
     .column {
-        width:20%;
+        width:30%;
 				text-align: left
     }
 }
