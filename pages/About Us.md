@@ -63,16 +63,26 @@ We want to revolutionise STE further in our lives and that’s where you come in
 CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of students and influencers alike for the STE courses and careers in the public sector. 
 
 <style> 
-.column {
+* {
+  box-sizing: border-box;
+}
+	.column {
   float: left;
   width: 20%;
   padding: 8px;
 }
+	.logos::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 	</style>
 
-  <div class="column">
-    <img src="/images/S&TPPO%20logo%20web.jpeg" alt="stppo logo" style="width:100%">
-  </div>
-	<div class="column">
-    <img src="/images/STE%20Logo.jpg" alt="ste logo" style="width:100%">
-  </div>
+<div class="logos">
+		<div class="column">
+			<img src="/images/S&TPPO%20logo%20web.jpeg" alt="stppo logo" style="width:100%">
+		</div>
+		<div class="column">
+			<img src="/images/STE%20Logo.jpg" alt="ste logo" style="width:100%">
+		</div>
+	</div><
