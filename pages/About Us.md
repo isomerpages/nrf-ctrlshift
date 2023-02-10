@@ -66,10 +66,9 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
 .column {
   float: left;
   width: 20%;
-  padding: 8px;
+  padding: 5px;
 }
 	</style>
-	
   <div class="column">
     <img src="/images/S&TPPO%20logo%20web.jpeg" alt="stppo logo" style="width:100%">
   </div>
