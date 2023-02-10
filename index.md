@@ -14,7 +14,7 @@ sections:
       description: "Get the chance to catch Singapore's first ever CTRL+SHIFT truck. "
       button: Join us now
       url: /our-truck
-      image: /images/Night Shot landing.jpg
+      image: /images/nightshot.jpg
       alt: Image alt text
   - infopic:
       title: About Science + Tech + Engineering
