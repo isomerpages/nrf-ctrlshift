@@ -26,13 +26,13 @@ description: ""
     <img src="/images/About%20Us/about%20STE.png">
 </div>
 
-Be prepared to CTRL your future and SHIFT your perspectives with a brand new take on the many exciting possibilities in Science, Tech and Engineering (STE). 
+Be prepared to CTRL your future and SHIFT your perspectives with a brand new take on the many exciting possibilities in Science, Tech and Engineering (STE).
 
+With STE being prominent in the way we live, work and play – it has become inevitable for us and continues to evolve to this day. Playing a big part in STE history being made is the Singapore Public Service sector, a living machine of different agencies coming together to create a better Singapore. 
 
-With STE being prominent in the way we live, work and play – it has become inevitable for us. The Singapore Public Service sector is a living machine of different agencies coming together to create a better Singapore using the power of STE.
+To some, the STE field paints a stoic image that goes by the book, but this is where we debunk that. We’re here to take you on a journey into the realm of STE and uncover how you can be dreamers, synergisers and innovators for the future. 
 
-We want to revolutionise STE further in our lives and that’s where you come in. Dreamers, synergisers, innovators - you can be one of them too. 
-
+Join us as CTRL+SHIFT unveils a whole new world in Science, Tech and Engineering. 
 
 <br> 
 
