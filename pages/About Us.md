@@ -68,7 +68,7 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
 }
 	.column {
   float: left;
-  width: 20%;
+  width: 30%;
   padding: 8px;
 }
 	.logos::after {
@@ -94,6 +94,6 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
 			<img src="/images/psd%20logo%20for%20web.jpg">
 		</div>
 		<div class="column">
-			<img src="/images/STE%20Logo.jpg">
+			<img src="/images/STE%20Logo%20for%20web.jpg">
 		</div>
 	</div>
