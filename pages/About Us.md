@@ -30,12 +30,10 @@ Be prepared to CTRL your future and SHIFT your perspectives with a brand-new tak
  
 Science, Technology and Engineering (STE) empowers people to create impactful and meaningful solutions that pave the way forward for a nation. In the Singapore Public Service, we nurture our young into passionate individuals who deliver real and quantifiable change through innovation and team collaborations. Be a part of this workforce as we journey together.
  
-**What is CTRL+SHIFT?**
-
+**What is CTRL+SHIFT?**<br>
 Evolving from the Engineering What's Next campaign in 2016 and the STE What's Next campaign in 2020, the CTRL+SHIFT campaign aims to shift the perspectives of students and influencers alike for STE courses and careers in the Public Service.
  
-**Why CTRL+SHIFT?**
-
+**Why CTRL+SHIFT?**<br>
 CTRL+SHIFT brings you a fresh perspective of STE in the Public Service that you have never known, or never seen. How do you brew the idea of creating a mozzie breed to curb dengue? Or build a robot that goes through places you rather not be in? Sneak a peek at the restricted areas from the public sector agencies as they open their doors to you for the first time... we are sure you will be in for a special surprise!
  
 Join us as CTRL+SHIFT unveils a whole new world in Science, Technology and Engineering!
