@@ -26,14 +26,19 @@ description: ""
     <img src="/images/About%20Us/about%20STE.png">
 </div>
 
-Be prepared to CTRL your future and SHIFT your perspectives with a brand new take on the many exciting possibilities in Science, Tech and Engineering (STE).
+Be prepared to CTRL your future and SHIFT your perspectives with a brand-new take on the many exciting possibilities with Science, Technology and Engineering (STE).
+ 
+Science, Technology and Engineering (STE) empowers people to create impactful and meaningful solutions that pave the way forward for a nation. In the Singapore Public Service, we nurture our young into passionate individuals who deliver real and quantifiable change through innovation and team collaborations. Be a part of this workforce as we journey together.
+ 
+**What is CTRL+SHIFT?**
 
-With STE being prominent in the way we live, work and play – it has become inevitable for us and continues to evolve to this day. Playing a big part in STE history being made is the Singapore Public Service sector, a living machine of different agencies coming together to create a better Singapore. 
+Evolving from the Engineering What's Next campaign in 2016 and the STE What's Next campaign in 2020, the CTRL+SHIFT campaign aims to shift the perspectives of students and influencers alike for STE courses and careers in the Public Service.
+ 
+**Why CTRL+SHIFT?**
 
-To some, the STE field paints a stoic image that goes by the book, but this is where we debunk that. We’re here to take you on a journey into the realm of STE and uncover how you can be dreamers, synergisers and innovators for the future. 
-
-Join us as CTRL+SHIFT unveils a whole new world in Science, Tech and Engineering. 
-
+CTRL+SHIFT brings you a fresh perspective of STE in the Public Service that you have never known, or never seen. How do you brew the idea of creating a mozzie breed to curb dengue? Or build a robot that goes through places you rather not be in? Sneak a peek at the restricted areas from the public sector agencies as they open their doors to you for the first time... we are sure you will be in for a special surprise!
+ 
+Join us as CTRL+SHIFT unveils a whole new world in Science, Technology and Engineering!
 <br> 
 
 <style>
