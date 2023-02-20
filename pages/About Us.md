@@ -37,7 +37,8 @@ Evolving from the Engineering What's Next campaign in 2016 and the STE What's Ne
 CTRL+SHIFT brings you a fresh perspective of STE in the Public Service that you have never known, or never seen. How do you brew the idea of creating a mozzie breed to curb dengue? Or build a robot that goes through places you rather not be in? Sneak a peek at the restricted areas from the public sector agencies as they open their doors to you for the first time... we are sure you will be in for a special surprise!
  
 Join us as CTRL+SHIFT unveils a whole new world in Science, Technology and Engineering!
-<br> 
+<br>
+<br>
 
 <style>
 .purpose {
