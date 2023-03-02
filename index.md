@@ -29,16 +29,9 @@ sections:
       description: Science, Tech and Engineering are the main driving forces behind
         innovation and growth. Join us as we explore how STE is in the way we
         live, work and play.
-notification: "You can add notification here. You can add notification here. You
-  can add notification here. You can add notification here. You can add
-  notification here. You can add notification here. You can add notification
-  here. You can add notification here. You can add notification here. You can
-  add notification here. You can add notification here. You can add notification
-  here. You can add notification here. You can add notification here. You can
-  add notification here. You can add notification here. You can add notification
-  here. You can add notification here. You can add notification here. You can
-  add notification here. You can add notification here. You can add notification
-  here. You can add notification here. You can add notification here. "
+notification: You can add notification here. You can add notification here. You
+  can add notification here.You can add notification here.You can add
+  notification here.You can add not
 description: Ready to join our STE movement? Say goodbye to stereotypes and
   hello to endless opportunities in the world of science, tech and engineering.
 image: /images/Social Thumbnail.png
