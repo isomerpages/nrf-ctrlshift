@@ -9,10 +9,6 @@ sections:
       subtitle: Get ready to level up and be part of the Science, Tech and Engineering
         revolution! Don't sit on the sidelines, make your mark and change the
         world together.
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
   - infopic:
       title: Our CTRL+SHIFT Truck
       description: "Get the chance to catch Singapore's first ever CTRL+SHIFT truck. "
