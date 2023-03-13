@@ -14718,7 +14718,7 @@ description: ""
                             </div>
                         </div>
                     </div>
-                    <div class="col-sm-4 school-col">
+                    <div class="col-sm-5 school-col">
                         <div class="school-box">
                             <label for="check5" class="togButton">SINGAPORE INSTITUTE OF TECHNOLOGY (SIT) @ DOVER CAMPUS </label>
 													<input type="checkbox" class="togCheck5" id="check5"/>
