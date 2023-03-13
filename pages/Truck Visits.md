@@ -14701,10 +14701,10 @@ description: ""
                     </div>
                     <div class="col-sm-4 school-col">
                         <div class="school-box">
-                            <label for="check3" class="togButton">SINGAPORE INSTITUTE OF TECHNOLOGY (SIT) <br> @ DOVER CAMPUS </label>
+                            <label for="check3" class="togButton"> SINGAPORE<br> POLYTECHNIC</label>
 													<input type="checkbox" class="togCheck3" id="check3"/>
                             <div class="togContent3 school-box-detail">
-                                <p>15 March 2023, 11am - 5pm <br> University Resource Gym (URC) Basement <br> (Beside Open Gym)</p>
+                                <p>10 February 2023, 3pm - 7.30pm  <br>SP Eleven²</p>
                             </div>
                         </div>
                     </div>
@@ -14720,10 +14720,10 @@ description: ""
                     </div>
                     <div class="col-sm-4 school-col">
                         <div class="school-box">
-                            <label for="check5" class="togButton">SINGAPORE<br> POLYTECHNIC</label>
+                            <label for="check5" class="togButton">SINGAPORE INSTITUTE OF TECHNOLOGY (SIT) <br> @ DOVER CAMPUS </label>
 													<input type="checkbox" class="togCheck5" id="check5"/>
                             <div class="togContent5 school-box-detail">
-                                <p>10 February 2023, 3pm - 7.30pm  <br>SP Eleven²</p>
+                                <p>15 March 2023, 11am - 5pm <br> University Resource Gym (URC) Basement <br> (Beside Open Gym)</p>
                             </div>
                         </div>
                     </div>
