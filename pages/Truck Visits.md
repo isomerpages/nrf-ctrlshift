@@ -14701,7 +14701,7 @@ description: ""
                     </div>
                     <div class="col-sm-4 school-col">
                         <div class="school-box">
-                            <label for="check3" class="togButton">SINGAPORE INSTITUTE<br>OF TECHNOLOGY (SIT) <br> @ DOVER CAMPUS </label>
+                            <label for="check3" class="togButton">SINGAPORE INSTITUTE OF TECHNOLOGY (SIT) <br> @ DOVER CAMPUS </label>
 													<input type="checkbox" class="togCheck3" id="check3"/>
                             <div class="togContent3 school-box-detail">
                                 <p>15 March 2023, 11am - 5pm <br> University Resource Gym (URC) Basement <br> (Beside Open Gym)</p>
