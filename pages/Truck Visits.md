@@ -3,7 +3,6 @@ title: Truck Visits
 permalink: /truck-visits/
 description: ""
 ---
-
 ```
 ```
 <style>
@@ -14676,7 +14675,7 @@ description: ""
                     <div class="col-12">
                         <div class="text-center">
                             <h1 class="title-section text-white">
-                                Here’s where we are going this February!
+                                Here’s where we are going this March!
                             </h1>
                         </div>
                     </div>
@@ -14702,10 +14701,10 @@ description: ""
                     </div>
                     <div class="col-sm-4 school-col">
                         <div class="school-box">
-                            <label for="check3" class="togButton">SINGAPORE INSTITUTE<br>OF TECHNOLOGY (SIT)</label>
+                            <label for="check3" class="togButton">SINGAPORE INSTITUTE<br>OF TECHNOLOGY (SIT) <br> @ DOVER CAMPUS </label>
 													<input type="checkbox" class="togCheck3" id="check3"/>
                             <div class="togContent3 school-box-detail">
-                                <p>Coming Soon!</p>
+                                <p>15 March 2023, 11am - 5pm <br> University Resource Gym (URC) Basement <br> (Beside Open Gym)</p>
                             </div>
                         </div>
                     </div>
@@ -14715,7 +14714,7 @@ description: ""
                             <label for="check4" class="togButton">SINGAPORE UNIVERSITY OF<br>TECHNOLOGY AND DESIGN (SUTD) </label>
 													<input type="checkbox" class="togCheck4" id="check4"/>
                             <div class="togContent4 school-box-detail">
-                                <p>Coming Soon!</p>
+                                <p>24 March 2023, 11am - 5pm  <br>Behind Campus Centre</p>
                             </div>
                         </div>
                     </div>
