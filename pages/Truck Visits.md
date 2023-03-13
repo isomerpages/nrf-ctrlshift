@@ -14711,19 +14711,19 @@ description: ""
                     <div class="col-sm-1 school-col"></div>
                     <div class="col-sm-5 school-col">
                         <div class="school-box">
-                            <label for="check4" class="togButton">SINGAPORE UNIVERSITY OF<br>TECHNOLOGY AND DESIGN (SUTD) </label>
+                            <label for="check4" class="togButton">SINGAPORE INSTITUTE OF TECHNOLOGY (SIT) <br> @ DOVER CAMPUS</label>
 													<input type="checkbox" class="togCheck4" id="check4"/>
                             <div class="togContent4 school-box-detail">
-                                <p>24 March 2023, 11am - 5pm  <br>Behind Campus Centre</p>
+                                <p>15 March 2023, 11am - 5pm <br> University Resource Gym (URC) Basement <br> (Beside Open Gym)</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-sm-5 school-col">
                         <div class="school-box">
-                            <label for="check5" class="togButton">SINGAPORE INSTITUTE OF TECHNOLOGY (SIT) <br> @ DOVER CAMPUS </label>
+                            <label for="check5" class="togButton">SINGAPORE UNIVERSITY OF<br>TECHNOLOGY AND DESIGN (SUTD) </label>
 													<input type="checkbox" class="togCheck5" id="check5"/>
                             <div class="togContent5 school-box-detail">
-                                <p>15 March 2023, 11am - 5pm <br> University Resource Gym (URC) Basement <br> (Beside Open Gym)</p>
+                                <p>24 March 2023, 11am - 5pm  <br>Behind Campus Centre</p>
                             </div>
                         </div>
                     </div>
