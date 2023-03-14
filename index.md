@@ -10,7 +10,7 @@ sections:
         revolution! Don't sit on the sidelines, make your mark and change the
         world together.
   - infopic:
-      title: About Science+Tech+ Engineering
+      title: About Science+Tech +Engineering
       button: Find Out More
       url: /about-us
       alt: about img
