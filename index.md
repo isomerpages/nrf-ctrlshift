@@ -17,7 +17,7 @@ sections:
       image: /images/nightshot.jpg
       alt: Image alt text
   - infopic:
-      title: About Science + Tech + Engineering
+      title: About Science+Tech+Engineering
       button: Find Out More
       url: /about-us
       alt: about img
