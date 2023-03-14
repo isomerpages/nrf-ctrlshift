@@ -13,7 +13,7 @@ sections:
       title: Our CTRL+SHIFT Truck
       description: "Get the chance to catch Singapore's first ever CTRL+SHIFT truck. "
       button: Join us now
-      url: /our-truck
+      url: /truck-visits
       image: /images/nightshot.jpg
       alt: Image alt text
   - infopic:
