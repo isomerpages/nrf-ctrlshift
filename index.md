@@ -30,5 +30,6 @@ notification: STE WHAT'S NEXT is now CTRL+SHIFT! Join us for an immersive
   Service.
 description: Ready to join our STE movement? Say goodbye to stereotypes and
   hello to endless opportunities in the world of science, tech and engineering.
-image: /images/Social Thumbnail.png
+image: /images/Site Settings/Social Thumbnail.png
 ---
+
