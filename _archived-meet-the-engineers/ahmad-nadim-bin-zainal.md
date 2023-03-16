@@ -3,12 +3,7 @@ title: Ahmad Nadim bin Zainal
 permalink: /meet-the-engineers/ahmad-nadim/
 breadcrumb: Adhmad Nadim bin Zainal
 ---
-
-
-
-
-
-<img src="/images/nadim.jpg" alt="Ahmad Nadim" style="width:222px;height:278px;" align="left">
+<img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Nadim/nadim.jpg" alt="Ahmad Nadim" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
 <strong>Ahmad Nadim bin Zainal</strong>
