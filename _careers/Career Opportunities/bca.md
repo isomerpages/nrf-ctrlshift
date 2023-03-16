@@ -4,13 +4,7 @@ permalink: /engineering-careers/bca/
 breadcrumb: BCA
 third_nav_title: Career Opportunities
 ---
-
-
-
-
-
-
-<img src="/images/bca.jpg" alt="bca" style="width:393px;height:110px;" align="left">
+<img src="/images/Careers/Career%20Opportunities/BCA/bca.jpg" alt="bca" style="width:393px;height:110px;" align="left">
 <br clear="left">
 
 
@@ -41,4 +35,3 @@ BCA constantly shapes the landscape to prepare for the future of Singapore, rall
 Join us in our journey in transforming the way we BuildSG, together.
 
 Find out more <a href="https://www.bca.gov.sg/Careers/careers.html" target="_blank">here!</a>
-
