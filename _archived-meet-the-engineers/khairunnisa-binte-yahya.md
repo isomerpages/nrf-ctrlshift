@@ -3,11 +3,7 @@ title: Khairunnisa Binte Yahya
 permalink: /meet-the-engineers/Khairunnisa-Binte-Yahya/
 breadcrumb: Khairunnisa Binte Yahya
 ---
-
-
-
-
-<img src="/images/Khairunnisa.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
+<img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Khairunnisa/Khairunnisa.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
 <strong>Khairunnisa Binte Yahya</strong>
@@ -24,4 +20,4 @@ My work helps to improve the air quality in Singapore, which impacts the environ
 I like engineering for its versatility. Getting to the root cause of problems and solving them, understanding how things work as well as learning new processes and technologies make engineering exciting and multi-dimensional.
 
 ### Why do you choose to be a Public Service engineer?
-As a Public Service engineer, what I do will directly or indirectly impact our environment. This has great significance on not just a group of beneficiaries, but the nation as a wh
+As a Public Service engineer, what I do will directly or indirectly impact our environment. This has great significance on not just a group of beneficiaries, but the nation as a whole.
