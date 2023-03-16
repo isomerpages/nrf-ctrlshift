@@ -4,13 +4,7 @@ permalink: /engineering-careers/ema/
 breadcrumb: EMA
 third_nav_title: Career Opportunities
 ---
-
-
-
-
-
-
-<img src="/images/ema.jpg" alt="ema" style="width:300px;height:174px;" align="left">
+<img src="/images/Careers/Career%20Opportunities/EMA/ema.jpg" alt="ema" style="width:300px;height:174px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
@@ -30,4 +24,3 @@ As a small city-state with no natural resources, Singapore has more than its fai
 At EMA, you will play a key role in shaping Singapore's energy landscape. You will also be part of the Public Service committed to ensuring the security, reliability and adequacy of electricity supply to keep the lights on for Singapore. 
 
 Find out more <a href="https://www.ema.gov.sg/Career_Seekers.aspx" target="_blank">here!</a>
-
