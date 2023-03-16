@@ -4,13 +4,7 @@ permalink: /engineering-careers/iras/
 breadcrumb: IRAS
 third_nav_title: Career Opportunities
 ---
-
-
-
-
-
-
-<img src="/images/Iras.png" alt="Iras" style="width:260px;height:260px;" align="left">
+<img src="/images/Careers/Career%20Opportunities/IRAS/Iras.png" alt="Iras" style="width:260px;height:260px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
