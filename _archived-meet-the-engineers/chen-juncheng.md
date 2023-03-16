@@ -3,12 +3,7 @@ title: Chen Juncheng
 permalink: /meet-the-engineers/Chen-Juncheng/
 breadcrumb: Chen Juncheng
 ---
-
-
-
-
-
-<img src="/images/Juncheng.jpg" alt="Chen Juncheng" style="width:222px;height:278px;" align="left">
+<img src="/images/(ARCHIVED) Meet the Engineers/Chen Juncheng/Juncheng.jpg" alt="Chen Juncheng" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
 <strong>Chen Juncheng</strong>
