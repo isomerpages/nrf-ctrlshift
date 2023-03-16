@@ -4,7 +4,7 @@ title: CTRL Your Future, SHIFT Your Perspective
 permalink: /
 sections:
   - hero:
-      background: /images/ISOMER_Banner_nologo.png
+      background: /images/Homepage/ISOMER_Banner_nologo.png
       title: "A Glimpse into Your Future "
       subtitle: Get ready to level up and be part of the Science, Tech and Engineering
         revolution! Don't sit on the sidelines, make your mark and change the
@@ -14,7 +14,7 @@ sections:
       button: Find Out More
       url: /about-us
       alt: about img
-      image: /images/aboutimghorizontal.png
+      image: /images/Homepage/aboutimghorizontal.png
       description: Science, Tech and Engineering are the main driving forces behind
         innovation and growth. Join us as we explore how STE is in the way we
         live, work and play.
@@ -23,7 +23,7 @@ sections:
       description: "Get the chance to catch Singapore's first ever CTRL+SHIFT truck. "
       button: Join us now
       url: /truck-visits
-      image: /images/nightshot.jpg
+      image: /images/Homepage/nightshot.jpg
       alt: Image alt text
 notification: STE WHAT'S NEXT is now CTRL+SHIFT! Join us for an immersive
   experience and take a peek into innovation STE projects in Singapore Public
