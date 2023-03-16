@@ -4,14 +4,7 @@ permalink: /engineering-marvels/Parents-Gateway/
 breadcrumb: Parents Gateway
 third_nav_title: STE Innovations
 ---
-![Parents](/images/parents.jpg)
-
-AI
-![](/images/Careers/STE%20Innovations/Parents%20Gateway/parents%20AI%20big%20.jpeg)
-
-preview
-![](/images/Careers/STE%20Innovations/Parents%20Gateway/parents.jpg)
-
+![](/images/Careers/STE%20Innovations/Parents%20Gateway/parents%20NEW%20.jpeg)
 
 ## CONNECTING PARENTS & SCHOOLS ANYTIME
 
