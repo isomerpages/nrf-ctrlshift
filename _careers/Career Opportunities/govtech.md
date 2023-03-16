@@ -4,13 +4,7 @@ permalink: /engineering-careers/govtech/
 breadcrumb: GovTech
 third_nav_title: Career Opportunities
 ---
-
-
-
-
-
-
-<img src="/images/govtech.gif" alt="govtech" style="width:300px;height:268px;" align="left">
+<img src="/images/Careers/Career%20Opportunities/GovTech/govtech.gif" alt="govtech" style="width:300px;height:268px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
