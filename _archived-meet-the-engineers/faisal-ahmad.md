@@ -3,12 +3,7 @@ title: Faisal Ahmad
 permalink: /meet-the-engineers/Faisal Ahmad/
 breadcrumb: Faisal Ahmad
 ---
-
-
-
-
-
-<img src="/images/Faisal.jpg" alt="Faisal Ahmad" style="width:222px;height:278px;" align="left">
+<img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Faisal/Faisal.jpg" alt="Faisal Ahmad" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
 <strong>Faisal Ahmad</strong>
