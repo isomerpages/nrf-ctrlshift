@@ -25,4 +25,4 @@ As one of the largest developers in Singapore, LTA employs state-of-the-art tech
 ### HERE’S HOW YOU CAN ENGINEER WOW
 Your focus lies in the intricate architectural and technical design details of our MRT stations and tunnels, roads and road viaducts, and other civil structures. Catering to the diverse needs of the commuters, you will also help ensure that commuter facilities are integrated with transport hubs and other developments to provide a seamless journey for all commuters. 
 
-Find out more <a href="https://www.lta.gov.sg/content/ltaweb/en/careers.html" target="_blank">here!</a>
+Find out more <a href="https://www.lta.gov.sg/content/ltagov/en/who_we_are.html/#careers" target="_blank">here!</a>
