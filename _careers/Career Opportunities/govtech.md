@@ -40,4 +40,4 @@ Network Engineer: Build agile and responsive IT systems for our Smart Nation.
 
 UX Designer: Synthesise impactful user experience design and design thinking to innovate and solve problems that citizens face and to improve their lives. 
 
-Find out more <a href="https://www.tech.gov.sg/careers/overview/="_blank">here!</a>
+Find out more <a href="https://www.tech.gov.sg/careers/overview/" target="_blank">here!</a>
