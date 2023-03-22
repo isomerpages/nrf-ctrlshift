@@ -47,8 +47,6 @@ For instance, the sensing of footfall to switch off building lights when they’
 
 Previously, Zhi Hui was also part of the team that worked on the master plan for the one-north district. Connecting with colleagues, industry players, partners, and fellow officers from other government agencies on the estate’s development introduced Zhi Hui to a whole new world. The knowledge gained from that project served as a solid foundation for PDD.
 
-![](/images/Stories/2022%20stories/Transforming%20sg/transform%20sg%203.jpg)
-
 “Since PDD is an entirely new estate, it is an unprecedented opportunity — a blank canvas to try a wider scope of features,” he says.
 
 Witnessing his efforts come to fruition is what gives him lasting job satisfaction. Zhi Hui loves his job because, “It feels great to know that my work makes a difference to the community.”
