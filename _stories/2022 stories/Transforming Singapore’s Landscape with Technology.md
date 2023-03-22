@@ -6,7 +6,7 @@ third_nav_title: 2022 stories
 ---
 ## Smart Digital Districts: Transforming Singapore’s Landscape with Technology
 
-![](/images/Stories/2022%20stories/Transforming%20sg/transform%20sg%201.jpg)
+![](/images/Stories/2022%20stories/Transforming%20sg/transform%20sg%203.png)
 
 Meet the man who is on a quest to sharpen Singapore’s technology edge.
 
