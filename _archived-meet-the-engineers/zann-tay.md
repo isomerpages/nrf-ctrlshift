@@ -3,12 +3,7 @@ title: Zann Tay
 permalink: /meet-the-engineers/Zann-Tay/
 breadcrumb: Zann Tay
 ---
-
-
-
-
-
-<img src="/images/Zann.jpg" alt="Zann Tay" style="width:222px;height:278px;" align="left">
+<img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Zann/Zann.jpg" alt="Zann Tay" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
 <strong>Zann Tay</strong>

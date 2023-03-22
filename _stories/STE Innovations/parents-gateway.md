@@ -4,11 +4,7 @@ permalink: /engineering-marvels/Parents-Gateway/
 breadcrumb: Parents Gateway
 third_nav_title: STE Innovations
 ---
-
-
-
-
-![Parents](/images/parents.jpg)
+![](/images/Careers/STE%20Innovations/Parents%20Gateway/parents%20NEW%20.jpeg)
 
 ## CONNECTING PARENTS & SCHOOLS ANYTIME
 
@@ -21,4 +17,3 @@ Parents Gateway is created out of a desire to reduce the educator’s administra
 The design principles of Parents Gateway rely heavily on the adoption of Design Thinking to design, implement and test the product. It is one of the large-scale government products developed in-house and deployed, via infrastructure as a code, on an Open Source Public Cloud environment leveraging the power of Cloud’s scalability and robustness.  
 
 Parents Gateway is also one of the few government products engineered using Agile Software Development Methodology and deployed using a suite of DevOps tools to support continuous integration and delivery.
-

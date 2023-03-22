@@ -4,13 +4,7 @@ permalink: /engineering-careers/dsta/
 breadcrumb: DSTA
 third_nav_title: Career Opportunities
 ---
-
-
-
-
-
-
-<img src="/images/dsta.png" alt="dsta" style="width:290px;height:110px;" align="left">
+<img src="/images/Careers/Career%20Opportunities/DSTA/dsta%20logo%20NEW.jpg" alt="dsta" style="width:auto; height:150px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
@@ -58,4 +52,3 @@ At DSTA, we manage a multi-disciplinary and multi-industry portfolio where you c
 - National Security
 
 Find out more <a href="https://www.dsta.gov.sg/join-us/job-seeker/dsta-careers" target="_blank">here!</a>
-

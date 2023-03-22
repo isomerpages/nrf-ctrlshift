@@ -4,13 +4,7 @@ permalink: /engineering-careers/jtc/
 breadcrumb: JTC
 third_nav_title: Career Opportunities
 ---
-
-
-
-
-
-
-<img src="/images/jtc.png" alt="jtc" style="width:300px;height:300px;" align="left">
+<img src="/images/Careers/Career%20Opportunities/JTC/JTC%20Logo%20NEW.png" alt="jtc" style="width:auto;height:150px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
@@ -38,4 +32,4 @@ JTC is creating tomorrow’s industry spaces. Our work exemplifies the vital rol
 
 At JTC, there are many opportunities for you to learn, grow, and contribute. We believe in investing in your development through programmes and initiatives such as a structured development pathway, sponsorship for further studies, training as well as job rotation opportunities. Join us to create tomorrow’s industry spaces and play a part in shaping Singapore’s industrial landscape!
 
-Find out more <a href="https://www.jtc.gov.sg/careers/Pages/default.aspx" target="_blank">here!</a>
+Find out more <a href="https://www.jtc.gov.sg/about-jtc/careers/join-us" target="_blank">here!</a>

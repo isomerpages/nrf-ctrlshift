@@ -95,9 +95,9 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
 
 <div class="logos">
 		<div class="column">
-			<img src="/images/psd%20logo%20for%20web.jpg">
+			<img src="/images/About%20Us/psd%20logo%20for%20web.jpg">
 		</div>
 		<div class="column">
-			<img src="/images/STE%20Logo%20for%20web.jpg">
+			<img src="/images/About%20Us/STE%20Logo%20for%20web.jpg">
 		</div>
 	</div>

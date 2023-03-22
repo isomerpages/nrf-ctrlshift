@@ -4,13 +4,7 @@ permalink: /engineering-careers/bca/
 breadcrumb: BCA
 third_nav_title: Career Opportunities
 ---
-
-
-
-
-
-
-<img src="/images/bca.jpg" alt="bca" style="width:393px;height:110px;" align="left">
+<img src="/images/Careers/Career%20Opportunities/BCA/bca.jpg" alt="bca" style="width:auto;height:110px;" align="left">
 <br clear="left">
 
 
@@ -40,5 +34,4 @@ As a technical authority, it is essential for BCA to acquire and develop enginee
 BCA constantly shapes the landscape to prepare for the future of Singapore, rally the built environment sector to achieve far-reaching goals that reach beyond today and improve the living environment for Singaporeans from all walks of life.
 Join us in our journey in transforming the way we BuildSG, together.
 
-Find out more <a href="https://www.bca.gov.sg/Careers/careers.html" target="_blank">here!</a>
-
+Find out more <a href="https://www1.bca.gov.sg/about-us/careers" target="_blank">here!</a>

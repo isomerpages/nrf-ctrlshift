@@ -3,7 +3,7 @@ title: CTRL Your Future, SHIFT Your Perspective
 title-abbreviated: STE What's Next Team
 description: Ready to join our STE movement? Say goodbye to stereotypes and
   hello to endless opportunities in the world of science, tech and engineering.
-url: https://www.stewhatsnext.gov.sg
+url: https://www.ctrlshift.gov.sg
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 paginate: 12
@@ -24,7 +24,7 @@ exclude:
   - Gemfile.lock
 resources_name: newsroom
 google_analytics: UA-73732262-1
-favicon: /images/ctrlshiftfavicon.png
+favicon: /images/Site Settings/ctrlshiftfavicon.png
 permalink: none
 baseurl: ""
 defaults:
@@ -54,6 +54,6 @@ colors:
       color: "#00c5e4"
     - title: media-color-five
       color: "#ffffff"
-shareicon: /images/Social Thumbnail.png
+shareicon: /images/Site Settings/Social Thumbnail.png
 is_government: false
 linkedin-insights: ""

@@ -3,12 +3,7 @@ title: Chua Wee Liang
 permalink: /meet-the-engineers/Chua-Wee-Liang/
 breadcrumb: Chua Wee Liang
 ---
-
-
-
-
-
-<img src="/images/Wee Liang.jpg" alt="Wee Liang" style="width:222px;height:278px;" align="left">
+<img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Chua%20Wee%20Liang/Wee Liang.jpg" alt="Wee Liang" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
 <strong>Chua Wee Liang</strong>

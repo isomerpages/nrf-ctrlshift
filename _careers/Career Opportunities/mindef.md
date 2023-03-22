@@ -4,13 +4,7 @@ permalink: /engineering-careers/mindef/
 breadcrumb: MINDEF
 third_nav_title: Career Opportunities
 ---
-
-
-
-
-
-
-<img src="/images/mindef.png" alt="mindef" style="width:300px;height:300px;" align="left">
+<img src="/images/Careers/Career%20Opportunities/MINDEF/mindef%20logo%20NEW.png" alt="mindef" style="width:auto;height:200px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
@@ -37,4 +31,4 @@ As a military engineer, you will take on a diverse range of challenging appointm
 ### Air Force
 • Air Force Engineer - Specialise in engineering fields of Aeronautics, Aircraft Propulsion and Avionics to lead a team of professionals to ensure the operational readiness of the RSAF’s aircraft and weapon systems.
 
-Find out more <a href="https://www.mindef.gov.sg/oms/scholarship" target="_blank">here!</a>
+Find out more <a href="https://www.dtcareers.gov.sg/careers-and-programmes/?utm_medium=Search&utm_source=SEM&utm_campaign=DTC" target="_blank">here!</a>

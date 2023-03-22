@@ -3,12 +3,7 @@ title: Laura Lee
 permalink: /meet-the-engineers/laura/
 breadcrumb: Laura Lee
 ---
-
-
-
-
-
-<img src="/images/Laura.png" alt="Laura Lee" style="width:222px;height:278px;" align="left">
+<img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Laura/Laura.png" alt="Laura Lee" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
 <strong> Laura Lee</strong>
