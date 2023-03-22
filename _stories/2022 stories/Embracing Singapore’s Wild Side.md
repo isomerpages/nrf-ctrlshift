@@ -75,4 +75,16 @@ His proudest achievement? In the radio-tracking study in 2016, his team found th
  
 He adds, “There is a Chinese saying ‘只要功夫深，铁杵磨成针’ that translates to ‘If you work at it hard enough, you can grind an iron bar into a needle’. To me, this means identifying and fulfilling my purpose, doing my best, continuously learning and improving. This is the best piece of advice that I can share.” 
 
-###### [SOURCES] Interview with David Li 1.https://www.cgs.gov.sg/ 2.https://www.nea.gov.sg/programmes-grants/campaigns/clean-and-green-singapore 3.https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves 4.https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sungei-buloh-wetland-reserve 5.https://www.straitstimes.com/singapore/some-migratory-birds-stopping-over-in-singapore-travelled-across-the-himalayas-study-finds 6.https://www.nparks.gov.sg/nparksbuzz/issue-42-vol-3-2019/conservation/humble-natives-of-sungei-buloh-wetland-reserve 7.https://mothership.sg/2021/12/sungei-buloh-crocodile-visitors/ 8.https://www.straitstimes.com/singapore/environment/crikey-6-recent-crocodile-sightings-around-singapore 9. https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/estuarine-crocodiles 10.https://thesmartlocal.com/read/the-water-monitor-lizards-of-sungei-buloh/ 11.https://www.nparks.gov.sg/nparksbuzz/issue-30-vol-3-2016/conservation/spot-these-seven-migratory-birds-at-sungei-buloh-wetland-reserve
+###### [SOURCES] Interview with David Li 
+<br>
+1. https://www.cgs.gov.sg/ <br>
+2. https://www.nea.gov.sg/programmes-grants/campaigns/clean-and-green-singapore <br>
+3. https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves <br>
+4. https://www.nparks.gov.sg/gardens-parks-and-nature/parks-and-nature-reserves/sungei-buloh-wetland-reserve <br>
+5. https://www.straitstimes.com/singapore/some-migratory-birds-stopping-over-in-singapore-travelled-across-the-himalayas-study-finds <br>
+6. https://www.nparks.gov.sg/nparksbuzz/issue-42-vol-3-2019/conservation/humble-natives-of-sungei-buloh-wetland-reserve <br>
+7. https://mothership.sg/2021/12/sungei-buloh-crocodile-visitors/ <br>
+8. https://www.straitstimes.com/singapore/environment/crikey-6-recent-crocodile-sightings-around-singapore <br>
+9. https://www.nparks.gov.sg/gardens-parks-and-nature/dos-and-donts/animal-advisories/estuarine-crocodiles <br>
+10. https://thesmartlocal.com/read/the-water-monitor-lizards-of-sungei-buloh/ <br>
+11. https://www.nparks.gov.sg/nparksbuzz/issue-30-vol-3-2016/conservation/spot-these-seven-migratory-birds-at-sungei-buloh-wetland-reserve
