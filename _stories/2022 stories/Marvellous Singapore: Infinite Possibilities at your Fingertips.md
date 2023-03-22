@@ -5,7 +5,7 @@ description: ""
 third_nav_title: 2022 stories
 ---
 # Marvel-lous Singapore: Infinite Possibilities at your Fingertips      
-![](/images/Stories/2022%20stories/Marvellous/article%20imageURA%20article%201.jpg)
+![](/images/Stories/2022%20stories/Marvellous/marvellous%201.jpg)
 
 Imagine being able to access all of Singapore’s planning, real estate, car park, and land sales data on one platform, and using this information to create your vision for future Singapore. Check out what our urban planners have in common with the savvy Iron-Man, and how you can be a part of it today!           
 
