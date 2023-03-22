@@ -44,9 +44,6 @@ It’s important work, because Sungei Buloh Wetland Reserve is quite the ‘inte
 
 ![](/images/Stories/2022%20stories/Wild%20side/wild%20side%203.png)
 
-<img src="/images/Stories/2022%20stories/Wild%20side/wild%20side%203.png" style="width:600px;height:auto;">
-<br clear="left">
-
 Shorebirds that breed in China and Russia can fly over 5000m above sea level and cross the Himalayas to migrate to Singapore, a crucial rest stop that keeps bird populations alive by serving as a wintering ground.
  
 This fascinating fact was confirmed by David and team when they used bird ringing and tracking technology to keep tabs on threatened and endangered shorebirds. His work uncovers much-needed information on the declining shorebird populations due to loss of habitat. 
