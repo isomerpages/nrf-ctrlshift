@@ -4,11 +4,7 @@ permalink: /engineering-marvels/Marina-Bay/
 breadcrumb: Marina Bay
 third_nav_title: STE Innovations
 ---
-
-
-
-
-![Marina](/images/Marina.jpg)
+![](/images/Stories/STE%20Innovations/Marina%20bay/marina%20new.jpeg)
 
 ## A SPARKLING JEWEL
 The planning vision for Marina Bay is to develop the area to provide prime office space for global business and financial 
@@ -71,5 +67,3 @@ inspected and maintained. There is also greater protection against accidental da
 for new services to be installed in response to future demands. It is big enough for people to walk through, and eliminates
 disruption caused by digging up carriageways and service verges. It also maximises the use of underground space, saving space
 at ground level – some 1.6 hectares, equivalent to two soccer fields, in Marina Bay alone.
-
-
