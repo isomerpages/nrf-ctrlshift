@@ -61,4 +61,4 @@ The best part about the job? He gets to test exciting new technology before pres
 
 To Zhi Hui, “It’s an invaluable experience.” Tomorrow becomes ever closer, every day.
 
-###### [SOURCES] Interview with Chin Zhi Hui 1.https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Urban-Transformations/Punggol-Digital-District 2.https://www.smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation
+###### [SOURCES] Interview with Chin Zhi Hui <br> 1. https://www.ura.gov.sg/Corporate/Planning/Master-Plan/Urban-Transformations/Punggol-Digital-District <br> 2. https://www.smartnation.gov.sg/about-smart-nation/pillars-of-smart-nation
