@@ -4,11 +4,7 @@ permalink: /engineering-marvels/Southern-Ridges/
 breadcrumb: Southern Ridges
 third_nav_title: STE Innovations
 ---
-
-
-
-
-![Ridges](/images/Ridges.jpg)
+![](/images/Stories/STE%20Innovations/Southern%20ridges/ridges%20new.jpg)
 
 ## THE GREEN ESCAPE
 The Southern Ridges comprise a nine-kilometre chain of green and open spaces spanning the hills of Mount Faber Park, Telok Blangah
@@ -33,4 +29,3 @@ to Forest Walk that comprises a step-free elevated walkway and trails through th
 The elevated walkway rises to between three to 18 m above ground in the hilly terrain, and expands into viewing decks at 
 selected locations to enable visitors to take in the scenic natural surroundings. On the other end of the bridge at
 Hyderabad Road is a Floral Walk that links to HortPark.
-
