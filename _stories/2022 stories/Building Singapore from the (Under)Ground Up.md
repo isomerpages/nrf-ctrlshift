@@ -1,13 +1,12 @@
 ---
 title: Building Singapore from the (Under)Ground Up
-permalink: /stories/SLARich
+permalink: /stories/SLARich/
 description: ""
 third_nav_title: 2022 stories
 ---
-
 ## Building Singapore from the (Under)Ground Up
 
-![](/images/article-imageSLA-article-1.png)
+![](/images/Stories/2022%20stories/Underground%20up/underground%20up%201.png)
 
 Meet the man who wants to get to the bottom of any issues in Singapore's congested underground space.
 
@@ -21,7 +20,7 @@ Richard Loo Wei Kiah joined SLA a decade ago and is currently a Senior Surveyor 
 
 Richard works closely with research partner from the Singapore-ETH Centre and stakeholders from agencies and private sectors to put in place the necessary governance, workflow and submission framework , in support of Singapore’s underground space planning and administration.  
 
-![](/images/article-imageSLA-article-2.png)
+![](/images/Stories/2022%20stories/Underground%20up/underground%20up%202.png)
 
 Created in 2017, the Digital Underground’s remit sounds like the beginning of a sci-fi thriller. Its task: to create a reliable 3D underground utility map of Singapore by setting technical standards, creating a digital workflow, and gathering high-quality asset data.
 
@@ -31,7 +30,7 @@ By moving the underground utility map to one that is 3D and having them consolid
 
 His job takes him through a variety of tasks, including being out in the field to acquire information,      doing data processing back in the office, and collaborating with stakeholders on continuous feedback for implementation .
 
-![](/images/article-imageSLA-article-3.png)
+![](/images/Stories/2022%20stories/Underground%20up/underground%20up%203.png)
 
 The road mapping phase of the Digital Underground initiative, was the first time that the scanning on-road system was deployed in the Asia-Pacific region — and Richard played a role in that project.  Piloting these systems serves as an important way to investigate different (better) methods of data capturing and to check the reliability of captured information about utilities underground. 
 
