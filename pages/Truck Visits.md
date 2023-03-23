@@ -14752,7 +14752,7 @@ description: ""
                 </div>
                 <div class="row py-5 mobile-row-padding">
                     <div class="col-lg-6">
-                        <img src="/images/up%20for%20the%20challenge.jpg" alt="img truck" />
+                        <img src="/images/Truck%20Visits/up%20for%20the%20challenge.jpg" alt="img truck" />
                     </div>
                     <div class="col-lg-6">
                         <div class="wrapper-desc-item-truck flex-right">
@@ -14774,7 +14774,7 @@ description: ""
                     <h1 class="title-section text-blue">
                         Schools We've Visited
                     </h1>
-                    <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/school-box-list.png" class="school-box-list">
+                    <img src="images/Truck%20Visits/school-box-list.png" class="school-box-list">
                 </div>
             </div>
             <div class="container">
