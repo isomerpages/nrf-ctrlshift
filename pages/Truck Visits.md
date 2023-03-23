@@ -14780,22 +14780,22 @@ description: ""
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/instagram-1.png" class="gallery-image">
+                        <img src="images/Truck%20Visits/instagram-1.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/instagram-2.png" class="gallery-image">
+                        <img src="images/Truck%20Visits/instagram-2.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/instagram-3.png" class="gallery-image">
+                        <img src="images/Truck%20Visits/instagram-3.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/instagram-4.png" class="gallery-image">
+                        <img src="images/Truck%20Visits/instagram-4.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/instagram-5.png" class="gallery-image">
+                        <img src="images/Truck%20Visits/instagram-5.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/instagram-6.png" class="gallery-image">
+                        <img src="images/Truck%20Visits/instagram-6.png" class="gallery-image">
                     </div>
                     <a href="https://www.instagram.com/ctrlshift.sg/" target="_blank" rel="noreferrer" class="gallery-link">
 													<div class="gallery-button">
