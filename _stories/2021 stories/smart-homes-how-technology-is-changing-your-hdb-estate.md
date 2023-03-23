@@ -4,9 +4,8 @@ permalink: /stories/smart-homes-technology-changing-hdb-estate/
 breadcrumb: /What's Next stories/How Technology is Changing Your HDB Estate
 third_nav_title: 2021 stories
 ---
-
 # <b> Smart Homes - How Technology is Changing Your HDB Estate</b>
-![HDB](/images/s4.1.jpg)
+![](/images/Stories/2021%20stories/Smart%20homes/smart%20homes%201.jpg)
 <br>
 *The future of residential living is already here. Meet the engineer who’s introducing “smart” into housing estates.*
 <br>
@@ -21,7 +20,7 @@ With over 80% of Singapore’s resident population living in flats built by the 
 The Smart Hub is a shining example of how HDB leverages Information and Communications Technology (ICT) to make its towns and housing estates more liveable, efficient and sustainable for its residents. ICT is used to augment current efforts like solar energy generation, waste collection, as well as lift and water pump monitoring, to provide residents with more reliable estate services, quicker incident response time and greater savings.
 <br>
 <br>
-![HDB](/images/s4.2.jpg)
+![](/images/Stories/2021%20stories/Smart%20homes/smart%20homes%202.jpg)
 *The HDB Smart Hub acts as the central brain that oversees the health of all housing estates and building systems. (Photo credit: HDB)*
 <br>
 <br>
@@ -40,4 +39,4 @@ Working in HDB has been a rewarding journey for him. “It was where I felt I wo
 <br>
 Ultimately, he believes that one should not be discouraged by hard work when it comes to engineering. “Engineering teaches one to face big problems by breaking them down into manageable pieces,” he muses. “The work of these small pieces still needs to be done. And when you look back at the finished product and the big picture, you can pinpoint exactly how you’ve made your mark.”
 
-Find out more about HDB careers [here](http://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=housing%20and%20development%20board&job-mail-subscribe-privacy=agree)!
+Find out more about HDB careers [here](https://www.hdb.gov.sg/cs/infoweb/about-us/careers)!
