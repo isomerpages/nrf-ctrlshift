@@ -14747,7 +14747,7 @@ description: ""
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/IMG_7142%201.png" alt="img truck" />
+                        <img src="images/Truck%20Visits/IMG_7142%201.png" alt="img truck" />
                     </div>
                 </div>
                 <div class="row py-5 mobile-row-padding">
