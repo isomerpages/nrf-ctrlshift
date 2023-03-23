@@ -4,11 +4,7 @@ permalink: /engineering-marvels/Littoral/
 breadcrumb: Littoral Mission Vessel
 third_nav_title: STE Innovations
 ---
-
-
-
-
-![Littoral](/images/Littoral.jpg)
+![](/images/Stories/STE%20Innovations/Littoral/littoral%20new.jpeg)
 
 ## UNIQUELY SINGAPORE SHIP
 
@@ -25,5 +21,3 @@ DSTA validated the concept of the Integrated Command Centre. The DSTA Analytical
 
 ### SUPERIOR SURVEILLANCE CAPABILITIES
 Equipped with a three-dimensional surveillance radar system and two high resolution navigation radars, the LMVs will be able to detect surface targets better in a congested environment. For target identification, the LMVs are equipped with a 360-degree panoramic day and night camera suite, comprising an all-round surveillance system and four electro-optics directors, and a 360-degree bridge that offers an unobstructed view to achieve all-round visual awareness of its immediate surroundings. This is essential in our congested waters where there is a high concentration of shipping and fishing activities amidst island groups.
-
-

@@ -4,11 +4,7 @@ permalink: /engineering-marvels/SkyLab/
 breadcrumb: SkyLab
 third_nav_title: STE Innovations
 ---
-
-
-
-
-![Skylab](/images/Skylab.jpg)
+![](/images/Stories/STE%20Innovations/Skylab/skylab%20new.jpeg)
 
 ## WORLD'S FIRST HIGH RISE ROTATABLE LAB FOR THE TROPICS
 
@@ -25,4 +21,3 @@ The SkyLab has several unique features:
 - Rotational capability that enables testing of technologies in any building orientation of interest thereby eliminating the need for multiple stationary labs facing different directions
 
 - “Real world” outdoor testbed that allows technologies to be tested under actual weather conditions.
-

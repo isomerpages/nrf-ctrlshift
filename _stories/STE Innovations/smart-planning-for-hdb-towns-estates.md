@@ -4,11 +4,7 @@ permalink: /engineering-marvels/Smart-Plan/
 breadcrumb: Smart Planning For Hdb Towns & Estates
 third_nav_title: STE Innovations
 ---
-
-
-
-
-![smartplan](/images/smartplan.jpg)
+![](/images/Stories/STE%20Innovations/Smart%20planning/smartplan%20new.jpeg)
 
 ## A MODEL ESTATE
 
@@ -19,6 +15,6 @@ CSM simulates the built environment of a city and its impact on resource utilisa
 
 ### URBAN ENVIRONMENTAL MODELLING (UEM)
 
-<img src="/images/hdb2.png" alt="hdb2" img align="left" style="width:500px;height:350px;"> </br>
+![](/images/Stories/STE%20Innovations/Smart%20planning/smartplan2%20new.jpeg)
 
 One of the smart technologies used in Punggol Northshore is environmental modelling, which studies the wind flow, temperature, solar irradiance, and shadow casting at Punggol Northshore District, in order to aid decision-making during the planning and design process. Such data can help planners decide where to place outdoor amenities, such as playgrounds and fitness corners, as well as optimal locations for future installation of solar panels.

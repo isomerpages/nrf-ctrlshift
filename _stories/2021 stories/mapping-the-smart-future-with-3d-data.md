@@ -4,9 +4,8 @@ permalink: /stories/mapping-smart-future-3d-data/
 breadcrumb: /What's Next stories/Mapping the Smart Future with 3D Data
 third_nav_title: 2021 stories
 ---
-
 # <b>Mapping the Smart Future with 3D Data</b>
-![SLA](/images/SLA_3D%20Map%203.jpg)
+![](/images/Stories/2021%20stories/3D%20Data/3D%20Data%201.jpg)
 <br>
 *From aerial imagery to laser scanning technology, Sandy Teo, a senior surveyor at Singapore Land Authority, explains how 3D map data is collected and used.*
 <br>
@@ -20,7 +19,7 @@ Sandy is a senior surveyor at the Survey and Geomatics Division at Singapore Lan
 Beyond serving as a tool for us to find the best route to get from point A to point B, the 3D mapping also plays a key role in achieving Singapore’s Smart Nation vision.
 <br>
 <br>
-![SLA](/images/SLA_Sandy%20Teo.jpg)
+![](/images/Stories/2021%20stories/3D%20Data/3D%20Data%202.jpg)
 *The 3D mapping projects that Sandy Teo, senior surveyor (Survey and Geomatics Division) at Singapore Land Authority, works on can help Singapore achieve its Smart Nation vision. (Photo credit: SLA)*
 <br>
 ## Reality 3D Maps for a Smart Nation
@@ -30,7 +29,7 @@ Sandy and the SLA team first collected 3D data of the entire country via aerial 
 “Fundamentally, data is the source that knowledge and insights can be derived from and it is paramount to ensure that the 3D data is reliable and accurate,” she says.
 <br>
 <br>
-![SLA](/images/SLA_Sandy%20Teo%202.jpg)
+![](/images/Stories/2021%20stories/3D%20Data/3D%20Data%203.jpg)
 *Sandy and her team collected 3D data of Singapore using various technologies. (Photo credit: SLA)*
 <br>
 <br>
@@ -43,7 +42,7 @@ Other agencies have tapped on 3D mapping project to enhance their outcomes. For 
 Potentially, these 3D city models can even be used to guide us towards a more sustainable future. To fully unlock Singapore’s solar power potential, solar energy forecasts will need to be conducted to identify suitable areas to install solar panels in the country, and such analysis can be carried out using SLA’s 3D models.
 <br>
 <br>
-![SLA](/images/SLA_3D%20Map.jpg)
+![](/images/Stories/2021%20stories/3D%20Data/3D%20Data%204.jpg)
 *3D data can be used for urban planning and policy formulation. (Photo credit: SLA)*
 <br>
 <br>
@@ -53,7 +52,7 @@ Sandy also helps in customising Geomatics courses for other public agencies to e
 It’s hard to imagine a world without technology, more so when it comes to creating maps that have as much data as the ones Sandy helps to create.
 <br>
 <br>
-![SLA](/images/SLA_Sandy%20Teo%203.jpg)
+![](/images/Stories/2021%20stories/3D%20Data/3D%20Data%205.jpg)
 *Sandy is especially passionate about technology as she believes it will help improve efficiency. (Photo credit: SLA)*
 <br>
 <br>
@@ -63,7 +62,7 @@ It’s hard to imagine a world without technology, more so when it comes to crea
 She cites the 3D Mapping Cloud (3DMC) that she currently uses as an example. “The web-based platform allows the sharing of cloud data and panoramic imagery between public agencies, and even features tools to enable users to better understand and use data, from determining the width of a footpath to the gradient of a slope and more,” she explains.
 <br>
 <br>
-![SLA](/images/SLA_3D%20Mapping%20Cloud.jpg)
+![](/images/Stories/2021%20stories/3D%20Data/3D%20Data%206.jpg)
 *The 3D Mapping Cloud (3DMC) platform is an example of a technology that Sandy is particularly excited about. (Photo credit: SLA)*
 <br>
 <br>
@@ -72,4 +71,4 @@ Another perk of her job is a front-row seat to the incredible changes that Singa
 <br>
 So how does Sandy find so much joy in her role? Her secret: “Always have fun at work even while you work hard. I find my work full of interesting things, be it new equipment or new software, that I can always learn and explore.”
 
-Find out more about SLA careers [here](http://careers.pageuppeople.com/688/cwlive/en/search/?brand=singapore+land+authority)!
+Find out more about SLA careers [here](https://www.sla.gov.sg/join-us)!

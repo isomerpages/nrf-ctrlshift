@@ -1,13 +1,12 @@
 ---
 title: Defending Borders and Protecting Our People
-permalink: /stories/HTXJason
+permalink: /stories/HTXJason/
 description: ""
 third_nav_title: 2022 stories
 ---
-
 ## The Bot-master of Singapore: Defending Borders and Protecting Our People 
 
-![](/images/article-imageHTX-article-1.png)
+![](/images/Stories/2022%20stories/Defending%20borders/defend%20borders%201.png)
 
 Experimenting with software that imitates how humans behave, and activating Artificial Intelligence (AI) to sniff out dangerous goods entering Singapore... Sounds crazy? It’s all in a day’s work for HTX Data Scientist Jason Ng.
 
@@ -27,7 +26,7 @@ Instead of a human scrolling through online listings one at a time, the tool can
 
 By speeding up the analysis of data, Jason frees up precious human resources that can be focused on other pressing matters instead.
 
-![](/images/article-imageHTX-article-2.png)
+![](/images/Stories/2022%20stories/Defending%20borders/defend%20borders%202.png)
 
 This tool also allows Singapore to monitor a wide range of lethal contraband such as drugs, dodgy counterfeit products, prohibited weapons, you name it.
 
@@ -43,7 +42,7 @@ As a Data Scientist, he experiments with information and AI at HTX (Home Team Sc
 
 At the click of a button, Jason can run automated data analysis that sorts through endless amounts of information at light speed. How? As  he does with the E-Commerce Surveillance Tool, he harnesses both AI and Robotic Process Automation (RPA) to emulate human and software interactions.
 
-![](/images/article-imageHTX-article-3.png)
+![](/images/Stories/2022%20stories/Defending%20borders/defend%20borders%203.png)
 
 "It’s exhilarating to work with data and technology because the opportunities, and game-changing outcomes, are endless,” Jason shares. For instance, he is currently working with Immigration and Checkpoints Authority’s (ICA) to adopt advanced software and data-driven models and keep Singapore's borders secure.
 
@@ -59,4 +58,4 @@ The avid lover of technology isn’t afraid to enter unchartered territory. It�
 
 If you’re hungry for knowledge and are a fast adapter, join Jason today — the bots are waiting.
 
-###### [SOURCES]Approved interview with Jason Ng 1.https://www.ica.gov.sg/docs/default-source/ica/stats/annual-stats-report/ica-annual-statistics-2020.pdf 2.https://www.straitstimes.com/tech/tech-news/govts-pick-parcel-delivery-locker-network-launched-with-over-200-lockers-deployed 3.https://www.uipath.com/rpa/robotic-process-automation 4.https://www.htx.gov.sg/news/featured-news-uncovering-the-unlawful-the-e-commerce-surveillance-tool
+###### [SOURCES]Approved interview with Jason Ng <br> 1. https://www.ica.gov.sg/docs/default-source/ica/stats/annual-stats-report/ica-annual-statistics-2020.pdf <br> 2. https://www.straitstimes.com/tech/tech-news/govts-pick-parcel-delivery-locker-network-launched-with-over-200-lockers-deployed <br> 3. https://www.uipath.com/rpa/robotic-process-automation <br> 4. https://www.htx.gov.sg/news/featured-news-uncovering-the-unlawful-the-e-commerce-surveillance-tool

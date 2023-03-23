@@ -14747,12 +14747,12 @@ description: ""
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/IMG_7142%201.png" alt="img truck" />
+                        <img src="/images/Truck%20Visits/IMG_7142%201.png" alt="img truck" />
                     </div>
                 </div>
                 <div class="row py-5 mobile-row-padding">
                     <div class="col-lg-6">
-                        <img src="/images/up%20for%20the%20challenge.jpg" alt="img truck" />
+                        <img src="/images/Truck%20Visits/up%20for%20the%20challenge.jpg" alt="img truck" />
                     </div>
                     <div class="col-lg-6">
                         <div class="wrapper-desc-item-truck flex-right">
@@ -14774,28 +14774,28 @@ description: ""
                     <h1 class="title-section text-blue">
                         Schools We've Visited
                     </h1>
-                    <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/school-box-list.png" class="school-box-list">
+                    <img src="/images/Truck%20Visits/school-box-list.png" class="school-box-list">
                 </div>
             </div>
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/instagram-1.png" class="gallery-image">
+                        <img src="/images/Truck%20Visits/instagram-1.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/instagram-2.png" class="gallery-image">
+                        <img src="/images/Truck%20Visits/instagram-2.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/instagram-3.png" class="gallery-image">
+                        <img src="/images/Truck%20Visits/instagram-3.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/instagram-4.png" class="gallery-image">
+                        <img src="/images/Truck%20Visits/instagram-4.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/instagram-5.png" class="gallery-image">
+                        <img src="/images/Truck%20Visits/instagram-5.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/instagram-6.png" class="gallery-image">
+                        <img src="/images/Truck%20Visits/instagram-6.png" class="gallery-image">
                     </div>
                     <a href="https://www.instagram.com/ctrlshift.sg/" target="_blank" rel="noreferrer" class="gallery-link">
 													<div class="gallery-button">

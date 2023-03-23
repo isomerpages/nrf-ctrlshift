@@ -1,12 +1,12 @@
 ---
 title: Let There Be Light! What it Takes to Keep Our HDB Estates Clean and Green
-permalink: /stories/HDBSharon
+permalink: /stories/HDBSharon/
 description: ""
 third_nav_title: 2022 stories
 ---
 ## Let There Be Light! What it Takes to Keep Our HDB Estates Clean and Green
 
-![](/images/article-imageHDB-article-1rev.png)
+![](/images/Stories/2022%20stories/Let%20there%20be%20light/light%201.png)
 
 How much energy does LED lighting in HDB estates save? What will it take for HDB towns to be more sustainable? Finding the answers to these questions keep Sharon George busy as a data analyst in HDB. 
 
@@ -31,7 +31,7 @@ Working with different departments, has given her the chance to see where her sk
 
 As a data analyst in the Smart Urban Analytics section of HDB’s Building & Research Institute, Sharon’s days are full of opportunity, with her main responsibilities being centred on  resource consumption and health and wellbeing. 
 
-![](/images/article-imageHDB-article-2.png)
+![](/images/Stories/2022%20stories/Let%20there%20be%20light/light%202.png)
 
 The research and development initiatives cover various aspects including energy, urban greenery, living environment, waste, water, and building technology.  
 
@@ -45,7 +45,7 @@ For example, smart lighting systems which have intelligent dimming capabilities 
 
 “As an engineer working on the design and construction of HDB flats, I learned that a lot of the design policies are refined based on years of public feedback,” she continues.
 
-![](/images/article-imageHDB-article-3.png)
+![](/images/Stories/2022%20stories/Let%20there%20be%20light/light%203.png)
 
 To be a data analyst, Sharon believes you need to be service-oriented as it is “at the centre of everything we do at HDB and in the Public Service”.
 
@@ -53,4 +53,4 @@ Sharon recently participated in the Data Arcade Tournament, a hackathon-style in
      
 Her advice to anyone thinking about a role in engineering in the public sector is to dive right in and find their vocation. “There’s no perfect job — learn what you can wherever you are and make the most of the opportunities you have,” Sharon advises.
 
-###### [SOURCES]Interview with Sharon George 1.https://www.hdb.gov.sg/about-us/research-and-innovation/centre-of-building-research-page 2.https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/Green-Towns-Progamme 3.https://www.hdb.gov.sg/about-us/history/hdb-towns-your-home 4. https://www.energy.gov/energysaver/lighting-choices-save-you-money
+###### [SOURCES]Interview with Sharon George <br> 1. https://www.hdb.gov.sg/about-us/research-and-innovation/centre-of-building-research-page <br> 2. https://www.hdb.gov.sg/about-us/our-role/smart-and-sustainable-living/Green-Towns-Progamme <br> 3. https://www.hdb.gov.sg/about-us/history/hdb-towns-your-home <br>  4.  https://www.energy.gov/energysaver/lighting-choices-save-you-money
