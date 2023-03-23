@@ -4,9 +4,8 @@ permalink: /stories/sfa-food-safety-in-singapore/
 breadcrumb: /What's Next stories/Safety on Your Plate – Ensuring Food Safety in Singapore
 third_nav_title: 2021 stories
 ---
-
 # <b>Safety on Your Plate – Ensuring Food Safety in Singapore</b>
-![SFA](/images/SFA_Johnny%20Yeung.jpg)
+![](/images/Stories/2021%20stories/Food%20safety/food%20safety%20NEW.jpg)
 <br>
 *Are we taking food safety for granted in Singapore? One scientist shares how he and his hi-res mass spectrometer ensure what you eat is safe.*
 <br>
@@ -38,4 +37,4 @@ That milk scandal, he says, “demonstrates how chemical molecules, small as the
 With such life and death decisions as a core part of SFA’s mission and Johnny’s everyday life, it’s not a role that he takes lightly. “It gives me a deep sense of duty to know that my work plays a critical role to safeguard public health in Singapore,” he says.
 <br>
 <br>
-Find out more about SFA careers [here](https://careers.pageuppeople.com/688/cwlive/en/filter/?=&search-keyword=&brand=singapore%20food%20agency&job-mail-subscribe-privacy=agree)!
+Find out more about SFA careers [here](https://www.sfa.gov.sg/careers)!
