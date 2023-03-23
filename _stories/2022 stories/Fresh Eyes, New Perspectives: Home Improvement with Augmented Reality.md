@@ -33,7 +33,7 @@ AR technology isn’t new to HDB. AR was also used to display prices for resale 
 
 Cheryl and her  team leveraged  Apple’s latest ARKit technology and Google’s ARCore to create AR experiences with true-to-scale 3D models built to the original design specifications. To assess the feasibility and usefulness of 3D model AR experiences, ethnographic research was conducted. She says, “This gave us the opportunity to conduct site visits to the showrooms and visit residents to observe them trying out various ramps. It was a good learning experience to see first-hand what really goes on, on the ground.”
 
-![](/images/Stories/2022%20stories/Fresh%20eyes/fresh%20eyes%203.png)
+![](/images/Stories/2022%20stories/Fresh%20eyes/fresh%20eyes%20-%203.png)
 
 It was a challenging process that involved a lot of research and trials, but Cheryl persevered. "Don’t be afraid to fail. Fail fast and learn faster. Keep questioning as learning is a life-long process,” Cheryl affirms. 
 
