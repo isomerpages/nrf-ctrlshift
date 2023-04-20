@@ -8,7 +8,7 @@ third_nav_title: Career Opportunities
 <br clear="left">
 
 
-### A BIT ABOUT US
+### WHO WE ARE
 An agency under the Ministry of National Development, BCA champions the development of a future-ready built environment that is safe, high quality, sustainable and friendly. “Built environment” refers to buildings, and infrastructure in our surroundings that provide the setting for the community’s activities. We specialize in areas such as structural, geotechnical, mechanical, and electrical engineering, as well as universal design, environmental sustainability, productivity, and quality. BCA aims to enhance industry standards by acquiring and developing engineering expertise.
 
 ### ENGINEERS WE’D LIKE TO WORK WITH
