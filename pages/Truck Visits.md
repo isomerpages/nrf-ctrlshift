@@ -14377,22 +14377,7 @@ description: ""
                     transform: translateY(0);
                 }
             }
-            .print-content{width: 100%; margin-left: 0; padding-left: 0;padding-top: 0}
-            .bp-section{padding: 0 !important}
-            .bp-container{padding:0 !important; margin: 0}
-	        footer .bp-container{padding:0 !important; margin: auto}
-			.bp-masthead .bp-container{padding:0 !important; margin: auto}
-			.bp-masthead{display: none}
-            .language-plaintext{display: none !important}
-            .float-buttons{display: none !important}
-            .print-content{padding:0 !important; margin: 0!important; width: 100%!important}
-			#main-content .bp-container{max-width: 100vw; width: 100vw}
-	        .content .logo-landing{margin: 0.1;  max-width: 730px;margin-right: 130px;}
-			.print-content > p{display: none}
-			.content ul>li:last-child{  margin-bottom: 0.5rem;}
-	        .navbar>.bp-container{ margin: auto !important}
-	        .navbar .navbar-item a{text-decoration: none}
-	        .has-float-btns{display: none}
+           
             /* school-box 1 */
             .togCheck { display: none; }
             .togContent {
