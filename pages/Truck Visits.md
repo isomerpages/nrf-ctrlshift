@@ -590,7 +590,7 @@ description: ""
             }
 
             .title-item-truck {
-                background-color: #fff;
+                background-color: var(--blue);
                 display: inline-block;
                 padding: 5px 18px;
                 border: 5px solid var(--blue);
@@ -602,7 +602,7 @@ description: ""
                 line-height: 50px;
                 font-weight: 900;
                 margin: 0;
-                color: var(--blue);
+                color: #fff;
             }
 
             .text-item-truck {
@@ -14383,7 +14383,6 @@ description: ""
 	        footer .bp-container{padding:0 !important; margin: auto}
 			.bp-masthead .bp-container{padding:0 !important; margin: auto}
 			.bp-masthead{display: none}
-            .bp-section-pagetitle{display: none}
             .language-plaintext{display: none !important}
             .float-buttons{display: none !important}
             .print-content{padding:0 !important; margin: 0!important; width: 100%!important}
@@ -14568,7 +14567,7 @@ description: ""
 	.map-column{height: 450px}
 	.map-truck{height: 450px}
 	.gallery-link{text-align:center}
-	.subtitle-main{color: #fff;with: 400px; font-weight: 500;font-size: 20px;margin-bottom: 0}
+	.subtitle-main{color: #1237CA;with: 400px; font-weight: 500;font-size: 20px;margin-bottom: 0}
 	.subtitle-2{color: #fff;with: 400px; font-weight: 700;font-size: 28px;margin-bottom: 0;text-align:center}
 	.innerFloatTruck1 img, .innerIconTruck img, .innerFloatTruck4 img, .innerFloatTruck3 img{width: 80%}
 	@media (max-width: 600px) {
@@ -14587,38 +14586,26 @@ description: ""
 	.school-row{margin: 0 0 20px !important}
 	.title-item-truck h2{font-size: 18px}
 	.school-box-detail p{font-size: 14px}
-	.bg-blue-grid{background: #0037cc url(https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/grid-mobile-long.svg?sanitize=true) repeat;background-size: contain;}
+
 	}
+	.text-blue{color: var(--blue);}
         </style>
-<section id="header-truck" class="header-nav-white bg-blue-grid">
+<section id="header-truck" class="header-nav-white">
             <div class="container" style="position: relative">
                 <div class="col-12">
                     <div class="text-center pt-5 pb-1">
-                        <img
-                            src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/truck-new-logo-title.svg?sanitize=true"
-                            alt="title page truck"
-                            class="title-page-truck" style="width: auto"
-                        />
-											<p class="subtitle-main">Get the chance to catch Singapore's first ever CTRL+SHIFT truck! <br>Spot us to participate in our giveaway and get up close and personal with  our STE industry experts! <br> Participants will get first dibs to attend our upcoming, secret insider experiences.</p>
+                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/truck-new-logo-title.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
+											<p class="subtitle-main">Get the chance to catch Singapore's first ever CTRL+SHIFT truck! <br>Spot us to participate in our giveaway and get up close and personal with&nbsp; our STE industry experts! <br> Participants will get first dibs to attend our upcoming, secret insider experiences.</p>
                     </div>
                 </div>
-                <img
-                src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/desktop-map-newest-new-2.png"
-                alt="map truck"
-                class="d-none d-lg-block"
-                style="position: absolute; width: 100%"
-            />
-                <div class="col-12" class="map-column">
+                <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/desktop-map-newest-new-2.png" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
+                <div class="col-12">
                     <div class="map-truck p-relative">
                         <div class="outCircleFloatTruck1">
                             <div class="rotateFloatTruck1">
                                 <div class="counterrotateFloatTruck1">
                                     <div class="innerFloatTruck1">
-                                        <img
-                                            src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-1.svg?sanitize=true"
-                                            alt="truck"
-                                            class="FloatTruck1"
-                                        />
+                                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-1.svg?sanitize=true" alt="truck" class="FloatTruck1">
                                     </div>
                                 </div>
                             </div>
@@ -14627,29 +14614,17 @@ description: ""
                             <div class="rotateIconTruck">
                                 <div class="counterrotateIconTruck">
                                     <div class="innerIconTruck">
-                                        <img
-                                            src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/icon-truck.svg?sanitize=true"
-                                            alt="truck"
-                                            class="icon-truck"
-                                        />
+                                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/icon-truck.svg?sanitize=true" alt="truck" class="icon-truck">
                                     </div>
                                 </div>
                             </div>
                         </div>
-											<img
-                            src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/map-mobile-new-2.png"
-                            alt="map truck"
-                            class="d-lg-none img-full"
-                        />
+											<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/map-mobile-new-2.png" alt="map truck" class="d-lg-none img-full">
                         <div class="outCircleFloatTruck3">
                             <div class="rotate">
                                 <div class="counterrotateFloatTruck3">
                                     <div class="innerFloatTruck3">
-                                        <img
-                                            src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-3.svg?sanitize=true"
-                                            alt="truck"
-                                            class="FloatTruck3"
-                                        />
+                                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-3.svg?sanitize=true" alt="truck" class="FloatTruck3">
                                     </div>
                                 </div>
                             </div>
@@ -14658,11 +14633,7 @@ description: ""
                             <div class="rotate">
                                 <div class="counterrotateFloatTruck4">
                                     <div class="innerFloatTruck4">
-                                        <img
-                                            src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-4.svg?sanitize=true"
-                                            alt="truck"
-                                            class="FloatTruck4"
-                                        />
+                                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-4.svg?sanitize=true" alt="truck" class="FloatTruck4">
                                     </div>
                                 </div>
                             </div>
@@ -14671,8 +14642,8 @@ description: ""
                 </div>
             </div>
             <div class="container py-5" style="margin-top: 80px">
-                <div class="row py-lg-5">
-                    <div class="col-12">
+               <div class="row py-lg-5">
+                   <!-- <div class="col-12">
                         <div class="text-center">
                             <h1 class="title-section text-white">
                                 Here’s where we are going this March!
@@ -14683,8 +14654,8 @@ description: ""
                 <div class="row school-row">
                     <div class="col-sm-4 school-col">
                         <div class="school-box">
-                            <label for="check" class="togButton school-button">NANYANG TECHNOLOGICAL<br>UNIVERSITY (NTU)</label>
-													<input type="checkbox" class="togCheck" id="check"/>
+                            <label class="togButton school-button" for="check">NANYANG TECHNOLOGICAL<br>UNIVERSITY (NTU)</label>
+													<input id="check" class="togCheck" type="checkbox">
                             <div class="togContent school-box-detail">
                                 <p>8 February 2023, 10am - 5pm <br>The Quad</p>
                             </div>
@@ -14692,8 +14663,8 @@ description: ""
                     </div>
                     <div class="col-sm-4 school-col">
                         <div class="school-box">
-                            <label for="check2" class="togButton">NATIONAL UNIVERSITY<br>OF SINGAPORE (NUS)</label>
-													<input type="checkbox" class="togCheck2" id="check2"/>
+                            <label class="togButton" for="check2">NATIONAL UNIVERSITY<br>OF SINGAPORE (NUS)</label>
+													<input id="check2" class="togCheck2" type="checkbox">
                             <div class="togContent2 school-box-detail">
                                 <p>2 February 2023, 11am - 2pm  <br>Central Library  <br><br>10 February 2023, 11am - 3pm  <br>Techno Edge Canteen/ Frontier Canteen</p>
                             </div>
@@ -14701,8 +14672,8 @@ description: ""
                     </div>
                     <div class="col-sm-4 school-col">
                         <div class="school-box">
-                            <label for="check3" class="togButton"> SINGAPORE<br> POLYTECHNIC</label>
-													<input type="checkbox" class="togCheck3" id="check3"/>
+                            <label class="togButton" for="check3"> SINGAPORE<br> POLYTECHNIC</label>
+													<input id="check3" class="togCheck3" type="checkbox">
                             <div class="togContent3 school-box-detail">
                                 <p>10 February 2023, 3pm - 7.30pm  <br>SP Eleven²</p>
                             </div>
@@ -14711,8 +14682,8 @@ description: ""
                     <div class="col-sm-1 school-col"></div>
                     <div class="col-sm-5 school-col">
                         <div class="school-box">
-                            <label for="check4" class="togButton">SINGAPORE INSTITUTE OF TECHNOLOGY (SIT) <br> @ DOVER CAMPUS</label>
-													<input type="checkbox" class="togCheck4" id="check4"/>
+                            <label class="togButton" for="check4">SINGAPORE INSTITUTE OF TECHNOLOGY (SIT) <br> @ DOVER CAMPUS</label>
+													<input id="check4" class="togCheck4" type="checkbox">
                             <div class="togContent4 school-box-detail">
                                 <p>15 March 2023, 11am - 5pm <br> University Resource Gym (URC) Basement <br> (Beside Open Gym)</p>
                             </div>
@@ -14720,16 +14691,16 @@ description: ""
                     </div>
                     <div class="col-sm-5 school-col">
                         <div class="school-box">
-                            <label for="check5" class="togButton">SINGAPORE UNIVERSITY OF<br>TECHNOLOGY AND DESIGN (SUTD) </label>
-													<input type="checkbox" class="togCheck5" id="check5"/>
+                            <label class="togButton" for="check5">SINGAPORE UNIVERSITY OF<br>TECHNOLOGY AND DESIGN (SUTD) </label>
+													<input id="check5" class="togCheck5" type="checkbox">
                             <div class="togContent5 school-box-detail">
                                 <p>24 March 2023, 11am - 5pm  <br>Behind Campus Centre</p>
                             </div>
                         </div>
-                    </div>
+                    </div>-->
 									<div class="col-lg-12 py-lg-5 pb-lg-1 who-says-title">
 										   <div class="text-center">
-										       <h1 class="title-section text-white">Who says Science+Tech+Engineering has to be boring?</h1>
+										       <h1 class="title-section text-blue">Who says Science+Tech+Engineering has to be boring?</h1>
 												  </div>
 								  </div>
                 </div>
@@ -14747,12 +14718,12 @@ description: ""
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <img src="/images/Truck%20Visits/IMG_7142%201.png" alt="img truck" />
+                        <img src="/images/Truck%20Visits/IMG_7142%201.png" alt="img truck">
                     </div>
                 </div>
                 <div class="row py-5 mobile-row-padding">
                     <div class="col-lg-6">
-                        <img src="/images/Truck%20Visits/up%20for%20the%20challenge.jpg" alt="img truck" />
+                        <img src="/images/Truck%20Visits/up%20for%20the%20challenge.jpg" alt="img truck">
                     </div>
                     <div class="col-lg-6">
                         <div class="wrapper-desc-item-truck flex-right">
