@@ -14573,7 +14573,8 @@ description: ""
 	.school-box-detail p{font-size: 14px}
 
 	}
-	.text-blue{color: var(--blue);}
+	.text-blue{color: var(--blue);
+	.content pre{display: none}
         </style>
 <section id="header-truck" class="header-nav-white">
             <div class="container" style="position: relative">
