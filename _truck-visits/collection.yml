@@ -1,0 +1,4 @@
+collections:
+  truck-visits:
+    output: true
+    order: []
