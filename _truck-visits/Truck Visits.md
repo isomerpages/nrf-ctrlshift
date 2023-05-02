@@ -14547,7 +14547,7 @@ description: ""
 								top: -18px;
 								left: 9px
 							}
-							
+.content pre{display: none}
 	a::after{content: none !important}
 	.map-column{height: 450px}
 	.map-truck{height: 450px}
