@@ -598,7 +598,7 @@ description: ""
             }
 
             .title-item-truck h2 {
-                font-size: 24px;
+                font-size: 16px;
                 line-height: 50px;
                 font-weight: 900;
                 margin: 0;
