@@ -14585,7 +14585,7 @@ description: ""
 											<p class="subtitle-main">The journey of Singapore's first ever CTRL+SHIFT truck! <br>We dropped by polytechnics and universities with exciting giveaways and  <br>opportunities to get up close and personal with our STE ambassadors. <br>Spot your school!</p>
                     </div>
                 </div>
-                <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/desktop-map-newest-new-2.png" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
+                <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/map-2-5-2023.png" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
                 <div class="col-12">
                     <div class="map-truck p-relative">
                         <div class="outCircleFloatTruck1">
