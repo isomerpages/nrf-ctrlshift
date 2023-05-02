@@ -14732,7 +14732,6 @@ description: ""
                     <h1 class="title-section text-blue">
                         Schools We've Visited
                     </h1>
-                    <img src="/images/Truck%20Visits/school-box-list.png" class="school-box-list">
                 </div>
             </div>
             <div class="container">
