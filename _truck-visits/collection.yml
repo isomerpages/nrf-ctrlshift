@@ -1,4 +1,5 @@
 collections:
   truck-visits:
     output: true
-    order: []
+    order:
+      - Truck Visits.md
