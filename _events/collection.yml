@@ -1,5 +1,5 @@
 collections:
-  truck-visits:
+  events:
     output: true
     order:
       - Truck Visits.md
