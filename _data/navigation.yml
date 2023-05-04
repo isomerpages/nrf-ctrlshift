@@ -2,8 +2,8 @@ logo: /images/Site Settings/ctrlshiftlogo.png
 links:
   - title: About Us
     url: /about-us
-  - title: Truck Visits
-    url: /truck-visits
+  - title: Events
+    url: /events
   - title: Careers
     collection: careers
   - title: Stories
