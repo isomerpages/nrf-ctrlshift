@@ -14572,7 +14572,7 @@ description: ""
 	.school-row{margin: 0 0 20px !important}
 	.title-item-truck h2{font-size: 18px}
 	.school-box-detail p{font-size: 14px}
-
+.title-item-truck h2{line-height: 25px}
 	}
 	.text-blue{color: var(--blue);
 	.content pre{display: none}
