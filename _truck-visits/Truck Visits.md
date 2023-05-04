@@ -808,15 +808,15 @@ description: ""
                 display: block;
             }
             .innerFloatTruck3 {
-                width: 79px;
-                height: 79px;
+                width: 50px;
+                height: 50px;
                 background: transparent;
                 -moz-border-radius: 50px;
                 -webkit-border-radius: 50px;
                 border-radius: 100px;
                 position: absolute;
                 left: 0px;
-                top: 0px;
+                top: -80px;
                 background-color: transparent;
                 display: block;
             }
@@ -925,15 +925,15 @@ description: ""
                 display: block;
             }
             .innerFloatTruck1 {
-                width: 185px;
-                height: 185px;
+                width: 120px;
+                height: 120px;
                 background: transparent;
                 -moz-border-radius: 50px;
                 -webkit-border-radius: 50px;
                 border-radius: 100px;
                 position: absolute;
                 left: 0px;
-                top: 0px;
+                top: -20px;
                 background-color: transparent;
                 display: block;
             }
@@ -951,15 +951,15 @@ description: ""
                 display: block;
             }
             .innerIconTruck {
-                width: 185px;
-                height: 185px;
+                width: 120px;
+                height: 120px;
                 background: transparent;
                 -moz-border-radius: 50px;
                 -webkit-border-radius: 50px;
                 border-radius: 100px;
                 position: absolute;
                 left: 0px;
-                top: 0px;
+                top: -20px;
                 background-color: transparent;
                 display: block;
             }
