@@ -14504,7 +14504,7 @@ description: ""
             }
             .gallery-image{
                 width: 100%;
-                padding: 25px 13px;
+                padding: 12px 0;
             }
             .gallery-button{
                 background-color: #000;
