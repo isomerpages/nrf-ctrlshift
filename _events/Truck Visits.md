@@ -14547,6 +14547,7 @@ description: ""
 								top: -18px;
 								left: 9px
 							}
+	.flex-centralizer{display: flex; align-items: center}
 .content pre{display: none}
 	a::after{content: none !important}
 	.map-column{height: 450px}
@@ -14691,7 +14692,7 @@ description: ""
 												  </div>
 								  </div>
                 </div>
-							<div class="row row-reverse py5 mobile-row-padding">
+							<div class="row row-reverse py5 mobile-row-padding flex-centralizer">
                     <div class="col-lg-6">
                         <div class="wrapper-desc-item-truck">
                             <div class="desc-item-truck">
@@ -14708,7 +14709,7 @@ description: ""
                         <img src="/images/Truck%20Visits/IMG_7142%201.png" alt="img truck">
                     </div>
                 </div>
-                <div class="row py-5 mobile-row-padding">
+                <div class="row py-5 mobile-row-padding flex-centralizer">
                     <div class="col-lg-6">
                         <img src="/images/Truck%20Visits/up%20for%20the%20challenge.jpg" alt="img truck">
                     </div>
