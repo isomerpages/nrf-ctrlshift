@@ -3779,7 +3779,6 @@ description: ""
             }
             a {
                 color: var(--bs-link-color);
-                text-decoration: underline;
             }
             a:hover {
                 color: var(--bs-link-hover-color);
