@@ -816,7 +816,7 @@ description: ""
                 border-radius: 100px;
                 position: absolute;
                 left: 0px;
-                top: -80px;
+                top: -180px;
                 background-color: transparent;
                 display: block;
             }
@@ -828,7 +828,7 @@ description: ""
                 -webkit-border-radius: 50px;
                 border-radius: 100px;
                 position: absolute;
-                left: 0px;
+                left: 200px;
                 top: -30px;
                 background-color: transparent;
                 display: block;
