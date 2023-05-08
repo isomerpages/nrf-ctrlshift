@@ -14575,7 +14575,7 @@ description: ""
 	.title-item-truck h2{font-size: 18px}
 	.school-box-detail p{font-size: 14px}
 .title-item-truck h2{line-height: 25px}
-	subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 1.5rem  !important;}
+	.content center, .content li, .content p.subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 1.5rem  !important;}
 	.subtitle-main b{font-size: 16px !important}
 	.content p:last-child{margin-bottom:  10px !important}
 	}
