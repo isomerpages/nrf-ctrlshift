@@ -14608,7 +14608,7 @@ description: ""
                                 </div>
                             </div>
                         </div>
-											<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/map-mobile-new-2.png" alt="map truck" class="d-lg-none img-full">
+											<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/map-mobile-new-version.png" alt="map truck" class="d-lg-none img-full">
                         <div class="outCircleFloatTruck3">
                             <div class="rotate">
                                 <div class="counterrotateFloatTruck3">
