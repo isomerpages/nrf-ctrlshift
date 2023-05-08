@@ -14556,6 +14556,7 @@ description: ""
 	.subtitle-2{color: #fff;with: 400px; font-weight: 700;font-size: 28px;margin-bottom: 0;text-align:center}
 	.innerFloatTruck1 img, .innerIconTruck img, .innerFloatTruck4 img, .innerFloatTruck3 img{width: 80%}
 	.subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 2.2rem;}
+	.col.is-1{flex: 1 0 0%}
 	@media (max-width: 600px) {
 	.subtitle-main{line-height: 1.5rem}
 	.map-column{height: 200px}
