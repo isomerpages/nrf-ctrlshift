@@ -413,7 +413,7 @@ description: ""
 
             .map-truck {
                 width: 808px;
-                margin: 110px auto 40px;
+                margin: 110px auto 0;
             }
             .outCircle {
                 width: 432px;
@@ -590,7 +590,7 @@ description: ""
             }
 
             .title-item-truck {
-                background-color: #fff;
+                background-color: var(--blue);
                 display: inline-block;
                 padding: 5px 18px;
                 border: 5px solid var(--blue);
@@ -598,11 +598,11 @@ description: ""
             }
 
             .title-item-truck h2 {
-                font-size: 24px;
+                font-size: 16px;
                 line-height: 50px;
                 font-weight: 900;
                 margin: 0;
-                color: var(--blue);
+                color: #fff;
             }
 
             .text-item-truck {
@@ -808,28 +808,28 @@ description: ""
                 display: block;
             }
             .innerFloatTruck3 {
-                width: 79px;
-                height: 79px;
+                width: 50px;
+                height: 50px;
                 background: transparent;
                 -moz-border-radius: 50px;
                 -webkit-border-radius: 50px;
                 border-radius: 100px;
                 position: absolute;
                 left: 0px;
-                top: 0px;
+                top: -180px;
                 background-color: transparent;
                 display: block;
             }
             .innerFloatTruck4 {
-                width: 78px;
-                height: 104px;
+                width: 50px;
+                height: 66.666px;
                 background: transparent;
                 -moz-border-radius: 50px;
                 -webkit-border-radius: 50px;
                 border-radius: 100px;
                 position: absolute;
-                left: 0px;
-                top: 0px;
+                left: 200px;
+                top: -30px;
                 background-color: transparent;
                 display: block;
             }
@@ -925,15 +925,15 @@ description: ""
                 display: block;
             }
             .innerFloatTruck1 {
-                width: 185px;
-                height: 185px;
+                width: 120px;
+                height: 120px;
                 background: transparent;
                 -moz-border-radius: 50px;
                 -webkit-border-radius: 50px;
                 border-radius: 100px;
                 position: absolute;
                 left: 0px;
-                top: 0px;
+                top: -20px;
                 background-color: transparent;
                 display: block;
             }
@@ -951,15 +951,15 @@ description: ""
                 display: block;
             }
             .innerIconTruck {
-                width: 185px;
-                height: 185px;
+                width: 120px;
+                height: 120px;
                 background: transparent;
                 -moz-border-radius: 50px;
                 -webkit-border-radius: 50px;
                 border-radius: 100px;
                 position: absolute;
                 left: 0px;
-                top: 0px;
+                top: -20px;
                 background-color: transparent;
                 display: block;
             }
@@ -3779,7 +3779,6 @@ description: ""
             }
             a {
                 color: var(--bs-link-color);
-                text-decoration: underline;
             }
             a:hover {
                 color: var(--bs-link-hover-color);
@@ -14377,23 +14376,7 @@ description: ""
                     transform: translateY(0);
                 }
             }
-            .print-content{width: 100%; margin-left: 0; padding-left: 0;padding-top: 0}
-            .bp-section{padding: 0 !important}
-            .bp-container{padding:0 !important; margin: 0}
-	        footer .bp-container{padding:0 !important; margin: auto}
-			.bp-masthead .bp-container{padding:0 !important; margin: auto}
-			.bp-masthead{display: none}
-            .bp-section-pagetitle{display: none}
-            .language-plaintext{display: none !important}
-            .float-buttons{display: none !important}
-            .print-content{padding:0 !important; margin: 0!important; width: 100%!important}
-			#main-content .bp-container{max-width: 100vw; width: 100vw}
-	        .content .logo-landing{margin: 0.1;  max-width: 730px;margin-right: 130px;}
-			.print-content > p{display: none}
-			.content ul>li:last-child{  margin-bottom: 0.5rem;}
-	        .navbar>.bp-container{ margin: auto !important}
-	        .navbar .navbar-item a{text-decoration: none}
-	        .has-float-btns{display: none}
+           
             /* school-box 1 */
             .togCheck { display: none; }
             .togContent {
@@ -14520,7 +14503,7 @@ description: ""
             }
             .gallery-image{
                 width: 100%;
-                padding: 25px 13px;
+                padding: 12px 0;
             }
             .gallery-button{
                 background-color: #000;
@@ -14563,14 +14546,17 @@ description: ""
 								top: -18px;
 								left: 9px
 							}
-							
+	.flex-centralizer{display: flex; align-items: center}
+.content pre{display: none}
 	a::after{content: none !important}
 	.map-column{height: 450px}
 	.map-truck{height: 450px}
 	.gallery-link{text-align:center}
-	.subtitle-main{color: #fff;with: 400px; font-weight: 500;font-size: 20px;margin-bottom: 0}
+	.subtitle-main{color: #1237CA;with: 400px; font-weight: 500;font-size: 20px;margin-bottom: 0}
 	.subtitle-2{color: #fff;with: 400px; font-weight: 700;font-size: 28px;margin-bottom: 0;text-align:center}
 	.innerFloatTruck1 img, .innerIconTruck img, .innerFloatTruck4 img, .innerFloatTruck3 img{width: 80%}
+	.subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 2.2rem;}
+	.col.is-1{flex: 1 0 0%}
 	@media (max-width: 600px) {
 	.subtitle-main{line-height: 1.5rem}
 	.map-column{height: 200px}
@@ -14587,38 +14573,31 @@ description: ""
 	.school-row{margin: 0 0 20px !important}
 	.title-item-truck h2{font-size: 18px}
 	.school-box-detail p{font-size: 14px}
-	.bg-blue-grid{background: #0037cc url(https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/grid-mobile-long.svg?sanitize=true) repeat;background-size: contain;}
+.title-item-truck h2{line-height: 25px}
+	.content center, .content li, .content p.subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 1.5rem  !important;}
+	.subtitle-main b{font-size: 16px !important}
+	.content p:last-child{margin-bottom:  10px !important}
 	}
+	.text-blue{color: var(--blue);
+	.content pre{display: none}
+	.bp-breadcrumb ul{padding-left: 0}
         </style>
-<section id="header-truck" class="header-nav-white bg-blue-grid">
+<section id="header-truck" class="header-nav-white">
             <div class="container" style="position: relative">
                 <div class="col-12">
                     <div class="text-center pt-5 pb-1">
-                        <img
-                            src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/truck-new-logo-title.svg?sanitize=true"
-                            alt="title page truck"
-                            class="title-page-truck" style="width: auto"
-                        />
-											<p class="subtitle-main">Get the chance to catch Singapore's first ever CTRL+SHIFT truck! <br>Spot us to participate in our giveaway and get up close and personal with  our STE industry experts! <br> Participants will get first dibs to attend our upcoming, secret insider experiences.</p>
+                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/truck-new-logo-title.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
+											<p class="subtitle-main"><b>The journey of Singapore's first ever CTRL+SHIFT truck! <br>We dropped by polytechnics and universities with exciting giveaways and  <br>opportunities to get up close and personal with our STE ambassadors. <br>Spot your school!</b></p>
                     </div>
                 </div>
-                <img
-                src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/desktop-map-newest-new-2.png"
-                alt="map truck"
-                class="d-none d-lg-block"
-                style="position: absolute; width: 100%"
-            />
-                <div class="col-12" class="map-column">
+                <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/map-2-5-2023.png" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
+                <div class="col-12">
                     <div class="map-truck p-relative">
                         <div class="outCircleFloatTruck1">
                             <div class="rotateFloatTruck1">
                                 <div class="counterrotateFloatTruck1">
                                     <div class="innerFloatTruck1">
-                                        <img
-                                            src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-1.svg?sanitize=true"
-                                            alt="truck"
-                                            class="FloatTruck1"
-                                        />
+                                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-1.svg?sanitize=true" alt="truck" class="FloatTruck1">
                                     </div>
                                 </div>
                             </div>
@@ -14627,29 +14606,17 @@ description: ""
                             <div class="rotateIconTruck">
                                 <div class="counterrotateIconTruck">
                                     <div class="innerIconTruck">
-                                        <img
-                                            src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/icon-truck.svg?sanitize=true"
-                                            alt="truck"
-                                            class="icon-truck"
-                                        />
+                                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/icon-truck.svg?sanitize=true" alt="truck" class="icon-truck">
                                     </div>
                                 </div>
                             </div>
                         </div>
-											<img
-                            src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/map-mobile-new-2.png"
-                            alt="map truck"
-                            class="d-lg-none img-full"
-                        />
+											<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/map-mobile-new-version.png" alt="map truck" class="d-lg-none img-full">
                         <div class="outCircleFloatTruck3">
                             <div class="rotate">
                                 <div class="counterrotateFloatTruck3">
                                     <div class="innerFloatTruck3">
-                                        <img
-                                            src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-3.svg?sanitize=true"
-                                            alt="truck"
-                                            class="FloatTruck3"
-                                        />
+                                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-3.svg?sanitize=true" alt="truck" class="FloatTruck3">
                                     </div>
                                 </div>
                             </div>
@@ -14658,11 +14625,7 @@ description: ""
                             <div class="rotate">
                                 <div class="counterrotateFloatTruck4">
                                     <div class="innerFloatTruck4">
-                                        <img
-                                            src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-4.svg?sanitize=true"
-                                            alt="truck"
-                                            class="FloatTruck4"
-                                        />
+                                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-4.svg?sanitize=true" alt="truck" class="FloatTruck4">
                                     </div>
                                 </div>
                             </div>
@@ -14670,9 +14633,9 @@ description: ""
                     </div>
                 </div>
             </div>
-            <div class="container py-5" style="margin-top: 80px">
-                <div class="row py-lg-5">
-                    <div class="col-12">
+            <div class="container pb-5">
+               <div class="row pb-lg-5">
+                   <!-- <div class="col-12">
                         <div class="text-center">
                             <h1 class="title-section text-white">
                                 Here’s where we are going this March!
@@ -14683,8 +14646,8 @@ description: ""
                 <div class="row school-row">
                     <div class="col-sm-4 school-col">
                         <div class="school-box">
-                            <label for="check" class="togButton school-button">NANYANG TECHNOLOGICAL<br>UNIVERSITY (NTU)</label>
-													<input type="checkbox" class="togCheck" id="check"/>
+                            <label class="togButton school-button" for="check">NANYANG TECHNOLOGICAL<br>UNIVERSITY (NTU)</label>
+													<input id="check" class="togCheck" type="checkbox">
                             <div class="togContent school-box-detail">
                                 <p>8 February 2023, 10am - 5pm <br>The Quad</p>
                             </div>
@@ -14692,8 +14655,8 @@ description: ""
                     </div>
                     <div class="col-sm-4 school-col">
                         <div class="school-box">
-                            <label for="check2" class="togButton">NATIONAL UNIVERSITY<br>OF SINGAPORE (NUS)</label>
-													<input type="checkbox" class="togCheck2" id="check2"/>
+                            <label class="togButton" for="check2">NATIONAL UNIVERSITY<br>OF SINGAPORE (NUS)</label>
+													<input id="check2" class="togCheck2" type="checkbox">
                             <div class="togContent2 school-box-detail">
                                 <p>2 February 2023, 11am - 2pm  <br>Central Library  <br><br>10 February 2023, 11am - 3pm  <br>Techno Edge Canteen/ Frontier Canteen</p>
                             </div>
@@ -14701,8 +14664,8 @@ description: ""
                     </div>
                     <div class="col-sm-4 school-col">
                         <div class="school-box">
-                            <label for="check3" class="togButton"> SINGAPORE<br> POLYTECHNIC</label>
-													<input type="checkbox" class="togCheck3" id="check3"/>
+                            <label class="togButton" for="check3"> SINGAPORE<br> POLYTECHNIC</label>
+													<input id="check3" class="togCheck3" type="checkbox">
                             <div class="togContent3 school-box-detail">
                                 <p>10 February 2023, 3pm - 7.30pm  <br>SP Eleven²</p>
                             </div>
@@ -14711,8 +14674,8 @@ description: ""
                     <div class="col-sm-1 school-col"></div>
                     <div class="col-sm-5 school-col">
                         <div class="school-box">
-                            <label for="check4" class="togButton">SINGAPORE INSTITUTE OF TECHNOLOGY (SIT) <br> @ DOVER CAMPUS</label>
-													<input type="checkbox" class="togCheck4" id="check4"/>
+                            <label class="togButton" for="check4">SINGAPORE INSTITUTE OF TECHNOLOGY (SIT) <br> @ DOVER CAMPUS</label>
+													<input id="check4" class="togCheck4" type="checkbox">
                             <div class="togContent4 school-box-detail">
                                 <p>15 March 2023, 11am - 5pm <br> University Resource Gym (URC) Basement <br> (Beside Open Gym)</p>
                             </div>
@@ -14720,20 +14683,20 @@ description: ""
                     </div>
                     <div class="col-sm-5 school-col">
                         <div class="school-box">
-                            <label for="check5" class="togButton">SINGAPORE UNIVERSITY OF<br>TECHNOLOGY AND DESIGN (SUTD) </label>
-													<input type="checkbox" class="togCheck5" id="check5"/>
+                            <label class="togButton" for="check5">SINGAPORE UNIVERSITY OF<br>TECHNOLOGY AND DESIGN (SUTD) </label>
+													<input id="check5" class="togCheck5" type="checkbox">
                             <div class="togContent5 school-box-detail">
                                 <p>24 March 2023, 11am - 5pm  <br>Behind Campus Centre</p>
                             </div>
                         </div>
-                    </div>
-									<div class="col-lg-12 py-lg-5 pb-lg-1 who-says-title">
+                    </div>-->
+									<div class="col-lg-12 pb-lg-1 who-says-title">
 										   <div class="text-center">
-										       <h1 class="title-section text-white">Who says Science+Tech+Engineering has to be boring?</h1>
+										       <h1 class="title-section text-blue">Who says Science+Tech+Engineering has to be boring?</h1>
 												  </div>
 								  </div>
                 </div>
-							<div class="row row-reverse py5 mobile-row-padding">
+							<div class="row row-reverse pb5 mobile-row-padding flex-centralizer">
                     <div class="col-lg-6">
                         <div class="wrapper-desc-item-truck">
                             <div class="desc-item-truck">
@@ -14741,18 +14704,18 @@ description: ""
                                     <h2>About our CTRL+SHIFT truck</h2>
                                 </div>
                                 <div class="text-item-truck">
-                                    <p> Get ready to CTRL your future and SHIFT your perspectives as we hit the road with our CTRL+SHIFT truck! </p><p>We’re stopping by multiple Open Houses and Career Fairs to mingle with students and educators, to find out what people really think about Science, Tech and Engineering jobs in the public sector.</p><p>And the best part? Not only are we hosting giveaways, but we’ve also got industry experts joining us to share amazing stories and insider tips on what it is really like to work in their field.</p>
+                                    <p>Our CTRL+SHIFT truck went on an adventure to visit multiple Open Houses and Career Fairs to mingle with students and educators, to find out what people really think about Science, Tech and Engineering jobs in the public sector.</p><p>And the best part? Not only did we host exciting giveaways, we also had STE ambassadors who joined us in sharing amazing stories and insider tips on what it's really like to work in their field.</p>
                                 </div>
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <img src="/images/Truck%20Visits/IMG_7142%201.png" alt="img truck" />
+                        <img src="/images/Truck%20Visits/IMG_7142%201.png" alt="img truck">
                     </div>
                 </div>
-                <div class="row py-5 mobile-row-padding">
+                <div class="row py-5 mobile-row-padding flex-centralizer">
                     <div class="col-lg-6">
-                        <img src="/images/Truck%20Visits/up%20for%20the%20challenge.jpg" alt="img truck" />
+                        <img src="/images/Truck%20Visits/up%20for%20the%20challenge.jpg" alt="img truck">
                     </div>
                     <div class="col-lg-6">
                         <div class="wrapper-desc-item-truck flex-right">
@@ -14761,7 +14724,7 @@ description: ""
                                     <h2>Up for the challenge? Come find us</h2>
                                 </div>
                                 <div class="text-item-truck">
-                                    <p>We’re dying to hear your take on Science, Tech and Engineering! So why not come hang out with us at our upcoming school visits? It is going to be a blast and we promise you won’t regret it!</p>
+																	<p>We hope you had as great of a time as we did with you. </p><p>Scroll through our gallery to see if you can spot you and your friends!</p>
                                 </div>
                             </div>
                         </div>
@@ -14774,28 +14737,27 @@ description: ""
                     <h1 class="title-section text-blue">
                         Schools We've Visited
                     </h1>
-                    <img src="/images/Truck%20Visits/school-box-list.png" class="school-box-list">
                 </div>
             </div>
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
-                        <img src="/images/Truck%20Visits/instagram-1.png" class="gallery-image">
+                        <img src="/images/instagram-7.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/Truck%20Visits/instagram-2.png" class="gallery-image">
+                        <img src="/images/instagram-8.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/Truck%20Visits/instagram-3.png" class="gallery-image">
+                        <img src="/images/instagram-9.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/Truck%20Visits/instagram-4.png" class="gallery-image">
+                        <img src="/images/instagram-10.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/Truck%20Visits/instagram-5.png" class="gallery-image">
+                        <img src="/images/instagram-11.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/Truck%20Visits/instagram-6.png" class="gallery-image">
+                        <img src="/images/instagram-12.png" class="gallery-image">
                     </div>
                     <a href="https://www.instagram.com/ctrlshift.sg/" target="_blank" rel="noreferrer" class="gallery-link">
 													<div class="gallery-button">
@@ -14807,4 +14769,3 @@ description: ""
                 </div>
             </div>
         </section>
-```
