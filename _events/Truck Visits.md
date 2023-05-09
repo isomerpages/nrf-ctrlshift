@@ -14690,13 +14690,13 @@ description: ""
                             </div>
                         </div>
                     </div>-->
-									<div class="col-lg-12 py-lg-5 pb-lg-1 who-says-title">
+									<div class="col-lg-12 pb-lg-1 who-says-title">
 										   <div class="text-center">
 										       <h1 class="title-section text-blue">Who says Science+Tech+Engineering has to be boring?</h1>
 												  </div>
 								  </div>
                 </div>
-							<div class="row row-reverse py5 mobile-row-padding flex-centralizer">
+							<div class="row row-reverse pb5 mobile-row-padding flex-centralizer">
                     <div class="col-lg-6">
                         <div class="wrapper-desc-item-truck">
                             <div class="desc-item-truck">
