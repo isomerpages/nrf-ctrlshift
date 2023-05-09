@@ -413,7 +413,7 @@ description: ""
 
             .map-truck {
                 width: 808px;
-                margin: 110px auto 40px;
+                margin: 110px auto 0;
             }
             .outCircle {
                 width: 432px;
