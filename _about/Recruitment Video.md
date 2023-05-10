@@ -34,9 +34,12 @@ font-size: 20px;
 	}
 	.col-sm-6{width: 50%}
 		.col-12{width: 100%}
+	.desktop-only{display: block}
+	.mobile-only{display: none}
 		@media (max-width: 600px) {
 	.subtitle-main{line-height: 1.5rem}
-
+	.desktop-only{display: none}
+	.mobile-only{display: block}
     .map-column{height: 200px}
 
         .map-truck{height: 200px}
@@ -101,7 +104,7 @@ font-size: 20px;
 										<div class="col-12">
 											<div class="youtube-container">
 											<iframe width="100%" height="450px" src="https://www.youtube.com/embed/cA6CQanEtMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" class="youtube-video desktop-only"></iframe>
-												<iframe width="100%" src="https://www.youtube.com/embed/cA6CQanEtMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" class="youtube-video mobile-only"></iframe>
+												<iframe width="100%" height="250px" src="https://www.youtube.com/embed/cA6CQanEtMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" class="youtube-video mobile-only"></iframe>
 											</div>
 									</div>
 							</div>
