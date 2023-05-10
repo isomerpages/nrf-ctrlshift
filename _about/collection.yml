@@ -1,4 +1,5 @@
 collections:
   about:
     output: true
-    order: []
+    order:
+      - About Us.md
