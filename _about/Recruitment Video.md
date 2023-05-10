@@ -84,7 +84,7 @@ font-size: 20px;
         </style>
 <section class="header-nav-white" id="header-truck" style="padding-top: 0">
             <div style="position: relative" class="container">
-							<div class="row mb-5" style="display: flex; align-items: center; margin-bottom: 50px">
+							<div class="row mb-5" style="display: flex; align-items: center; margin-bottom: 75px">
                 <div class="col-sm-6">
                     <div class="text-left pb-1">
                         <img style="width: auto" class="title-page-truck" alt="title page truck" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/image-recruitmentvideo.png">
@@ -96,7 +96,7 @@ font-size: 20px;
                     </div>
                 </div>
 							</div>
-                <div class="row mt-5 mb-2" style="margin-bottom: 25px">
+                <div class="row mt-5 mb-2" style="margin-bottom: 60px">
 										<div class="col-12">
 											<div class="youtube-container">
 											<iframe width="100%" height="450px" src="https://www.youtube.com/embed/cA6CQanEtMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" class="youtube-video"></iframe>
