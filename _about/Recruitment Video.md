@@ -14618,7 +14618,7 @@ height: 100%;
                 <div class="row mt-5 mb-2">
 										<div class="col-12">
 											<div class="youtube-container">
-											<iframe class="youtube-video" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cA6CQanEtMk" height="500px" width="100%"></iframe>
+											<iframe class="youtube-video" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cA6CQanEtMk" height="450px" width="100%"></iframe>
 											</div>
 									</div>
 							</div>
