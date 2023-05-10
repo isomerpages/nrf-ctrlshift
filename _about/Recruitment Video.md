@@ -14603,7 +14603,7 @@ height: 100%;
         </style>
 <section id="header-truck" class="header-nav-white">
             <div class="container" style="position: relative">
-							<div class="row mb-5">
+							<div style="display: flex; align-items: center" class="row mb-5">
                 <div class="col-6">
                     <div class="text-left pt-5 pb-1">
                         <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/truck-new-logo-title.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
