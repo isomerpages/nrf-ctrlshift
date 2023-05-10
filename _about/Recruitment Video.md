@@ -3,10 +3,31 @@ title: Recruitment Video
 permalink: /about/recruitment-video/
 description: ""
 ---
-```
-```
 <style>
-          
+ .container {  
+position: relative;  
+width: 100%;  
+height: 0;  
+padding-bottom: 56.25%;  
+}  
+.youtube-container{
+position: relative;  
+width: 100%;  
+height: 0;  
+padding-bottom: 56.25%;
+    }
+.youtube-video {  
+position: absolute;  
+top: 0;  
+left: 0;  
+width: 100%;  
+height: 100%;  
+}
+.subtitle-main{
+color: #1237CA;
+font-weight: 500;
+font-size: 20px;
+	}
         </style>
 <section style="padding-top: 0" id="header-truck" class="header-nav-white">
             <div class="container" style="position: relative">
