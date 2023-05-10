@@ -32,6 +32,7 @@ font-size: 20px;
 	display: none
 	}
 	.col-sm-6{width: 50%}
+		.col-sm-12{width: 100%}
 		@media (max-width: 600px) {
 	.subtitle-main{line-height: 1.5rem}
 
