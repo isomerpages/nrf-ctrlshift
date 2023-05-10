@@ -14617,7 +14617,7 @@ right: 1.125em;
 top: 50%;
 
 }
-	}
+.navbar{padding:0 1rem}
         </style>
 <section style="padding-top: 0" id="header-truck" class="header-nav-white">
             <div class="container" style="position: relative">
