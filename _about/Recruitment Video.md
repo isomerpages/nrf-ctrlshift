@@ -14606,7 +14606,7 @@ height: 100%;
 							<div style="display: flex; align-items: center" class="row mb-5">
                 <div class="col-6">
                     <div class="text-left pt-5 pb-1">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/truck-new-logo-title.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
+                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/image-recruitmentvideo.png" alt="title page truck" class="title-page-truck" style="width: auto">
                     </div>
                 </div>
 							<div class="col-6">
