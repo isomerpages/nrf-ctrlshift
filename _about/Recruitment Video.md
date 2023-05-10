@@ -82,12 +82,12 @@ font-size: 20px;
 		.col-sm-6{width: 100%}
 	}
         </style>
-<section style="padding-top: 0" id="header-truck" class="header-nav-white">
-            <div class="container" style="position: relative">
-							<div style="display: flex; align-items: center" class="row mb-5">
+<section class="header-nav-white" id="header-truck" style="padding-top: 0">
+            <div style="position: relative" class="container">
+							<div class="row mb-5" style="display: flex; align-items: center; margin-bottom: 50px">
                 <div class="col-sm-6">
                     <div class="text-left pb-1">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/image-recruitmentvideo.png" alt="title page truck" class="title-page-truck" style="width: auto">
+                        <img style="width: auto" class="title-page-truck" alt="title page truck" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/image-recruitmentvideo.png">
                     </div>
                 </div>
 							<div class="col-sm-6">
@@ -96,10 +96,10 @@ font-size: 20px;
                     </div>
                 </div>
 							</div>
-                <div class="row mt-5 mb-2">
+                <div class="row mt-5 mb-2" style="margin-bottom: 25px">
 										<div class="col-12">
 											<div class="youtube-container">
-											<iframe class="youtube-video" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cA6CQanEtMk" height="450px" width="100%"></iframe>
+											<iframe width="100%" height="450px" src="https://www.youtube.com/embed/cA6CQanEtMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" class="youtube-video"></iframe>
 											</div>
 									</div>
 							</div>
