@@ -14587,8 +14587,8 @@ width: 100%;
 height: 0;  
 padding-bottom: 56.25%;  
 }  
-	.youtube-container{
-	position: relative;  
+.youtube-container{
+position: relative;  
 width: 100%;  
 height: 0;  
 padding-bottom: 56.25%;
@@ -14603,7 +14603,7 @@ height: 100%;
         </style>
 <section id="header-truck" class="header-nav-white">
             <div class="container" style="position: relative">
-							<div class="row">
+							<div class="row mb-5">
                 <div class="col-6">
                     <div class="text-left pt-5 pb-1">
                         <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/truck-new-logo-title.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
@@ -14615,10 +14615,18 @@ height: 100%;
                     </div>
                 </div>
 							</div>
-                <div class="row">
+                <div class="row mt-5 mb-2">
 										<div class="col-12">
 											<div class="youtube-container">
-											<iframe class="youtube-video" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cA6CQanEtMk"></iframe>
+											<iframe class="youtube-video" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cA6CQanEtMk" height="500px" width="100%"></iframe>
 											</div>
 									</div>
-							</div></div></section>
+							</div>
+	<div class="row">
+							<div class="col-12">
+                    <div class="text-center pt-5 pb-1">
+											<p class="subtitle-main"><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</b></p>
+                    </div>
+                </div>
+							</div>
+	</div></section>
