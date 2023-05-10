@@ -28,6 +28,9 @@ color: #1237CA;
 font-weight: 500;
 font-size: 20px;
 	}
+	.content pre{
+	display: none
+	}
         </style>
 <section style="padding-top: 0" id="header-truck" class="header-nav-white">
             <div class="container" style="position: relative">
