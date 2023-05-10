@@ -14618,7 +14618,7 @@ height: 100%;
                 <div class="row">
 										<div class="col-12">
 											<div class="youtube-container">
-											<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cA6CQanEtMk"></iframe>
+											<iframe class="youtube-video" allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/cA6CQanEtMk"></iframe>
 											</div>
 									</div>
 							</div></div></section>
