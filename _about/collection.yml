@@ -2,4 +2,5 @@ collections:
   about:
     output: true
     order:
+      - Recruitment Video.md
       - About Us.md
