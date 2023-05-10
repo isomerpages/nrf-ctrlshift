@@ -14605,12 +14605,12 @@ height: 100%;
             <div class="container" style="position: relative">
 							<div style="display: flex; align-items: center" class="row mb-5">
                 <div class="col-sm-6">
-                    <div class="text-left pt-5 pb-1">
+                    <div class="text-left pb-1">
                         <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/image-recruitmentvideo.png" alt="title page truck" class="title-page-truck" style="width: auto">
                     </div>
                 </div>
 							<div class="col-sm-6">
-                    <div class="text-left pt-5 pb-1">
+                    <div class="text-left pb-1">
 											<p class="subtitle-main"><b>Have you ever wondered how STE impacts us in our everyday lives?</b><br><br> <b>Watch this video to see how the different aspects of STE has transformed and inspired our way of living.</b></p>
                     </div>
                 </div>
