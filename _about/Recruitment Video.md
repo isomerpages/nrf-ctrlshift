@@ -14601,7 +14601,7 @@ width: 100%;
 height: 100%;  
 }
         </style>
-<section id="header-truck" class="header-nav-white">
+<section style="padding-top: 0" id="header-truck" class="header-nav-white">
             <div class="container" style="position: relative">
 							<div style="display: flex; align-items: center" class="row mb-5">
                 <div class="col-6">
