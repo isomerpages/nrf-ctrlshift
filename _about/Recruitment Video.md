@@ -33,44 +33,26 @@ font-size: 20px;
 		.col-12{width: 100%}
 	.desktop-only{display: block}
 	.mobile-only{display: none}
+	
 		@media (max-width: 600px) {
 	.subtitle-main{line-height: 1.5rem}
 	.desktop-only{display: none}
 	.mobile-only{display: block}
     .map-column{height: 200px}
-
         .map-truck{height: 200px}
-
     .school-box label{font-size:16px; font-weight: 700}
-
     .school-box-list{width: 90% !important}
-
     .title-section{width: 80%; margin: auto}
-
     .mobile-row-padding{padding: 0 20px}
-
     #gallery .row{padding: 0 10px}
-
     #gallery .col-sm-4{width: 50%;padding: 10px}
-
     .gallery-image{padding: 0}
-
     .who-says-title{margin-top: 25px}
-
     .content .subtitle-main{padding: 0 20px}
-
-    .school-row{margin: 0 0 20px !important}
-
     .title-item-truck h2{font-size: 18px}
-
-    .school-box-detail p{font-size: 14px}
-
 .title-item-truck h2{line-height: 25px}
-
     .content center, .content li, .content p.subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 1.5rem  !important;}
-
     .subtitle-main b{font-size: 16px !important}
-
     .content p:last-child{margin-bottom:  10px !important}
 
     }
