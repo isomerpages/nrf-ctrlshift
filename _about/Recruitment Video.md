@@ -72,7 +72,7 @@ font-size: 20px;
                 </div>
 							<div class="col-sm-6">
                     <div class="text-left pb-1">
-											<p class="subtitle-main"><b>Have you ever wondered how STE impacts us in our everyday lives?</b><br><br> <b>Watch this video to see how the different aspects of STE has transformed and inspired our way of living.</b></p>
+											<p style="text-align: center" class="subtitle-main"><b>Have you ever wondered how STE impacts us in our everyday lives?</b><br><br> <b>Watch this video to see how the different aspects of STE has transformed and inspired our way of living.</b></p>
                     </div>
                 </div>
 							</div>
