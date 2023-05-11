@@ -34,7 +34,7 @@ font-size: 20px;
 	.desktop-only{display: block}
 	.mobile-only{display: none}
 	
-		@media (max-width: 600px) {
+		@media (max-width: 600px) {.col-sm-6{width: 100%}
 	.subtitle-main{line-height: 1.5rem}
 	.desktop-only{display: none}
 	.mobile-only{display: block}
@@ -54,7 +54,7 @@ font-size: 20px;
     .content center, .content li, .content p.subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 140px; font-size: 16px}
     .subtitle-main b{font-size: 16px !important}
     .content p:last-child{margin-bottom:  10px !important}
-			.col-sm-6{width: 100%}
+
     }
     .text-blue{color: var(\--blue);
     .content pre{display: none}
