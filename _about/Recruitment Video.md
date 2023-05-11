@@ -35,7 +35,7 @@ font-size: 20px;
 	.mobile-only{display: none}
 .recruitment-row{display: flex; align-items: center; margin-bottom: 75px}
 		@media (max-width: 600px) {.col-sm-6{width: 100%}
-.recruitment-row{display: flex; flex-direction: column; align-items: center; margin-bottom: 75px}
+.recruitment-row{display: flex; flex-direction: column; align-items: center; margin-bottom: 30px}
 	.subtitle-main{line-height: 1.5rem}
 	.desktop-only{display: none}
 	.mobile-only{display: block}
