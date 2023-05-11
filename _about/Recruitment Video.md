@@ -32,7 +32,7 @@ font-size: 20px;
 	.col-sm-6{width: 50%}
 		.col-12{width: 100%}
 	.desktop-only{display: block}
-	.mobile-only{display: none}
+.mobile-only{display: none}
 .recruitment-row{display: flex; align-items: center; margin-bottom: 75px !important}
 		@media (max-width: 600px) {.col-sm-6{width: 100%}
 .recruitment-row{display: flex; flex-direction: column; align-items: center; margin-bottom: 30px}
