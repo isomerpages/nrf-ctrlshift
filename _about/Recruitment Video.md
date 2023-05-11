@@ -99,7 +99,7 @@ font-size: 20px;
 							</div>
                 <div class="row mt-5 mb-2" style="margin-bottom: 60px">
 										<div class="col-12">
-											<div style="border: 5px&nbsp;solid&nbsp;#1237CA;" class="youtube-container">
+											<div style="border:5px solid #1237CA;" class="youtube-container">
 											<iframe width="100%" height="450px" src="https://www.youtube.com/embed/cA6CQanEtMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" class="youtube-video desktop-only"></iframe>
 												<iframe width="100%" height="250px" src="https://www.youtube.com/embed/cA6CQanEtMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" class="youtube-video mobile-only"></iframe>
 											</div>
