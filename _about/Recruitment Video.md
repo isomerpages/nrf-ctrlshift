@@ -54,16 +54,12 @@ font-size: 20px;
     .content center, .content li, .content p.subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 1.5rem  !important;}
     .subtitle-main b{font-size: 16px !important}
     .content p:last-child{margin-bottom:  10px !important}
-
+			.col-sm-6{width: 100%}
     }
-
     .text-blue{color: var(\--blue);
-
     .content pre{display: none}
-
     .bp-breadcrumb ul{padding-left: 0}
-		.col-sm-6{width: 100%}
-	}
+
         </style>
 <section class="header-nav-white" id="header-truck" style="padding-top: 0">
             <div style="position: relative" class="container">
