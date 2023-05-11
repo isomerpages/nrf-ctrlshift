@@ -55,7 +55,7 @@ font-size: 20px;
     .content center, .content li, .content p.subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 140%; font-size: 16px}
     .subtitle-main b{font-size: 16px !important}
     .content p:last-child{margin-bottom:  10px !important}
-
+.subtitle-top{text-align: center}
     }
     .text-blue{color: var(\--blue);
     .content pre{display: none}
@@ -72,7 +72,7 @@ font-size: 20px;
                 </div>
 							<div class="col-sm-6">
                     <div class="text-left pb-1">
-											<p style="text-align: center" class="subtitle-main"><b>Have you ever wondered how STE impacts us in our everyday lives?</b><br><br> <b>Watch this video to see how the different aspects of STE has transformed and inspired our way of living.</b></p>
+											<p class="subtitle-main subtitle-top"><b>Have you ever wondered how STE impacts us in our everyday lives?</b><br><br> <b>Watch this video to see how the different aspects of STE has transformed and inspired our way of living.</b></p>
                     </div>
                 </div>
 							</div>
