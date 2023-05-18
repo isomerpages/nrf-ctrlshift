@@ -12349,6 +12349,7 @@ description: ""
 	.subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 2.2rem;}
 	.col.is-1{flex: 1 0 0%}
 	.col-sm-4{width: 33.333%}
+	.photo-row{display: flex;justify-content: space-between; }
 	@media (max-width: 600px) {
 	.col-sm-4{width: 50%}
 	.subtitle-main{line-height: 1.5rem}
@@ -12527,7 +12528,7 @@ description: ""
         </section>
 				<section id="gallery" class="body-section">
             <div class="container">
-                <div class="row">
+                <div class="row photo-row">
 									<div class="col-lg-12 pb-lg-1 who-says-title">
 										   <div class="text-center">
 										       <h1 class="title-section text-blue"> Schools We've Visited</h1>
