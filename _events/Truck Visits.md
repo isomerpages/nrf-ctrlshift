@@ -342,74 +342,7 @@ description: ""
                 
                 color: #0037cc;
             }
-            .nav-home {
-                position: fixed;
-                left: 0;
-                right: 0;
-                top: 0;
-                padding: 40px 0 0;
-            }
-            .nav-home {
-                position: absolute;
-                left: 0;
-                right: 0;
-                top: 0;
-                padding: 40px 0 0;
-            }
-
-            .top-menu li a {
-                font-size: 16px;
-                color: #fff;
-                font-weight: 600;
-                text-transform: uppercase;
-                text-decoration: none;
-            }
-
-            .top-menu > li {
-                list-style: none;
-                margin-right: 48px;
-            }
-
-            .top-menu {
-                display: flex;
-                justify-content: flex-start;
-                align-items: center;
-                margin: 0;
-                padding: 0;
-                position: relative;
-                z-index: 5;
-            }
-
-            .submenu {
-                opacity: 0;
-                position: absolute;
-                top: 29px;
-                right: 0;
-                padding: 10px 20px;
-                transition: 0.3s;
-                -webkit-transition: 0.3s;
-                -moz-transition: 0.3s;
-                -ms-transition: 0.3s;
-                -o-transition: 0.3s;
-                transform: translateY(-20px);
-                -webkit-transform: translateY(-20px);
-                -moz-transform: translateY(-20px);
-                -ms-transform: translateY(-20px);
-                -o-transform: translateY(-20px);
-                z-index: -9;
-                background: #fff;
-                border-radius: 0;
-                pointer-events: none;
-            }
-            .backdrop-nav {
-                position: fixed;
-                top: 0;
-                left: 0;
-                right: 0;
-                bottom: 0;
-                background: transparent;
-                z-index: -999;
-            }
+            
 
             .map-truck {
                 width: 808px;
