@@ -12529,7 +12529,7 @@ description: ""
 				<section id="gallery" class="body-section">
             <div class="container">
                 <div class="row photo-row">
-									<div class="col-lg-12 pb-lg-1 who-says-title">
+									<div class="col-lg-12 pb-lg-1">
 										   <div class="text-center">
 										       <h1 class="title-section text-blue"> Schools We've Visited</h1>
 												  </div>
