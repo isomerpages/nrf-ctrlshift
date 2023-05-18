@@ -12543,6 +12543,8 @@ description: ""
                     <div class="col-sm-4">
                         <img src="/images/instagram-9.png" class="gallery-image">
                     </div>
+							</div>
+							<div class="row">
                     <div class="col-sm-4">
                         <img src="/images/instagram-10.png" class="gallery-image">
                     </div>
@@ -12552,6 +12554,7 @@ description: ""
                     <div class="col-sm-4">
                         <img src="/images/instagram-12.png" class="gallery-image">
                     </div>
+							</div>
                     <a href="https://www.instagram.com/ctrlshift.sg/" target="_blank" rel="noreferrer" class="gallery-link">
 													<div class="gallery-button">
 														<div class="inner-gallery-button">
@@ -12560,5 +12563,5 @@ description: ""
 													</div>
 									</a>
                 </div>
-            </div>
+            
         </section>
