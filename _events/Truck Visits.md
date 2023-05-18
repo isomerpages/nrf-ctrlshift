@@ -3279,7 +3279,19 @@ description: ""
                     max-width: 1320px;
                 }
             }
-           
+            .row {
+                --bs-gutter-x: 1.5rem;
+                --bs-gutter-y: 0;
+                display: flex;
+                flex-wrap: wrap;
+                
+            }
+            .row > * {
+                flex-shrink: 0;
+                width: 100%;
+                max-width: 100%;
+                
+            }
             .col {
                 flex: 1 0 0%;
             }
