@@ -14172,7 +14172,7 @@ description: ""
 	.subtitle-main b{font-size: 16px !important}
 	.content p:last-child{margin-bottom:  10px !important}
 	}
-	.text-blue{color: var(--blue);
+	.text-blue{color: var(--blue)};
 	.content pre{display: none}
 	.bp-breadcrumb ul{padding-left: 0}
         </style>
