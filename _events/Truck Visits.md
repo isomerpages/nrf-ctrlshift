@@ -12348,7 +12348,7 @@ description: ""
 	.innerFloatTruck1 img, .innerIconTruck img, .innerFloatTruck4 img, .innerFloatTruck3 img{width: 80%}
 	.subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 2.2rem;}
 	.col.is-1{flex: 1 0 0%}
-	.col-sm-4{width: 25%}
+	.col-sm-4{width: 33.333%}
 	@media (max-width: 600px) {
 	.col-sm-4{width: 50%}
 	.subtitle-main{line-height: 1.5rem}
