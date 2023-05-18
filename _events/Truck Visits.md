@@ -12525,8 +12525,7 @@ description: ""
                     </div>
                 </div>
             </div>
-        </section>
-				<section id="gallery" class="body-section">
+        </section><section id="gallery" class="body-section">
             <div class="container">
                 <div class="row photo-row">
 									<div class="col-lg-12 pb-lg-1">
