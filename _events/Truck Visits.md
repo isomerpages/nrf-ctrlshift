@@ -12527,7 +12527,7 @@ description: ""
         </section><section id="gallery" class="body-section">
             <div class="container">
                 <div class="row">
-                    <h1 class="title-section text-blue">
+                    <h1 class="title-section text-blue text-center">
                         Schools We've Visited
                     </h1>
                 </div>
@@ -12555,7 +12555,7 @@ description: ""
                         <img src="/images/instagram-12.png" class="gallery-image">
                     </div>
 							</div>
-                    <a href="https://www.instagram.com/ctrlshift.sg/" target="_blank" rel="noreferrer" class="gallery-link">
+                    <a href="https://www.instagram.com/ctrlshift.sg/" target="_blank" rel="noreferrer" class="gallery-link text-center">
 													<div class="gallery-button">
 														<div class="inner-gallery-button">
 															Find Out More
