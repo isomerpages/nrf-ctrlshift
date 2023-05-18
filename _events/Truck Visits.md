@@ -12524,12 +12524,15 @@ description: ""
                     </div>
                 </div>
             </div>
-        </section><section id="gallery" class="body-section">
+        </section>
+				<section id="gallery" class="body-section">
             <div class="container">
                 <div class="row">
-                    <h1 class="title-section text-blue text-center">
-                        Schools We've Visited
-                    </h1>
+									<div class="col-lg-12 pb-lg-1 who-says-title">
+										   <div class="text-center">
+										       <h1 class="title-section text-blue"> Schools We've Visited</h1>
+												  </div>
+								  </div>
                 </div>
             </div>
             <div class="container">
