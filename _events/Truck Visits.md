@@ -13550,10 +13550,11 @@ description: ""
 	.content pre{display: none}
 	.bp-breadcrumb ul{padding-left: 0}
 	.navbar .navbar-link::after {
+	content: "";
     border: 1px solid #484848;
     border-right: 0;
     border-top: 0;
-    content: "";
+    
     display: block;
     height: .5em;
     pointer-events: none;
@@ -13567,6 +13568,7 @@ description: ""
 }
 
 .navbar .navbar-link:hover:after {
+	content: "";
     border: 1px solid #6b4370;
     border-right: 0;
     border-top: 0;
