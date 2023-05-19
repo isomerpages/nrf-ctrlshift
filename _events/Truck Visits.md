@@ -13549,22 +13549,40 @@ description: ""
 	.text-blue{color: var(--blue)};
 	.content pre{display: none}
 	.bp-breadcrumb ul{padding-left: 0}
-	.navbar .navbar-link::after{
-								border: 1px solid #484848;
-								border-right: 0;
-								border-top: 0;
-								content: " ";
-								display: block;
-								height: .5em;
-								pointer-events: none;
-								position: absolute;
-								transform: translateX(7px) rotate(-45deg);
-								transform-origin: center;
-								width: .5em;
-								margin-top: -.375em;
-								right: 1.125em;
-								top: 50%;
-							}
+	.navbar .navbar-link::after {
+    border: 1px solid #484848;
+    border-right: 0;
+    border-top: 0;
+    content: " ";
+    display: block;
+    height: .5em;
+    pointer-events: none;
+    position: absolute;
+    transform: translateX(7px) rotate(-45deg);
+    transform-origin: center;
+    width: .5em;
+    margin-top: -.375em;
+    right: 1.125em;
+    top: 50%
+}
+
+.navbar .navbar-link:hover:after {
+    border: 1px solid #6b4370;
+    border-right: 0;
+    border-top: 0;
+    content: " ";
+    display: block;
+    height: .5em;
+    pointer-events: none;
+    position: absolute;
+    transform: translateX(7px) rotate(-45deg);
+    transform-origin: center;
+    width: .5em;
+    margin-top: -.375em;
+    right: 1.125em;
+    top: 50%
+}
+
         </style>
 <section id="header-truck" class="header-nav-white">
             <div class="container" style="position: relative">
