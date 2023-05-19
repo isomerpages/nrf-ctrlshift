@@ -13516,7 +13516,6 @@ description: ""
 							}
 	.flex-centralizer{display: flex; align-items: center}
 .content pre{display: none}
-	a::after{content: none !important}
 	.map-column{height: 450px}
 	.map-truck{height: 450px}
 	.gallery-link{text-align:center}
