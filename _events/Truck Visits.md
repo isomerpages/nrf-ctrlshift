@@ -6,7 +6,6 @@ description: ""
 ```
 ```
 <style>
-            
            .navbar .navbar-link::after{
 								border: 1px solid #484848;
 								border-right: 0;
