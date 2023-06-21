@@ -16,7 +16,11 @@ height: 0;  
 padding-bottom: 56.25%;  
 
 }  
-
+.title-section{
+font-size: 48px;
+line-height: 50px;
+font-weight: 700;
+	}
 .subtitle-main{
 
 color: #1237CA;
