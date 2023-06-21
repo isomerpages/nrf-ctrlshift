@@ -46,6 +46,7 @@ font-weight: 600;
 .img-pull-left{position: relative}
 .col-sm-12{width: 100%}
 .col-sm-8{width: 66%}
+.section-2-text-box{border: 3px solid #0037CC;background: #fff;padding: 20px;width: 340px;position: absolute;top: 25%;left: 80%;}
 #stem-section-2{margin: 50px 0 30px;}
 .stem-row-1{display: flex; flex-direction: column;)
 .stem-row-1 .title-section{margin-bottom: 30px}
