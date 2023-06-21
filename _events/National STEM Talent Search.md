@@ -30,7 +30,7 @@ display: none
 .col-12{width: 100%}
 .recruitment-row{display: flex; align-items: center; margin-bottom: 75px !important}
 .text-bold p{    
-font-size: 16px !important;
+font-size: 16px;
 line-height: 22px;
 font-weight: 600;
 }
@@ -114,7 +114,13 @@ font-weight: 600;
 	</div>
 </section>
 <section class="header-nav-white" id="stem-section-2" style="padding-top: 50px">
-	<div class="text-center">
-		<h1 class="title-section text-blue">Celebrating the Brilliance of Young Minds</h1>
+	<div class="container">
+		<div class="row mb-5 stem-row-1" style="">
+			<div class="col-sm-12">
+				<div class="text-center">
+					<h1 class="title-section text-blue">Celebrating the Brilliance of Young Minds</h1>
+				</div>
+			</div>
+		</div>
 	</div>
 </section>
