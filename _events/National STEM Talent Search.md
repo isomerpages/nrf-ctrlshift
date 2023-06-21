@@ -10,16 +10,6 @@ width: 100%;  
 height: 0;  
 padding-bottom: 56.25%;  
 }  
-.youtube-container{
-border: 5px solid #1237CA;
-    }
-.youtube-video {  
-position: absolute;  
-top: 0;  
-left: 0;  
-width: 100%;  
-height: 100%;  
-}
 .subtitle-main{
 color: #1237CA;
 font-weight: 500;
