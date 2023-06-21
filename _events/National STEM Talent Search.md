@@ -31,7 +31,7 @@ display: none
 .col-12{width: 100%}
 .recruitment-row{display: flex; align-items: center; margin-bottom: 75px !important}
 .text-bold p{    
-font-size: 16px;
+font-size: initial;
 line-height: 22px;
 font-weight: 600;
 }
