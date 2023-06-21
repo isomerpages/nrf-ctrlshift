@@ -46,6 +46,8 @@ font-weight: 600;
 .img-pull-left{position: relative}
 .col-sm-12{width: 100%}
 .col-sm-8{width: 66%}
+#stem-section-2{margin: 50px 0 30px;}
+.stem-row-1{display: flex; flex-direction: column;)
 @media (max-width: 600px) {
 
 .col-sm-6{width: 100%}
