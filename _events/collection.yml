@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - National STEM Talent Search.md
       - Truck Visits.md
