@@ -52,8 +52,8 @@ font-weight: 600;
 .stem-row-1 .title-section{margin-bottom: 30px}
 .stem-row-1 .section-2-text-box p{font-size: 16px; line-height: 22px;   font-weight: 600;}
 .section-2-text-box .icon-1{position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;}
-.section-2-text-box .icon-2{position: absolute;bottom: -30px;height: 60px;width: 120px;left: 25%;}
-.section-2-text-box .icon-3{position: absolute;bottom: -30px;height: 60px;width: 180px;left: 25%;}
+.section-2-text-box .icon-2{position: absolute;bottom: -30px;height: 60px;width: 60px;left: 59%;}
+.section-2-text-box .icon-3{position: absolute;bottom: -30px;height: 60px;width: 60px;left: 40%;}
 @media (max-width: 600px) {
 
 .col-sm-6{width: 100%}
