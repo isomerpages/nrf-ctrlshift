@@ -65,7 +65,12 @@ font-size: 20px;
     .text-blue{color: var(\--blue);
     .content pre{display: none}
     .bp-breadcrumb ul{padding-left: 0}
-
+.title-page-stem{
+	margin-bottom: 10px
+	}
+	.main-image-stem{
+	margin-bottom: 25px
+	}
         </style>
 <section class="header-nav-white" id="stem-section-1" style="padding-top: 0">
 	<div class="container">
@@ -75,7 +80,7 @@ font-size: 20px;
 					<img style="width: auto" class="title-page-stem" alt="National STEM Talent Search" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-title-web.png">
 				</div>
 				<div class="text-left mb-5">
-					<img style="width: auto" class="title-page-stem" alt="National STEM Talent Search" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-1.png">
+					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-1.png">
 				</div>
 				<div class="text-left text-bold pb-2">
 					<p>We've recently had the incredible opportunity to connect with some of the brightest minds in the country at the National STEM Talent Search (NSTS) and Singapore Science &amp; Engineering Fair Award Ceremony (SSEF) in collaboration with the Science Centre Board at the Science Centre.</p>
