@@ -42,7 +42,7 @@ font-weight: 600;
 .text-blue{color: var(\\-\-blue)}
 .content pre{display: none}
 .bp-breadcrumb ul{padding-left: 0}
-	.title-section{font-size: 48px;line-height: 50px;font-weight: 700;}
+.title-section{font-size: 48px;line-height: 50px;font-weight: 700; margin-bottom: 30px}
 .img-pull-left{position: relative}
 .col-sm-12{width: 100%}
 .col-sm-8{width: 66.6666%}
