@@ -54,7 +54,7 @@ font-weight: 600;
 .section-2-row-1 .icon-1{position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;}
 .section-2-row-1 .icon-2{position: absolute;bottom: -30px;height: 60px;width: 60px;left: 59%;}
 .section-2-row-1 .icon-3{position: absolute;bottom: -30px;height: 60px;width: 60px;left: 40%;}
- @media (max-width: 600px) {
+ @media (max-width: 1440px) {
   .img-pull-left p{font-size: 14px !important; line-height: 18px !important}
 }
 @media (max-width: 600px) {
