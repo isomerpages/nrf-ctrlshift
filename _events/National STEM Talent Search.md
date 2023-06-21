@@ -41,7 +41,7 @@ font-weight: 600;
 .text-blue{color: var(\\-\-blue)}
 .content pre{display: none}
 .bp-breadcrumb ul{padding-left: 0}
-	
+	.title-section{font-size: 48px;line-height: 50px;font-weight: 700;}
 @media (max-width: 600px) {
 
 .col-sm-6{width: 100%}
