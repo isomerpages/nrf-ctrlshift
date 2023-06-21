@@ -43,6 +43,7 @@ font-weight: 600;
 .content pre{display: none}
 .bp-breadcrumb ul{padding-left: 0}
 	.title-section{font-size: 48px;line-height: 50px;font-weight: 700;}
+.img-pull-left{position: relative}
 @media (max-width: 600px) {
 
 .col-sm-6{width: 100%}
@@ -122,9 +123,12 @@ font-weight: 600;
 					<h1 class="title-section text-blue">Celebrating the Brilliance of Young Minds</h1>
 				</div>
 			</div>
-			<div class="col-sm-8">
+			<div class="col-sm-8 desktop-only">
 				<div class="img-pull-left">
 					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2.png">
+					<div class="section-2-text-box">
+							<p>We couldn't wait to share our passion for STE with these budding young talents, and what better way to celebrate their achievements than with some delicious bubble tea and an exclusive sneak peek into our upcoming CTRL+SHIFT projects?</p>
+					</div>
 				</div>
 			</div>
 		</div>
