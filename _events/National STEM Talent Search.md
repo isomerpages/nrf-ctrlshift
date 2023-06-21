@@ -50,9 +50,7 @@ font-weight: 600;
 #stem-section-2{margin: 50px 0 30px;}
 .stem-row-1{display: flex; flex-direction: column;}
 .stem-row-1 .title-section{margin-bottom: 30px}
-
- @media (max-width: 600px) {.img-pull-left p{font-size: 14px !important; linheight: 18px !important}
-      }
+@media (max-width: 1440px) {.section-2-text-box p{font-size: 14px !important; line-height: 18px !important}
 @media (max-width: 600px) {
 
 .col-sm-6{width: 100%}
