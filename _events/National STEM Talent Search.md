@@ -84,3 +84,8 @@ font-size: 20px;
 		</div>
 	</div>
 </section>
+<section class="header-nav-white" id="stem-section-2" style="padding-top: 0">
+	<div class="text-center">
+		<h1 class="title-section text-blue">Who says Science+Tech+Engineering has to be boring?</h1>
+	</div>
+</section>
