@@ -113,7 +113,7 @@ font-weight: 600;
 		</div>
 	</div>
 </section>
-<section class="header-nav-white" id="stem-section-2" style="padding-top: 0">
+<section class="header-nav-white" id="stem-section-2" style="padding-top: 50px">
 	<div class="text-center">
 		<h1 class="title-section text-blue">Celebrating the Brilliance of Young Minds</h1>
 	</div>
