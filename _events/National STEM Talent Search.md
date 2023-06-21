@@ -40,6 +40,12 @@ font-size: 20px;
 		font-weight: 600;
 	}
 		@media (max-width: 600px) {.col-sm-6{width: 100%}
+	.title-page-stem{
+	margin-bottom: 10px
+	}
+	.main-image-stem{
+	margin-bottom: 25px
+	}
 .recruitment-row{display: flex; flex-direction: column; align-items: center; margin-bottom: 30px !important}
 	.subtitle-main{line-height: 1.5rem}
 	.desktop-only{display: none}
@@ -65,12 +71,7 @@ font-size: 20px;
     .text-blue{color: var(\--blue);
     .content pre{display: none}
     .bp-breadcrumb ul{padding-left: 0}
-.title-page-stem{
-	margin-bottom: 10px
-	}
-	.main-image-stem{
-	margin-bottom: 25px
-	}
+
         </style>
 <section class="header-nav-white" id="stem-section-1" style="padding-top: 0">
 	<div class="container">
