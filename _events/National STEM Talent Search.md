@@ -170,3 +170,12 @@ font-weight: 600;
 		</div>
 	</div>
 </section>
+<section class="header-nav-white mobile-only" id="stem-section-2" style="">
+	<div class="container">
+		<div class="row mb-5 stem-row-1" style="display: flex; align-items: center">
+			<div style="border: 3px solid #0037CC;background: #FFD400 ;padding: 20px;width: 100%; text-align: center; margin-top: 30px" class="yellow-box">
+				<p style="font-size: 16px; line-height: 22px;   font-weight: 600;">Stay tuned for our upcoming projects that will take you on an exciting journey to discover the world of STE like never before!</p>
+			</div>
+		</div>
+	</div>
+</section>
