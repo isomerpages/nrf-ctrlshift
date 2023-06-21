@@ -16,6 +16,7 @@ font-size: 48px;
 line-height: 50px;
 font-weight: 700;
 	color: #0037cc;
+	margin: 50px 0 30px
 	}
 .subtitle-main{
 color: #1237CA;
@@ -101,7 +102,7 @@ font-weight: 600;
 					<img style="width: auto" class="mobile-only title-page-stem" alt="National STEM Talent Search" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-title-mobile.png">
 				</div>
 				<div class="text-left mb-5">
-					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-1.png">
+					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-1.png">
 				
 				</div>
 				<div class="text-left text-bold pb-2">
@@ -113,12 +114,17 @@ font-weight: 600;
 		</div>
 	</div>
 </section>
-<section class="header-nav-white" id="stem-section-2" style="padding-top: 50px">
+<section class="header-nav-white" id="stem-section-2" style="">
 	<div class="container">
 		<div class="row mb-5 stem-row-1" style="">
 			<div class="col-sm-12">
 				<div class="text-center">
 					<h1 class="title-section text-blue">Celebrating the Brilliance of Young Minds</h1>
+				</div>
+			</div>
+			<div class="col-sm-8">
+				<div class="img-pull-left">
+					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2.png">
 				</div>
 			</div>
 		</div>
