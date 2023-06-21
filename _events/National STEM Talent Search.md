@@ -20,6 +20,7 @@ padding-bottom: 56.25%;  
 font-size: 48px;
 line-height: 50px;
 font-weight: 700;
+	color: #0037cc;
 	}
 .subtitle-main{
 
