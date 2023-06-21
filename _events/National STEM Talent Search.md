@@ -150,7 +150,7 @@ font-weight: 600;
 					<div style="border: 3px solid #0037CC;background: #fff;padding: 20px;width: 340px;position: absolute;top: 25%;right: 80%; left: auto" class="section-2-text-box">
 							<p style="font-size: 16px; line-height: 22px;   font-weight: 600;">We couldn't wait to share our passion for STE with these budding young talents, and what better way to celebrate their achievements than with some delicious bubble tea and an exclusive sneak peek into our upcoming CTRL+SHIFT projects?</p>
 					</div>
-					<img style="position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;" class="icon-1" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-caret-right-2.png">
+					<img style="position: absolute;bottom: 10px;height: 40px;width: 40px;right: 85%;" class="icon-1" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-caret-right-2.png">
 					<img style="position: absolute;bottom: -30px;right: -30%;height: 60px;width: 60px;" class="icon-2" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-arrow.png">
 					<img style="position: absolute;top: -30px;height: 60px;width: 60px;right: 50%;" class="icon-3" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-sun.png">
 				</div>
