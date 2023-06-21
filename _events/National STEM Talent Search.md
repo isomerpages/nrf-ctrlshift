@@ -52,6 +52,8 @@ font-weight: 600;
 .stem-row-1 .title-section{margin-bottom: 30px}
 .stem-row-1 .section-2-text-box p{font-size: 16px; line-height: 22px;   font-weight: 600;}
 .stem-row-1 .icon-1{position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;}
+.stem-row-1 .icon-1{position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;}
+.stem-row-1 .icon-1{position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;}
 @media (max-width: 600px) {
 
 .col-sm-6{width: 100%}
@@ -125,13 +127,13 @@ font-weight: 600;
 </section>
 <section class="header-nav-white" id="stem-section-2" style="">
 	<div class="container">
-		<div class="row mb-5 stem-row-1" style="">
+		<div class="row mb-5" style="">
 			<div class="col-sm-12">
 				<div class="text-center">
 					<h1 class="title-section text-blue">Celebrating the Brilliance of Young Minds</h1>
 				</div>
 			</div>
-			<div class="col-sm-8 desktop-only">
+			<div class="col-sm-8 stem-row-1 desktop-only">
 				<div class="img-pull-left">
 					<img style="width: auto" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2.png">
 					<div class="section-2-text-box">
