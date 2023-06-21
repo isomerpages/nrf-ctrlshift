@@ -34,8 +34,8 @@ font-size: 16px;
 line-height: 22px;
 font-weight: 600;
 }
-.title-page-stem{margin-bottom: 10px !important}
-.main-image-stem {margin-bottom: 25px !important}
+.title-page-stem{margin-bottom: 50px !important}
+.main-image-stem {margin-bottom: 40px !important}
 .desktop-only{display: block !important}
 .mobile-only{display: none !important}
 .text-blue{color: var(\\-\-blue)}
