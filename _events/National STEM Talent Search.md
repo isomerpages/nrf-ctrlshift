@@ -44,6 +44,8 @@ font-weight: 600;
 .bp-breadcrumb ul{padding-left: 0}
 	.title-section{font-size: 48px;line-height: 50px;font-weight: 700;}
 .img-pull-left{position: relative}
+.col-sm-12{width: 100%}
+.col-sm-8{width: 66%}
 @media (max-width: 600px) {
 
 .col-sm-6{width: 100%}
