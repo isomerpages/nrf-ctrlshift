@@ -6,15 +6,10 @@ description: ""
 <style>
 
 .container {  
-
 position: relative;  
-
 width: 100%;  
-
 height: 0;  
-
 padding-bottom: 56.25%;  
-
 }  
 .title-section{
 font-size: 48px;
@@ -23,53 +18,30 @@ font-weight: 700;
 	color: #0037cc;
 	}
 .subtitle-main{
-
 color: #1237CA;
-
 font-weight: 500;
-
 font-size: 20px;
-
 }
-
 .content pre{
-
 display: none
-
 }
-
 .text-center{text-align: center}
-
 .col-sm-6{width: 50%}
-
 .col-12{width: 100%}
-
-.desktop-only{display: block}
-
-.mobile-only{display: none}
-
 .recruitment-row{display: flex; align-items: center; margin-bottom: 75px !important}
-
 .text-bold p{    
-
 font-size: 16px;
-
 line-height: 22px;
-
 font-weight: 600;
-
 }
-
-.title-page-stem{margin-bottom: 10px}
-
-.main-image-stem{margin-bottom: 25px}
-
+.title-page-stem img{margin-bottom: 10px}
+.main-image-stem img {margin-bottom: 25px}
+.desktop-only{display: block}
+.mobile-only{display: none}
 .text-blue{color: var(\\-\-blue)}
-
 .content pre{display: none}
-
 .bp-breadcrumb ul{padding-left: 0}
-
+	
 @media (max-width: 600px) {
 
 .col-sm-6{width: 100%}
