@@ -36,8 +36,8 @@ font-weight: 600;
 }
 .title-page-stem img{margin-bottom: 10px}
 .main-image-stem img {margin-bottom: 25px}
-.desktop-only{display: block}
-.mobile-only{display: none}
+.desktop-only{display: block !important}
+.mobile-only{display: none !important}
 .text-blue{color: var(\\-\-blue)}
 .content pre{display: none}
 .bp-breadcrumb ul{padding-left: 0}
@@ -50,9 +50,9 @@ font-weight: 600;
 
 .subtitle-main{line-height: 1.5rem}
 
-.desktop-only{display: none}
+.desktop-only{display: none !important}
 
-.mobile-only{display: block}
+.mobile-only{display: block !important}
 
 .map-column{height: 200px}
 
