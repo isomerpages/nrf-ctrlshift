@@ -117,9 +117,9 @@ font-weight: 600;
 				
 				</div>
 				<div class="text-left text-bold pb-2">
-					<p>We've recently had the incredible opportunity to connect with some of the brightest minds in the country at the National STEM Talent Search (NSTS) and Singapore Science &amp; Engineering Fair Award Ceremony (SSEF) in collaboration with the Science Centre Board at the Science Centre.</p>
-					<p>NSTS is an annual competition that aims to motivate and give national recognition to students who excel in the fields of science and technology.</p>
-					<p>SSEF serves as a platform where aspiring scientists and engineers can display their passion in their respective fields by sharing their discoveries with industry experts.</p>
+					<p style="font-size: 16px; line-height: 22px;   font-weight: 600;">We've recently had the incredible opportunity to connect with some of the brightest minds in the country at the National STEM Talent Search (NSTS) and Singapore Science &amp; Engineering Fair Award Ceremony (SSEF) in collaboration with the Science Centre Board at the Science Centre.</p>
+					<p style="font-size: 16px; line-height: 22px;   font-weight: 600;">NSTS is an annual competition that aims to motivate and give national recognition to students who excel in the fields of science and technology.</p>
+					<p style="font-size: 16px; line-height: 22px;   font-weight: 600;">SSEF serves as a platform where aspiring scientists and engineers can display their passion in their respective fields by sharing their discoveries with industry experts.</p>
 				</div>
 			</div>
 		</div>
