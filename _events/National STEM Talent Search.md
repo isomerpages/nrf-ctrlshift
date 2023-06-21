@@ -50,7 +50,8 @@ font-weight: 600;
 #stem-section-2{margin: 50px 0 30px;}
 .stem-row-1{display: flex; flex-direction: column;)
 .stem-row-1 .title-section{margin-bottom: 30px}
-.section-2-text-box p{font-size: 16px; line-height: 22px;   font-weight: 600;}
+.stem-row-1 .section-2-text-box p{font-size: 16px; line-height: 22px;   font-weight: 600;}
+.stem-row-1 .icon-1{position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;}
 @media (max-width: 600px) {
 
 .col-sm-6{width: 100%}
@@ -136,9 +137,9 @@ font-weight: 600;
 					<div class="section-2-text-box">
 							<p>We couldn't wait to share our passion for STE with these budding young talents, and what better way to celebrate their achievements than with some delicious bubble tea and an exclusive sneak peek into our upcoming CTRL+SHIFT projects?</p>
 					</div>
-					<img style="width: auto" class="icon-1" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-water.png">
-					<img style="width: auto" class="icon-2" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-saturn.png">
-					<img style="width: auto" class="icon-3" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-caret-right-1.png">
+					<img class="icon-1" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-water.png">
+					<img class="icon-2" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-saturn.png">
+					<img class="icon-3" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-caret-right-1.png">
 				</div>
 			</div>
 		</div>
