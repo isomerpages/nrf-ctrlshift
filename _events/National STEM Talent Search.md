@@ -50,9 +50,9 @@ font-weight: 600;
 #stem-section-2{margin: 50px 0 30px;}
 .stem-row-1{display: flex; flex-direction: column;}
 .stem-row-1 .title-section{margin-bottom: 30px}
-.icon-4{position: absolute;bottom: 0;height: 40px;width: 40px !important;left: -15%;}
+.icon-4{position: absolute;bottom: 10px;height: 40px;width: 40px !important;left: -15%;}
 @media (max-width: 1440px) {
-.section-2-text-box p{font-size: 14px !important; line-height: 18px !important}.icon-4{position: absolute;bottom: 20px;height: 40px;width: 40px;left: -15%;}
+.section-2-text-box p{font-size: 14px !important; line-height: 18px !important}.icon-4{position: absolute;bottom: 0;height: 40px;width: 40px;left: -15%;}
 }
 @media (max-width: 600px) {
 
