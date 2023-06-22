@@ -154,11 +154,11 @@ font-weight: 600;
 				<div class="img-pull-left">
 					<img style="width: auto" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-3.png">
 					<div style="border: 3px solid #0037CC;background: #fff;padding: 20px;width: 340px;position: absolute;top: 9%;right: 80%; left: auto" class="section-2-text-box">
-							<p style="font-size: 16px; line-height: 22px;   font-weight: 600;">Our industry experts shared their inspiring stories and tips on what it's really like to work in their field, setting the stage for these students to explore the endless possibilities of STE. With boundless creativity and impressive knowledge, these aspiring students are the next generation to lead the charge in creating change with STE, and we're excited to see where their passions will take them next.</p>
+							<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/textbox-1.png">
 					</div>
-					<img style="" class="icon-4" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-caret-right-2.png">
+
 					<img style="position: absolute;bottom: -30px;right: -30px;height: 60px;width: 60px;" class="icon-2" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-arrow.png">
-					<img style="position: absolute;top: -30px;height: 60px;width: 60px;right: 50%;" class="icon-3" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-sun.png">
+
 				</div>
 			</div>
 		</div>
