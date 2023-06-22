@@ -1,6 +1,8 @@
 logo: /images/Site Settings/ctrlshiftlogo.png
 links:
   - title: About Us
+    url: /about-us
+  - title: About Us
     collection: about
   - title: Events
     collection: events
