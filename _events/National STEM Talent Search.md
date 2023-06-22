@@ -111,7 +111,7 @@ font-weight: 600;
 			<div class="col-sm-12">
 				<div class="text-left mb-2">
 					<img style="width: auto" class="desktop-only title-page-stem" alt="National STEM Talent Search" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-title-web.png">
-					<img style="width: 60%" class="mobile-only title-page-stem" alt="National STEM Talent Search" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-title-mobile.png">
+					<img style="width: 60%; margin-right: 40%" class="mobile-only title-page-stem" alt="National STEM Talent Search" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-title-mobile.png">
 				</div>
 				<div class="text-left mb-5">
 					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-1.png">
