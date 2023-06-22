@@ -52,7 +52,7 @@ font-weight: 600;
 .stem-row-1 .title-section{margin-bottom: 30px}
 	p{color: #000 !important}
 .icon-4{position: absolute;bottom: 10px;height: 40px;width: 40px !important;left: -15%;}
-@media (max-width: 1440px) {
+@media (max-width: 1280px) {
 .section-2-text-box p{font-size: 14px !important; line-height: 18px !important}.icon-4{position: absolute;bottom: 0;height: 40px;width: 40px;left: -15%;}
 }
 @media (max-width: 600px) {
