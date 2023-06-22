@@ -153,7 +153,7 @@ font-weight: 600;
 			<div style="margin-left: 33.333%; margin-top: 50px" class="col-sm-8 section-2-row-1 desktop-only">
 				<div class="img-pull-left">
 					<img style="width: auto" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-3.png">
-					<div style="border: 3px solid #0037CC;background: #fff;padding: 20px;width: 340px;position: absolute;top: 9%;right: 80%; left: auto" class="section-2-text-box">
+					<div style="width: 340px;position: absolute;top: 9%;right: 80%; left: auto" class="section-2-text-box">
 							<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/textbox-1.png">
 					</div>
 
