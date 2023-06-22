@@ -56,7 +56,7 @@ font-weight: 600;
 .section-2-text-box p{font-size: 14px !important; line-height: 18px !important}.icon-4{position: absolute;bottom: 0;height: 40px;width: 40px;left: -15%;}
 }
 @media (max-width: 600px) {
-
+.title-section{font-size: 30px;line-height: 35px;font-weight: 900; margin-bottom: 30px}
 .col-sm-6{width: 100%}
 
 .recruitment-row{display: flex; flex-direction: column; align-items: center; margin-bottom: 30px !important}
