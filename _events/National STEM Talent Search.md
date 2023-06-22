@@ -46,7 +46,7 @@ font-weight: 600;
 .img-pull-left{position: relative}
 .col-sm-12{width: 100%}
 .col-sm-8{width: 66.6666%}
-.section-2-text-box{border: 3px solid #0037CC;background: #fff;padding: 20px;width: 340px;position: absolute;top: 25%;left: 80%;}
+.section-2-text-box{width: 340px;position: absolute;top: 25%;left: 80%;}
 #stem-section-2{margin: 50px 0 30px;}
 .stem-row-1{display: flex; flex-direction: column;}
 .stem-row-1 .title-section{margin-bottom: 30px}
@@ -144,11 +144,10 @@ font-weight: 600;
 				<div class="img-pull-left">
 					<img style="width: auto" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2.png">
 					<div class="section-2-text-box">
-							<p style="font-size: 16px; line-height: 22px;   font-weight: 600;">We couldn't wait to share our passion for STE with these budding young talents, and what better way to celebrate their achievements than with some delicious bubble tea and an exclusive sneak peek into our upcoming CTRL+SHIFT projects?</p>
+							<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/textbox-1.png">
 					</div>
 					<img style="position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;" class="icon-1" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-water.png">
-					<img style="position: absolute;top: calc(25% - 20px);left: 95%;height: 40px;width: 40px;" class="icon-2" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-saturn.png">
-					<img style="position: absolute;top: calc(25% + 156px);height: 40px;width: 40px;left: calc(80% + 220px);" class="icon-3" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-caret-right-1.png">
+				
 				</div>
 			</div>
 			<div style="margin-left: 33.333%; margin-top: 50px" class="col-sm-8 section-2-row-1 desktop-only">
