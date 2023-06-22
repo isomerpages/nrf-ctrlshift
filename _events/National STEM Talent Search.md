@@ -75,7 +75,7 @@ font-weight: 600;
 
 .school-box-list{width: 90% !important}
 
-.title-section{width: 80%; margin: auto}
+.title-section{width: 100%; margin: auto}
 
 .mobile-row-padding{padding: 0 20px}
 
