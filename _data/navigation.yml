@@ -4,6 +4,8 @@ links:
     collection: about
   - title: Events
     url: /truck-visits
+  - title: Events
+    collection: events
   - title: Careers
     collection: careers
   - title: Stories
