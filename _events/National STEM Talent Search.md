@@ -134,7 +134,7 @@ font-weight: 600;
 			</div>
 			<div class="col-sm-12 mobile-only">
 				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2-mobile.png" style="width: 100%">
-				<p style="font-size: 16px; line-height: 22px;font-weight: 600;">We couldn't wait to share our passion for STE with these budding young talents, and what better way to celebrate their achievements than with some delicious bubble tea and an exclusive sneak peek into our upcoming CTRL+SHIFT projects?</p>
+				<p style="font-size: 16px; line-height: 22px;font-weight: 600;">We were excited to share innovative projects from public service STE agencies with these budding young talents, and what better way to celebrate their achievements than with some delicious bubble tea and an exclusive sneak peek into our upcoming CTRL+SHIFT projects?</p>
 				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-3-mobile.png" style="width: 100%">
 				<p style="font-size: 16px; line-height: 22px;font-weight: 600;">Our industry experts shared their inspiring stories and tips on what it's really like to work in their field, setting the stage for these students to explore the endless possibilities of STE. With boundless creativity and impressive knowledge, these aspiring students are the next generation to lead the charge in creating change with STE, and we're excited to see where their passions will take them next.</p>
 			</div>
