@@ -118,8 +118,10 @@ font-weight: 600;
 				
 				</div>
 				<div class="text-left text-bold pb-2">
-					<p by="" display="" for="" is="" in="" style="font-size: 16px; line-height: 22px;   font-weight: 600;">
-				</p></div>
+					<p style="font-size: 16px; line-height: 22px;   font-weight: 600;">
+						We recently had the incredible opportunity to connect with some of the brightest minds in the country at the National STEM Talent Search (NSTS) and Singapore Science &amp; Engineering Fair Award Ceremony (SSEF) at the Science Centre. NSTS is an annual competition that aims to inspire and provide national recognition to outstanding students who excel in the realms of science and tech. It serves as a remarkable platform for Singaporean students aged 15 to 21 years old to showcase their projects and further fuel their passion for science, tech, and engineering. SSEF serves as a platform where aspiring scientists and engineers can display their passion in their respective fields by sharing their discoveries with industry experts.
+				</p>
+				</div>
 			</div>
 		</div>
 	</div>
