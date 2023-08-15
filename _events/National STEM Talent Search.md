@@ -115,7 +115,6 @@ font-weight: 600;
 				</div>
 				<div class="text-left mb-5">
 					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-1.png">
-				
 				</div>
 				<div class="text-left text-bold pb-2">
 					<p style="font-size: 16px; line-height: 22px;   font-weight: 600;">
