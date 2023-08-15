@@ -124,37 +124,39 @@ font-weight: 600;
 		</div>
 	</div>
 </section>
-<section class="header-nav-white" id="stem-section-2" style="">
+<section style="" id="stem-section-2" class="header-nav-white">
 	<div class="container">
-		<div class="row mb-5 stem-row-1" style="">
+		<div style="" class="row mb-5 stem-row-1">
 			<div class="col-sm-12">
 				<div class="text-center">
-					<h1 style="margin-bottom: 70px; margin-top: 40px" class="title-section text-blue">Building the Yellow Brick Road to the Future Where Innovation and Technology Unite</h1>
+					<h1 class="title-section text-blue" style="margin-bottom: 70px; margin-top: 40px">Celebrating the Brilliance of Young Minds</h1>
 				</div>
 			</div>
 			<div class="col-sm-12 mobile-only">
-				<img style="width: 100%" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2-mobile.png">
-				<p style="font-size: 16px; line-height: 22px;font-weight: 600;">We recently had the incredible opportunity to connect with some of the brightest minds in the country at the National STEM Talent Search (NSTS) and Singapore Science &amp; Engineering Fair Award Ceremony (SSEF) at the Science Centre. NSTS is an annual competition that aims to inspire and provide national recognition to outstanding students who excel in the realms of science and tech. It serves as a remarkable platform for Singaporean students aged 15 to 21 years old to showcase their projects and further fuel their passion for science, tech, and engineering. SSEF serves as a platform where aspiring scientists and engineers can display their passion in their respective fields by sharing their discoveries with industry experts.</p>
+				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2-mobile.png" style="width: 100%">
+				<p style="font-size: 16px; line-height: 22px;font-weight: 600;">We couldn't wait to share our passion for STE with these budding young talents, and what better way to celebrate their achievements than with some delicious bubble tea and an exclusive sneak peek into our upcoming CTRL+SHIFT projects?</p>
+				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-3-mobile.png" style="width: 100%">
+				<p style="font-size: 16px; line-height: 22px;font-weight: 600;">Our industry experts shared their inspiring stories and tips on what it's really like to work in their field, setting the stage for these students to explore the endless possibilities of STE. With boundless creativity and impressive knowledge, these aspiring students are the next generation to lead the charge in creating change with STE, and we're excited to see where their passions will take them next.</p>
 			</div>
 			<div class="col-sm-8 section-2-row-1 desktop-only">
 				<div class="img-pull-left">
-					<img style="width: auto" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2.png">
+					<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2.png" alt="National STEM Talent Search Img 1" style="width: auto">
 					<div class="section-2-text-box">
-							<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/textbox-1-web.png">
+							<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/textbox-1.png">
 					</div>
-					<img style="position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;" class="icon-1" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-water.png">
+					<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-water.png" alt="National STEM Talent Search Img 1" class="icon-1" style="position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;">
 				
 				</div>
 			</div>
-			<div style="margin-left: 33.333%; margin-top: 50px" class="col-sm-8 section-2-row-1 desktop-only">
+			<div class="col-sm-8 section-2-row-1 desktop-only" style="margin-left: 33.333%; margin-top: 50px">
 				<div class="img-pull-left">
-					<img style="width: auto" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-3.png">
-						<div style="width: 340px;position: absolute;top: 9%;right: 80%; left: auto" class="section-2-text-box">
+					<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-3.png" alt="National STEM Talent Search Img 1" style="width: auto">
+						<div class="section-2-text-box" style="width: 340px;position: absolute;top: 9%;right: 80%; left: auto">
 							<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/textbox-2.png">
 					</div>
 
-					<img style="position: absolute;bottom: -30px;right: -30px;height: 60px;width: 60px;" class="icon-2" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-arrow.png">
-					<img style="position: absolute;top: -30px;height: 60px;width: 60px;right: 50%;" class="icon-3" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-sun.png">
+					<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-arrow.png" alt="National STEM Talent Search Img 1" class="icon-2" style="position: absolute;bottom: -30px;right: -30px;height: 60px;width: 60px;">
+					<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-sun.png" alt="National STEM Talent Search Img 1" class="icon-3" style="position: absolute;top: -30px;height: 60px;width: 60px;right: 50%;">
 				</div>
 			</div>
 		</div>
