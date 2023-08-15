@@ -119,7 +119,7 @@ font-weight: 600;
 				</div>
 				<div class="text-left text-bold pb-2">
 					<p style="font-size: 16px; line-height: 22px;   font-weight: 600;">
-						We recently had the incredible opportunity to connect with some of the brightest minds in the country at the National STEM Talent Search (NSTS) and Singapore Science &amp; Engineering Fair Award Ceremony (SSEF) at the Science Centre. <br> <br> NSTS is an annual competition that aims to inspire and provide national recognition to outstanding students who excel in the realms of science and tech. It serves as a remarkable platform for Singaporean students aged 15 to 21 years old to showcase their projects and further fuel their passion for science, tech, and engineering. <br> <br> SSEF serves as a platform where aspiring scientists and engineers can display their passion in their respective fields by sharing their discoveries with industry experts.
+						We recently had the incredible opportunity to connect with some of the brightest minds in the country at the National STEM Talent Search (NSTS) and Singapore Science &amp; Engineering Fair Award Ceremony (SSEF) at the Science Centre. NSTS is an annual competition that aims to inspire and provide national recognition to outstanding students who excel in the realms of science and tech. It serves as a remarkable platform for Singaporean students aged 15 to 21 years old to showcase their projects and further fuel their passion for science, tech, and engineering. SSEF serves as a platform where aspiring scientists and engineers can display their passion in their respective fields by sharing their discoveries with industry experts.
 				</p>
 				</div>
 			</div>
@@ -136,9 +136,9 @@ font-weight: 600;
 			</div>
 			<div class="col-sm-12 mobile-only">
 				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2-mobile.png" style="width: 100%">
-				<p style="font-size: 16px; line-height: 22px;font-weight: 600;">We were excited to share innovative projects from public service STE agencies with these budding young talents, and what better way to celebrate their achievements than with some delicious bubble tea and an exclusive sneak peek into our upcoming CTRL+SHIFT projects?</p>
+				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-text-1-mobile.png" style="width: 100%">
 				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-3-mobile.png" style="width: 100%">
-				<p style="font-size: 16px; line-height: 22px;font-weight: 600;">Our industry experts shared their inspiring stories and tips on what it's really like to work in their field, setting the stage for these students to explore the endless possibilities of STE. With boundless creativity and impressive knowledge, these aspiring students are the next generation to lead the charge in creating change with STE, and we're excited to see where their passions will take them next.</p>
+				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-text-2-mobile.png" style="width: 100%">
 			</div>
 			<div class="col-sm-8 section-2-row-1 desktop-only">
 				<div class="img-pull-left">
