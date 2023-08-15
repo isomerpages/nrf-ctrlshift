@@ -136,9 +136,9 @@ font-weight: 600;
 			</div>
 			<div class="col-sm-12 mobile-only">
 				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2-mobile.png" style="width: 100%">
-				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-text-1-mobile.png" style="width: 100%">
+				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-text-1-mobile.png" style="width: 80%;  margin: 15px 0 25px">
 				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-3-mobile.png" style="width: 100%">
-				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-text-2-mobile.png" style="width: 100%">
+				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-text-2-mobile.png" style="width: 80%; margin: 15px 0 25px">
 			</div>
 			<div class="col-sm-8 section-2-row-1 desktop-only">
 				<div class="img-pull-left">
