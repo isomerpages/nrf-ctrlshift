@@ -129,7 +129,7 @@ font-weight: 600;
 		<div class="row mb-5 stem-row-1" style="">
 			<div class="col-sm-12">
 				<div class="text-center">
-					<h1 style="margin-bottom: 70px; margin-top: 40px" class="title-section text-blue">Celebrating the Brilliance of Young Minds</h1>
+					<h1 style="margin-bottom: 70px; margin-top: 40px" class="title-section text-blue">Building the Yellow Brick Road to the Future Where Innovation and Technology Unite</h1>
 				</div>
 			</div>
 			<div class="col-sm-12 mobile-only">
