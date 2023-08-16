@@ -3,7 +3,7 @@ links:
   - title: About Us
     url: /about-us
   - title: Events
-    url: /truck-visits
+    collection: events
   - title: Careers
     collection: careers
   - title: Stories
