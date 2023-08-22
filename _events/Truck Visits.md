@@ -6,9 +6,7 @@ description: ""
 ```
 ```
 <style>
-           .gallery-image{
-								padding: 0 5px
-					}
+           
             .map-truck {
                 width: 808px;
                 margin: 110px auto 0;
@@ -13498,6 +13496,9 @@ description: ""
 								transform: translate(-10px, -3px);
 								transition: 0.2s
 						}
+	.gallery-image{
+								padding: 0 5px
+					}
 							.inner-gallery-button{
 								 background-color: #0037CC;
                 color: #fff;
