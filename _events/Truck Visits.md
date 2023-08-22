@@ -6,7 +6,9 @@ description: ""
 ```
 ```
 <style>
-           
+           .gallery-image{
+								padding: 0 5px
+					}
             .map-truck {
                 width: 808px;
                 margin: 110px auto 0;
