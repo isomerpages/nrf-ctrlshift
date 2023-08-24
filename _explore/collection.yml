@@ -1,5 +1,5 @@
 collections:
-  events:
+  explore:
     output: true
     order:
       - Events/Truck Visits.md
