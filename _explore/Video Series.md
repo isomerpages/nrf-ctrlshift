@@ -187,12 +187,11 @@ ol, li {
   position: relative;
   flex: 0 0 100%;
   width: 100%;
-  background-color: #f99;
-  counter-increment: item;
+
 }
 
 .carousel__slide:nth-child(even) {
-  background-color: #99f;
+
 }
 
 .carousel__slide:before {
@@ -212,6 +211,7 @@ ol, li {
   width: 100%;
   height: 100%;
   scroll-snap-align: center;
+	margin-top: 50px
 }
 
 @media (hover: hover) {
@@ -332,7 +332,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 <section aria-label="Gallery" class="video-carousel carousel">
   <ol class="carousel__viewport">
     <li class="carousel__slide" tabindex="0" id="carousel__slide1">
-      <div class="carousel__snapper">
+      <div class="carousel__snapper"><img style="width: 100px !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-label.png">
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="100%" width="100%"></iframe>
       </div>
     </li>
