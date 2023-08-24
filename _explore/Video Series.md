@@ -18,8 +18,10 @@ description: ""
   display: table;
 }
 .video-series {
-    width:60%;
+    width:100%;
 	  text-align: center; 
+		display: flex;
+	margin-bottom: 25px
 }
 .video-series img {
     max-width:100%;
@@ -34,7 +36,9 @@ description: ""
     height:auto;
 }
 	.video-series-header-img{
-		width: 434px
+		width: 434px !important;
+
+	
 	}
 	.desktop-only{
 	display: block !important
