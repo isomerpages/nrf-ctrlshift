@@ -92,20 +92,3 @@ description: ""
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play and live.
 </div>
 
-<div class="purpose">
-    <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header.png">
-</div>
-
-
-CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of students and influencers alike for the STE courses and careers in the public sector. 
-
-
-
-<div class="logos">
-		<div class="column">
-			<img src="/images/About%20Us/psd%20logo%20for%20web.jpg">
-		</div>
-		<div class="column">
-			<img src="/images/About%20Us/STE%20Logo%20for%20web.jpg">
-		</div>
-	</div>
