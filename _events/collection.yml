@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - Events/Truck Visits.md
       - Events/National STEM Talent Search.md
       - Events/.keep
