@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - Video Series.md
       - Events/Truck Visits.md
       - Events/National STEM Talent Search.md
       - Events/.keep
