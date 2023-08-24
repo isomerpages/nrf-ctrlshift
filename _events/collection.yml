@@ -3,5 +3,4 @@ collections:
     output: true
     order:
       - Events/.keep
-      - National STEM Talent Search.md
       - Truck Visits.md
