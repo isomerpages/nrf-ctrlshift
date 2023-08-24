@@ -42,6 +42,10 @@ description: ""
 	.mobile-only{
 	display: none
 	}
+	.video-series-header-entries{
+	font-weight: 800;
+	text-align: center
+	}
 @media only screen and (max-width: 768px) {
     .about {
         width:80%;
@@ -67,6 +71,10 @@ description: ""
 	.video-series-header-img{
 		width: 100%
 	}
+	.video-series-header-entries{
+	font-weight: 800;
+	text-align: left
+	}
 	.desktop-only{
 	display: none
 	}
@@ -80,9 +88,9 @@ description: ""
     <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header.png">
 	 <img class="mobile-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header.png">
 </div>
-
+<div class="video-series-header-entries">
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play and live.
-
+</div>
 
 <div class="purpose">
     <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header.png">
