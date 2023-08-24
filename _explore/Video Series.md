@@ -318,8 +318,8 @@ ol, li {
 	.carousel\_\_navigation-button{
 	width: 100% !important
 	}
-	.carousel__navigation-list{
-	    margin-top: -20px !important
+	.carousel__navigation{
+	    bottom: -34px !important
 	}
 	</style>
 <div class="video-series">
@@ -333,17 +333,17 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
   <ol class="carousel__viewport">
     <li class="carousel__slide" tabindex="0" id="carousel__slide1">
       <div class="carousel__snapper">
-				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="315" width="560"></iframe>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="100%" width="100%"></iframe>
       </div>
     </li>
     <li class="carousel__slide" tabindex="0" id="carousel__slide2">
-      <div class="carousel__snapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="315" width="560"></iframe></div>
+      <div class="carousel__snapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="100%" width="100%"></iframe></div>
     </li>
     <li class="carousel__slide" tabindex="0" id="carousel__slide3">
-      <div class="carousel__snapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="315" width="560"></iframe></div>
+      <div class="carousel__snapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="100%" width="100%"></iframe></div>
     </li>
     <li class="carousel__slide" tabindex="0" id="carousel__slide4">
-      <div class="carousel__snapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="315" width="560"></iframe></div>
+      <div class="carousel__snapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="100%" width="100%"></iframe></div>
     </li>
   </ol>
   <aside class="carousel__navigation">
