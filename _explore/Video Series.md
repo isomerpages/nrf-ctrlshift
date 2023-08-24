@@ -218,7 +218,7 @@ ol, li {
   .carousel__snapper {
     animation-name: tonext, snap;
     animation-timing-function: ease;
-    animation-duration: 4s;
+    animation-duration: 40000000s;
     animation-iteration-count: infinite;
   }
 
@@ -263,8 +263,7 @@ ol, li {
   transition: transform 0.1s;
 }
 
-.carousel::before,
-.carousel::after,
+
 .carousel__prev,
 .carousel__next {
   position: absolute;
@@ -310,7 +309,18 @@ ol, li {
 .carousel::after {
   background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 100 100' xmlns='http://www.w3.org/2000/svg'%3E%3Cpolygon points='100,50 20,100 20,0' fill='%23fff'/%3E%3C/svg%3E");
 }
-
+	.content ol{
+	width: 100%
+	}
+.content ol>li, .content ul>li{
+	width: 24% !important
+	}
+	.carousel\_\_navigation-button{
+	width: 100% !important
+	}
+	.carousel__navigation-list{
+	    margin-top: -20px !important
+	}
 	</style>
 <div class="video-series">
     <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header.png">
@@ -323,39 +333,32 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
   <ol class="carousel__viewport">
     <li class="carousel__slide" tabindex="0" id="carousel__slide1">
       <div class="carousel__snapper">
-        <a class="carousel__prev" href="#carousel__slide4">Go to last slide</a>
-        <a class="carousel__next" href="#carousel__slide2">Go to next slide</a>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="315" width="560"></iframe>
       </div>
     </li>
     <li class="carousel__slide" tabindex="0" id="carousel__slide2">
-      <div class="carousel__snapper"></div>
-      <a class="carousel__prev" href="#carousel__slide1">Go to previous slide</a>
-      <a class="carousel__next" href="#carousel__slide3">Go to next slide</a>
+      <div class="carousel__snapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="315" width="560"></iframe></div>
     </li>
     <li class="carousel__slide" tabindex="0" id="carousel__slide3">
-      <div class="carousel__snapper"></div>
-      <a class="carousel__prev" href="#carousel__slide2">Go to previous slide</a>
-      <a class="carousel__next" href="#carousel__slide4">Go to next slide</a>
+      <div class="carousel__snapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="315" width="560"></iframe></div>
     </li>
     <li class="carousel__slide" tabindex="0" id="carousel__slide4">
-      <div class="carousel__snapper"></div>
-      <a class="carousel__prev" href="#carousel__slide3">Go to previous slide</a>
-      <a class="carousel__next" href="#carousel__slide1">Go to first slide</a>
+      <div class="carousel__snapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="315" width="560"></iframe></div>
     </li>
   </ol>
   <aside class="carousel__navigation">
     <ol class="carousel__navigation-list">
       <li class="carousel__navigation-item">
-        <a class="carousel__navigation-button" href="#carousel__slide1">Go to slide 1</a>
+        <a class="carousel__navigation-button" href="#carousel__slide1"><img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/dummy-vids.jpg"></a>
       </li>
       <li class="carousel__navigation-item">
-        <a class="carousel__navigation-button" href="#carousel__slide2">Go to slide 2</a>
+        <a class="carousel__navigation-button" href="#carousel__slide2"><img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/dummy-vids.jpg"></a>
       </li>
       <li class="carousel__navigation-item">
-        <a class="carousel__navigation-button" href="#carousel__slide3">Go to slide 3</a>
+        <a class="carousel__navigation-button" href="#carousel__slide3"><img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/dummy-vids.jpg"></a>
       </li>
       <li class="carousel__navigation-item">
-        <a class="carousel__navigation-button" href="#carousel__slide4">Go to slide 4</a>
+        <a class="carousel__navigation-button" href="#carousel__slide4"><img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/dummy-vids.jpg"></a>
       </li>
     </ol>
   </aside>
