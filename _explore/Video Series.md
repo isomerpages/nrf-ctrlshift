@@ -37,10 +37,10 @@ description: ""
 		width: 434px
 	}
 	.desktop-only{
-	display: block
+	display: block !important
 	}
 	.mobile-only{
-	display: none
+	display: none !important
 	}
 	.video-series-header-entries{
 	font-weight: 800;
@@ -76,10 +76,10 @@ description: ""
 	text-align: left
 	}
 	.desktop-only{
-	display: none
+	display: none !important
 	}
 	.mobile-only{
-	display: block
+	display: block !important
 	}
 }
 </style>
@@ -91,4 +91,3 @@ description: ""
 <div class="video-series-header-entries">
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play and live.
 </div>
-
