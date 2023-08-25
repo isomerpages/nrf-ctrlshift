@@ -323,7 +323,10 @@ ol, li {
 	.carousel__navigation{
 	    bottom: -44px !important
 	}
-	.carousel__navigation-list > li:focus{
+	.carousel\_\_navigation-list > li img{
+	border: 5px solid #fff
+	}
+	.carousel\_\_navigation-list > li img:focus, .carousel\_\_navigation-list > li img:visited, .carousel\_\_navigation-list > li img:active{
 	border: 5px solid #0037cc
 	}
 	</style>
