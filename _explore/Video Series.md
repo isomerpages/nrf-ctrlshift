@@ -319,7 +319,7 @@ ol, li {
 	width: 100% !important
 	}
 	.carousel__navigation{
-	    bottom: -34px !important
+	    bottom: -40px !important
 	}
 	</style>
 <div class="video-series">
