@@ -191,15 +191,15 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
         <div class="row mt-5 mb-2" style="margin-bottom: 60px">
                                 <div class="col-12">
                                     <div style="border:5px solid #1237CA;" class="youtube-container">
-                                    <iframe width="100%" height="450px" src="https://www.youtube.com/embed/cA6CQanEtMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" class="youtube-video desktop-only"></iframe>
-                                        <iframe width="100%" height="250px" src="https://www.youtube.com/embed/cA6CQanEtMk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" class="youtube-video mobile-only"></iframe>
+                                    <iframe width="100%" height="450px" src="https://www.youtube.com/embed/buOddSlLB10?si=XTJXAxX6unDAKHJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" class="youtube-video desktop-only"></iframe>
+                                        <iframe width="100%" height="250px" src="https://www.youtube.com/embed/buOddSlLB10?si=XTJXAxX6unDAKHJF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="" class="youtube-video mobile-only"></iframe>
                                     </div>
                             </div>
                     </div>
 <div class="row">
                     <div class="col-12">
             <div style="text-align: center" class="text-center pt-5 pb-1">
-                                    <p class="subtitle-main"><b>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</b></p>
+                                    <p class="subtitle-main">Through the hustle and bustle of our daily routines, it’s easy to miss the hidden existence of STE in our everyday lives. Brace yourself for a mind-bending revelation! Whether we're travelling around the globe or indulging in playtime, STE is the master puppeteer, skillfully pulling the strings. Get ready for an exclusive peek behind the curtain as we unveil the mind-blowing secrets of how STE truly reigns over our world. And hold on tight, because this exhilarating journey will leave you questioning reality itself!   Are you ready to soar beyond the limits of what you thought possible?</p>
             </div>
         </div>
                     </div>
