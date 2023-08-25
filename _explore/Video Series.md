@@ -316,15 +316,15 @@ ol, li {
 	.content ol{
 	width: 100%
 	}
-.content ol>li, .content ul>li{
+.content ol.carousel\_\_viewport>li{
 	width: 24% !important;
-	height: 500px
+	height: 450px
 	}
 	.carousel__navigation-button{
 	width: 100% !important
 	}
 	.carousel__navigation{
-	    bottom: -44px !important
+	    bottom: -160px !important
 	}
 	.carousel\_\_navigation-list > li img{
 	border: 5px solid #fff
@@ -337,6 +337,9 @@ ol, li {
 	}
 	.carousel\_\_viewport{
 	overflow-y: visible
+	}
+	.carousel{
+	padding-bottom: 400px
 	}
 	</style>
 <div class="video-series">
