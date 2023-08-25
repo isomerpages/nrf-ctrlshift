@@ -359,6 +359,14 @@ font-family: Lato,sans-serif;
 font-size: 1.25rem;
 line-height: 2rem;
 	}
+@media only screen and (max-width: 768px) {
+		.content ol.carousel\_\_viewport>li{
+	height: 230px
+	}
+	.carousel\_\_navigation{
+ top: 306px !important;
+	}
+}
 	</style>
 <div class="video-series">
     <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header.png">
