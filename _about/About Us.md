@@ -150,6 +150,7 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
 	.title-page-recruitment{width: 400px}
 	@media only screen and (max-width: 768px) {
    .title-page-recruitment{width: 100%}
+	}
 	</style>
 <section>
 <div class="logos">
