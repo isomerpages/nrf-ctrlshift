@@ -171,7 +171,7 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
         </div>
                     <div class="col-sm-6">
             <div class="text-left pb-1">
-                                    <p class="subtitle-main subtitle-top"><b>Have you ever wondered how STE impacts us in our everyday lives?</b><br><br> <b>Watch this video to see how the different aspects of STE has transformed and inspired our way of living.</b></p>
+                                    <p class="subtitle-main subtitle-top">Who says Science, Tech, and Engineering has to be boring? Prepare to have your perspective shifted as we shatter your stereotypes and show you a new perspective of STE like never before!</p>
             </div>
         </div>
                     </div>
