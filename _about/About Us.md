@@ -73,7 +73,7 @@ description: ""
 .content.subtitle-main{padding: 0 20px}
 .title-item-truck h2{font-size: 18px}
 .title-item-truck h2{line-height: 25px}
-.content center,.content li,.content p.subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 140%; font-size: 16px}
+
 .subtitle-main b{font-size: 16px !important}
 .content p:last-child{margin-bottom: 10px !important}
 .subtitle-top{text-align: center}
