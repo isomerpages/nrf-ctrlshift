@@ -316,8 +316,10 @@ ol, li {
 	.content ol{
 	width: 100%
 	}
-.content ol.carousel\_\_viewport>li{
+.content ol>li{
 	width: 24% !important;
+	}
+	.content ol.carousel\_\_viewport>li{
 	height: 450px
 	}
 	.carousel__navigation-button{
