@@ -181,6 +181,8 @@ ol, li {
   counter-reset: item;
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
+	margin-top: 40px !important;
+	margin-left: 0;
 }
 
 .carousel__slide {
@@ -319,7 +321,7 @@ ol, li {
 	width: 100% !important
 	}
 	.carousel__navigation{
-	    bottom: -47px !important
+	    bottom: -44px !important
 	}
 	</style>
 <div class="video-series">
