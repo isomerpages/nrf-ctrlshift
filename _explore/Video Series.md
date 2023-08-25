@@ -363,11 +363,15 @@ line-height: 2rem;
 		.content ol.carousel\_\_viewport>li{
 	height: 230px
 	}
+	.carousel{
+ padding-bottom: 750px;
+	}
 	.carousel\_\_navigation{
  top: 306px !important;
 	}
 	.video-content{top: 320px}
 }
+	.video-series-header-entries{font-weight: auto}
 	</style>
 <div class="video-series">
     <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header.png">
