@@ -326,7 +326,7 @@ ol, li {
 	width: 100% !important
 	}
 	.carousel__navigation{
-	    bottom: -160px !important
+     top: 525px !important;
 	}
 	.carousel\_\_navigation-list > li img{
 	border: 5px solid #fff
@@ -335,7 +335,8 @@ ol, li {
 	border: 5px solid #0037cc
 	}
 	.video-content{
-	position: absolute
+	position: absolute;
+	top: 590px
 	}
 	.carousel\_\_viewport{
 	overflow-y: visible
