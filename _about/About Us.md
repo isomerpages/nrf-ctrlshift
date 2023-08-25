@@ -161,7 +161,7 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
 			<img src="/images/About%20Us/STE%20Logo%20for%20web.jpg">
 		</div>
 	</div>
-	</section><section class="header-nav-white" id="header-truck" style="padding-top: 0">
+	</section><section class="header-nav-white" id="header-truck" style="padding-top: 70px; margin-top: 25px; border-top: 1px solid #000">
     <div style="position: relative" class="container">
       <div class="row mb-5 recruitment-row" style="">
         <div class="col-sm-6">
