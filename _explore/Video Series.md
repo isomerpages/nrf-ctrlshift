@@ -182,7 +182,7 @@ ol, li {
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
 	margin-top: 40px !important;
-	margin-left: 0;
+	margin-left: 0 !important;
 }
 
 .carousel__slide {
@@ -251,6 +251,7 @@ ol, li {
 .carousel__navigation-list,
 .carousel__navigation-item {
   display: inline-block;
+ margin-left: 0 !important;
 }
 
 .carousel__navigation-button {
