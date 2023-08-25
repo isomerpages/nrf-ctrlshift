@@ -47,7 +47,10 @@ description: ""
 	display: none !important
 	}
 	.video-series-header-entries{
-	font-weight: 800;
+	text-align: center;
+font-family: Lato,sans-serif;
+font-size: 1.25rem;
+line-height: 2rem;
 	text-align: center
 	}
 @media only screen and (max-width: 768px) {
@@ -351,7 +354,10 @@ ol, li {
 	color: #000
 	}
 	.video-detail{
-		color: #000
+		text-align: center;
+font-family: Lato,sans-serif;
+font-size: 1.25rem;
+line-height: 2rem;
 	}
 	</style>
 <div class="video-series">
