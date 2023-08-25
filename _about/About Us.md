@@ -156,10 +156,9 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
 			<img src="/images/About%20Us/STE%20Logo%20for%20web.jpg">
 		</div>
 	</div>
-	</section>
-	<section class="header-nav-white" id="header-truck" style="padding-top: 0">
+	</section><section class="header-nav-white" id="header-truck" style="padding-top: 0">
     <div style="position: relative" class="container">
-                    <div class="row mb-5 recruitment-row" style="">
+      <div class="row mb-5 recruitment-row" style="">
         <div class="col-sm-6">
             <div class="text-left pb-1">
                 <img style="width: auto" class="title-page-truck" alt="title page truck" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/About%20Us/group%2014114.png">
