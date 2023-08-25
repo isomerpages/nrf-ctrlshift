@@ -146,7 +146,6 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
         max-width:100%;
     }
 }
-	
 	</style>
 <section>
 <div class="logos">
