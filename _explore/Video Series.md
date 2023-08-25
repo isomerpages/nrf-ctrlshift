@@ -336,6 +336,7 @@ ol, li {
 	}
 	.video-content{
 	position: absolute;
+	text-align: center;
 	top: 590px
 	}
 	.carousel\_\_viewport{
@@ -343,6 +344,9 @@ ol, li {
 	}
 	.carousel{
 	padding-bottom: 400px
+	}
+	.video-title{
+	
 	}
 	</style>
 <div class="video-series">
