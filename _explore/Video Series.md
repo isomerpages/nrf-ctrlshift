@@ -317,7 +317,7 @@ ol, li {
 .content ol>li, .content ul>li{
 	width: 24% !important
 	}
-	.carousel\_\_navigation-button{
+	.carousel__navigation-button{
 	width: 100% !important
 	}
 	.carousel__navigation{
