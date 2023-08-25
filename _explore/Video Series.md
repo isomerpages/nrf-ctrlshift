@@ -166,6 +166,7 @@ ol, li {
 .carousel {
   position: relative;
   padding-top: 75%;
+	padding-bottom: 250px;
   filter: drop-shadow(0 0 10px #0003);
   perspective: 100px;
 }
@@ -316,7 +317,8 @@ ol, li {
 	width: 100%
 	}
 .content ol>li, .content ul>li{
-	width: 24% !important
+	width: 24% !important;
+	height: 500px
 	}
 	.carousel__navigation-button{
 	width: 100% !important
@@ -332,6 +334,9 @@ ol, li {
 	}
 	.video-content{
 	position: absolute
+	}
+	.carousel\_\_viewport{
+	overflow-y: visible
 	}
 	</style>
 <div class="video-series">
