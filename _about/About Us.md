@@ -36,9 +36,9 @@ description: ""
        .content pre{
        display: none
        }
-       .text-center{text-align: center}
-       .col-sm-6{width: 50%}
-           .col-12{width: 100%}
+.text-center{text-align: center}
+.col-sm-6{width: 50%}
+.col-12{width: 100%}
 .desktop-only{display: block}
 
 .mobile-only{display: none}
