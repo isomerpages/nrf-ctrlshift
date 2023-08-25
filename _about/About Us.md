@@ -163,6 +163,7 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
 	.title-page-recruitment{width: 80% !important; margin-right: 20% !important}
 	@media only screen and (max-width: 768px) {
    .title-page-recruitment{width: 100% !important; margin-bottom: 40px !important}
+	.recruitment-row{margin-left: 0 !important}
 	}
 	</style>
 <section>
@@ -184,7 +185,7 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
         </div>
                     <div class="col-sm-6">
             <div class="text-left pb-1">
-                                    <p style="font-size: 24px; font-weight: 900" class="subtitle-main subtitle-top">Who says Science, Tech, and Engineering has to be boring? Prepare to have your perspective shifted as we shatter your stereotypes and show you a new perspective of STE like never before!</p>
+                                    <p class="subtitle-main subtitle-top">Who says Science, Tech, and Engineering has to be boring? Prepare to have your perspective shifted as we shatter your stereotypes and show you a new perspective of STE like never before!</p>
             </div>
         </div>
                     </div>
@@ -199,7 +200,7 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
 <div class="row">
                     <div class="col-12">
             <div style="text-align: center" class="text-center pt-5 pb-1">
-                                    <p style="font-size: 24px; font-weight: 900" class="subtitle-main">Through the hustle and bustle of our daily routines, it’s easy to miss the hidden existence of STE in our everyday lives. Brace yourself for a mind-bending revelation! Whether we're travelling around the globe or indulging in playtime, STE is the master puppeteer, skillfully pulling the strings. Get ready for an exclusive peek behind the curtain as we unveil the mind-blowing secrets of how STE truly reigns over our world. And hold on tight, because this exhilarating journey will leave you questioning reality itself! <br><br>Are you ready to soar beyond the limits of what you thought possible?</p>
+                                    <p class="subtitle-main">Through the hustle and bustle of our daily routines, it’s easy to miss the hidden existence of STE in our everyday lives. Brace yourself for a mind-bending revelation! Whether we're travelling around the globe or indulging in playtime, STE is the master puppeteer, skillfully pulling the strings. Get ready for an exclusive peek behind the curtain as we unveil the mind-blowing secrets of how STE truly reigns over our world. And hold on tight, because this exhilarating journey will leave you questioning reality itself! <br><br>Are you ready to soar beyond the limits of what you thought possible?</p>
             </div>
         </div>
                     </div>
