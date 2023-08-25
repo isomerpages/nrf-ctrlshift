@@ -434,4 +434,4 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
   </aside>
 </section>
 <img style="width: 80%; margin-top: 150px" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer.png">  
-<img style="width: 60%; margin-top: 50px" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer-mobile.png%22">
+<img style="width: 60%; margin-top: 50px" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer-mobile.png">
