@@ -13,115 +13,60 @@ description: ""
     height:auto;
 }
 	.container {
-
    position: relative;
-
    width: 100%;
-
    height: 0;
-
    padding-bottom: 56.25%;
-
    }
-
    .youtube-container{
-
    border: 5pxsolid#1237CA;
-
      }
-
    .youtube-video {
-
    position: absolute;
-
    top: 0;
-
    left: 0;
-
    width: 100%;
-
    height: 100%;
-
    }
-
    .subtitle-main{
-
    color: #1237CA;
-
    font-weight: 500;
-
    font-size: 20px;
-
        }
-
        .content pre{
-
        display: none
-
        }
-
        .text-center{text-align: center}
-
        .col-sm-6{width: 50%}
-
            .col-12{width: 100%}
-
        .desktop-only{display: block}
-
    .mobile-only{display: none}
-
    .recruitment-row{display: flex; align-items: center; margin-bottom: 75px !important}
-
            @media (max-width: 600px) {.col-sm-6{width: 100%}
-
    .recruitment-row{display: flex; flex-direction: column; align-items: center; margin-bottom: 30px !important}
-
        .subtitle-main{line-height: 1.5rem}
-
        .desktop-only{display: none}
-
        .mobile-only{display: block}
-
      .map-column{height: 200px}
-
        .map-truck{height: 200px}
-
      .school-box label{font-size:16px; font-weight: 700}
-
      .school-box-list{width: 90% !important}
-
      .title-section{width: 80%; margin: auto}
-
      .mobile-row-padding{padding: 0 20px}
-
      #gallery .row{padding: 0 10px}
-
      #gallery .col-sm-4{width: 50%;padding: 10px}
-
      .gallery-image{padding: 0}
-
      .who-says-title{margin-top: 25px}
-
      .content .subtitle-main{padding: 0 20px}
-
      .title-item-truck h2{font-size: 18px}
-
    .title-item-truck h2{line-height: 25px}
-
      .content center, .content li, .content p.subtitle-main{margin-top: 2rem;margin-bottom: 2rem;line-height: 140%; font-size: 16px}
-
      .subtitle-main b{font-size: 16px !important}
-
      .content p:last-child{margin-bottom: 10px !important}
-
    .subtitle-top{text-align: center}
-
      }
-
      .text-blue{color: var(\\-\-blue);
-
      .content pre{display: none}
-
      .bp-breadcrumb ul{padding-left: 0}
 @media only screen and (max-width: 768px) {
     .about {
@@ -243,4 +188,3 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
         </div>
                     </div>
 </div></section>
-	
