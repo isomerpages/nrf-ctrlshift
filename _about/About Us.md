@@ -65,7 +65,7 @@ description: ""
      .content p:last-child{margin-bottom: 10px !important}
    .subtitle-top{text-align: center}
      }
-     .text-blue{color: var(\\-\-blue);
+     .text-blue{color: var(\\-\-blue)};
      .content pre{display: none}
      .bp-breadcrumb ul{padding-left: 0}
 @media only screen and (max-width: 768px) {
@@ -146,6 +146,10 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
         max-width:100%;
     }
 }
+	.recruitment-row{width: 100%}
+	.title-page-recruitment{width: 400px}
+	@media only screen and (max-width: 768px) {
+   .title-page-recruitment{width: 100%}
 	</style>
 <section>
 <div class="logos">
@@ -161,7 +165,7 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
       <div class="row mb-5 recruitment-row" style="">
         <div class="col-sm-6">
             <div class="text-left pb-1">
-                <img style="width: auto" class="title-page-truck" alt="title page truck" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/About%20Us/group%2014114.png">
+                <img style="width: auto" class="title-page-recruitment" alt="title page truck" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/About%20Us/group%2014114.png">
             </div>
         </div>
                     <div class="col-sm-6">
