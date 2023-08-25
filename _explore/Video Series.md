@@ -329,6 +329,9 @@ ol, li {
 	.carousel\_\_navigation-list > li img:focus, .carousel\_\_navigation-list > li img:visited, .carousel\_\_navigation-list > li img:active{
 	border: 5px solid #0037cc
 	}
+	.video-content{
+	position: absolute
+	}
 	</style>
 <div class="video-series">
     <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header.png">
@@ -342,6 +345,10 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
     <li class="carousel__slide" tabindex="0" id="carousel__slide1">
       <div class="carousel__snapper"><img style="width: 100px !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-label.png">
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="100%" width="100%"></iframe>
+				<div class="video-content">
+					<p class="video-title">STE+P UP: EPISODE 1 - WHO WILL KEEP US SAFE?</p>
+					<p>Drones, germs and petri dishes... oh my!<br><br>In the shadows of our nation's security, lies a league of experts who don't wear capes but perform remarkable feats to protect us all. These unsung heroes, armed with drones, germs, and petri dishes - work tirelessly behind the scenes to keep our country safe.</p>
+				</div>
       </div>
     </li>
     <li class="carousel__slide" tabindex="0" id="carousel__slide2">
