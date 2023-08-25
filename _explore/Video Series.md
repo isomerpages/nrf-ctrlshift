@@ -323,6 +323,9 @@ ol, li {
 	.carousel__navigation{
 	    bottom: -44px !important
 	}
+	.carousel__navigation-list > li:focus{
+	border: 5px solid #0037cc
+	}
 	</style>
 <div class="video-series">
     <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header.png">
