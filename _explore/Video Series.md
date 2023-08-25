@@ -366,6 +366,7 @@ line-height: 2rem;
 	.carousel\_\_navigation{
  top: 306px !important;
 	}
+	.video-content{top: 320px}
 }
 	</style>
 <div class="video-series">
