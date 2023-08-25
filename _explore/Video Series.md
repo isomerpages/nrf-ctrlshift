@@ -316,7 +316,7 @@ ol, li {
 	.content ol{
 	width: 100%
 	}
-.content ol>li{
+.content ol>li.carousel\_\_navigation-item{
 	width: 24% !important;
 	}
 	.content ol.carousel\_\_viewport>li{
