@@ -391,31 +391,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 				</div>
       </div>
     </li>
-    <li class="carousel__slide" tabindex="0" id="carousel__slide2">
-      <div class="carousel__snapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="100%" width="100%"></iframe>
-			<div class="video-content">
-					<p class="video-title">STE+P UP: EPISODE 2 - WHO WILL KEEP US SAFE?</p>
-					<p>Drones, germs and petri dishes... oh my!<br><br>In the shadows of our nation's security, lies a league of experts who don't wear capes but perform remarkable feats to protect us all. These unsung heroes, armed with drones, germs, and petri dishes - work tirelessly behind the scenes to keep our country safe.</p>
-				</div>
-			</div>
-    </li>
-    <li class="carousel__slide" tabindex="0" id="carousel__slide3">
-      <div class="carousel__snapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="100%" width="100%"></iframe>
-			<div class="video-content">
-					<p class="video-title">STE+P UP: EPISODE 3 - WHO WILL KEEP US SAFE?</p>
-					<p>Drones, germs and petri dishes... oh my!<br><br>In the shadows of our nation's security, lies a league of experts who don't wear capes but perform remarkable feats to protect us all. These unsung heroes, armed with drones, germs, and petri dishes - work tirelessly behind the scenes to keep our country safe.</p>
-				</div>
-			</div>
-    </li>
-    <li class="carousel__slide" tabindex="0" id="carousel__slide4">
-      <div class="carousel__snapper"><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/RbsmEEuHwuA?si=DQwLkhILu5BglcaG" height="100%" width="100%"></iframe>
-			<div class="video-content">
-					<p class="video-title">STE+P UP: EPISODE 4 - WHO WILL KEEP US SAFE?</p>
-					<p>Drones, germs and petri dishes... oh my!<br><br>In the shadows of our nation's security, lies a league of experts who don't wear capes but perform remarkable feats to protect us all. These unsung heroes, armed with drones, germs, and petri dishes - work tirelessly behind the scenes to keep our country safe.</p>
-				</div>
-			</div>
-    </li>
-  </ol>
+</ol>
   <aside class="carousel__navigation">
     <ol class="carousel__navigation-list">
       <li class="carousel__navigation-item">
