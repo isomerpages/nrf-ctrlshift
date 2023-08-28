@@ -420,17 +420,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
     <ol class="carousel__navigation-list">
       <li class="carousel__navigation-item">
         <a class="carousel__navigation-button" href="#carousel__slide1"><img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/dummy-vids.jpg"></a>
-      </li>
-      <li class="carousel__navigation-item">
-        <a class="carousel__navigation-button" href="#carousel__slide2"><img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/dummy-vids.jpg"></a>
-      </li>
-      <li class="carousel__navigation-item">
-        <a class="carousel__navigation-button" href="#carousel__slide3"><img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/dummy-vids.jpg"></a>
-      </li>
-      <li class="carousel__navigation-item">
-        <a class="carousel__navigation-button" href="#carousel__slide4"><img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/dummy-vids.jpg"></a>
-      </li>
-    </ol>
+      </li> </ol>
   </aside>
 </section>
 <img style="width: 80%; margin-top: 150px" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer.png">  
