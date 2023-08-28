@@ -226,7 +226,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	border: 5px solid #FFD700;
 	display: flex;
  align-items: center;
- padding: 0 15px;
+ padding: 40px 15px;
  text-align: center;
 	margin-top: 30px;
 	font-size: 16px;
@@ -269,7 +269,7 @@ font-weight: 600;
 	border: 5px solid #0037CC;
 	display: flex;
  align-items: center;
- padding: 0 15px;
+ padding: 40px 15px;
  text-align: center;
 	margin-top: 30px;
 font-size: 16px;
