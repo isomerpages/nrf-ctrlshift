@@ -453,7 +453,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	position: relative;
 	margin-bottom: 30px
 	}
-	.section-1-row-2-col-3{
+	.section-1-row-2-col-2{
 	width: calc(50% - 15px);
 	position: relative
 	}
