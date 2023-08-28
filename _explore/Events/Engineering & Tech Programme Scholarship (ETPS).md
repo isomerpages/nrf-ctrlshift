@@ -204,27 +204,24 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	.section-1-row-2-col-1 p{
 	margin-top: 0
 	}
-	.section-1-container{
+	.section-1-container-m{
 		margin-top: 80px
 	}
-	.section-1-row-1{
+	.section-1-row-1-m{
 	margin: 0 36px ;
-	display: flex;
-	justify-content: space-between;
-	height: 400px;
 	position: relative;
 	margin-bottom: 30px
 	}
-	.section-1-row-1-col-1{
-	width: calc(50% - 15px);
+	.section-1-row-1-col-1-m{
+	width: 100%
 	position: relative
 	}
-	.section-1-row-1-col-1 img{
+	.section-1-row-1-col-1-m img{
 	height: 100%;
 	object-fit: cover
 	}
-	.section-1-row-1-col-2{
-	width: calc(50% - 15px);
+	.section-1-row-1-col-2-m{
+	width: 100%
 	position: relative;
 	border: 5px solid #FFD700;
 	display: flex;
@@ -232,7 +229,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
  padding: 0 15px;
  text-align: center;
 	}
-	.section-1-row-1-col-2 p{
+	.section-1-row-1-col-2-m p{
 	margin-top: 0
 	}
 	.icon-1{
@@ -249,7 +246,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	bottom: -46px;
 	display: flex
 	}
-		.section-1-row-2{
+		.section-1-row-2-m{
 	margin: 0 36px ;
 	display: flex;
 	justify-content: space-between;
@@ -257,15 +254,15 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	position: relative;
 	margin-bottom: 30px
 	}
-	.section-1-row-2-col-2{
+	.section-1-row-2-col-2-m{
 	width: calc(50% - 15px);
 	position: relative
 	}
-	.section-1-row-2-col-2 img{
+	.section-1-row-2-col-2-m img{
 	height: 100%;
 	object-fit: cover
 	}
-	.section-1-row-2-col-1{
+	.section-1-row-2-col-1-m{
 	width: calc(50% - 15px);
 	position: relative;
 	border: 5px solid #0037CC;
@@ -274,7 +271,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
  padding: 0 15px;
  text-align: center;
 	}
-	.section-1-row-2-col-1 p{
+	.section-1-row-2-col-1-m p{
 	margin-top: 0
 	}
 </style>
