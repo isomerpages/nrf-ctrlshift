@@ -359,6 +359,11 @@ font-family: Lato,sans-serif;
 font-size: 1.25rem;
 line-height: 2rem;
 	}
+	@media only screen and (max-width: 1280px) {
+	.carousel{
+ padding-bottom: 580px;
+	}
+	}
 @media only screen and (max-width: 768px) {
 		.content ol.carousel\_\_viewport>li{
 	height: 230px
