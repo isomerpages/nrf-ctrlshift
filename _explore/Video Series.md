@@ -364,7 +364,7 @@ line-height: 2rem;
 	height: 230px
 	}
 	.carousel{
- padding-bottom: 750px;
+ padding-bottom: 690px;
 	}
 	.carousel\_\_navigation{
  top: 306px !important;
