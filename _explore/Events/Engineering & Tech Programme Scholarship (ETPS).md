@@ -419,9 +419,13 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	}
 	.icon-1{
 	position: absolute;
-	width: 92px;
+	width: 92px !important;
 	top: -46px;
-	right: 46px;
+	right: -46px;
+	display: flex
+	}
+	.icon-1 p{
+	text-align: center
 	}
 </style>
 <div class="section-1-container">
