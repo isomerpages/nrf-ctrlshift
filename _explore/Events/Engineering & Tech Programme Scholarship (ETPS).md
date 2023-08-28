@@ -249,7 +249,6 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	}
 		.section-1-row-2-m{
 	margin: 0 36px ;
-	height: 400px;
 	position: relative;
 	margin-bottom: 30px
 	}
