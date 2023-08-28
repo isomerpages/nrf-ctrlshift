@@ -238,16 +238,16 @@ font-weight: 600;
 	}
 	.icon-1{
 	position: absolute;
-	width: 92px !important;
-	top: -46px;
-	right: -46px;
+	width: 54px !important;
+	top: -27px;
+	right: -27px;
 	display: flex
 	}
 .icon-2{
 	position: absolute;
-	width: 92px !important;
-	left: -46px;
-	bottom: -46px;
+	width: 54px !important;
+	left: -27px;
+	bottom: -27px;
 	display: flex
 	}
 		.section-1-row-2-m{
