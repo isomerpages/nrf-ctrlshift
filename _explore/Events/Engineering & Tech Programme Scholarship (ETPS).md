@@ -409,10 +409,10 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	justify-content: space-between;
 	}
 	.section-1-row-1-col-1{
-	width: calc(100% - 30px);
+	width: calc(50% - 15px);
 	}
 	.section-1-row-1-col-2{
-	width: calc(100% - 30px);
+	width: calc(50% - 15px);
 	}
 </style>
 <div class="section-1-container">
