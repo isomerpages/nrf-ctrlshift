@@ -361,12 +361,14 @@ font-family: Lato,sans-serif;
 font-size: 1.25rem;
 line-height: 2rem;
 	}
+	.etsp-header-entries{width: 60%; margin: 50px auto 30px}
 	@media only screen and (max-width: 1280px) {
 	.carousel{
  padding-bottom: 580px;
 	}
 	}
 @media only screen and (max-width: 768px) {
+		.etsp-header-entries{width:100%; margin-left: 0}
 		.content ol.carousel\_\_viewport>li{
 	height: 230px
 	}
