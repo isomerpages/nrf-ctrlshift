@@ -306,12 +306,13 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 		</div>
 	</div>
 	<div class="section-1-row-2-m">
+		<div class="section-1-row-2-col-2-m">
+			<img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-4-mobile.png">
+		</div>
 		<div class="section-1-row-2-col-1-m">
 			<img width="100%" class="mobile-only icon-2" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
 			<p>From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
 		</div>
-		<div class="section-1-row-2-col-2-m">
-			<img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-4-mobile.png">
-		</div>
+		
 	</div>
 </div>
