@@ -268,6 +268,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
  align-items: center;
  padding: 0 15px;
  text-align: center;
+	margin-top: 30px
 	}
 	.section-1-row-2-col-1-m p{
 	margin-top: 0
