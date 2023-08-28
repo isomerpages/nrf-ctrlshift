@@ -391,7 +391,7 @@ line-height: 2rem;
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play and live.
 </div>
 <div class="col-lg-12 pb-lg-1 who-says-title">
-										   <div class="text-center">
-										       <h1 class="title-section text-blue">Who says Science+Tech+Engineering has to be boring?</h1>
+										   <div style="text-align: center" class="text-center">
+										       <h1 style="color: #0037cc" class="title-section text-blue">Inspiring the Next Generation of STE Innovators</h1>
 												  </div>
 								  </div>
