@@ -399,6 +399,15 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 								  </div>
 									 <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-desktop.png">
 	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png">
+<style>
+	.section-1-container{
+		margin-top: 80px
+	}
+	.section-1-row-1{
+	margin: 0 36px ;
+	display: flex
+	}
+</style>
 <div class="section-1-container">
 	<div class="section-1-row-1">
 		<div class="section-1-row-1-col-1">
