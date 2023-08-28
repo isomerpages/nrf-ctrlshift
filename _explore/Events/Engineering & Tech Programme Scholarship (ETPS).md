@@ -405,7 +405,14 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	}
 	.section-1-row-1{
 	margin: 0 36px ;
-	display: flex
+	display: flex;
+	justify-content: space-between;
+	}
+	.section-1-row-1-col-1{
+	width: calc(100% - 30px);
+	}
+	.section-1-row-1-col-2{
+	width: calc(100% - 30px);
 	}
 </style>
 <div class="section-1-container">
