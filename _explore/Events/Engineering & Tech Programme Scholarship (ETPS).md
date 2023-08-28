@@ -401,12 +401,21 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png">
 <div class="section-1-container">
 	<div class="section-1-row-1">
-		<div class="section-1-col-1">
+		<div class="section-1-row-1-col-1">
 			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-3-desktop.png">
 		</div>
-		<div class="section-1-col-2">
+		<div class="section-1-row-1-col-2">
 			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-1-desktop.png">
 			<p>From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
+		</div>
+	</div>
+	<div class="section-1-row-2">
+		<div class="section-1-row-2-col-1">
+			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
+			<p>From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
+		</div>
+		<div class="section-1-row-2-col-2">
+			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-4-desktop.png">
 		</div>
 	</div>
 </div>
