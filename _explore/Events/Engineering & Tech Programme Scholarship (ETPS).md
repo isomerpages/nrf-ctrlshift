@@ -37,7 +37,7 @@ third_nav_title: Events
     height:auto;
 }
 	.video-series-header-img{
-		width: 434px !important;
+		width: 500px !important
 
 	
 	}
