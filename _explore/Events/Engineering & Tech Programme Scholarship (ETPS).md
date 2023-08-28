@@ -361,7 +361,7 @@ font-family: Lato,sans-serif;
 font-size: 1.25rem;
 line-height: 2rem;
 	}
-	.etsp-header-entries{width: 60%; margin: 50px auto 30px}
+	.etsp-header-entries{width: 80%; margin: 50px auto 30px}
 	@media only screen and (max-width: 1280px) {
 	.carousel{
  padding-bottom: 580px;
