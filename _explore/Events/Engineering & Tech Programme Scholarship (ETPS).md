@@ -397,7 +397,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 										       <h1 style="color: #0037cc; margin-top: 50px" class="title-section text-blue">Inspiring the Next Generation of STE Innovators</h1>
 												  </div>
 								  </div>
-									 <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-desktop.png">
+<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-desktop.png">
 	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png">
 <style>
 	.section-1-container{
