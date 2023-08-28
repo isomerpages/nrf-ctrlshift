@@ -438,8 +438,12 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	right: -46px;
 	display: flex
 	}
-	.icon-1 p{
-	text-align: center
+.icon-2{
+	position: absolute;
+	width: 92px !important;
+	left: -46px;
+	bottom: -46px;
+	display: flex
 	}
 		.section-1-row-2{
 	margin: 0 36px ;
@@ -449,24 +453,24 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	position: relative;
 	margin-bottom: 30px
 	}
-	.section-1-row-2-col-1{
+	.section-1-row-2-col-3{
 	width: calc(50% - 15px);
 	position: relative
 	}
-	.section-1-row-2-col-1 img{
+	.section-1-row-2-col-2 img{
 	height: 100%;
 	object-fit: cover
 	}
-	.section-1-row-2-col-2{
+	.section-1-row-2-col-1{
 	width: calc(50% - 15px);
 	position: relative;
-	border: 5px solid #FFD700;
+	border: 5px solid #0037CC;
 	display: flex;
  align-items: center;
  padding: 0 15px;
  text-align: center;
 	}
-	.section-1-row-2-col-2 p{
+	.section-1-row-2-col-1 p{
 	margin-top: 0
 	}
 </style>
@@ -482,7 +486,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	</div>
 	<div class="section-1-row-2">
 		<div class="section-1-row-2-col-1">
-			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
+			<img width="100%" class="desktop-only icon-2" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
 			<p>From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
 		</div>
 		<div class="section-1-row-2-col-2">
