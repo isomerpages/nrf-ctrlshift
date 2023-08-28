@@ -263,8 +263,6 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	object-fit: cover
 	}
 	.section-1-row-2-col-1-m{
-	width: calc(50% - 15px);
-	position: relative;
 	border: 5px solid #0037CC;
 	display: flex;
  align-items: center;
