@@ -24,7 +24,7 @@ sections:
         stereotypes and show you a new perspective of STE like never before!
       button: Join us now
       url: /truck-visits
-      image: /images/recruitment video hompage.png
+      image: /images/Homepage/recruitment video hompage.png
       alt: Image alt text
 notification: STE WHAT'S NEXT is now CTRL+SHIFT! Join us for an immersive
   experience and take a peek into innovation STE projects in Singapore Public
