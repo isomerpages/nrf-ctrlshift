@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Events/.keep
-      - Events/National STEM Talent Search.md
