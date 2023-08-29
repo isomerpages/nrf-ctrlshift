@@ -121,7 +121,7 @@ line-height: 2rem;
  <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-desktop.png">
 	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-mobile.png">
 
-<div class="etsp-header-entries">
+<div style="font-size: 16px; line-height: 22px; font-weight: 600;" class="etsp-header-entries">
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play and live.
 </div>
 <div class="col-lg-12 pb-lg-1 who-says-title">
@@ -289,13 +289,13 @@ font-weight: 600;
 		</div>
 		<div class="section-1-row-1-col-2">
 			<img width="100%" class="desktop-only icon-1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-1-desktop.png">
-			<p>From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
+			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
 		</div>
 	</div>
 	<div class="section-1-row-2">
 		<div class="section-1-row-2-col-1">
 			<img width="100%" class="desktop-only icon-2" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
-			<p>From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
+			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
 		</div>
 		<div class="section-1-row-2-col-2">
 			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-4-desktop.png">
@@ -309,7 +309,7 @@ font-weight: 600;
 		</div>
 		<div class="section-1-row-1-col-2-m">
 			<img width="100%" class="mobile-only icon-1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-1-desktop.png">
-			<p>From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
+			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
 		</div>
 	</div>
 	<div class="section-1-row-2-m">
@@ -318,7 +318,7 @@ font-weight: 600;
 		</div>
 		<div class="section-1-row-2-col-1-m">
 			<img width="100%" class="mobile-only icon-2" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
-			<p>From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
+			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
 		</div>
 		
 	</div>
