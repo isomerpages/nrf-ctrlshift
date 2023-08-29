@@ -253,7 +253,7 @@ font-weight: 600;
 	display: flex
 	}
 		.section-1-row-2-m{
-	margin: 0 36px ;
+	margin: 0 ;
 	position: relative;
 	margin-bottom: 30px
 	}
