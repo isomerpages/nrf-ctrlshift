@@ -210,7 +210,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 		margin-top: 80px
 	}
 	.section-1-row-1-m{
-	margin: 0 36px ;
+	margin: 0 ;
 	position: relative;
 	margin-bottom: 30px
 	}
