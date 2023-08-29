@@ -131,6 +131,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-desktop.png">
 	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png">
 <style>
+	.title-section{font-size: 48px;line-height: 50px;font-weight: 700; margin-bottom: 30px}
 	.section-1-container{
 		margin-top: 80px
 	}
