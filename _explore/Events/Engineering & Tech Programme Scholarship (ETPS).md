@@ -110,6 +110,7 @@ line-height: 2rem;
  top: 306px !important;
 	}
 	.video-content{top: 320px}
+	.bp-dropdown-button>span>b>p{font-size: 13px}
 }
 	.video-series-header-entries{font-weight: auto}
 	</style>
