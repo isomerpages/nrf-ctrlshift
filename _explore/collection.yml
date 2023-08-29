@@ -1,0 +1,5 @@
+collections:
+  explore:
+    output: true
+    order:
+      - Events/.keep

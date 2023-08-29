@@ -6,7 +6,6 @@ description: ""
 ```
 ```
 <style>
-           
             .map-truck {
                 width: 808px;
                 margin: 110px auto 0;
@@ -186,10 +185,10 @@ description: ""
             }
 
             .title-item-truck {
-                background-color: var(--blue);
+                background-color: #0037cc;
                 display: inline-block;
                 padding: 5px 18px;
-                border: 5px solid var(--blue);
+                border: 5px solid #0037cc;
                 border-bottom: none;
             }
 
@@ -204,7 +203,7 @@ description: ""
             .text-item-truck {
                 background-color: #fff;
                 padding: 30px;
-                border: 5px solid var(--blue);
+                border: 5px solid #0037cc;
             }
             .text-item-truck p{
                 font-size: 16px;
@@ -700,7 +699,7 @@ description: ""
                 margin-top: 7px;
             }
             .submenu li a {
-                color: var(--blue);
+                color: #0037cc;
             }
             .submenu.show {
                 opacity: 1;
@@ -13496,6 +13495,9 @@ description: ""
 								transform: translate(-10px, -3px);
 								transition: 0.2s
 						}
+	.gallery-image{
+								padding: 15px 15px
+					}
 							.inner-gallery-button{
 								 background-color: #0037CC;
                 color: #fff;
