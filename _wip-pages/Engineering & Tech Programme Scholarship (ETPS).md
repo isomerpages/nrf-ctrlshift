@@ -283,7 +283,6 @@ font-weight: 600;
 	}
 </style>
 <div class="section-1-container desktop-only">
-	
 	<div class="section-1-row-1">
 		<div class="section-1-row-1-col-1">
 			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-3-desktop.png">
@@ -296,7 +295,7 @@ font-weight: 600;
 	<div class="section-1-row-2">
 		<div class="section-1-row-2-col-1">
 			<img width="100%" class="desktop-only icon-2" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
-			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
+			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">Keep your eyes on this page to stay connected to more exciting projects CTRL+SHIFT has in store for you as we embark deeper into the amazing realm of STE!</p>
 		</div>
 		<div class="section-1-row-2-col-2">
 			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-4-desktop.png">
@@ -319,7 +318,7 @@ font-weight: 600;
 		</div>
 		<div class="section-1-row-2-col-1-m">
 			<img width="100%" class="mobile-only icon-2" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
-			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
+			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">Keep your eyes on this page to stay connected to more exciting projects CTRL+SHIFT has in store for you as we embark deeper into the amazing realm of STE!</p>
 		</div>
 		
 	</div>
