@@ -121,7 +121,7 @@ line-height: 2rem;
 	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-mobile.png">
 
 <div style="font-size: 16px; line-height: 22px; font-weight: 600;" class="etsp-header-entries">
-Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play and live.
+Organised by the Ministry of Education (MOE), the Engineering and Tech Programme (ETPS) Scholarship is an inaugural scholarship that recognises the academic prowess of 200 pre-university students who possess a firm foundation in mathematics and science, and display an inclination towards practical, cross-disciplinary, and experiential learning.
 </div>
 <div class="col-lg-12 pb-lg-1 who-says-title">
 										   <div style="text-align: center" class="text-center">
@@ -130,6 +130,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 								  </div>
 <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-desktop.png">
 	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png">
+	 <p style="font-size: 16px; line-height: 22px; font-weight: 600;">With a crowd of 200 enthusiastic young minds from Junior Colleges who share a passion for science, mathematics, and engineering, we were excited to showcase innovative projects and provide opportunities to connect with industry experts from various established STE agencies in the Public Service field.</p>
 <style>
 	.title-section{font-weight: 700;}
 	.section-1-container{
