@@ -340,13 +340,13 @@ ol, li {
 	.video-content{
 	position: absolute;
 	text-align: center;
-	top: 590px
+	top: 490px
 	}
 	.carousel\_\_viewport{
 	overflow-y: visible
 	}
 	.carousel{
-	padding-bottom: 400px
+	padding-bottom: 240px
 	}
 	.video-title{
 		font-size: 32px;
@@ -374,7 +374,7 @@ line-height: 2rem;
 	.carousel\_\_navigation{
  top: 306px !important;
 	}
-	.video-content{top: 320px}
+	.video-content{top: 250px}
 }
 	.video-series-header-entries{font-weight: auto}
 	</style>
