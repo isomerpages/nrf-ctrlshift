@@ -2,5 +2,4 @@ collections:
   wip-pages:
     output: true
     order:
-      - Engineering & Tech Programme Scholarship (ETPS).md
       - Video Series.md
