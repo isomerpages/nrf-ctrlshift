@@ -100,7 +100,7 @@ line-height: 2rem;
 	}
 	}
 @media only screen and (max-width: 768px) {
-	.title-section{font-size: 24px;line-hieght: 30px}
+	.title-section{font-size: 24px;line-height: 30px}
 		.etsp-header-entries{width:100%; margin-left: 0;font-size: 16px;line-height: 22px;font-weight: 600;}
 		.content ol.carousel\_\_viewport>li{
 	height: 230px
