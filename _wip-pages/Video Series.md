@@ -376,6 +376,7 @@ line-height: 2rem;
 	}
 	.video-content{top: 250px}
 	.video-detail{text-align: left}
+	.video-title{font-size: 24px; line-height: 30px}
 }
 	.video-series-header-entries{font-weight: initial }
 	</style>
