@@ -205,7 +205,7 @@ line-height: 2rem;
 	object-fit: cover
 	}
 	.section-1-row-1-col-2-m{
-	width: 100%
+	width: 100%;
 	position: relative;
 	border: 5px solid #FFD700;
 	display: flex;
@@ -216,6 +216,7 @@ line-height: 2rem;
 	font-size: 16px;
 line-height: 22px;
 font-weight: 600;
+	height: 316.4px;
 	}
 	.section-1-row-1-col-2-m p{
 	margin-top: 0
@@ -259,6 +260,7 @@ font-weight: 600;
 font-size: 16px;
 line-height: 22px;
 font-weight: 600;
+ height: 316.4px;
 	}
 	.section-1-row-2-col-1-m p{
 	margin-top: 0
