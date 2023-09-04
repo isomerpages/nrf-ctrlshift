@@ -271,7 +271,7 @@ font-weight: 600;
  <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-desktop.png">
 	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-mobile.png">
 
-<div style="font-size: 16px; line-height: 22px; font-weight: 600;" class="etsp-header-entries">
+<div style="font-size: 16px; line-height: 22px; font-weight: 600;text-align: left" class="etsp-header-entries">
 Organised by the Ministry of Education (MOE), the Engineering and Tech Programme (ETPS) Scholarship is an inaugural scholarship that recognises the academic prowess of 200 pre-university students who possess a firm foundation in mathematics and science, and display an inclination towards practical, cross-disciplinary, and experiential learning.
 </div>
 <div class="col-lg-12 pb-lg-1 who-says-title">
