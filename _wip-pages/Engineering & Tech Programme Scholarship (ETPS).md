@@ -112,30 +112,6 @@ line-height: 2rem;
 	.bp-dropdown-button>span>b>p{font-size: 13px}
 }
 	.video-series-header-entries{font-weight: auto}
-	</style>
-<div class="video-series">
-    <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-title-desktop.png">
-	 <img class="mobile-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-title-mobile.png">
-</div>
- <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-desktop.png">
-	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-mobile.png">
-
-<div style="font-size: 16px; line-height: 22px; font-weight: 600;" class="etsp-header-entries">
-Organised by the Ministry of Education (MOE), the Engineering and Tech Programme (ETPS) Scholarship is an inaugural scholarship that recognises the academic prowess of 200 pre-university students who possess a firm foundation in mathematics and science, and display an inclination towards practical, cross-disciplinary, and experiential learning.
-</div>
-<div class="col-lg-12 pb-lg-1 who-says-title">
-										   <div style="text-align: center" class="text-center">
-										       <h1 style="color: #0037cc; margin-top: 50px" class="title-section text-blue">Inspiring the Next Generation of STE Innovators</h1>
-												  </div>
-								  </div>
-<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-desktop.png">
-	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png">
-<div class="">
-	<p style="font-size: 16px; line-height: 22px; font-weight: 600;">
-With a crowd of 200 enthusiastic young minds from Junior Colleges who share a passion for science, mathematics, and engineering, we were excited to showcase innovative projects and provide opportunities to connect with industry experts from various established STE agencies in the Public Service field.
-	</p>
-</div>
-<style>
 	.title-section{font-weight: 700;}
 	.section-1-container{
 		margin-top: 80px
@@ -285,7 +261,29 @@ font-weight: 600;
 	.section-1-row-2-col-1-m p{
 	margin-top: 0
 	}
-</style>
+	</style>
+<div class="video-series">
+    <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-title-desktop.png">
+	 <img class="mobile-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-title-mobile.png">
+</div>
+ <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-desktop.png">
+	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-mobile.png">
+
+<div style="font-size: 16px; line-height: 22px; font-weight: 600;" class="etsp-header-entries">
+Organised by the Ministry of Education (MOE), the Engineering and Tech Programme (ETPS) Scholarship is an inaugural scholarship that recognises the academic prowess of 200 pre-university students who possess a firm foundation in mathematics and science, and display an inclination towards practical, cross-disciplinary, and experiential learning.
+</div>
+<div class="col-lg-12 pb-lg-1 who-says-title">
+										   <div style="text-align: center" class="text-center">
+										       <h1 style="color: #0037cc; margin-top: 50px" class="title-section text-blue">Inspiring the Next Generation of STE Innovators</h1>
+												  </div>
+								  </div>
+<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-desktop.png">
+	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png">
+<div class="">
+	<p style="font-size: 16px; line-height: 22px; font-weight: 600;">
+With a crowd of 200 enthusiastic young minds from Junior Colleges who share a passion for science, mathematics, and engineering, we were excited to showcase innovative projects and provide opportunities to connect with industry experts from various established STE agencies in the Public Service field.
+	</p>
+</div>
 <div class="section-1-container desktop-only">
 	<div class="section-1-row-1">
 		<div class="section-1-row-1-col-1">
