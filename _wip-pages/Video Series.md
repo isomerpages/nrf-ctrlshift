@@ -380,7 +380,7 @@ line-height: 2rem;
 	.video-series-header-entries{font-weight: initial }
 	</style>
 <div class="video-series">
-    <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header.png">
+    <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header-new-desktop.png">
 	 <img class="mobile-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header-new-mobile.png">
 </div>
 <div class="video-series-header-entries">
