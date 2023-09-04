@@ -283,6 +283,7 @@ font-weight: 600;
 	}
 </style>
 <div class="section-1-container desktop-only">
+	
 	<div class="section-1-row-1">
 		<div class="section-1-row-1-col-1">
 			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-3-desktop.png">
