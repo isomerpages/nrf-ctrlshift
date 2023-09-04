@@ -383,7 +383,7 @@ line-height: 2rem;
 	 <img class="mobile-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header.png">
 </div>
 <div class="video-series-header-entries">
-Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play and live.
+Organised by the Ministry of Education (MOE), the Engineering and Tech Programme (ETPS) Scholarship is an inaugural scholarship that recognises the academic prowess of 200 pre-university students who possess a firm foundation in mathematics and science, and display an inclination towards practical, cross-disciplinary, and experiential learning.
 </div>
 <section aria-label="Gallery" class="video-carousel carousel">
   <ol class="carousel__viewport">
@@ -397,12 +397,12 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
       </div>
     </li>
 </ol>
-  <aside class="carousel__navigation">
+  <!--<aside class="carousel__navigation">
     <ol class="carousel__navigation-list">
       <li class="carousel__navigation-item">
-        <a class="carousel__navigation-button" href="#carousel__slide1"><img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/dummy-vids.jpg"></a>
+        <a href="#carousel__slide1" class="carousel__navigation-button"><img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/dummy-vids.jpg"></a>
       </li> </ol>
-  </aside>
+  </aside>-->
 </section>
 <img style="width: 80%; margin-top: 150px" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer.png">  
 <img style="width: 60%;" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer-mobile.png">
