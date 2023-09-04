@@ -302,7 +302,7 @@ With a crowd of 200 enthusiastic young minds from Junior Colleges who share a pa
 			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">Keep your eyes on this page to stay connected to more exciting projects CTRL+SHIFT has in store for you as we embark deeper into the amazing realm of STE!</p>
 		</div>
 		<div class="section-1-row-2-col-2">
-			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-4-desktop.png">
+			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/pxl_20230726_05232913221.png">
 		</div>
 	</div>
 </div>
@@ -318,7 +318,7 @@ With a crowd of 200 enthusiastic young minds from Junior Colleges who share a pa
 	</div>
 	<div class="section-1-row-2-m">
 		<div class="section-1-row-2-col-2-m">
-			<img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-4-mobile.png">
+			<img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/pxl_20230726_05232913221.png">
 		</div>
 		<div class="section-1-row-2-col-1-m">
 			<img width="100%" class="mobile-only icon-2" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
