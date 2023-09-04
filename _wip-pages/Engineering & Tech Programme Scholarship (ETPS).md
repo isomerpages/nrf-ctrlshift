@@ -129,7 +129,7 @@ Organised by the Ministry of Education (MOE), the Engineering and Tech Programme
 												  </div>
 								  </div>
 <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-desktop.png">
-	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png"><p style="font-size: 16px; line-height: 22px; font-weight: 600;">With a crowd of 200 enthusiastic young minds from Junior Colleges who share a passion for science, mathematics, and engineering, we were excited to showcase innovative projects and provide opportunities to connect with industry experts from various established STE agencies in the Public Service field.</p>
+	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png"><p style="font-size: 16px; line-height: 22px; font-weight: 600;">With a crowd of 200 enthusiastic young minds from Junior Colleges who share a passion for science, mathematics, and engineering, we were excited to showcase innovative projects and provide opportunities to connect with industry experts from various established STE agencies in the Public Service fields.</p>
 <style>
 	.title-section{font-weight: 700;}
 	.section-1-container{
