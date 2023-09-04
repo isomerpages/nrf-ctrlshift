@@ -21,7 +21,8 @@ description: ""
     width:100%;
 	  text-align: center; 
 		display: flex;
-	margin-bottom: 25px
+	margin-bottom: 25px;
+	margin-left: 0
 }
 .video-series img {
     max-width:100%;
@@ -263,8 +264,8 @@ font-weight: 600;
 	}
 	</style>
 <div class="video-series">
-    <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-title-desktop.png">
-	 <img class="mobile-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-title-mobile.png">
+    <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etps-banner-new-desktop.png">
+	 <img class="mobile-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etps-banner-new-mobile.png">
 </div>
  <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-desktop.png">
 	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-mobile.png">
