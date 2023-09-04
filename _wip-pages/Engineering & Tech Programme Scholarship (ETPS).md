@@ -22,11 +22,12 @@ description: ""
 	  text-align: center; 
 		display: flex;
 	margin-bottom: 25px;
-	margin-left: 0 !important
+
 }
 .video-series img {
     max-width:100%;
     height:auto;
+	margin-left: 0 !important
 }
 	.purpose {
     width:30%;
