@@ -122,7 +122,7 @@ line-height: 2rem;
 	margin: 0 36px ;
 	display: flex;
 	justify-content: space-between;
-	height: 400px;
+	height: 372px;
 	position: relative;
 	margin-bottom: 30px
 	}
@@ -164,7 +164,7 @@ line-height: 2rem;
 	margin: 0 36px ;
 	display: flex;
 	justify-content: space-between;
-	height: 400px;
+	height: 372px;
 	position: relative;
 	margin-bottom: 30px
 	}
