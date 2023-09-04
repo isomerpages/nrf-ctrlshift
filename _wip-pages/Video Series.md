@@ -377,6 +377,7 @@ line-height: 2rem;
 	.video-content{top: 250px}
 }
 	.video-series-header-entries{font-weight: auto}
+	.video-detail{text-align: left}
 	</style>
 <div class="video-series">
     <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header.png">
