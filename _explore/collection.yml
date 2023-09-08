@@ -3,4 +3,5 @@ collections:
     output: true
     order:
       - Video Series.md
+      - Events/Truck Visits.md
       - Events/.keep
