@@ -2,4 +2,5 @@ collections:
   explore:
     output: true
     order:
+      - Video Series.md
       - Events/.keep
