@@ -1,6 +1,4 @@
 collections:
   events:
     output: true
-    order:
-      - Truck Visits.md
-      - National STEM Talent Search.md
+    order: []

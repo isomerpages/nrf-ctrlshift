@@ -2,6 +2,7 @@
 title: Truck Visits
 permalink: /truck-visits/
 description: ""
+third_nav_title: Events
 ---
 ```
 ```

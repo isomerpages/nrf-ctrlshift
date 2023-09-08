@@ -21,11 +21,13 @@ description: ""
     width:100%;
 	  text-align: center; 
 		display: flex;
-	margin-bottom: 25px
+	margin-bottom: 25px;
+
 }
 .video-series img {
     max-width:100%;
     height:auto;
+	margin-left: 0 !important
 }
 	.purpose {
     width:30%;
@@ -91,13 +93,14 @@ line-height: 2rem;
 	}
 }
 .bp-dropdown-button .bp-dropdown-trigger p{font-size: 13px !important}
-	.etsp-header-entries{width: 80%; margin: 50px auto 30px}
+	.etsp-header-entries{width: 81%; margin: 50px auto 30px}
 	@media only screen and (max-width: 1280px) {
 	.carousel{
  padding-bottom: 580px;
 	}
 	}
 @media only screen and (max-width: 768px) {
+	.title-section{font-size: 24px;line-height: 30px}
 		.etsp-header-entries{width:100%; margin-left: 0;font-size: 16px;line-height: 22px;font-weight: 600;}
 		.content ol.carousel\_\_viewport>li{
 	height: 230px
@@ -112,25 +115,6 @@ line-height: 2rem;
 	.bp-dropdown-button>span>b>p{font-size: 13px}
 }
 	.video-series-header-entries{font-weight: auto}
-	</style>
-<div class="video-series">
-    <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-title-desktop.png">
-	 <img class="mobile-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-title-mobile.png">
-</div>
- <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-desktop.png">
-	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-1-mobile.png">
-
-<div style="font-size: 16px; line-height: 22px; font-weight: 600;" class="etsp-header-entries">
-Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play and live.
-</div>
-<div class="col-lg-12 pb-lg-1 who-says-title">
-										   <div style="text-align: center" class="text-center">
-										       <h1 style="color: #0037cc; margin-top: 50px" class="title-section text-blue">Inspiring the Next Generation of STE Innovators</h1>
-												  </div>
-								  </div>
-<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-desktop.png">
-	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png">
-<style>
 	.title-section{font-weight: 700;}
 	.section-1-container{
 		margin-top: 80px
@@ -139,7 +123,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	margin: 0 36px ;
 	display: flex;
 	justify-content: space-between;
-	height: 400px;
+	height: 372px;
 	position: relative;
 	margin-bottom: 30px
 	}
@@ -181,7 +165,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	margin: 0 36px ;
 	display: flex;
 	justify-content: space-between;
-	height: 400px;
+	height: 372px;
 	position: relative;
 	margin-bottom: 30px
 	}
@@ -222,7 +206,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	object-fit: cover
 	}
 	.section-1-row-1-col-2-m{
-	width: 100%
+	width: 100%;
 	position: relative;
 	border: 5px solid #FFD700;
 	display: flex;
@@ -233,6 +217,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 	font-size: 16px;
 line-height: 22px;
 font-weight: 600;
+	height: 316.4px;
 	}
 	.section-1-row-1-col-2-m p{
 	margin-top: 0
@@ -276,11 +261,34 @@ font-weight: 600;
 font-size: 16px;
 line-height: 22px;
 font-weight: 600;
+ height: 316.4px;
 	}
 	.section-1-row-2-col-1-m p{
 	margin-top: 0
 	}
-</style>
+	</style>
+<div class="video-series">
+    <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etps-banner-new-desktop.png">
+	 <img class="mobile-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etps-banner-new-mobile.png">
+</div>
+ <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etps-image1-new-desktop.png">
+	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etpc-image1-new-mobile.png">
+
+<div style="font-size: 16px; line-height: 22px; font-weight: 600;text-align: left" class="etsp-header-entries">
+Organised by the Ministry of Education (MOE), the Engineering and Tech Programme (ETPS) Scholarship is an inaugural scholarship that recognises the academic prowess of 200 pre-university students who possess a firm foundation in mathematics and science, and display an inclination towards practical, cross-disciplinary, and experiential learning.
+</div>
+<div class="col-lg-12 pb-lg-1 who-says-title">
+										   <div style="text-align: center" class="text-center">
+										       <h1 style="color: #0037cc; margin-top: 50px" class="title-section text-blue">Inspiring the Next Generation of STE Innovators</h1>
+												  </div>
+								  </div>
+<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-desktop.png">
+	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png">
+<div class="">
+	<p style="font-size: 16px; line-height: 22px; font-weight: 600;">
+With a crowd of 200 enthusiastic young minds from Junior Colleges who share a passion for science, mathematics, and engineering, we were excited to showcase innovative projects and provide opportunities to connect with industry experts from various established STE agencies in the Public Service field.
+	</p>
+</div>
 <div class="section-1-container desktop-only">
 	<div class="section-1-row-1">
 		<div class="section-1-row-1-col-1">
@@ -294,10 +302,10 @@ font-weight: 600;
 	<div class="section-1-row-2">
 		<div class="section-1-row-2-col-1">
 			<img width="100%" class="desktop-only icon-2" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
-			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
+			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">Keep your eyes on this page to stay connected to more exciting projects CTRL+SHIFT has in store for you as we embark deeper into the amazing realm of STE!</p>
 		</div>
 		<div class="section-1-row-2-col-2">
-			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-4-desktop.png">
+			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/pxl_20230726_05232913221.png">
 		</div>
 	</div>
 </div>
@@ -313,11 +321,11 @@ font-weight: 600;
 	</div>
 	<div class="section-1-row-2-m">
 		<div class="section-1-row-2-col-2-m">
-			<img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-4-mobile.png">
+			<img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/pxl_20230726_05232913221.png">
 		</div>
 		<div class="section-1-row-2-col-1-m">
 			<img width="100%" class="mobile-only icon-2" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
-			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
+			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">Keep your eyes on this page to stay connected to more exciting projects CTRL+SHIFT has in store for you as we embark deeper into the amazing realm of STE!</p>
 		</div>
 		
 	</div>
