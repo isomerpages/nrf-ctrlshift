@@ -368,7 +368,7 @@ line-height: 2rem;
 	}
 		.video-series-header-entries{font-weight: initial; margin-bottom: 20px }
 	.video-section{border-top: 1px solid #0037CC;margin-top: 80px; padding-top: 20px; position: relative; text-align: center}
-	.video-frame{width: 645px; height: 370px}
+	.video-frame{width: 645px; height: 370px; margin-bottom: 30px}
 	@media only screen and (max-width: 1280px) {
 	.carousel{
  padding-bottom: 580px;
@@ -384,7 +384,7 @@ line-height: 2rem;
 	.carousel\_\_navigation{
  top: 306px !important;
 	}
-		.video-frame{width: 100%; height: 170px}
+		.video-frame{width: 100%; height: 170px; margin-bottom: 15px}
 	
 	.video-detail{text-align: left}
 	.video-title{font-size: 24px; line-height: 30px}
