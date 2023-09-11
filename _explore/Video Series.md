@@ -350,7 +350,8 @@ ol, li {
 		font-size: 32px;
 	font-weight: 900;
 	color: #000;
-	text-align: center
+	text-align: center;
+	margin-top: 0 !Important
 	}
 		.video-subtitle{
 		font-size: 24px;
