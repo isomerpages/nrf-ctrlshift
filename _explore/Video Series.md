@@ -351,6 +351,11 @@ ol, li {
 	font-weight: 900;
 	color: #000
 	}
+		.video-title{
+		font-size: 24px;
+	font-weight: 900;
+	color: #000
+	}
 	.video-detail{
 		text-align: center;
 font-family: Lato,sans-serif;
@@ -377,6 +382,7 @@ line-height: 2rem;
 	
 	.video-detail{text-align: left}
 	.video-title{font-size: 24px; line-height: 30px}
+	.video-subtitle{font-size: 16px; line-height: 24px}
 }
 
 	</style>
@@ -389,12 +395,12 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 </div>
 <section aria-label="Gallery" class="video-section">
       <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-label.png">
+		<p class="video-subtitle">STE+P UP: EPISODE 1</p>
+  	<p class="video-title">WHO WILL KEEP US SAFE?</p>
+					<p class="video-detail">Drones, germs, and petri dishes... oh my!<br><br>In the shadows of our nation's security, lies a league of experts who don't wear capes but perform remarkable feats to protect us all. These unsung heroes, armed with drones, germs, and petri dishes - work tirelessly behind the scenes to keep our country safe.</p>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" height="100%" width="100%"></iframe>
 				<div class="video-content">
-					<p class="video-title">STE+P UP: EPISODE 1 - WHO WILL KEEP US SAFE?</p>
-					<p class="video-detail">Drones, germs, and petri dishes... oh my!<br><br>In the shadows of our nation's security, lies a league of experts who don't wear capes but perform remarkable feats to protect us all. These unsung heroes, armed with drones, germs, and petri dishes - work tirelessly behind the scenes to keep our country safe.</p>
 				</div>
-      
 </section>
 <img style="width: 80%; margin-top: 30px" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer.png">  
 <img style="width: 60%;" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer-mobile.png">
