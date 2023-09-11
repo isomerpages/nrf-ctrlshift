@@ -357,6 +357,8 @@ font-family: Lato,sans-serif;
 font-size: 1.25rem;
 line-height: 2rem;
 	}
+		.video-series-header-entries{font-weight: initial; margin-bottom: 20px }
+	.video-section{border-top: 1px solid #0037CC;margin-top: 80px; padding-top: 80px; position: relative}
 	@media only screen and (max-width: 1280px) {
 	.carousel{
  padding-bottom: 580px;
@@ -376,7 +378,7 @@ line-height: 2rem;
 	.video-detail{text-align: left}
 	.video-title{font-size: 24px; line-height: 30px}
 }
-	.video-series-header-entries{font-weight: initial }
+
 	</style>
 <div class="video-series">
     <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header-new-desktop.png">
@@ -386,7 +388,7 @@ line-height: 2rem;
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play, and live.
 </div>
 <section aria-label="Gallery" class="video-section">
-      <img style="width: 100px !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-label.png">
+      <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-label.png">
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" height="100%" width="100%"></iframe>
 				<div class="video-content">
 					<p class="video-title">STE+P UP: EPISODE 1 - WHO WILL KEEP US SAFE?</p>
