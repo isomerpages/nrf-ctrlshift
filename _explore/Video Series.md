@@ -349,12 +349,15 @@ ol, li {
 	.video-title{
 		font-size: 32px;
 	font-weight: 900;
-	color: #000
+	color: #000;
+	text-align: center
 	}
-		.video-title{
+		.video-subtitle{
 		font-size: 24px;
 	font-weight: 900;
-	color: #000
+	color: #000;
+		text-align: center;
+	margin-bottom: 0 !important
 	}
 	.video-detail{
 		text-align: center;
