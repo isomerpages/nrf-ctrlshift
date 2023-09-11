@@ -367,7 +367,7 @@ font-size: 1.25rem;
 line-height: 2rem;
 	}
 		.video-series-header-entries{font-weight: initial; margin-bottom: 20px }
-	.video-section{border-top: 1px solid #0037CC;margin-top: 80px; padding-top: 80px; position: relative; text-align: center}
+	.video-section{border-top: 1px solid #0037CC;margin-top: 80px; padding-top: 20px; position: relative; text-align: center}
 	.video-frame{width: 645px; height: 370px}
 	@media only screen and (max-width: 1280px) {
 	.carousel{
