@@ -387,24 +387,14 @@ line-height: 2rem;
 <div class="video-series-header-entries">
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play, and live.
 </div>
-<section aria-label="Gallery" class="video-carousel carousel">
-  <ol class="carousel__viewport">
-    <li class="carousel__slide" tabindex="0" id="carousel__slide1">
-      <div class="carousel__snapper"><img style="width: 100px !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-label.png">
+<section aria-label="Gallery" class="video-section">
+      <img style="width: 100px !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-label.png">
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" height="100%" width="100%"></iframe>
 				<div class="video-content">
 					<p class="video-title">STE+P UP: EPISODE 1 - WHO WILL KEEP US SAFE?</p>
 					<p class="video-detail">Drones, germs, and petri dishes... oh my!<br><br>In the shadows of our nation's security, lies a league of experts who don't wear capes but perform remarkable feats to protect us all. These unsung heroes, armed with drones, germs, and petri dishes - work tirelessly behind the scenes to keep our country safe.</p>
 				</div>
-      </div>
-    </li>
-</ol>
-  <!--<aside class="carousel__navigation">
-    <ol class="carousel__navigation-list">
-      <li class="carousel__navigation-item">
-        <a href="#carousel__slide1" class="carousel__navigation-button"><img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/dummy-vids.jpg"></a>
-      </li> </ol>
-  </aside>-->
+      
 </section>
 <img style="width: 80%; margin-top: 30px" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer.png">  
 <img style="width: 60%;" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer-mobile.png">
