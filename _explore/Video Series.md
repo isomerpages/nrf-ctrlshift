@@ -403,7 +403,6 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
       <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-label.png">
 		<p class="video-subtitle">STE+P UP: EPISODE 1</p>
   	<p class="video-title">WHO WILL KEEP US SAFE?</p>
-					
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" class="video-frame"></iframe>
 				<div class="video-content">
 					<p class="video-detail">Drones, germs, and petri dishes... oh my!<br><br>In the shadows of our nation's security, lies a league of experts who don't wear capes but perform remarkable feats to protect us all. These unsung heroes, armed with drones, germs, and petri dishes - work tirelessly behind the scenes to keep our country safe.</p>
