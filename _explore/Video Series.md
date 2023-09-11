@@ -410,7 +410,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 
 
 <section aria-label="Gallery" class="video-section">
-      <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-label.png">
+    
 		<p class="video-subtitle">STE+P UP: EPISODE 1</p>
   	<p class="video-title">WHO WILL KEEP US SAFE?</p>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" class="video-frame"></iframe>
