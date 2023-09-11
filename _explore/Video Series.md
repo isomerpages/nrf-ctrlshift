@@ -338,9 +338,7 @@ ol, li {
 	border: 5px solid #0037cc
 	}
 	.video-content{
-	position: absolute;
-	text-align: center;
-	top: 490px
+
 	}
 	.carousel\_\_viewport{
 	overflow-y: visible
@@ -374,7 +372,7 @@ line-height: 2rem;
 	.carousel\_\_navigation{
  top: 306px !important;
 	}
-	.video-content{top: 250px}
+	
 	.video-detail{text-align: left}
 	.video-title{font-size: 24px; line-height: 30px}
 }
