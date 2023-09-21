@@ -405,7 +405,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
   	<p class="video-title">OUR FULLY ELECTRIC VEHICULAR (EV) FUTURE</p>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" class="video-frame"></iframe>
 				<div class="video-content">
-					<p class="video-detail">Keeping your cars running has never been easier. That is, if you drive an electric vehicle!<br><br>Get ready to meet the brilliant minds who orchestrate everything related to mastering our home and personal energy use with EV charging as we drive down the road to a sustainable future. Find out how they're taking steps to achieve an electric&nbsp;revolution!</p>
+					<p class="video-detail">Keeping your cars running have never been easier. That is if you drive an electric vehicle (EV)!<br><br>Get ready to meet the brilliant minds who orchestrate everything related to ensuring there's enough energy to go around through our electrical grid infrastructure and EV charging ports as we drive down the road to a sustainable future. Find out how they're taking steps to achieve an electric revolution!</p>
 				</div>
 
 
