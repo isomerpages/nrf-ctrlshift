@@ -13707,7 +13707,7 @@ third_nav_title: Events
                         <div class="wrapper-desc-item-truck">
                             <div class="desc-item-truck">
                                 <div class="title-item-truck">
-                                    <h2>About our CTRL+SHIFT truck</h2>
+                                    <h2 style="font-weight: 700">About our CTRL+SHIFT truck</h2>
                                 </div>
                                 <div class="text-item-truck">
                                     <p>Our CTRL+SHIFT truck went on an adventure to visit multiple Open Houses and Career Fairs to mingle with students and educators, to find out what people really think about Science, Tech and Engineering jobs in the public sector.</p><p>And the best part? Not only did we host exciting giveaways, we also had STE ambassadors who joined us in sharing amazing stories and insider tips on what it's really like to work in their field.</p>
@@ -13727,7 +13727,7 @@ third_nav_title: Events
                         <div class="wrapper-desc-item-truck flex-right">
                             <div class="desc-item-truck">
                                 <div class="title-item-truck">
-                                    <h2>Up for the challenge? Come find us</h2>
+                                    <h2 style="font-weight: 700">Up for the challenge? Come find us</h2>
                                 </div>
                                 <div class="text-item-truck">
 																	<p>We hope you had as great of a time as we did with you. </p><p>Scroll through our gallery to see if you can spot you and your friends!</p>
