@@ -13593,7 +13593,7 @@ a[target="_blank"]:after{display: none}
                 <div class="col-12">
                     <div class="text-center pt-5 pb-1">
                         <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/truck-new-logo-title.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
-											<p style="font-weight: 500" class="subtitle-main"><b>The journey of Singapore's first ever CTRL+SHIFT truck! <br>We dropped by polytechnics and universities with exciting giveaways and  <br>opportunities to get up close and personal with our STE ambassadors. <br>Spot your school!</b></p>
+											<p style="font-weight: 500" class="subtitle-main">The journey of Singapore's first ever CTRL+SHIFT truck! <br>We dropped by polytechnics and universities with exciting giveaways and  <br>opportunities to get up close and personal with our STE ambassadors. <br>Spot your school!</p>
                     </div>
                 </div>
                 <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/map-2-5-2023.png" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
