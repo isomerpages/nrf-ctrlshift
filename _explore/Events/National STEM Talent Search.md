@@ -119,7 +119,7 @@ font-weight: 600;
 					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-1.png">
 				</div>
 				<div class="text-left text-bold pb-2">
-					<p style="font-size: 16px; line-height: 22px;   font-weight: 600;">
+					<p style="font-size: 16px; line-height: 22px; font-weight: 500;">
 						We recently had the incredible opportunity to connect with some of the brightest minds in the country at the National STEM Talent Search (NSTS) and Singapore Science &amp; Engineering Fair Award Ceremony (SSEF) at the Science Centre. <br> <br> NSTS is an annual competition that aims to inspire and provide national recognition to outstanding students who excel in the realms of science and tech. It serves as a remarkable platform for Singaporean students aged 15 to 21 years old to showcase their projects and further fuel their passion for science, tech, and engineering. <br> <br> SSEF serves as a platform where aspiring scientists and engineers can display their passion in their respective fields by sharing their discoveries with industry experts.
 				</p>
 				</div>
