@@ -13586,7 +13586,7 @@ third_nav_title: Events
     right: 1.125em;
     top: 50%
 }
-
+a[target="_blank"]:after{display: none}
         </style>
 <section id="header-truck" class="header-nav-white">
             <div class="container" style="position: relative">
