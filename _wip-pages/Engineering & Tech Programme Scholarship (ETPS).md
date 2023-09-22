@@ -38,7 +38,7 @@ description: ""
     height:auto;
 }
 	.video-series-header-img{
-		width: 500px !important
+	
 
 	
 	}
