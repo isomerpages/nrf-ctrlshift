@@ -13586,14 +13586,14 @@ third_nav_title: Events
     right: 1.125em;
     top: 50%
 }
-
+a[target="_blank"]:after{display: none}
         </style>
 <section id="header-truck" class="header-nav-white">
             <div class="container" style="position: relative">
                 <div class="col-12">
                     <div class="text-center pt-5 pb-1">
                         <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/truck-new-logo-title.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
-											<p class="subtitle-main"><b>The journey of Singapore's first ever CTRL+SHIFT truck! <br>We dropped by polytechnics and universities with exciting giveaways and  <br>opportunities to get up close and personal with our STE ambassadors. <br>Spot your school!</b></p>
+											<p style="font-weight: 500" class="subtitle-main">The journey of Singapore's first ever CTRL+SHIFT truck! <br>We dropped by polytechnics and universities with exciting giveaways and  <br>opportunities to get up close and personal with our STE ambassadors. <br>Spot your school!</p>
                     </div>
                 </div>
                 <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/map-2-5-2023.png" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
@@ -13710,7 +13710,7 @@ third_nav_title: Events
                                     <h2>About our CTRL+SHIFT truck</h2>
                                 </div>
                                 <div class="text-item-truck">
-                                    <p>Our CTRL+SHIFT truck went on an adventure to visit multiple Open Houses and Career Fairs to mingle with students and educators, to find out what people really think about Science, Tech and Engineering jobs in the public sector.</p><p>And the best part? Not only did we host exciting giveaways, we also had STE ambassadors who joined us in sharing amazing stories and insider tips on what it's really like to work in their field.</p>
+                                    <p style="font-weight: 500">Our CTRL+SHIFT truck went on an adventure to visit multiple Open Houses and Career Fairs to mingle with students and educators, to find out what people really think about Science, Tech and Engineering jobs in the public sector.</p><p style="font-weight: 500">And the best part? Not only did we host exciting giveaways, we also had STE ambassadors who joined us in sharing amazing stories and insider tips on what it's really like to work in their field.</p>
                                 </div>
                             </div>
                         </div>
@@ -13730,7 +13730,7 @@ third_nav_title: Events
                                     <h2>Up for the challenge? Come find us</h2>
                                 </div>
                                 <div class="text-item-truck">
-																	<p>We hope you had as great of a time as we did with you. </p><p>Scroll through our gallery to see if you can spot you and your friends!</p>
+																	<p style="font-weight: 500">We hope you had as great of a time as we did with you. </p><p style="font-weight: 500">Scroll through our gallery to see if you can spot you and your friends!</p>
                                 </div>
                             </div>
                         </div>

@@ -338,9 +338,7 @@ ol, li {
 	border: 5px solid #0037cc
 	}
 	.video-content{
-	position: absolute;
-	text-align: center;
-	top: 490px
+
 	}
 	.carousel\_\_viewport{
 	overflow-y: visible
@@ -351,7 +349,16 @@ ol, li {
 	.video-title{
 		font-size: 32px;
 	font-weight: 900;
-	color: #000
+	color: #000;
+	text-align: center;
+	margin-top: 0 !Important
+	}
+		.video-subtitle{
+		font-size: 24px;
+	font-weight: 900;
+	color: #000;
+		text-align: center;
+	margin-bottom: 0 !important
 	}
 	.video-detail{
 		text-align: center;
@@ -359,6 +366,9 @@ font-family: Lato,sans-serif;
 font-size: 1.25rem;
 line-height: 2rem;
 	}
+		.video-series-header-entries{font-weight: initial; margin-bottom: 20px }
+	.video-section{border-top: 1px solid #0037CC;margin-top: 80px; padding-top: 20px; position: relative; text-align: center}
+	.video-frame{width: 645px; height: 370px; margin-bottom: 30px}
 	@media only screen and (max-width: 1280px) {
 	.carousel{
  padding-bottom: 580px;
@@ -374,11 +384,13 @@ line-height: 2rem;
 	.carousel\_\_navigation{
  top: 306px !important;
 	}
-	.video-content{top: 250px}
+		.video-frame{width: 100%; height: 170px; margin-bottom: 15px}
+	
 	.video-detail{text-align: left}
 	.video-title{font-size: 24px; line-height: 30px}
+	.video-subtitle{font-size: 16px; line-height: 24px}
 }
-	.video-series-header-entries{font-weight: initial }
+
 	</style>
 <div class="video-series">
     <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header-new-desktop.png">
@@ -387,24 +399,26 @@ line-height: 2rem;
 <div class="video-series-header-entries">
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play, and live.
 </div>
-<section aria-label="Gallery" class="video-carousel carousel">
-  <ol class="carousel__viewport">
-    <li class="carousel__slide" tabindex="0" id="carousel__slide1">
-      <div class="carousel__snapper"><img style="width: 100px !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-label.png">
-				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" height="100%" width="100%"></iframe>
+<section aria-label="Gallery" class="video-section">
+      <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-button.png">
+		<p class="video-subtitle">STE+P UP: EPISODE 2</p>
+  	<p class="video-title">OUR FULLY ELECTRIC VEHICULAR (EV) FUTURE</p>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/53lWodxrJBc?si=AuvP2cgBku3cJNsm" class="video-frame"></iframe>
 				<div class="video-content">
-					<p class="video-title">STE+P UP: EPISODE 1 - WHO WILL KEEP US SAFE?</p>
+					<p class="video-detail">Keeping your cars running have never been easier. That is if you drive an electric vehicle (EV)!<br><br>Get ready to meet the brilliant minds who orchestrate everything related to ensuring there's enough energy to go around through our electrical grid infrastructure and EV charging ports as we drive down the road to a sustainable future. Find out how they're taking steps to achieve an electric revolution!</p>
+				</div>
+
+
+<section aria-label="Gallery" class="video-section">
+    
+		<p class="video-subtitle">STE+P UP: EPISODE 1</p>
+  	<p class="video-title">WHO WILL KEEP US SAFE?</p>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" class="video-frame"></iframe>
+				<div class="video-content">
 					<p class="video-detail">Drones, germs, and petri dishes... oh my!<br><br>In the shadows of our nation's security, lies a league of experts who don't wear capes but perform remarkable feats to protect us all. These unsung heroes, armed with drones, germs, and petri dishes - work tirelessly behind the scenes to keep our country safe.</p>
 				</div>
-      </div>
-    </li>
-</ol>
-  <!--<aside class="carousel__navigation">
-    <ol class="carousel__navigation-list">
-      <li class="carousel__navigation-item">
-        <a href="#carousel__slide1" class="carousel__navigation-button"><img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/dummy-vids.jpg"></a>
-      </li> </ol>
-  </aside>-->
 </section>
+	<section aria-label="Gallery" class="video-section">
+	</section>
 <img style="width: 80%; margin-top: 30px" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer.png">  
-<img style="width: 60%;" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer-mobile.png">
+<img style="width: 60%; margin-top: 40px" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer-mobile.png"></section>
