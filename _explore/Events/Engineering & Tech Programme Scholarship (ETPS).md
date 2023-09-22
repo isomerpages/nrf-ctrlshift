@@ -275,7 +275,7 @@ font-weight: 600;
  <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etps-image1-new-desktop.png">
 	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etpc-image1-new-mobile.png">
 
-<div style="font-size: 16px; line-height: 22px; font-weight: 500;text-align: left" class="etsp-header-entries">
+<div style="font-size: 20px; line-height: 22px; font-weight: 500;text-align: left" class="etsp-header-entries">
 Organised by the Ministry of Education (MOE), the Engineering and Tech Programme (ETPS) Scholarship is an inaugural scholarship that recognises the academic prowess of 200 pre-university students who possess a firm foundation in mathematics and science, and display an inclination towards practical, cross-disciplinary, and experiential learning.
 </div>
 <div class="col-lg-12 pb-lg-1 who-says-title">
@@ -286,7 +286,7 @@ Organised by the Ministry of Education (MOE), the Engineering and Tech Programme
 <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-desktop.png">
 	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png">
 <div class="">
-	<p style="font-size: 16px; line-height: 22px; font-weight: 500;">
+	<p style="font-size: 20px; line-height: 22px; font-weight: 500;">
 With a crowd of 200 enthusiastic young minds from Junior Colleges who share a passion for science, mathematics, and engineering, we were excited to showcase innovative projects and provide opportunities to connect with industry experts from various established STE agencies in the Public Service field.
 	</p>
 </div>
