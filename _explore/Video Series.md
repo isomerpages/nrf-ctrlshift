@@ -403,7 +403,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
       <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-button.png">
 		<p class="video-subtitle">STE+P UP: EPISODE 2</p>
   	<p class="video-title">OUR FULLY ELECTRIC VEHICULAR (EV) FUTURE</p>
-				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" class="video-frame"></iframe>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lgY48hZkw6Y?si=PmzW_3KiJHQilhUo" class="video-frame"></iframe>
 				<div class="video-content">
 					<p class="video-detail">Keeping your cars running have never been easier. That is if you drive an electric vehicle (EV)!<br><br>Get ready to meet the brilliant minds who orchestrate everything related to ensuring there's enough energy to go around through our electrical grid infrastructure and EV charging ports as we drive down the road to a sustainable future. Find out how they're taking steps to achieve an electric revolution!</p>
 				</div>
