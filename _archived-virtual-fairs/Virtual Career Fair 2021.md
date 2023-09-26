@@ -1,5 +1,5 @@
 ---
-permalink: /VCF/VirtualCareerFair2021/
+permalink: /vcf/virtualcareerfair2021/
 breadcrumb: Virtual Career Fair Recap
 title: Virtual Career Fair 2021
 date: 2022-01-07

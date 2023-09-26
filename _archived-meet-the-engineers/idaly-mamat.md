@@ -1,6 +1,6 @@
 ---
 title: Idaly Mamat
-permalink: /meet-the-engineers/Idaly-Mamat/
+permalink: /meet-the-engineers/idaly-mamat/
 breadcrumb: Idaly Mamat
 ---
 <img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Idaly%20Mamat/Idaly Mamat.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">

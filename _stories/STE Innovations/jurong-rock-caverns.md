@@ -1,6 +1,6 @@
 ---
 title: Jurong Rock Caverns
-permalink: /engineering-marvels/Jurong-Rock-Caverns/
+permalink: /engineering-marvels/jurong-rock-caverns/
 breadcrumb: Jurong Rock Caverns
 third_nav_title: STE Innovations
 ---

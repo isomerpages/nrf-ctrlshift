@@ -1,6 +1,6 @@
 ---
 title: Khairunnisa Binte Yahya
-permalink: /meet-the-engineers/Khairunnisa-Binte-Yahya/
+permalink: /meet-the-engineers/khairunnisa-binte-yahya/
 breadcrumb: Khairunnisa Binte Yahya
 ---
 <img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Khairunnisa/Khairunnisa.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">

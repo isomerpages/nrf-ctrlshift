@@ -1,6 +1,6 @@
 ---
 title: Hoon Ding Yi
-permalink: /meet-the-engineers/Hoon-Ding-Yi/
+permalink: /meet-the-engineers/hoon-ding-yi/
 breadcrumb: Hoon Ding Yi
 ---
 <img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Hoon%20Ding%20Yi/Hoon Ding Yi.jpg" alt="Hoon Ding Yi" style="width:222px;height:278px;" align="left">

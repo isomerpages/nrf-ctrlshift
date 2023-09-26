@@ -1,6 +1,6 @@
 ---
 title: Zann Tay
-permalink: /meet-the-engineers/Zann-Tay/
+permalink: /meet-the-engineers/zann-tay/
 breadcrumb: Zann Tay
 ---
 <img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Zann/Zann.jpg" alt="Zann Tay" style="width:222px;height:278px;" align="left">

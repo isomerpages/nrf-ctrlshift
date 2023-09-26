@@ -1,6 +1,6 @@
 ---
 title: Defending Borders and Protecting Our People
-permalink: /stories/HTXJason/
+permalink: /stories/htxjason/
 description: ""
 third_nav_title: 2022 stories
 ---

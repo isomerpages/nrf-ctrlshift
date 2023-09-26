@@ -1,6 +1,6 @@
 ---
 title: "Marvellous Singapore: Infinite Possibilities at your Fingertips"
-permalink: /stories/URALouisZheng/
+permalink: /stories/uralouiszheng/
 description: ""
 third_nav_title: 2022 stories
 ---

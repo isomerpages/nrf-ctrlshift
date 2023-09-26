@@ -1,6 +1,6 @@
 ---
 title: Singapore's Dr Strange Drawing on Data to Power Up the Digital Nation
-permalink: /stories/LTAAng/
+permalink: /stories/ltaang/
 description: ""
 third_nav_title: 2022 stories
 ---

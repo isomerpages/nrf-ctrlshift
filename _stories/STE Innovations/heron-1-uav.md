@@ -1,6 +1,6 @@
 ---
 title: Heron 1 UAV
-permalink: /engineering-marvels/Heron/
+permalink: /engineering-marvels/heron/
 breadcrumb: Heron 1 UAV
 third_nav_title: STE Innovations
 ---

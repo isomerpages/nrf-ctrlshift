@@ -1,6 +1,6 @@
 ---
 title: Chen Juncheng
-permalink: /meet-the-engineers/Chen-Juncheng/
+permalink: /meet-the-engineers/chen-juncheng/
 breadcrumb: Chen Juncheng
 ---
 <img src="/images/(ARCHIVED) Meet the Engineers/Chen Juncheng/Juncheng.jpg" alt="Chen Juncheng" style="width:222px;height:278px;" align="left">

@@ -1,6 +1,6 @@
 ---
 title: Redefining the taste, texture and flavour of our hawker favourites
-permalink: /experts/Astar/
+permalink: /experts/astar/
 description: ""
 third_nav_title: Meet the Professionals
 ---

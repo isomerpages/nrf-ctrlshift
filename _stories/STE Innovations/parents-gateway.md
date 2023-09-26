@@ -1,6 +1,6 @@
 ---
 title: Parents Gateway
-permalink: /engineering-marvels/Parents-Gateway/
+permalink: /engineering-marvels/parents-gateway/
 breadcrumb: Parents Gateway
 third_nav_title: STE Innovations
 ---

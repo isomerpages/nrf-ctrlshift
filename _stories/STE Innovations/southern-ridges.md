@@ -1,6 +1,6 @@
 ---
 title: Southern Ridges
-permalink: /engineering-marvels/Southern-Ridges/
+permalink: /engineering-marvels/southern-ridges/
 breadcrumb: Southern Ridges
 third_nav_title: STE Innovations
 ---

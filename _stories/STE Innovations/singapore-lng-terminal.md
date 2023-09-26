@@ -1,6 +1,6 @@
 ---
 title: Singapore LNG Terminal
-permalink: /engineering-marvels/LNG/
+permalink: /engineering-marvels/lng/
 breadcrumb: Singapore LNG Terminal
 third_nav_title: STE Innovations
 ---

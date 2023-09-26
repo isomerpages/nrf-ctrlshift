@@ -1,6 +1,6 @@
 ---
 title: Tuas Desalination Plant
-permalink: /engineering-marvels/Tuas-Desalination-Plant/
+permalink: /engineering-marvels/tuas-desalination-plant/
 breadcrumb: Tuas Desalination Plant
 third_nav_title: STE Innovations
 ---

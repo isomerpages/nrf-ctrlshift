@@ -1,6 +1,6 @@
 ---
 title: "Fresh Eyes, New Perspectives: Home Improvement with Augmented Reality"
-permalink: /stories/HDBCheryl/
+permalink: /stories/hdbcheryl/
 description: ""
 third_nav_title: 2022 stories
 ---

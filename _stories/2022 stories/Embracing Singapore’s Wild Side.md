@@ -1,6 +1,6 @@
 ---
 title: Embracing Singapore’s Wild Side
-permalink: /stories/NParksDavidLi/
+permalink: /stories/nparksdavidli/
 description: ""
 third_nav_title: 2022 stories
 ---

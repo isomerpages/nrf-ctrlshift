@@ -1,6 +1,6 @@
 ---
 title: Improving our Daily Commute with Engineering and Technology
-permalink: /stories/LTAPhuaJin/
+permalink: /stories/ltaphuajin/
 description: ""
 third_nav_title: 2022 stories
 ---

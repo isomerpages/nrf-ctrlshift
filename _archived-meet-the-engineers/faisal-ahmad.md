@@ -1,6 +1,6 @@
 ---
 title: Faisal Ahmad
-permalink: /meet-the-engineers/Faisal Ahmad/
+permalink: /meet-the-engineers/faisal ahmad/
 breadcrumb: Faisal Ahmad
 ---
 <img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Faisal/Faisal.jpg" alt="Faisal Ahmad" style="width:222px;height:278px;" align="left">

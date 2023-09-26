@@ -1,6 +1,6 @@
 ---
 title: SkyLab
-permalink: /engineering-marvels/SkyLab/
+permalink: /engineering-marvels/skylab/
 breadcrumb: SkyLab
 third_nav_title: STE Innovations
 ---

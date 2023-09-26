@@ -1,6 +1,6 @@
 ---
 title: MyResponder
-permalink: /engineering-marvels/Myresponder/
+permalink: /engineering-marvels/myresponder/
 breadcrumb: MyResponder
 third_nav_title: STE Innovations
 ---

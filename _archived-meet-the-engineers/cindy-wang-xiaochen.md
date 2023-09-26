@@ -1,6 +1,6 @@
 ---
 title: Cindy Wang Xiaochen
-permalink: /meet-the-engineers/Cindy-Wang-Xiaochen/
+permalink: /meet-the-engineers/cindy-wang-xiaochen/
 breadcrumb: Cindy Wang Xiaochen
 ---
 <img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Cindy/Cindy.jpg" alt="Cindy Wang Xiaochen" style="width:222px;height:278px;" align="left">

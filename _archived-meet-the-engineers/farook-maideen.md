@@ -1,6 +1,6 @@
 ---
 title: Farook Maideen
-permalink: /meet-the-engineers/Farook-Maideen/
+permalink: /meet-the-engineers/farook-maideen/
 breadcrumb: Farook Maideen
 ---
 <img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Farook%20Maideen/Farook.jpg" alt="Farook Maideen" style="width:222px;height:278px;" align="left">

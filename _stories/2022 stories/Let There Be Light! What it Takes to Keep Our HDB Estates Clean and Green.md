@@ -1,6 +1,6 @@
 ---
 title: Let There Be Light! What it Takes to Keep Our HDB Estates Clean and Green
-permalink: /stories/HDBSharon/
+permalink: /stories/hdbsharon/
 description: ""
 third_nav_title: 2022 stories
 ---

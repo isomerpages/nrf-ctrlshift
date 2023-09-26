@@ -1,6 +1,6 @@
 ---
 title: Safeguarding Singapore’s Yellow Brick Roads
-permalink: /stories/LTAMuzni/
+permalink: /stories/ltamuzni/
 description: ""
 third_nav_title: 2022 stories
 ---
