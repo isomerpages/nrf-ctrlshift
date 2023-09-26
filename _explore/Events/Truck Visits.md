@@ -13432,7 +13432,7 @@ third_nav_title: Events
                 top: 39px;
                 width: 10px;
                 height: 14px;
-                background: url("https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/caret-right-bl.png");
+                background: url("/images/caret-right-bl.png");
                 background-size: cover;
                 background-repeat: no-repeat
             }
@@ -13592,18 +13592,18 @@ a[target="_blank"]:after{display: none}
             <div class="container" style="position: relative">
                 <div class="col-12">
                     <div class="text-center pt-5 pb-1">
-                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/truck-new-logo-title.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
+                        <img src="/images/truck-new-logo-title.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
 											<p style="font-weight: 500" class="subtitle-main">The journey of Singapore's first ever CTRL+SHIFT truck! <br>We dropped by polytechnics and universities with exciting giveaways and  <br>opportunities to get up close and personal with our STE ambassadors. <br>Spot your school!</p>
                     </div>
                 </div>
-                <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/map-2-5-2023.png" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
+                <img src="/images/map-2-5-2023.png" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
                 <div class="col-12">
                     <div class="map-truck p-relative">
                         <div class="outCircleFloatTruck1">
                             <div class="rotateFloatTruck1">
                                 <div class="counterrotateFloatTruck1">
                                     <div class="innerFloatTruck1">
-                                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-1.svg?sanitize=true" alt="truck" class="FloatTruck1">
+                                        <img src="/images/float-map-truck-1.svg?sanitize=true" alt="truck" class="FloatTruck1">
                                     </div>
                                 </div>
                             </div>
@@ -13612,17 +13612,17 @@ a[target="_blank"]:after{display: none}
                             <div class="rotateIconTruck">
                                 <div class="counterrotateIconTruck">
                                     <div class="innerIconTruck">
-                                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/icon-truck.svg?sanitize=true" alt="truck" class="icon-truck">
+                                        <img src="/images/icon-truck.svg?sanitize=true" alt="truck" class="icon-truck">
                                     </div>
                                 </div>
                             </div>
                         </div>
-											<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/map-mobile-new-version.png" alt="map truck" class="d-lg-none img-full">
+											<img src="/images/map-mobile-new-version.png" alt="map truck" class="d-lg-none img-full">
                         <div class="outCircleFloatTruck3">
                             <div class="rotate">
                                 <div class="counterrotateFloatTruck3">
                                     <div class="innerFloatTruck3">
-                                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-3.svg?sanitize=true" alt="truck" class="FloatTruck3">
+                                        <img src="/images/float-map-truck-3.svg?sanitize=true" alt="truck" class="FloatTruck3">
                                     </div>
                                 </div>
                             </div>
@@ -13631,7 +13631,7 @@ a[target="_blank"]:after{display: none}
                             <div class="rotate">
                                 <div class="counterrotateFloatTruck4">
                                     <div class="innerFloatTruck4">
-                                        <img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/float-map-truck-4.svg?sanitize=true" alt="truck" class="FloatTruck4">
+                                        <img src="/images/float-map-truck-4.svg?sanitize=true" alt="truck" class="FloatTruck4">
                                     </div>
                                 </div>
                             </div>

@@ -112,11 +112,11 @@ font-weight: 600;
 		<div class="row mb-5 stem-row-1" style="">
 			<div class="col-sm-12">
 				<div class="text-left mb-2">
-					<img style="width: auto" class="desktop-only title-page-stem" alt="National STEM Talent Search" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-title-web-2.png">
-					<img style="width: 80%; margin: 0" class="mobile-only title-page-stem" alt="National STEM Talent Search" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-title-mobile-2.png">
+					<img style="width: auto" class="desktop-only title-page-stem" alt="National STEM Talent Search" src="/images/national%20stem%20talent%20search/stem-title-web-2.png">
+					<img style="width: 80%; margin: 0" class="mobile-only title-page-stem" alt="National STEM Talent Search" src="/images/national%20stem%20talent%20search/stem-title-mobile-2.png">
 				</div>
 				<div class="text-left mb-5">
-					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search Img 1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-1.png">
+					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search Img 1" src="/images/national%20stem%20talent%20search/stem-img-1.png">
 				</div>
 				<div class="text-left text-bold pb-2">
 					<p style="font-size: 20px; line-height: 32px; font-weight: 500;">
@@ -136,28 +136,28 @@ font-weight: 600;
 				</div>
 			</div>
 			<div class="col-sm-12 mobile-only">
-				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2-mobile.png" style="width: 100%">
-				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/text-1-mobile.png" style="width: 80%;  margin: 15px auto 25px">
-				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-3-mobile.png" style="width: 100%">
-				<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/text-2-mobile.png" style="width: 80%; margin: 15px auto 25px">
+				<img src="/images/national%20stem%20talent%20search/stem-img-2-mobile.png" style="width: 100%">
+				<img src="/images/national%20stem%20talent%20search/text-1-mobile.png" style="width: 80%;  margin: 15px auto 25px">
+				<img src="/images/national%20stem%20talent%20search/stem-img-3-mobile.png" style="width: 100%">
+				<img src="/images/national%20stem%20talent%20search/text-2-mobile.png" style="width: 80%; margin: 15px auto 25px">
 			</div>
 			<div class="col-sm-8 section-2-row-1 desktop-only">
 				<div class="img-pull-left">
-					<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-2.png" alt="National STEM Talent Search Img 1" style="width: auto">
+					<img src="/images/national%20stem%20talent%20search/stem-img-2.png" alt="National STEM Talent Search Img 1" style="width: auto">
 					<div class="section-2-text-box">
-							<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/text-1-desktop.png">
+							<img src="/images/national%20stem%20talent%20search/text-1-desktop.png">
 					</div>
-					<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-water.png" alt="National STEM Talent Search Img 1" class="icon-1" style="position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;">
+					<img src="/images/national%20stem%20talent%20search/icon-water.png" alt="National STEM Talent Search Img 1" class="icon-1" style="position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;">
 				</div>
 			</div>
 			<div class="col-sm-8 section-2-row-1 desktop-only" style="margin-left: 33.333%; margin-top: 50px">
 				<div class="img-pull-left">
-					<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/stem-img-3.png" alt="National STEM Talent Search Img 1" style="width: auto">
+					<img src="/images/national%20stem%20talent%20search/stem-img-3.png" alt="National STEM Talent Search Img 1" style="width: auto">
 						<div class="section-2-text-box" style="width: 340px;position: absolute;top: 9%;right: 80%; left: auto">
-							<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/text-2-desktop.png">
+							<img src="/images/national%20stem%20talent%20search/text-2-desktop.png">
 					</div>
-					<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-arrow.png" alt="National STEM Talent Search Img 1" class="icon-2" style="position: absolute;bottom: -30px;right: -30px;height: 60px;width: 60px;">
-					<img src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/National%20STEM%20Talent%20Search/icon-sun.png" alt="National STEM Talent Search Img 1" class="icon-3" style="position: absolute;top: -30px;height: 60px;width: 60px;right: 50%;">
+					<img src="/images/national%20stem%20talent%20search/icon-arrow.png" alt="National STEM Talent Search Img 1" class="icon-2" style="position: absolute;bottom: -30px;right: -30px;height: 60px;width: 60px;">
+					<img src="/images/national%20stem%20talent%20search/icon-sun.png" alt="National STEM Talent Search Img 1" class="icon-3" style="position: absolute;top: -30px;height: 60px;width: 60px;right: 50%;">
 				</div>
 			</div>
 		</div>

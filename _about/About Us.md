@@ -180,7 +180,7 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
       <div class="row mb-5 recruitment-row" style="">
         <div class="col-sm-6">
             <div class="text-left pb-1">
-                <img style="width: auto" class="title-page-recruitment" alt="title page truck" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/About%20Us/group%2014114.png">
+                <img style="width: auto" class="title-page-recruitment" alt="title page truck" src="/images/about%20us/group%2014114.png">
             </div>
         </div>
                     <div class="col-sm-6">

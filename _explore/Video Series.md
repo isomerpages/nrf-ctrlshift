@@ -393,14 +393,14 @@ line-height: 2rem;
 
 	</style>
 <div class="video-series">
-    <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header-new-desktop.png">
-	 <img class="mobile-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header-new-mobile.png">
+    <img class="desktop-only video-series-header-img" src="/images/video%20series/video-series-header-new-desktop.png">
+	 <img class="mobile-only video-series-header-img" src="/images/video%20series/video-series-header-new-mobile.png">
 </div>
 <div class="video-series-header-entries">
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play, and live.
 </div>
 <section aria-label="Gallery" class="video-section">
-	      <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-button.png">
+	      <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="/images/video%20series/new-button.png">
 		<p class="video-subtitle">STE+P UP: EPISODE 3</p>
   	<p class="video-title">PEOPLE FOR THE PLANET</p>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/53lWodxrJBc?si=AuvP2cgBku3cJNsm" class="video-frame"></iframe>
@@ -424,5 +424,5 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 </section>
 	<section aria-label="Gallery" class="video-section">
 	</section>
-<img style="width: 80%; margin-top: 30px" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer.png">  
-<img style="width: 60%; margin-top: 40px" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer-mobile.png"></section></section>
+<img style="width: 80%; margin-top: 30px" class="desktop-only" src="/images/video%20series/video-series-footer.png">  
+<img style="width: 60%; margin-top: 40px" class="mobile-only" src="/images/video%20series/video-series-footer-mobile.png"></section></section>
