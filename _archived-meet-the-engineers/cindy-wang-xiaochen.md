@@ -3,7 +3,7 @@ title: Cindy Wang Xiaochen
 permalink: /meet-the-engineers/cindy-wang-xiaochen/
 breadcrumb: Cindy Wang Xiaochen
 ---
-<img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Cindy/Cindy.jpg" alt="Cindy Wang Xiaochen" style="width:222px;height:278px;" align="left">
+<img src="/images/(archived)%20meet%20the%20engineers/cindy/cindy.jpg" alt="Cindy Wang Xiaochen" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br> 
 <strong>Cindy Wang Xiaochen</strong>

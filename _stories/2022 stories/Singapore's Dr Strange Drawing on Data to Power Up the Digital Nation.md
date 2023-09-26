@@ -6,7 +6,7 @@ third_nav_title: 2022 stories
 ---
 ## Singapore's Dr Strange: Drawing on Data to Power Up the Digital Nation 
 
-![](/images/Stories/2022%20stories/Dr%20strange/dr%20strange%201.png)
+![](/images/stories/2022%20stories/dr%20strange/dr%20strange%201.png)
 
 Harnessing the power of data, organising massive data tournaments, and sourcing solutions for Singapore — these are just a few responsibilities of a Digital Lab rat. 
 
@@ -30,7 +30,7 @@ This is why she says “proper change management, including seeking users’ inv
  
 The core of her job sees her setting up the Digital Lab, planning programs, sourcing solutions and exploring experimental approaches, and engaging stakeholders for partnership on digital initiatives. 
 
-![](/images/Stories/2022%20stories/Dr%20strange/dr%20strange%202.png)
+![](/images/stories/2022%20stories/dr%20strange/dr%20strange%202.png)
  
 The real-life launch of the Digital Lab in Q2 of 2022 will showcase a range of user-friendly digital tools including: 
 * Panorama: one-stop data platform built in-house to facilitate users on the data analytics journey 
@@ -63,7 +63,7 @@ When she made the move from Corporate Strategy to Digital Lab, Yan Jie took her 
 
 “My work involves a wide range of technologies as it requires me to stay on top of the latest technological trends. On a more daily basis, it involves data processing and analytics, machine learning, artificial intelligence, and software engineering,” she continues. Basically, all of the tools that are forging what people call the Fourth Industrial Revolution.
 
-![](/images/Stories/2022%20stories/Dr%20strange/dr%20strange%203.png)
+![](/images/stories/2022%20stories/dr%20strange/dr%20strange%203.png)
 
 Despite this, Yan Jie says she does not have the answers to all tech-related questions. But that’s not a problem. Her never-ending search for information means she’s always acquiring new knowledge. 
  

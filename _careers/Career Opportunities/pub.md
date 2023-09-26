@@ -4,7 +4,7 @@ permalink: /engineering-careers/pub/
 breadcrumb: PUB
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/PUB/pub.jpg" alt="pub" style="width:auto;height:110px;" align="left">
+<img src="/images/careers/career%20opportunities/pub/pub.jpg" alt="pub" style="width:auto;height:110px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US

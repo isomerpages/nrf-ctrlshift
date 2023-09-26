@@ -4,7 +4,7 @@ permalink: /engineering-marvels/myresponder/
 breadcrumb: MyResponder
 third_nav_title: STE Innovations
 ---
-![](/images/Stories/STE%20Innovations/Myresponder/myresponder%20new.jpg)
+![](/images/stories/ste%20innovations/myresponder/myresponder%20new.jpg)
 
 ## SAVING LIVES WITH A TOUCH
 

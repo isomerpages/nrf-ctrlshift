@@ -4,7 +4,7 @@ permalink: /engineering-careers/bca/
 breadcrumb: BCA
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/BCA/bca.jpg" alt="bca" style="width:auto;height:110px;" align="left">
+<img src="/images/careers/career%20opportunities/bca/bca.jpg" alt="bca" style="width:auto;height:110px;" align="left">
 <br clear="left">
 
 

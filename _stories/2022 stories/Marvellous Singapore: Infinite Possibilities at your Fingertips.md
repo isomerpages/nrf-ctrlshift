@@ -5,7 +5,7 @@ description: ""
 third_nav_title: 2022 stories
 ---
 # Marvel-lous Singapore: Infinite Possibilities at your Fingertips      
-![](/images/Stories/2022%20stories/Marvellous/marvellous%201.jpg)
+![](/images/stories/2022%20stories/marvellous/marvellous%201.jpg)
 
 Imagine being able to access all of Singapore’s planning, real estate, car park, and land sales data on one platform, and using this information to create your vision for future Singapore. Check out what our urban planners have in common with the savvy Iron-Man, and how you can be a part of it today!           
 
@@ -31,7 +31,7 @@ A regular day in his life means spinning multiple plates: working on system deve
      
 Louis focuses primarily on Web and Web Geographical Information Systems (GIS) technologies and incorporating augmented planning information into apps.
 
-![](/images/Stories/2022%20stories/Marvellous/marvellous%202.jpg)
+![](/images/stories/2022%20stories/marvellous/marvellous%202.jpg)
      
 		 
  **Louis believes that technology will drive 3Rs in URA:**
@@ -45,7 +45,7 @@ Louis focuses primarily on Web and Web Geographical Information Systems (GIS) te
 
 Besides working on technical tasks, he gets to listen to insider stories behind the history and development of Singapore. From discovering the historical significance of conserved buildings, to details behind maintaining a shophouse, or learning about the multi-dimensional considerations during the planning process, he has developed a better appreciation of the complexities behind the planning for Singapore’s land use and infrastructure. 
 
-![](/images/Stories/2022%20stories/Marvellous/marvellous%203.jpg)
+![](/images/stories/2022%20stories/marvellous/marvellous%203.jpg)
 
 He believes that having the right attitude, a willingness to learn, an openness to trying new approaches and striving for excellence has helped him in his journey.
 

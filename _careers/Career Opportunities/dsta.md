@@ -4,7 +4,7 @@ permalink: /engineering-careers/dsta/
 breadcrumb: DSTA
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/DSTA/dsta%20logo%20NEW.jpg" alt="dsta" style="width:auto; height:150px;" align="left">
+<img src="/images/careers/career%20opportunities/dsta/dsta%20logo%20new.jpg" alt="dsta" style="width:auto; height:150px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US

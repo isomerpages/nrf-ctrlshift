@@ -4,7 +4,7 @@ permalink: /engineering-careers/csa/
 breadcrumb: CSA
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/CSA/csa.jpg" alt="csa" style="width:auto;height:193px;" align="left">
+<img src="/images/careers/career%20opportunities/csa/csa.jpg" alt="csa" style="width:auto;height:193px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US

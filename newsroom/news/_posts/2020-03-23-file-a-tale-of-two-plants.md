@@ -2,7 +2,7 @@
 layout: post
 title: 'A Tale of Two Plants '
 date: 2020-03-23T00:00:00.000Z
-file_url: '/files/2020-03-23 A Tale of Two Plants.pdf'
+file_url: '/files/2020-03-23 a tale of two plants.pdf'
 
 ---
 

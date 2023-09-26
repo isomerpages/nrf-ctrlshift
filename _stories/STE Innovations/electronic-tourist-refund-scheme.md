@@ -4,7 +4,7 @@ permalink: /engineering-marvels/etrs/
 breadcrumb: Electronic Tourist Refund Scheme
 third_nav_title: STE Innovations
 ---
-![](/images/Stories/STE%20Innovations/Etrs/etrs%20new.png)
+![](/images/stories/ste%20innovations/etrs/etrs%20new.png)
 
 ## WORLD-CLASS SHOPPING EXPERIENCE
 Prior to the introduction of eTRS, tourists had to fill in different forms from participating retailers if they wanted a GST refund on their purchases. In addition, they had to queue at a Singapore Customs’ counter for their goods to be inspected, before proceeding to a different queue at the Central Refund Agencies’ (Global Blue and Premier Tax Free) counter in the airport to receive their refund.

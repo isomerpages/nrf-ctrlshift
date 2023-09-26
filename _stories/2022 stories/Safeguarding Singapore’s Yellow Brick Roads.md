@@ -6,7 +6,7 @@ third_nav_title: 2022 stories
 ---
 ## Safeguarding Singapore’s Yellow Brick Roads
 
-![](/images/Stories/2022%20stories/Yellow%20brick%20roads/yellow%20brick%201.png)
+![](/images/stories/2022%20stories/yellow%20brick%20roads/yellow%20brick%201.png)
 
 This technological wizard is working towards building ‘digital twins’ with map-based Geographic Information System (GIS) of the road and road-related infrastructures using 3D light detection and ranging sensors. All to better safeguard Singapore’s public transport operations and manage our roads. 
 
@@ -20,7 +20,7 @@ To manage increasingly complex road infrastructure, growing constraints in maint
 
 While many drivers may focus on the negatives, like traffic congestion and construction, Muzni Ziyard zeroes in on how he can improve road safety maintenance, operations, and efficiency.
 
-![](/images/Stories/2022%20stories/Yellow%20brick%20roads/yellow%20brick%202.png)
+![](/images/stories/2022%20stories/yellow%20brick%20roads/yellow%20brick%202.png)
  
 Together with his team, Muzni develops systems that use information and technology, such as data sets and analytics to review and enhance operational maintenance effectiveness. These lead to cost-efficient and quality maintenance management practices. 
  
@@ -40,7 +40,7 @@ Muzni and his teams’ mission is to support maintenance operations and ensuring
 
 The new and improved asset management system will dramatically improve overall maintenance and operational efficiency as it can be used for all road and road-related features. 
 
-![](/images/Stories/2022%20stories/Yellow%20brick%20roads/yellow%20brick%203.png)
+![](/images/stories/2022%20stories/yellow%20brick%20roads/yellow%20brick%203.png)
 
 He is also developing a ‘digital twin’: a map-based Geographic Information System (GIS) containing accurate locations and annotated useful information for all road, structure, and traffic assets in Singapore. This information powerhouse will be integrated with the updated system to make analysis even more robust. 
  

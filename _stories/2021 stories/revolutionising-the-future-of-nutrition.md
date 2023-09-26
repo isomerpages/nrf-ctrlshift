@@ -5,7 +5,7 @@ breadcrumb: /What's Next stories/Revolutionising the Future of Nutrition
 third_nav_title: 2021 stories
 ---
 # <b>Revolutionising the Future of Nutrition</b>
-![](/images/Stories/2021%20stories/Revolutionising/revolutionising%201.jpg)
+![](/images/stories/2021%20stories/revolutionising/revolutionising%201.jpg)
 <br>
 *From culturing bacteria to extracting lycopene crystals, Dr Chen Xixian takes great pride in bringing her bioengineering breakthroughs from lab to table.*
 <br>
@@ -25,7 +25,7 @@ One project that Dr Chen has been focusing on lately is developing sustainable a
 Lycopene, the compound that gives tomatoes their red colour, is an antioxidant and is known to promote heart health while reducing the risk of developing various types of cancer. Sounds amazing? Here’s the catch: these red compounds exist in extremely low concentration in the foods we eat. In fact, only up to 20 milligrams of lycopene can be produced from one kilogram of tomato cells. You’ll have to eat at least three tomatoes a day to enjoy those benefits, Dr Chen explains.
 <br>
 <br>
-![](/images/Stories/2021%20stories/Revolutionising/revolutionising%202.jpg)
+![](/images/stories/2021%20stories/revolutionising/revolutionising%202.jpg)
 *Dr Chen (centre) and her teammates with the extracted lycopene. (Photo credit: A<span>&#42;</span>STAR)*
 <br>
 <br>

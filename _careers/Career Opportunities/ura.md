@@ -4,7 +4,7 @@ permalink: /engineering-careers/ura/
 breadcrumb: URA
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/URA/ura.jpg" alt="ura" style="width:auto;height:100px;" align="left">
+<img src="/images/careers/career%20opportunities/ura/ura.jpg" alt="ura" style="width:auto;height:100px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US

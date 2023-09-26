@@ -4,7 +4,7 @@ permalink: /engineering-careers/jtc/
 breadcrumb: JTC
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/JTC/JTC%20Logo%20NEW.png" alt="jtc" style="width:auto;height:150px;" align="left">
+<img src="/images/careers/career%20opportunities/jtc/jtc%20logo%20new.png" alt="jtc" style="width:auto;height:150px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US

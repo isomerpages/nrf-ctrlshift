@@ -4,7 +4,7 @@ permalink: /engineering-careers/dso/
 breadcrumb: DSO
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/DSO/dso.jpg" alt="dso" style="width:auto;height:180px;" align="left">
+<img src="/images/careers/career%20opportunities/dso/dso.jpg" alt="dso" style="width:auto;height:180px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US

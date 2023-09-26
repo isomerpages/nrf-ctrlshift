@@ -5,7 +5,7 @@ description: ""
 third_nav_title: 2022 stories
 ---
 ## Fresh Eyes, New Perspectives: Home Improvement with Augmented Reality
-![](/images/Stories/2022%20stories/Fresh%20eyes/fresh%20eyes%20-1.png)
+![](/images/stories/2022%20stories/fresh%20eyes/fresh%20eyes%20-1.png)
 
 Using Augmented Reality (AR) to help seniors see the world afresh and visualise improvements to their HDB homes may seem like science fiction – but for Cheryl Chiam, it’s all part of a regular day at work.     
 
@@ -13,7 +13,7 @@ When you think about home improvements for our  seniors, AR is probably not the 
 
 AR technology revolutionises the way we visualise and consume digital information and spatial imagery, by overlaying digital images onto the real world. Although many AR apps today are designed mainly with the younger generation in mind, HDB has proven that they can be put to wider use to  bring convenience to our seniors as well.
 
-![](/images/Stories/2022%20stories/Fresh%20eyes/fresh%20eyes%202.png)
+![](/images/stories/2022%20stories/fresh%20eyes/fresh%20eyes%202.png)
 
 The question is — what does it take to make that AR dream a reality?
 As the team lead for mobile technology in HDB, Cheryl is dedicated to finding novel ways to improve the Mobile@HDB app as an enabling platform to deliver services to citizens. 
@@ -33,7 +33,7 @@ AR technology isn’t new to HDB. AR was also used to display prices for resale 
 
 Cheryl and her  team leveraged  Apple’s latest ARKit technology and Google’s ARCore to create AR experiences with true-to-scale 3D models built to the original design specifications. To assess the feasibility and usefulness of 3D model AR experiences, ethnographic research was conducted. She says, “This gave us the opportunity to conduct site visits to the showrooms and visit residents to observe them trying out various ramps. It was a good learning experience to see first-hand what really goes on, on the ground.”
 
-![](/images/Stories/2022%20stories/Fresh%20eyes/fresh%20eyes%20-%203.png)
+![](/images/stories/2022%20stories/fresh%20eyes/fresh%20eyes%20-%203.png)
 
 It was a challenging process that involved a lot of research and trials, but Cheryl persevered. "Don’t be afraid to fail. Fail fast and learn faster. Keep questioning as learning is a life-long process,” Cheryl affirms. 
 

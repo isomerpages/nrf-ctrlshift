@@ -3,7 +3,7 @@ title: Hoon Ding Yi
 permalink: /meet-the-engineers/hoon-ding-yi/
 breadcrumb: Hoon Ding Yi
 ---
-<img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Hoon%20Ding%20Yi/Hoon Ding Yi.jpg" alt="Hoon Ding Yi" style="width:222px;height:278px;" align="left">
+<img src="/images/(archived)%20meet%20the%20engineers/hoon%20ding%20yi/hoon ding yi.jpg" alt="Hoon Ding Yi" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br> 
 <strong>Hoon Ding Yi</strong>

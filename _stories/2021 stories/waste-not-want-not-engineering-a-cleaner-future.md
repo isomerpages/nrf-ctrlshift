@@ -5,7 +5,7 @@ breadcrumb: /What's Next stories/Waste Not, Want Not - Engineering a Cleaner Fut
 third_nav_title: 2021 stories
 ---
 # <b>Waste Not, Want Not - Engineering a Cleaner Future</b>
-![](/images/Stories/2021%20stories/Waste%20not/waste%20not%201.jpg)
+![](/images/stories/2021%20stories/waste%20not/waste%20not%201.jpg)
 <br>
 *With an innovative spirit and a clear resolve, Anabel Lee Ching Han wants to make a positive impact in the field of recycling and waste management.*
 <br>
@@ -18,7 +18,7 @@ Her work back then required her to collaborate with the National Environment Age
 Today, the executive engineer is part of a team that manages private waste facilities, such as the Sarimbun Recycling Park (SRP) located on the fringe of Lim Chu Kang Road. The recycling park consists of 15 land plots, occupying about 5,000 to 20,000 square metres each. Collectively, SRP tenants contribute almost one-third of the waste recycled in Singapore. So what does her work entail? “Aside from maintaining the common areas, I support the team in administering tenancy agreements and managing the tenants at SRP,” says Anabel, who’s familiar with auditing maintenance works like cleaning and pest-control.
 <br>
 <br>
-![](/images/Stories/2021%20stories/Waste%20not/waste%20not%202.jpg)
+![](/images/stories/2021%20stories/waste%20not/waste%20not%202.jpg)
 *The Sarimbun Recycling Park (SRP) consists of 15 land plots, and tenants at the recycling park contribute almost one-third of the waste recycled in Singapore. (Photo credit: NEA)*
 <br><br>
 Harnessing digital tools is part and parcel of her job. Most of the stockpiles at SRP are irregularly shaped and sized, making it a challenge for the team to determine the volumetric proportions on-site, she shares. Using images captured by a drone, Annabel recently conducted a trial where a modelling software was used to create a three-dimensional representation of these materials. “With these 3D models, we can eliminate the guesswork by calculating the parameters we are interested in, such as the actual dimensions and volume of these stockpiles,” she explains.

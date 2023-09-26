@@ -4,7 +4,7 @@ permalink: /engineering-careers/cpf/
 breadcrumb: CPF
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/CPF/CPF%20Logo_NEW.png" alt="cpf" style="width:auto;height:300px;" align="left">
+<img src="/images/careers/career%20opportunities/cpf/cpf%20logo_new.png" alt="cpf" style="width:auto;height:300px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US
