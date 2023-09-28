@@ -399,7 +399,7 @@ line-height: 2rem;
 <div class="video-series-header-entries">
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play, and live.
 </div>
-	<section aria-label="Gallery" class="video-section">
+<section aria-label="Gallery" class="video-section">
 <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="/images/video%20series/new-button.png">
 		<p class="video-subtitle">STE+P UP: EPISODE 2</p>
   	<p class="video-title">OUR FULLY ELECTRIC VEHICULAR (EV) FUTURE</p>
