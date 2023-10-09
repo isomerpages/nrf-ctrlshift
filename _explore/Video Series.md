@@ -402,7 +402,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="/images/video%20series/new-button.png">
 		<p class="video-subtitle">STE+P UP: EPISODE 3</p>
   	<p class="video-title">PEOPLE FOR THE PLANET</p>
-				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/53lWodxrJBc?si=AuvP2cgBku3cJNsm" class="video-frame"></iframe>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Adx3Y5FOdlA?si=to-1eZty0p8Y3rkE" class="video-frame"></iframe>
 				<div class="video-content">
 					<p class="video-detail">We all applaud Singapore's sustainability efforts and here are some of the reasons why.<br><br>Believe it or not, the government is already paving the way for a futuristic landscape with automated cars, robots, and underground infrastructure right beneath our feet. From combating illegal wildlife trade to expanding public infrastructure with underground roads, we meet the visionaries who are shaping Singapore's tomorrow - where innovation and conservation go hand-in-hand.</p>
 				</div><section aria-label="Gallery" class="video-section">
