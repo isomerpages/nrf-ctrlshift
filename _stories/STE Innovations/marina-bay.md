@@ -1,6 +1,6 @@
 ---
 title: Marina Bay
-permalink: /engineering-marvels/Marina-Bay/
+permalink: /engineering-marvels/marina-bay/
 breadcrumb: Marina Bay
 third_nav_title: STE Innovations
 ---

@@ -1,6 +1,6 @@
 ---
 title: Powering Singapore to go green
-permalink: /experts/PUBLennis/
+permalink: /experts/publennis/
 description: ""
 third_nav_title: Meet the Professionals
 ---

@@ -1,12 +1,12 @@
 ---
 title: Defending Borders and Protecting Our People
-permalink: /stories/HTXJason/
+permalink: /stories/htxjason/
 description: ""
 third_nav_title: 2022 stories
 ---
 ## The Bot-master of Singapore: Defending Borders and Protecting Our People 
 
-![](/images/Stories/2022%20stories/Defending%20borders/defend%20borders%201.png)
+![](/images/stories/2022%20stories/defending%20borders/defend%20borders%201.png)
 
 Experimenting with software that imitates how humans behave, and activating Artificial Intelligence (AI) to sniff out dangerous goods entering Singapore... Sounds crazy? It’s all in a day’s work for HTX Data Scientist Jason Ng.
 
@@ -26,7 +26,7 @@ Instead of a human scrolling through online listings one at a time, the tool can
 
 By speeding up the analysis of data, Jason frees up precious human resources that can be focused on other pressing matters instead.
 
-![](/images/Stories/2022%20stories/Defending%20borders/defend%20borders%202.png)
+![](/images/stories/2022%20stories/defending%20borders/defend%20borders%202.png)
 
 This tool also allows Singapore to monitor a wide range of lethal contraband such as drugs, dodgy counterfeit products, prohibited weapons, you name it.
 
@@ -42,7 +42,7 @@ As a Data Scientist, he experiments with information and AI at HTX (Home Team Sc
 
 At the click of a button, Jason can run automated data analysis that sorts through endless amounts of information at light speed. How? As  he does with the E-Commerce Surveillance Tool, he harnesses both AI and Robotic Process Automation (RPA) to emulate human and software interactions.
 
-![](/images/Stories/2022%20stories/Defending%20borders/defend%20borders%203.png)
+![](/images/stories/2022%20stories/defending%20borders/defend%20borders%203.png)
 
 "It’s exhilarating to work with data and technology because the opportunities, and game-changing outcomes, are endless,” Jason shares. For instance, he is currently working with Immigration and Checkpoints Authority’s (ICA) to adopt advanced software and data-driven models and keep Singapore's borders secure.
 

@@ -4,7 +4,7 @@ permalink: /engineering-careers/ema/
 breadcrumb: EMA
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/EMA/ema.jpg" alt="ema" style="width:auto;height:150px;" align="left">
+<img src="/images/careers/career%20opportunities/ema/ema.jpg" alt="ema" style="width:auto;height:150px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US

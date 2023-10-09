@@ -4,7 +4,7 @@ permalink: /engineering-careers/nea/
 breadcrumb: NEA
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/NEA/nea-logo%20NEW.png" alt="nea" style="width:auto;height:110px;" align="left">
+<img src="/images/careers/career%20opportunities/nea/nea-logo%20new.png" alt="nea" style="width:auto;height:110px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US

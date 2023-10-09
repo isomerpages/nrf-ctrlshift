@@ -3,7 +3,7 @@ title: Goh Chue Hsien
 permalink: /meet-the-engineers/goh-chue-hsien/
 breadcrumb: Goh Chue Hsien
 ---
-<img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Goh%20Chue%20Hsien/Goh Chue Hsien.jpg" alt="Goh Chue Hsien" style="width:222px;height:278px;" align="left">
+<img src="/images/(archived)%20meet%20the%20engineers/goh%20chue%20hsien/goh chue hsien.jpg" alt="Goh Chue Hsien" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
 <strong>Goh Chue Hsien</strong>

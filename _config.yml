@@ -24,7 +24,7 @@ exclude:
   - Gemfile.lock
 resources_name: newsroom
 google_analytics: UA-73732262-1
-favicon: /images/Site Settings/ctrlshiftfavicon.png
+favicon: /images/site settings/ctrlshiftfavicon.png
 permalink: none
 baseurl: ""
 defaults:
@@ -32,8 +32,8 @@ defaults:
       path: ""
     values:
       layout: page
-staging: https://swn-staging.netlify.app
-prod: https://swn-production.netlify.app
+staging: https://staging.d24wnuuan09ldp.amplifyapp.com/
+prod: https://master.d24wnuuan09ldp.amplifyapp.com/
 plugins:
   - jekyll-feed
   - jekyll-assets
@@ -54,6 +54,6 @@ colors:
       color: "#00c5e4"
     - title: media-color-five
       color: "#ffffff"
-shareicon: /images/Site Settings/Social Thumbnail.png
+shareicon: /images/site settings/social thumbnail.png
 is_government: false
 linkedin-insights: ""

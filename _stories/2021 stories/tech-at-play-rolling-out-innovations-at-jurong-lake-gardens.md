@@ -6,7 +6,7 @@ breadcrumb: /What's Next stories/Tech at Play-Rolling Out Innovations at Jurong
 third_nav_title: 2021 stories
 ---
 # <b>Tech at Play - Rolling Out Innovations at Jurong Lake Gardens</b>
-![](/images/Stories/2021%20stories/Tech%20at%20play/tech%20at%20play%201.jpg)
+![](/images/stories/2021%20stories/tech%20at%20play/tech%20at%20play%201.jpg)
 <br>
 *Hear from Ong Chong Ren, deputy director of development at Jurong Lake Gardens, how technology and nature come together in his work.*
 <br>
@@ -19,7 +19,7 @@ Today, Chong Ren works at NParks as the deputy director of development at Jurong
 <br><br>
 Chong Ren doesn’t just work with plants; a large part of his work involves technology as well.
 <br><br>
-![](/images/Stories/2021%20stories/Tech%20at%20play/tech%20at%20play%202.jpg)
+![](/images/stories/2021%20stories/tech%20at%20play/tech%20at%20play%202.jpg)
 *Jurong Lake Gardens is Singapore’s first national gardens to be located in the heartlands, and it is home to many attractions such as the Grasslands. (Photo credit: NParks)*
 <br>
 
@@ -31,7 +31,7 @@ His work involves actively seeking and test-bedding new technologies and innovat
 One example is the integrated management system (IMS). In a nutshell, this system allows park staff to know what’s happening on the ground at any time, at a glance. It combines various sensor systems — from smart bins with bin capacity sensors and light fault reporting systems to environmental sensors that monitor water quality and weather — all in one automated and centralised platform. To implement the IMS, Chong Ren needed to ensure that the different sensors and systems can communicate and transmit information effectively.
 <br>
 <br>
-![](/images/Stories/2021%20stories/Tech%20at%20play/tech%20at%20play%203.jpg)
+![](/images/stories/2021%20stories/tech%20at%20play/tech%20at%20play%203.jpg)
 *The integrated management system allows staff at Jurong Lake Gardens to know what’s happening on the ground at a glance. (Photo credit: NParks)* 
 <br>
 <br>
@@ -43,7 +43,7 @@ NParks is also exploring technologies that could improve visitor experience at J
 <br>
 <br>
 
-![](/images/Stories/2021%20stories/Tech%20at%20play/tech%20at%20play%204.jpg)
+![](/images/stories/2021%20stories/tech%20at%20play/tech%20at%20play%204.jpg)
 *NParks is currently testing the use of an 11-seater autonomous vehicle to bring visitors around Lakeside Garden, the western section of Jurong Lake Gardens. (Photo credit: NParks)*
 <br>
 ## Growing at Work
@@ -54,7 +54,7 @@ Over the course of his work in the Streetscape division and at Jurong Lake Garde
 Take Rasau Walk, a meandering boardwalk on the fringe of the waterfront area, for example. This serene and scenic spot, one of Chong Ren’s favourites in the park, is the place many bird watchers hang out, hoping to catch a glance of different types of waterbirds including the grey heron. Such waterbirds are attracted to this area because the water level varies with the levels in the lake, thereby creating zones that attract waterbirds to forage there.
 <br>
 <br>
-![](/images/Stories/2021%20stories/Tech%20at%20play/tech%20at%20play%205.jpg)
+![](/images/stories/2021%20stories/tech%20at%20play/tech%20at%20play%205.jpg)
 *You can spot many different types of waterbirds at Rasau Walk in Jurong Lake Gardens. (Photo credit: NParks)*
 <br>
 <br>

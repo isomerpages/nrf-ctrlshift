@@ -1,6 +1,6 @@
 ---
 title: Punggol Digital District
-permalink: /engineering-marvels/Punggol-Digital-District/
+permalink: /engineering-marvels/punggol-digital-district/
 breadcrumb: Punggol Digital District
 third_nav_title: STE Innovations
 ---

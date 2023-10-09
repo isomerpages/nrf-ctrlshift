@@ -4,7 +4,7 @@ permalink: /engineering-careers/lta/
 breadcrumb: LTA
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/LTA/lta.png" alt="lta" style="width:auto;height:110px;" align="left">
+<img src="/images/careers/career%20opportunities/lta/lta.png" alt="lta" style="width:auto;height:110px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US

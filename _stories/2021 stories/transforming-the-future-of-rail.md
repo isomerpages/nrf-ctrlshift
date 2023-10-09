@@ -5,7 +5,7 @@ breadcrumb: /What's Next stories/Transforming the Future of Rail
 third_nav_title: 2021 stories
 ---
 # <b>Transforming the Future of Rail</b>
-![](/images/Stories/2021%20stories/Rail%20future/rail%20future%202.jpg)
+![](/images/stories/2021%20stories/rail%20future/rail%20future%202.jpg)
 <br>
 *Reliability is paramount in a rail network. Low Aik Seng shares how he uses data analytics and predictive decision support systems to provide smoother and safer rides for commuters.*
 <br>
@@ -17,7 +17,7 @@ For the most part, data is the name of his game. A regular day at work sees Aik 
 His work as an engineer doesn’t come without challenges. Overcoming these challenges is a huge source of fulfilment for Aik Seng. He cites the example of managing projects with multiple stakeholders. “Developing analytics solutions with multiple users/stakeholders’ can be quite a challenge, given the diverse perspectives of the multiple stakeholders. However, it is always heartwarming to see each group coming together and putting in their best effort to assist and support the projects towards achieving the best outcomes,” he adds.
 <br>
 <br>
-![](/images/Stories/2021%20stories/Rail%20future/rail%20future%20-%202.jpg)
+![](/images/stories/2021%20stories/rail%20future/rail%20future%20-%202.jpg)
 *LTA’s Low Aik Seng is passionate about using data and insights to improve our rail system’s reliability and efficiency. (Photo credit: LTA)*
 <br>
 ## Driving Rail Innovations
@@ -30,7 +30,7 @@ He is also working with a contractor to develop a Rail Enterprise Asset Manageme
 For such data analytics and exploits to happen, however, one must first have access to quality data. Aik Seng and his team has to work with various stakeholders to improve the data and interface gaps, so as to enable more advanced applications for complex business use cases in the future.
 <br>
 <br>
-![](/images/Stories/2021%20stories/Rail%20future/rail%20future%203.jpg)
+![](/images/stories/2021%20stories/rail%20future/rail%20future%203.jpg)
 *Drones can be used to detect and recognise defects along the walls of a rail tunnel. (Photo credit: LTA)*
 <br>
 ## Creating What’s Next for Singapore

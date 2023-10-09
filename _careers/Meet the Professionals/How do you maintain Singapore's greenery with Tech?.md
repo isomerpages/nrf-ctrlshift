@@ -1,6 +1,6 @@
 ---
 title: How do you maintain Singapore's greenery with Tech?
-permalink: /experts/NParks/
+permalink: /experts/nparks/
 description: ""
 third_nav_title: Meet the Professionals
 ---

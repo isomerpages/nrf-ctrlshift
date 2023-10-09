@@ -5,7 +5,7 @@ breadcrumb: /What's Next stories/Engineering Singapore's Frontline Fight
 third_nav_title: 2021 stories
 ---
 # <b>Man on a Mission – Engineering Singapore’s Frontline Fight</b>
-![](/images/Stories/2021%20stories/Man%20on%20mission/man%20on%20mission%201.jpg)
+![](/images/stories/2021%20stories/man%20on%20mission/man%20on%20mission%201.jpg)
 <br>
 *Learn how Samuel Seah, lead engineer at HTX (Home Team Science and Technology Agency), is empowering frontline officers with technology and futuristic cars.*
 <br>
@@ -25,7 +25,7 @@ But how exactly has Samuel and his team gone about bolstering our forces through
 Dubbed the “Next-generation Fast Response Car (NGFRC)”, the purpose-built vehicle is a collaboration between engineers from various HTX units and officers from the Singapore Police Force (SPF). As the project lead in design and development of the NGFRC, Samuel worked closely with the SPF officers to translate their operational requirements into technical specifications.
 <br>
 <br>
-![](/images/Stories/2021%20stories/Man%20on%20mission/man%20on%20mission%202.jpg)
+![](/images/stories/2021%20stories/man%20on%20mission/man%20on%20mission%202.jpg)
 *The Next-generation Fast Response Car (NGFRC) is equipped with a host of smart features aimed at enabling police officers to carry out their duties with greater efficiency and efficacy. (Photo credit: HTX)*
 <br>
 <br>

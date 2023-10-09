@@ -5,7 +5,7 @@ breadcrumb: IRAS
 third_nav_title: Career Opportunities
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/IRAS/Iras.png" alt="Iras" style="width:auto;height:200px;" align="left">
+<img src="/images/careers/career%20opportunities/iras/iras.png" alt="Iras" style="width:auto;height:200px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US

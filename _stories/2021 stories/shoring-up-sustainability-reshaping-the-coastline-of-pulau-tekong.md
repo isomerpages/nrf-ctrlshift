@@ -5,7 +5,7 @@ breadcrumb: /What's Next stories/Reshaping the Coastline of Pulau Tekong
 third_nav_title: 2021 stories
 ---
 # <b>Shoring Up Sustainability - Reshaping the Coastline of Pulau Tekong</b>
-![](/images/Stories/2021%20stories/Shoring%20up/shoring%20up%201.jpg)
+![](/images/stories/2021%20stories/shoring%20up/shoring%20up%201.jpg)
 <br>
 *Find out how Goh Pei Ling, Acting Deputy Director (Land Reclamation Section 1) in Infrastructure and Reclamation Department at the Housing and Development Board, is literally changing the shape of Singapore and making sustainability more than just a buzzword.*
 <br>
@@ -16,7 +16,7 @@ As a land-scarce country, Singapore has been reclaiming land since the 19th cent
 “Polder development is a breakthrough in how Singapore could reclaim land in the future,” Pei Ling says. “Not only will creating new land through empoldering provide a sustainable alternative for Singapore to meet long-term land needs, but it also offers the flexibility to adapt to the evolving coastal environment and sea level.”
 <br>
 <br>
-![](/images/Stories/2021%20stories/Shoring%20up/shoring%20up%202.jpg)
+![](/images/stories/2021%20stories/shoring%20up/shoring%20up%202.jpg)
 *Aerial view of the pilot polder project taking place at Pulau Tekong. This first-of-its-kind land reclamation project is meant to reduce Singapore’s dependency on sand imports. (Photo credit: HDB)*
 <br>
 <br>

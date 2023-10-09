@@ -1,12 +1,12 @@
 ---
 title: Embracing Singapore’s Wild Side
-permalink: /stories/NParksDavidLi/
+permalink: /stories/nparksdavidli/
 description: ""
 third_nav_title: 2022 stories
 ---
 ## Embracing Singapore’s Wild Side: Meet the Most Tech-savvy Bird-lover in the City 
 
-![](/images/Stories/2022%20stories/Wild%20side/wild%20side%201.png)
+![](/images/stories/2022%20stories/wild%20side/wild%20side%201.png)
 
 From ‘spying’ on birds with high-tech gear to getting up close with crocodiles, Conservation Manager David Li helps to protect the diverse native and migratory species found on our shores. 
 
@@ -18,7 +18,7 @@ Of course, keeping those areas thriving is a whole other challenge…
 
 That’s where David Li comes in. He’s the boots on the ground, part of the army of experts that protects our wildlife to allow citizens and visitors alike to visit and witness the magic. He’s part of the team that manages one of our richest nature reserves: Sungei Buloh Wetland Reserve.      
 
-![](/images/Stories/2022%20stories/Wild%20side/wild%20side%202.png)
+![](/images/stories/2022%20stories/wild%20side/wild%20side%202.png)
           
 As Singapore’s first ASEAN Heritage Park, Sungei Buloh Wetland Reserve is arguably the most unique nature reserve. It boasts stunningly rich biodiversity in its wetlands and mangrove forest. Don’t be surprised if you see tree climbing crabs, mangrove vipers and even ‘archer fish’, which shoot insects using jets of water so they fall into their waiting jaws.      
  
@@ -42,7 +42,7 @@ The bird census programme collects monthly data on the bird species that live in
      
 It’s important work, because Sungei Buloh Wetland Reserve is quite the ‘international travel hub’. If you see a small stocky, brown bird with a dazzling white underbelly, it could be the Common Sandpiper. This flighty visitor comes all the way from Central Asia and Central and East Siberia, and David’s work ensures that these ‘tourists’ keep coming to a safe, stable environment.
 
-![](/images/Stories/2022%20stories/Wild%20side/wild%20side%203.png)
+![](/images/stories/2022%20stories/wild%20side/wild%20side%203.png)
 
 Shorebirds that breed in China and Russia can fly over 5000m above sea level and cross the Himalayas to migrate to Singapore, a crucial rest stop that keeps bird populations alive by serving as a wintering ground.
  

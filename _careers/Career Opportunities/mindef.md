@@ -4,7 +4,7 @@ permalink: /engineering-careers/mindef/
 breadcrumb: MINDEF
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/MINDEF/mindef%20logo%20NEW.png" alt="mindef" style="width:auto;height:200px;" align="left">
+<img src="/images/careers/career%20opportunities/mindef/mindef%20logo%20new.png" alt="mindef" style="width:auto;height:200px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US

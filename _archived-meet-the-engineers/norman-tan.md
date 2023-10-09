@@ -3,7 +3,7 @@ title: Norman Tan
 permalink: /meet-the-engineers/norman/
 breadcrumb: Norman Tan
 ---
-<img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Norman/Norman Tan.jpg" alt="Norman Tan" style="width:222px;height:278px;" align="left">
+<img src="/images/(archived)%20meet%20the%20engineers/norman/norman tan.jpg" alt="Norman Tan" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
 <strong> Norman Tan</strong>

@@ -393,24 +393,26 @@ line-height: 2rem;
 
 	</style>
 <div class="video-series">
-    <img class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header-new-desktop.png">
-	 <img class="mobile-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-header-new-mobile.png">
+    <img class="desktop-only video-series-header-img" src="/images/video%20series/video-series-header-new-desktop.png">
+	 <img class="mobile-only video-series-header-img" src="/images/video%20series/video-series-header-new-mobile.png">
 </div>
 <div class="video-series-header-entries">
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play, and live.
-</div>
-<section aria-label="Gallery" class="video-section">
-      <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/new-button.png">
-		<p class="video-subtitle">STE+P UP: EPISODE 2</p>
+</div><section aria-label="Gallery" class="video-section">
+<img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="/images/video%20series/new-button.png">
+		<p class="video-subtitle">STE+P UP: EPISODE 3</p>
+  	<p class="video-title">PEOPLE FOR THE PLANET</p>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Adx3Y5FOdlA?si=to-1eZty0p8Y3rkE" class="video-frame"></iframe>
+				<div class="video-content">
+					<p class="video-detail">We all applaud Singapore's sustainability efforts and here are some of the reasons why.<br><br>Believe it or not, the government is already paving the way for a futuristic landscape with automated cars, robots, and underground infrastructure right beneath our feet. From combating illegal wildlife trade to expanding public infrastructure with underground roads, we meet the visionaries who are shaping Singapore's tomorrow - where innovation and conservation go hand-in-hand.</p>
+				</div><section aria-label="Gallery" class="video-section">
+			<p class="video-subtitle">STE+P UP: EPISODE 2</p>
   	<p class="video-title">OUR FULLY ELECTRIC VEHICULAR (EV) FUTURE</p>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/53lWodxrJBc?si=AuvP2cgBku3cJNsm" class="video-frame"></iframe>
 				<div class="video-content">
 					<p class="video-detail">Keeping your cars running have never been easier. That is if you drive an electric vehicle (EV)!<br><br>Get ready to meet the brilliant minds who orchestrate everything related to ensuring there's enough energy to go around through our electrical grid infrastructure and EV charging ports as we drive down the road to a sustainable future. Find out how they're taking steps to achieve an electric revolution!</p>
 				</div>
-
-
 <section aria-label="Gallery" class="video-section">
-    
 		<p class="video-subtitle">STE+P UP: EPISODE 1</p>
   	<p class="video-title">WHO WILL KEEP US SAFE?</p>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" class="video-frame"></iframe>
@@ -420,5 +422,5 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 </section>
 	<section aria-label="Gallery" class="video-section">
 	</section>
-<img style="width: 80%; margin-top: 30px" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer.png">  
-<img style="width: 60%; margin-top: 40px" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/Video%20Series/video-series-footer-mobile.png"></section>
+<img style="width: 80%; margin-top: 30px" class="desktop-only" src="/images/video%20series/video-series-footer.png">  
+<img style="width: 60%; margin-top: 40px" class="mobile-only" src="/images/video%20series/video-series-footer-mobile.png"></section></section>

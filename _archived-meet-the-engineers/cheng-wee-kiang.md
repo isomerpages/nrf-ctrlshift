@@ -3,7 +3,7 @@ title: Cheng Wee Kiang
 permalink: /meet-the-engineers/wee-kiang/
 breadcrumb: Cheng Wee Kiang
 ---
-<img src="/images/(ARCHIVED)%20Meet%20the%20Engineers/Cheng%20Wee%20Kiang/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
+<img src="/images/(archived)%20meet%20the%20engineers/cheng%20wee%20kiang/190x238px-weekiang.jpg" alt="Wee Kiang" style="width:222px;height:278px;" align="left">
 <br clear="left">
 <br>
 <strong>Cheng Wee Kiang</strong>

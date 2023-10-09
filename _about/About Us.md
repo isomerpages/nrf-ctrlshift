@@ -92,7 +92,7 @@ description: ""
 }
 </style>
 <div class="about">
-    <img src="/images/About%20Us/about%20STE.png">
+    <img src="/images/about%20us/about%20ste.png">
 </div>
 
 Be prepared to CTRL your future and SHIFT your perspectives with a brand-new take on the many exciting possibilities with Science, Technology and Engineering (STE).
@@ -129,7 +129,7 @@ Join us as CTRL+SHIFT unveils a whole new world in Science, Technology and Engin
 }
 </style>
 <div class="purpose">
-    <img src="/images/About%20Us/purpose.png">
+    <img src="/images/about%20us/purpose.png">
 </div>
 
 
@@ -169,10 +169,10 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
 <section>
 <div class="logos">
 		<div class="column">
-			<img src="/images/About%20Us/psd%20logo%20for%20web.jpg">
+			<img src="/images/about%20us/psd%20logo%20for%20web.jpg">
 		</div>
 		<div class="column">
-			<img src="/images/About%20Us/STE%20Logo%20for%20web.jpg">
+			<img src="/images/about%20us/ste%20logo%20for%20web.jpg">
 		</div>
 	</div>
 	</section><section class="header-nav-white" id="header-truck" style="padding-top: 70px; margin-top: 25px; border-top: 1px solid #000">
@@ -180,7 +180,7 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
       <div class="row mb-5 recruitment-row" style="">
         <div class="col-sm-6">
             <div class="text-left pb-1">
-                <img style="width: auto" class="title-page-recruitment" alt="title page truck" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/About%20Us/group%2014114.png">
+                <img style="width: auto" class="title-page-recruitment" alt="title page truck" src="/images/about%20us/group%2014114.png">
             </div>
         </div>
                     <div class="col-sm-6">

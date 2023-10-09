@@ -4,7 +4,7 @@ permalink: /engineering-careers/hdb/
 breadcrumb: HDB
 third_nav_title: Career Opportunities
 ---
-<img src="/images/Careers/Career%20Opportunities/HDB/HDB%20logo%20NEW.png" alt="hdb" style="width:auto;height:110px;" align="left">
+<img src="/images/careers/career%20opportunities/hdb/hdb%20logo%20new.png" alt="hdb" style="width:auto;height:110px;" align="left">
 <br clear="left">
 
 ### A BIT ABOUT US

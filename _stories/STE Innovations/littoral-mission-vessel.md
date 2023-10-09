@@ -1,6 +1,6 @@
 ---
 title: Littoral Mission Vessel
-permalink: /engineering-marvels/Littoral/
+permalink: /engineering-marvels/littoral/
 breadcrumb: Littoral Mission Vessel
 third_nav_title: STE Innovations
 ---

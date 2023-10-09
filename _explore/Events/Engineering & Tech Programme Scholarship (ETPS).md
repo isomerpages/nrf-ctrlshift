@@ -269,11 +269,11 @@ font-weight: 600;
 	}
 	</style>
 <div class="video-series">
-    <img width="100%" class="desktop-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etps-new-header-desktop.png">
-	 <img class="mobile-only video-series-header-img" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etps-new-header-mobile.png">
+    <img width="100%" class="desktop-only video-series-header-img" src="/images/etps/etps-new-header-desktop.png">
+	 <img class="mobile-only video-series-header-img" src="/images/etps/etps-new-header-mobile.png">
 </div>
- <img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etps-image1-new-desktop.png">
-	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etpc-image1-new-mobile.png">
+ <img width="100%" class="desktop-only" src="/images/etps/etps-image1-new-desktop.png">
+	 <img width="100%" class="mobile-only" src="/images/etps/etpc-image1-new-mobile.png">
 
 <div style="font-size: 20px; line-height: 32px; font-weight: 500;text-align: left" class="etsp-header-entries">
 Organised by the Ministry of Education (MOE), the Engineering and Tech Programme (ETPS) Scholarship is an inaugural scholarship that recognises the academic prowess of 200 pre-university students who possess a firm foundation in mathematics and science, and display an inclination towards practical, cross-disciplinary, and experiential learning.
@@ -283,8 +283,8 @@ Organised by the Ministry of Education (MOE), the Engineering and Tech Programme
 										       <h1 style="color: #0037cc; margin-top: 50px" class="title-section text-blue">Inspiring the Next Generation of STE Innovators</h1>
 												  </div>
 								  </div>
-<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-desktop.png">
-	 <img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-2-mobile.png">
+<img width="100%" class="desktop-only" src="/images/etps/etsp-image-2-desktop.png">
+	 <img width="100%" class="mobile-only" src="/images/etps/etsp-image-2-mobile.png">
 <div class="">
 	<p style="font-size: 20px; line-height: 32px; font-weight: 500;">
 With a crowd of 200 enthusiastic young minds from Junior Colleges who share a passion for science, mathematics, and engineering, we were excited to showcase innovative projects and provide opportunities to connect with industry experts from various established STE agencies in the Public Service field.
@@ -293,39 +293,39 @@ With a crowd of 200 enthusiastic young minds from Junior Colleges who share a pa
 <div class="section-1-container desktop-only">
 	<div class="section-1-row-1">
 		<div class="section-1-row-1-col-1">
-			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-3-desktop.png">
+			<img width="100%" class="desktop-only" src="/images/etps/etsp-image-3-desktop.png">
 		</div>
 		<div class="section-1-row-1-col-2">
-			<img width="100%" class="desktop-only icon-1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-1-desktop.png">
+			<img width="100%" class="desktop-only icon-1" src="/images/etps/etsp-icon-1-desktop.png">
 			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
 		</div>
 	</div>
 	<div class="section-1-row-2">
 		<div class="section-1-row-2-col-1">
-			<img width="100%" class="desktop-only icon-2" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
+			<img width="100%" class="desktop-only icon-2" src="/images/etps/etsp-icon-2-desktop.png">
 			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">Keep your eyes on our website to stay connected to more exciting projects CTRL+SHIFT has in store for you as we embark deeper into the amazing realm of STE!</p>
 		</div>
 		<div class="section-1-row-2-col-2">
-			<img width="100%" class="desktop-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/pxl_20230726_05232913221.png">
+			<img width="100%" class="desktop-only" src="/images/etps/pxl_20230726_05232913221.png">
 		</div>
 	</div>
 </div>
 <div class="section-1-container mobile-only">
 	<div class="section-1-row-1-m">
 		<div class="section-1-row-1-col-1-m">
-			<img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-image-3-mobile.png">
+			<img width="100%" class="mobile-only" src="/images/etps/etsp-image-3-mobile.png">
 		</div>
 		<div class="section-1-row-1-col-2-m">
-			<img width="100%" class="mobile-only icon-1" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-1-desktop.png">
+			<img width="100%" class="mobile-only icon-1" src="/images/etps/etsp-icon-1-desktop.png">
 			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
 		</div>
 	</div>
 	<div class="section-1-row-2-m">
 		<div class="section-1-row-2-col-2-m">
-			<img width="100%" class="mobile-only" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/pxl_20230726_05232913221.png">
+			<img width="100%" class="mobile-only" src="/images/etps/pxl_20230726_05232913221.png">
 		</div>
 		<div class="section-1-row-2-col-1-m">
-			<img width="100%" class="mobile-only icon-2" src="https://raw.githubusercontent.com/isomerpages/psd-ste-whats-next/staging/images/ETPS/etsp-icon-2-desktop.png">
+			<img width="100%" class="mobile-only icon-2" src="/images/etps/etsp-icon-2-desktop.png">
 			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">Keep your eyes on our website to stay connected to more exciting projects CTRL+SHIFT has in store for you as we embark deeper into the amazing realm of STE!</p>
 		</div>
 		

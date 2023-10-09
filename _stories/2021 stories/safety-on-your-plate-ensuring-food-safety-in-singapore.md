@@ -5,7 +5,7 @@ breadcrumb: /What's Next stories/Safety on Your Plate – Ensuring Food Safety i
 third_nav_title: 2021 stories
 ---
 # <b>Safety on Your Plate – Ensuring Food Safety in Singapore</b>
-![](/images/Stories/2021%20stories/Food%20safety/food%20safety%20NEW.jpg)
+![](/images/stories/2021%20stories/food%20safety/food%20safety%20new.jpg)
 <br>
 *Are we taking food safety for granted in Singapore? One scientist shares how he and his hi-res mass spectrometer ensure what you eat is safe.*
 <br>

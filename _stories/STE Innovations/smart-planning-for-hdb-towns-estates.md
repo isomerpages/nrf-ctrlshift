@@ -1,6 +1,6 @@
 ---
 title: Smart Planning For Hdb Towns & Estates
-permalink: /engineering-marvels/Smart-Plan/
+permalink: /engineering-marvels/smart-plan/
 breadcrumb: Smart Planning For Hdb Towns & Estates
 third_nav_title: STE Innovations
 ---
