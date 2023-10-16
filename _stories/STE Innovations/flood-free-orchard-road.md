@@ -4,7 +4,7 @@ permalink: /engineering-marvels/sdc-sdt/
 breadcrumb: KEEPING ORCHARD ROAD FLOOD-FREE
 third_nav_title: STE Innovations
 ---
-![](/images/Stories/STE%20Innovations/Flood%20free/floodfree%20new.jpeg)
+![](/images/stories/ste%20innovations/flood%20free/floodfree%20new.jpeg)
 
 ## KEEPING ORCHARD ROAD FLOOD-FREE
 

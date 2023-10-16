@@ -4,7 +4,9 @@ permalink: /engineering-marvels/parents-gateway/
 breadcrumb: Parents Gateway
 third_nav_title: STE Innovations
 ---
-![](/images/Stories/STE%20Innovations/Parents%20gateway/parents%20new%20.jpeg)
+![](/images/stories/ste%20innovations/parents%20gateway/parents%20new%20.jpeg)
+
+
 ## CONNECTING PARENTS & SCHOOLS ANYTIME
 
 Parents Gateway is a digital service that connects parents and schools on key administrative matters. It eliminates hardcopy forms and letters from the schools’ administrative process. Available on IOS and Android mobile devices, it is a one-stop mobile app that centralises information so that parents can access them on all their children in one place. This enables parents and schools to better support their children’s educational journey. Schools can send information and updates on programmes and activities to parents including videos and photographs of their learning children. Parents, with a click of a button, can perform administrative functions such as consenting their children to participate in school activities. More functions will be added gradually to Parents Gateway to better serve the needs of teachers, parents and students.

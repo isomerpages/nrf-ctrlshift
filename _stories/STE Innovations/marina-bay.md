@@ -4,7 +4,7 @@ permalink: /engineering-marvels/marina-bay/
 breadcrumb: Marina Bay
 third_nav_title: STE Innovations
 ---
-![](/images/Stories/STE%20Innovations/Marina%20bay/marina%20new.jpeg)
+![](/images/stories/ste%20innovations/marina%20bay/marina%20new.jpeg)
 
 ## A SPARKLING JEWEL
 The planning vision for Marina Bay is to develop the area to provide prime office space for global business and financial 

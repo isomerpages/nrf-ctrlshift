@@ -4,7 +4,7 @@ permalink: /engineering-marvels/idd/
 breadcrumb: Integrated Digital Delivery
 third_nav_title: STE Innovations
 ---
-![](/images/Stories/STE%20Innovations/Idd/idd%20new.jpeg)
+![](/images/stories/ste%20innovations/idd/idd%20new.jpeg)
 
 ## DIGITALISATION IN THE BUILT ENVIRONMENT
 Integrated Digital Delivery (IDD) refers to the use of digital technologies throughout the four stages of the built environment life cycle – Design, Fabrication, Construction and Asset Delivery & Management. It builds upon Building Information Modeling (BIM) and Virtual Design and Construction (VDC) to better integrate work processes and stakeholders across the whole value chain.

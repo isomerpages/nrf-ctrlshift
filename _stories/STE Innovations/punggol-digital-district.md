@@ -4,7 +4,7 @@ permalink: /engineering-marvels/punggol-digital-district/
 breadcrumb: Punggol Digital District
 third_nav_title: STE Innovations
 ---
-![](/images/Stories/STE%20Innovations/Punggol/punggol%20new.jpeg)
+![](/images/stories/ste%20innovations/punggol/punggol%20new.jpeg)
 
 ## A NEW WAY TO WORK, LEARN AND PLAY
 The first district in Singapore to adopt an integrated masterplan approach, PDD is a multi-agency collaboration project between Infocomm Media Development Authority, JTC, Singapore Institute of Technology and Urban Redevelopment Authority.

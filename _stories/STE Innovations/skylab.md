@@ -4,7 +4,7 @@ permalink: /engineering-marvels/skylab/
 breadcrumb: SkyLab
 third_nav_title: STE Innovations
 ---
-![](/images/Stories/STE%20Innovations/Skylab/skylab%20new.jpeg)
+![](/images/stories/ste%20innovations/skylab/skylab%20new.jpeg)
 
 ## WORLD'S FIRST HIGH RISE ROTATABLE LAB FOR THE TROPICS
 

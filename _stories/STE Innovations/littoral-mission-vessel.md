@@ -4,7 +4,7 @@ permalink: /engineering-marvels/littoral/
 breadcrumb: Littoral Mission Vessel
 third_nav_title: STE Innovations
 ---
-![](/images/Stories/STE%20Innovations/Littoral/littoral%20new.jpeg)
+![](/images/stories/ste%20innovations/littoral/littoral%20new.jpeg)
 
 ## UNIQUELY SINGAPORE SHIP
 
