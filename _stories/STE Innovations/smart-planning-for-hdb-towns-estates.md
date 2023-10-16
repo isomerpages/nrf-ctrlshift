@@ -4,7 +4,7 @@ permalink: /engineering-marvels/smart-plan/
 breadcrumb: Smart Planning For Hdb Towns & Estates
 third_nav_title: STE Innovations
 ---
-![](/images/Stories/STE%20Innovations/Smart%20planning/smartplan%20new.jpeg)
+![](/images/stories/ste%20innovations/smart%20planning/smartplan%20new.jpeg)
 
 ## A MODEL ESTATE
 
