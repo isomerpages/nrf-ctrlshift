@@ -4,7 +4,7 @@ permalink: /engineering-marvels/jurong-rock-caverns/
 breadcrumb: Jurong Rock Caverns
 third_nav_title: STE Innovations
 ---
-![](/images/Stories/STE%20Innovations/Jurong%20caverns/caverns%20new.jpeg)
+![](/images/stories/ste%20innovations/jurong%20caverns/caverns%20new.jpeg)
 
 ## SINGAPORE’S SUBTERRANEAN WONDER
 
