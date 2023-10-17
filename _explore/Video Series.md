@@ -425,6 +425,4 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 					<p class="video-detail">Drones, germs, and petri dishes... oh my!<br><br>In the shadows of our nation's security, lies a league of experts who don't wear capes but perform remarkable feats to protect us all. These unsung heroes, armed with drones, germs, and petri dishes - work tirelessly behind the scenes to keep our country safe.</p>
 				</div>
 </section>
-	<section aria-label="Gallery" class="video-section">
-	</section>
 </section></section></section>
