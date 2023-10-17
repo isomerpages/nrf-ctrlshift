@@ -427,5 +427,4 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 </section>
 	<section aria-label="Gallery" class="video-section">
 	</section>
-<img style="width: 80%; margin-top: 30px" class="desktop-only" src="/images/video%20series/video-series-footer.png">  
-<img style="width: 60%; margin-top: 40px" class="mobile-only" src="/images/video%20series/video-series-footer-mobile.png"></section></section></section>
+</section></section></section>
