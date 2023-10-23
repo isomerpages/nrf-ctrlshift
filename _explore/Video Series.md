@@ -400,7 +400,13 @@ line-height: 2rem;
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play, and live.
 </div><section aria-label="Gallery" class="video-section">
 <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="/images/video%20series/new-button.png">
-		<p class="video-subtitle">STE+P UP: EPISODE 3</p>
+		<p class="video-subtitle">STE+P UP: EPISODE 4</p>
+  	<p class="video-title">FINDING SPACE IN LIMITED SPACES</p>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3N-RS-w9G7M?si=0jok2mHAD8ZcPcay" class="video-frame"></iframe>
+				<div class="video-content">
+					<p class="video-detail">As our population steadily grows, so does our quest to source for more spaces on our little red dot!<br><br>Find out how these STE architects redefine convenience and accessibility through meticulous planning when deciding how to optimise urban spaces. In this episode, we uncover how research shares the untold stories of many Singaporeans.</p>
+				</div><section aria-label="Gallery" class="video-section">
+			<p class="video-subtitle">STE+P UP: EPISODE 3</p>
   	<p class="video-title">PEOPLE FOR THE PLANET</p>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Adx3Y5FOdlA?si=to-1eZty0p8Y3rkE" class="video-frame"></iframe>
 				<div class="video-content">
@@ -411,8 +417,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/53lWodxrJBc?si=AuvP2cgBku3cJNsm" class="video-frame"></iframe>
 				<div class="video-content">
 					<p class="video-detail">Keeping your cars running have never been easier. That is if you drive an electric vehicle (EV)!<br><br>Get ready to meet the brilliant minds who orchestrate everything related to ensuring there's enough energy to go around through our electrical grid infrastructure and EV charging ports as we drive down the road to a sustainable future. Find out how they're taking steps to achieve an electric revolution!</p>
-				</div>
-<section aria-label="Gallery" class="video-section">
+				</div><section aria-label="Gallery" class="video-section">
 		<p class="video-subtitle">STE+P UP: EPISODE 1</p>
   	<p class="video-title">WHO WILL KEEP US SAFE?</p>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" class="video-frame"></iframe>
@@ -420,7 +425,4 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 					<p class="video-detail">Drones, germs, and petri dishes... oh my!<br><br>In the shadows of our nation's security, lies a league of experts who don't wear capes but perform remarkable feats to protect us all. These unsung heroes, armed with drones, germs, and petri dishes - work tirelessly behind the scenes to keep our country safe.</p>
 				</div>
 </section>
-	<section aria-label="Gallery" class="video-section">
-	</section>
-<img style="width: 80%; margin-top: 30px" class="desktop-only" src="/images/video%20series/video-series-footer.png">  
-<img style="width: 60%; margin-top: 40px" class="mobile-only" src="/images/video%20series/video-series-footer-mobile.png"></section></section>
+</section></section></section>
