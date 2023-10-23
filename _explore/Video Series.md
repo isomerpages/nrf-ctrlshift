@@ -402,7 +402,7 @@ Whether it's preventing another outbreak, navigating our urban landscape or havi
 <img style="height: 50px;width: auto !important; position: absolute; left: 0; top: -50px" src="/images/video%20series/new-button.png">
 		<p class="video-subtitle">STE+P UP: EPISODE 4</p>
   	<p class="video-title">FINDING SPACE IN LIMITED SPACES</p>
-				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Adx3Y5FOdlA?si=to-1eZty0p8Y3rkE" class="video-frame"></iframe>
+				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3N-RS-w9G7M?si=0jok2mHAD8ZcPcay" class="video-frame"></iframe>
 				<div class="video-content">
 					<p class="video-detail">As our population steadily grows, so does our quest to source for more spaces on our little red dot!<br><br>Find out how these STE architects redefine convenience and accessibility through meticulous planning when deciding how to optimise urban spaces. In this episode, we uncover how research shares the untold stories of many Singaporeans.</p>
 				</div><section aria-label="Gallery" class="video-section">
