@@ -391,7 +391,11 @@ line-height: 2rem;
 	.video-subtitle{font-size: 16px; line-height: 24px}
 }
 
-	</style><section aria-label="Gallery" class="video-section"><p class="video-subtitle">STE+P UP: EPISODE 1</p><p class="video-title">WHO WILL KEEP US SAFE?</p><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" class="video-frame"></iframe><div class="video-content">
+	</style><div class="video-series"><img class="desktop-only video-series-header-img" src="/images/video%20series/video-series-header-new-desktop.png"><img class="mobile-only video-series-header-img" src="/images/video%20series/video-series-header-new-mobile.png">
+</div>
+<div class="video-series-header-entries">
+Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play, and live.
+</div><section aria-label="Gallery" class="video-section"><p class="video-subtitle">STE+P UP: EPISODE 1</p><p class="video-title">WHO WILL KEEP US SAFE?</p><iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/S3yRHGlEzqU?si=nku6KCBl0aAQyS03" class="video-frame"></iframe><div class="video-content">
 <p class="video-detail">Drones, germs, and petri dishes... oh my!<br><br>In the shadows of our nation's security, lies a league of experts who don't wear capes but perform remarkable feats to protect us all. These unsung heroes, armed with drones, germs, and petri dishes - work tirelessly behind the scenes to keep our country safe.</p></div><section aria-label="Gallery" class="video-section">
 			<p class="video-subtitle">STE+P UP: EPISODE 2</p>
   	<p class="video-title">OUR FULLY ELECTRIC VEHICULAR (EV) FUTURE</p>
@@ -404,13 +408,7 @@ line-height: 2rem;
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/Adx3Y5FOdlA?si=to-1eZty0p8Y3rkE" class="video-frame"></iframe>
 				<div class="video-content">
 					<p class="video-detail">We all applaud Singapore's sustainability efforts and here are some of the reasons why.<br><br>Believe it or not, the government is already paving the way for a futuristic landscape with automated cars, robots, and underground infrastructure right beneath our feet. From combating illegal wildlife trade to expanding public infrastructure with underground roads, we meet the visionaries who are shaping Singapore's tomorrow - where innovation and conservation go hand-in-hand.</p>
-	</div><div class="video-series">
-    <img class="desktop-only video-series-header-img" src="/images/video%20series/video-series-header-new-desktop.png">
-	 <img class="mobile-only video-series-header-img" src="/images/video%20series/video-series-header-new-mobile.png">
-</div>
-<div class="video-series-header-entries">
-Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play, and live.
-</div><section aria-label="Gallery" class="video-section">
+	</div><section aria-label="Gallery" class="video-section">
 		<p class="video-subtitle">STE+P UP: EPISODE 4</p>
   	<p class="video-title">FINDING SPACE IN LIMITED SPACES</p>
 				<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/3N-RS-w9G7M?si=0jok2mHAD8ZcPcay" class="video-frame"></iframe>
