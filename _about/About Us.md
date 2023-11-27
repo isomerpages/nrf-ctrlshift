@@ -95,7 +95,7 @@ variant: markdown
 }
 </style>
 <div class="about">
-    <img alt="about-STE-banner" src="/images/about%20us/about%20ste.png">
+    <img alt="about STE banner" src="/images/about%20us/about%20ste.png">
 </div>
 
 Be prepared to CTRL your future and SHIFT your perspectives with a brand-new take on the many exciting possibilities with Science, Technology and Engineering (STE).
