@@ -298,16 +298,16 @@ With a crowd of 200 enthusiastic young minds from Junior Colleges who share a pa
 <div class="section-1-container desktop-only">
 	<div class="section-1-row-1">
 		<div class="section-1-row-1-col-1">
-			<img alt="participants and instructor during ETPS events" width="100%" class="desktop-only" src="/images/etps/etsp-image-3-desktop.png">
+			<img alt="participant listening to explanation during ETPS events" width="100%" class="desktop-only" src="/images/etps/etsp-image-3-desktop.png">
 		</div>
 		<div class="section-1-row-1-col-2">
-			<img alt="participant listening to explaination during ETPS events" width="100%" class="desktop-only icon-1" src="/images/etps/etsp-icon-1-desktop.png">
+			<img alt="small square graphic" width="100%" class="desktop-only icon-1" src="/images/etps/etsp-icon-1-desktop.png">
 			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
 		</div>
 	</div>
 	<div class="section-1-row-2">
 		<div class="section-1-row-2-col-1">
-			<img width="100%" class="desktop-only icon-2" src="/images/etps/etsp-icon-2-desktop.png">
+			<img alt="small okay graphic" width="100%" class="desktop-only icon-2" src="/images/etps/etsp-icon-2-desktop.png">
 			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">Keep your eyes on our website to stay connected to more exciting projects CTRL+SHIFT has in store for you as we embark deeper into the amazing realm of STE!</p>
 		</div>
 		<div class="section-1-row-2-col-2">
@@ -318,10 +318,10 @@ With a crowd of 200 enthusiastic young minds from Junior Colleges who share a pa
 <div class="section-1-container mobile-only">
 	<div class="section-1-row-1-m">
 		<div class="section-1-row-1-col-1-m">
-			<img alt="participant listening to explaination during ETPS events" width="100%" class="mobile-only" src="/images/etps/etsp-image-3-mobile.png">
+			<img alt="participant listening to explanation during ETPS events" width="100%" class="mobile-only" src="/images/etps/etsp-image-3-mobile.png">
 		</div>
 		<div class="section-1-row-1-col-2-m">
-			<img width="100%" class="mobile-only icon-1" src="/images/etps/etsp-icon-1-desktop.png">
+			<img alt="small square graphic" width="100%" class="mobile-only icon-1" src="/images/etps/etsp-icon-1-desktop.png">
 			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">From motivating narratives to valuable insights into their work, these stellar STE ambassadors laid the foundation for these outstanding students to explore the limitless prospects of the STE world and how they can be part of the change to better living in Singapore.</p>
 		</div>
 	</div>
@@ -330,7 +330,7 @@ With a crowd of 200 enthusiastic young minds from Junior Colleges who share a pa
 			<img alt="organiser on stage during ETPS events" width="100%" class="mobile-only" src="/images/etps/pxl_20230726_05232913221.png">
 		</div>
 		<div class="section-1-row-2-col-1-m">
-			<img width="100%" class="mobile-only icon-2" src="/images/etps/etsp-icon-2-desktop.png">
+			<img alt="small okay graphic" width="100%" class="mobile-only icon-2" src="/images/etps/etsp-icon-2-desktop.png">
 			<p style="font-size: 16px; line-height: 22px; font-weight: 600;">Keep your eyes on our website to stay connected to more exciting projects CTRL+SHIFT has in store for you as we embark deeper into the amazing realm of STE!</p>
 		</div>
 		
