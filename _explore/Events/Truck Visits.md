@@ -3,7 +3,7 @@ title: Truck Visits
 permalink: /truck-visits/
 description: The journey of Singapore's first ever CTRL+SHIFT truck!
 third_nav_title: Events
-variant: tiptap
+variant: markdown
 ---
 ```
 ```
@@ -13749,22 +13749,22 @@ a[target="_blank"]:after{display: none}
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
-                        <img src="/images/instagram-7.png" class="gallery-image">
+                        <img alt="school visited image" src="/images/instagram-7.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/instagram-8.png" class="gallery-image">
+                        <img alt="school visited image" src="/images/instagram-8.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/instagram-9.png" class="gallery-image">
+                        <img alt="school visited image" src="/images/instagram-9.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/instagram-10.png" class="gallery-image">
+                        <img alt="school visited image" src="/images/instagram-10.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/instagram-11.png" class="gallery-image">
+                        <img alt="school visited image" src="/images/instagram-11.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/instagram-12.png" class="gallery-image">
+                        <img alt="school visited image" src="/images/instagram-12.png" class="gallery-image">
                     </div>
                     <a href="https://www.instagram.com/ctrlshift.sg/" target="_blank" rel="noreferrer" class="gallery-link">
 													<div class="gallery-button">
