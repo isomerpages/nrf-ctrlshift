@@ -1,11 +1,10 @@
 ---
-title: 'Privacy Statement'
+title: Privacy Statement
 permalink: /privacy/
 breadcrumb: Privacy
-
+variant: tiptap
+description: ""
 ---
-
-
 ### **Government Agency Privacy Statement**
 
 1. This is a Government of Singapore website.
@@ -37,4 +36,3 @@ breadcrumb: Privacy
     a. have any enquires or feedback on our data protection policies and procedures,
     
     b. need more information on or access to data which you have provided to us in the past.
-

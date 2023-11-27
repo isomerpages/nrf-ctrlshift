@@ -1,8 +1,11 @@
 ---
 title: "Marvellous Singapore: Infinite Possibilities at your Fingertips"
 permalink: /stories/infinite-possibilities-at-your-fingertips/
-description: ""
+description: In the Marvel Universe, using holography for calls and operations
+  planning isn't novel. After all, Iron Man is arguably the best engineer in the
+  (fictional) world.
 third_nav_title: 2021 stories
+variant: tiptap
 ---
 # Marvel-lous Singapore: Infinite Possibilities at your Fingertips      
 ![](/images/stories/2022%20stories/marvellous/marvellous%201.jpg)

@@ -1,8 +1,11 @@
 ---
 title: Let There Be Light! What it Takes to Keep Our HDB Estates Clean and Green
 permalink: /stories/hdbsharon/
-description: ""
+description: How much energy does LED lighting in HDB estates save? What will it
+  take for HDB towns to be more sustainable? Finding the answers to these
+  questions keep Sharon George busy as a data analyst in HDB.
 third_nav_title: 2022 stories
+variant: tiptap
 ---
 ## Let There Be Light! What it Takes to Keep Our HDB Estates Clean and Green
 
@@ -29,7 +32,7 @@ Working with different departments, has given her the chance to see where her sk
                               
 **Five Focus Points to Keep Singapore Sustainable**
 
-As a data analyst in the Smart Urban Analytics section of HDB’s Building & Research Institute, Sharon’s days are full of opportunity, with her main responsibilities being centred on  resource consumption and health and wellbeing. 
+As a data analyst in the Smart Urban Analytics section of HDB’s Building &amp; Research Institute, Sharon’s days are full of opportunity, with her main responsibilities being centred on  resource consumption and health and wellbeing. 
 
 ![](/images/stories/2022%20stories/let%20there%20be%20light/light%202.png)
 

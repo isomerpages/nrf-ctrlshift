@@ -1,8 +1,9 @@
 ---
 title: Defending Borders and Protecting Our People
 permalink: /stories/htxjason/
-description: ""
+description: "The Bot-master of Singapore: Defending Borders and Protecting Our People"
 third_nav_title: 2022 stories
+variant: tiptap
 ---
 ## The Bot-master of Singapore: Defending Borders and Protecting Our People 
 
@@ -54,7 +55,7 @@ But his mastery means he must stay on the ball. As Jason explains, “AI technol
 
 The avid lover of technology isn’t afraid to enter unchartered territory. It’s why he decided to join HTX after graduating, and he hasn’t looked back since. It’s all part of the fun. Uncovering new and better technological capabilities never fails to give him a buzz.
 
-“Collaborating with ICA has been a fulfilling and enriching experience. If you are an S&T enthusiast, enjoy learning and hope to contribute to Singapore, I urge you to enter the technological industry and consider joining HTX!. Besides learning about technology, I’ve also gained many life experiences and skills such as public speaking and presenting,” he continues.
+“Collaborating with ICA has been a fulfilling and enriching experience. If you are an S&amp;T enthusiast, enjoy learning and hope to contribute to Singapore, I urge you to enter the technological industry and consider joining HTX!. Besides learning about technology, I’ve also gained many life experiences and skills such as public speaking and presenting,” he continues.
 
 If you’re hungry for knowledge and are a fast adapter, join Jason today — the bots are waiting.
 

@@ -1,8 +1,11 @@
 ---
 title: Singapore's Dr Strange Drawing on Data to Power Up the Digital Nation
 permalink: /stories/ltaang/
-description: ""
+description: Harnessing the power of data, organising massive data tournaments,
+  and sourcing solutions for Singapore — these are just a few responsibilities
+  of a Digital Lab rat.
 third_nav_title: 2022 stories
+variant: tiptap
 ---
 ## Singapore's Dr Strange: Drawing on Data to Power Up the Digital Nation 
 

@@ -1,8 +1,12 @@
 ---
 title: Building Singapore from the (Under)Ground Up
 permalink: /stories/slarich/
-description: ""
+description: Our 728sq km island has to squeeze in a staggering 5.8 million
+  people — that puts a lot of pressure on our land constraints. As a small
+  country with ever growing needs, Singapore’s demand for underground space will
+  only continue to grow.
 third_nav_title: 2022 stories
+variant: tiptap
 ---
 ## Building Singapore from the (Under)Ground Up
 

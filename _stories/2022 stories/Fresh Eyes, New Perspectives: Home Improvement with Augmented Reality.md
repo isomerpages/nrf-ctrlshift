@@ -1,8 +1,11 @@
 ---
 title: "Fresh Eyes, New Perspectives: Home Improvement with Augmented Reality"
 permalink: /stories/hdbcheryl/
-description: ""
+description: Using Augmented Reality (AR) to help seniors see the world afresh
+  and visualise improvements to their HDB homes may seem like science fiction –
+  but for Cheryl Chiam, it’s all part of a regular day at work.
 third_nav_title: 2022 stories
+variant: tiptap
 ---
 ## Fresh Eyes, New Perspectives: Home Improvement with Augmented Reality
 ![](/images/stories/2022%20stories/fresh%20eyes/fresh%20eyes%20-1.png)

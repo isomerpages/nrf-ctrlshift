@@ -1,8 +1,11 @@
 ---
 title: "Marvellous Singapore: Infinite Possibilities at your Fingertips"
 permalink: /stories/uralouiszheng/
-description: ""
+description: Imagine being able to access all of Singapore’s planning, real
+  estate, car park, and land sales data on one platform, and using this
+  information to create your vision for future Singapore.
 third_nav_title: 2022 stories
+variant: tiptap
 ---
 # Marvel-lous Singapore: Infinite Possibilities at your Fingertips      
 ![](/images/stories/2022%20stories/marvellous/marvellous%201.jpg)

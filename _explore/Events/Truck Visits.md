@@ -1,8 +1,9 @@
 ---
 title: Truck Visits
 permalink: /truck-visits/
-description: ""
+description: The journey of Singapore's first ever CTRL+SHIFT truck!
 third_nav_title: Events
+variant: markdown
 ---
 ```
 ```
@@ -13716,12 +13717,12 @@ a[target="_blank"]:after{display: none}
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <img src="/images/truck%20visits/img_7142%201.png" alt="img truck">
+                        <img src="/images/truck%20visits/img_7142%201.png" alt="participants showing photo">
                     </div>
                 </div>
                 <div class="row py-5 mobile-row-padding flex-centralizer">
                     <div class="col-lg-6">
-                        <img src="/images/truck%20visits/up%20for%20the%20challenge.jpg" alt="img truck">
+                        <img src="/images/truck%20visits/up%20for%20the%20challenge.jpg" alt="participants challenge">
                     </div>
                     <div class="col-lg-6">
                         <div class="wrapper-desc-item-truck flex-right">
@@ -13748,22 +13749,22 @@ a[target="_blank"]:after{display: none}
             <div class="container">
                 <div class="row">
                     <div class="col-sm-4">
-                        <img src="/images/instagram-7.png" class="gallery-image">
+                        <img alt="school visited image" src="/images/instagram-7.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/instagram-8.png" class="gallery-image">
+                        <img alt="school visited image" src="/images/instagram-8.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/instagram-9.png" class="gallery-image">
+                        <img alt="school visited image" src="/images/instagram-9.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/instagram-10.png" class="gallery-image">
+                        <img alt="school visited image" src="/images/instagram-10.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/instagram-11.png" class="gallery-image">
+                        <img alt="school visited image" src="/images/instagram-11.png" class="gallery-image">
                     </div>
                     <div class="col-sm-4">
-                        <img src="/images/instagram-12.png" class="gallery-image">
+                        <img alt="school visited image" src="/images/instagram-12.png" class="gallery-image">
                     </div>
                     <a href="https://www.instagram.com/ctrlshift.sg/" target="_blank" rel="noreferrer" class="gallery-link">
 													<div class="gallery-button">

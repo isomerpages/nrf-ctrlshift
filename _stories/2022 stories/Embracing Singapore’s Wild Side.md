@@ -1,8 +1,10 @@
 ---
 title: Embracing Singapore’s Wild Side
 permalink: /stories/nparksdavidli/
-description: ""
+description: "Embracing Singapore’s Wild Side: Meet the Most Tech-savvy
+  Bird-lover in the City"
 third_nav_title: 2022 stories
+variant: tiptap
 ---
 ## Embracing Singapore’s Wild Side: Meet the Most Tech-savvy Bird-lover in the City 
 

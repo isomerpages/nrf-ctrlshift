@@ -1,8 +1,11 @@
 ---
 title: National STEM Talent Search
 permalink: /events/national-stem-talent-search/
-description: ""
+description: NSTS is an annual competition that aims to inspire and provide
+  national recognition to outstanding students who excel in the realms of
+  science and tech.
 third_nav_title: Events
+variant: markdown
 ---
 <style>
 
@@ -112,11 +115,11 @@ font-weight: 600;
 		<div class="row mb-5 stem-row-1" style="">
 			<div class="col-sm-12">
 				<div class="text-left mb-2">
-					<img style="width: auto" class="desktop-only title-page-stem" alt="National STEM Talent Search" src="/images/national%20stem%20talent%20search/stem-title-web-2.png">
-					<img style="width: 80%; margin: 0" class="mobile-only title-page-stem" alt="National STEM Talent Search" src="/images/national%20stem%20talent%20search/stem-title-mobile-2.png">
+					<img style="width: auto" class="desktop-only title-page-stem" alt="National STEM Talent Search Title" src="/images/national%20stem%20talent%20search/stem-title-web-2.png">
+					<img style="width: 80%; margin: 0" class="mobile-only title-page-stem" alt="National STEM Talent Search Title" src="/images/national%20stem%20talent%20search/stem-title-mobile-2.png">
 				</div>
 				<div class="text-left mb-5">
-					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search Img 1" src="/images/national%20stem%20talent%20search/stem-img-1.png">
+					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search participants" src="/images/national%20stem%20talent%20search/stem-img-1.png">
 				</div>
 				<div class="text-left text-bold pb-2">
 					<p style="font-size: 20px; line-height: 32px; font-weight: 500;">
@@ -143,21 +146,21 @@ font-weight: 600;
 			</div>
 			<div class="col-sm-8 section-2-row-1 desktop-only">
 				<div class="img-pull-left">
-					<img src="/images/national%20stem%20talent%20search/stem-img-2.png" alt="National STEM Talent Search Img 1" style="width: auto">
+					<img src="/images/national%20stem%20talent%20search/stem-img-2.png" alt="National STEM Talent Search participants second image" style="width: auto">
 					<div class="section-2-text-box">
-							<img src="/images/national%20stem%20talent%20search/text-1-desktop.png">
+							<img alt="description text image" src="/images/national%20stem%20talent%20search/text-1-desktop.png">
 					</div>
-					<img src="/images/national%20stem%20talent%20search/icon-water.png" alt="National STEM Talent Search Img 1" class="icon-1" style="position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;">
+					<img src="/images/national%20stem%20talent%20search/icon-water.png" alt="small water icon" class="icon-1" style="position: absolute;bottom: -30px;height: 60px;width: 60px;left: 25%;">
 				</div>
 			</div>
 			<div class="col-sm-8 section-2-row-1 desktop-only" style="margin-left: 33.333%; margin-top: 50px">
 				<div class="img-pull-left">
-					<img src="/images/national%20stem%20talent%20search/stem-img-3.png" alt="National STEM Talent Search Img 1" style="width: auto">
+					<img src="/images/national%20stem%20talent%20search/stem-img-3.png" alt="National STEM Talent Search participants third image" style="width: auto">
 						<div class="section-2-text-box" style="width: 340px;position: absolute;top: 9%;right: 80%; left: auto">
-							<img src="/images/national%20stem%20talent%20search/text-2-desktop.png">
+							<img alt="description text image" src="/images/national%20stem%20talent%20search/text-2-desktop.png">
 					</div>
-					<img src="/images/national%20stem%20talent%20search/icon-arrow.png" alt="National STEM Talent Search Img 1" class="icon-2" style="position: absolute;bottom: -30px;right: -30px;height: 60px;width: 60px;">
-					<img src="/images/national%20stem%20talent%20search/icon-sun.png" alt="National STEM Talent Search Img 1" class="icon-3" style="position: absolute;top: -30px;height: 60px;width: 60px;right: 50%;">
+					<img src="/images/national%20stem%20talent%20search/icon-arrow.png" alt="small arrow icon" class="icon-2" style="position: absolute;bottom: -30px;right: -30px;height: 60px;width: 60px;">
+					<img src="/images/national%20stem%20talent%20search/icon-sun.png" alt="small sun icon" class="icon-3" style="position: absolute;top: -30px;height: 60px;width: 60px;right: 50%;">
 				</div>
 			</div>
 		</div>

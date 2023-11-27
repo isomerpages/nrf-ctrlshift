@@ -1,8 +1,9 @@
 ---
 title: Improving our Daily Commute with Engineering and Technology
 permalink: /stories/ltaphuajin/
-description: ""
+description: "On the High Road: Improving our Daily Commute with Engineering and Technology"
 third_nav_title: 2022 stories
+variant: tiptap
 ---
 ## On the High Road: Improving our Daily Commute with Engineering and Technology
 

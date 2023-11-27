@@ -1,7 +1,10 @@
 ---
 title: About Us
 permalink: /about-us/
-description: ""
+description: Be prepared to CTRL your future and SHIFT your perspectives with a
+  brand-new take on the many exciting possibilities with Science, Technology and
+  Engineering (STE).
+variant: markdown
 ---
 <style>
 .about {
@@ -92,7 +95,7 @@ description: ""
 }
 </style>
 <div class="about">
-    <img src="/images/about%20us/about%20ste.png">
+    <img alt="about STE banner" src="/images/about%20us/about%20ste.png">
 </div>
 
 Be prepared to CTRL your future and SHIFT your perspectives with a brand-new take on the many exciting possibilities with Science, Technology and Engineering (STE).
@@ -129,7 +132,7 @@ Join us as CTRL+SHIFT unveils a whole new world in Science, Technology and Engin
 }
 </style>
 <div class="purpose">
-    <img src="/images/about%20us/purpose.png">
+    <img alt="purpose-banner" src="/images/about%20us/purpose.png">
 </div>
 
 
@@ -169,10 +172,10 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
 <section>
 <div class="logos">
 		<div class="column">
-			<img src="/images/about%20us/psd%20logo%20for%20web.jpg">
+			<img alt="the singapore public service logo" src="/images/about%20us/psd%20logo%20for%20web.jpg">
 		</div>
 		<div class="column">
-			<img src="/images/about%20us/ste%20logo%20for%20web.jpg">
+			<img alt="future with sci-tech engineering logo" src="/images/about%20us/ste%20logo%20for%20web.jpg">
 		</div>
 	</div>
 	</section><section class="header-nav-white" id="header-truck" style="padding-top: 70px; margin-top: 25px; border-top: 1px solid #000">
@@ -180,7 +183,7 @@ CTRL+SHIFT is a rebranding campaign that aims to shift the perspectives of stude
       <div class="row mb-5 recruitment-row" style="">
         <div class="col-sm-6">
             <div class="text-left pb-1">
-                <img style="width: auto" class="title-page-recruitment" alt="title page truck" src="/images/about%20us/group%2014114.png">
+                <img style="width: auto" class="title-page-recruitment" alt="step up your game with CTRL SHIFT banner" src="/images/about%20us/group%2014114.png">
             </div>
         </div>
                     <div class="col-sm-6">

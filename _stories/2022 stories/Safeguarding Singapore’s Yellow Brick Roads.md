@@ -1,8 +1,11 @@
 ---
 title: Safeguarding Singapore’s Yellow Brick Roads
 permalink: /stories/ltamuzni/
-description: ""
+description: "This technological wizard is working towards building ‘digital
+  twins’ with map-based Geographic Information System (GIS) of the road and
+  road-related infrastructures using 3D light detection and ranging sensors. "
 third_nav_title: 2022 stories
+variant: tiptap
 ---
 ## Safeguarding Singapore’s Yellow Brick Roads
 
