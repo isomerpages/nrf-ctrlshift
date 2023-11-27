@@ -394,7 +394,7 @@ line-height: 2rem;
 	.video-subtitle{font-size: 16px; line-height: 24px}
 }
 
-	</style><div class="video-series"><img alt="step-up-video-series-banner" class="desktop-only video-series-header-img" src="/images/video%20series/video-series-header-new-desktop.png"><img alt="step-up-video-series-banner-mobile" class="mobile-only video-series-header-img" src="/images/video%20series/video-series-header-new-mobile.png">
+	</style><div class="video-series"><img alt="step up video series banner" class="desktop-only video-series-header-img" src="/images/video%20series/video-series-header-new-desktop.png"><img alt="step up video series mobile banner" class="mobile-only video-series-header-img" src="/images/video%20series/video-series-header-new-mobile.png">
 </div>
 <div class="video-series-header-entries">
 Whether it's preventing another outbreak, navigating our urban landscape or having enough power to charge your smartphones - there is always someone behind it. STE+P Up uncovers never-seen-before projects and efforts of STE professionals who shape the way we eat, play, and live.
