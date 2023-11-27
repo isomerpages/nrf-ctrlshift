@@ -13717,12 +13717,12 @@ a[target="_blank"]:after{display: none}
                         </div>
                     </div>
                     <div class="col-lg-6">
-                        <img src="/images/truck%20visits/img_7142%201.png" alt="img truck">
+                        <img src="/images/truck%20visits/img_7142%201.png" alt="participants showing photo">
                     </div>
                 </div>
                 <div class="row py-5 mobile-row-padding flex-centralizer">
                     <div class="col-lg-6">
-                        <img src="/images/truck%20visits/up%20for%20the%20challenge.jpg" alt="img truck">
+                        <img src="/images/truck%20visits/up%20for%20the%20challenge.jpg" alt="participants challenge">
                     </div>
                     <div class="col-lg-6">
                         <div class="wrapper-desc-item-truck flex-right">
