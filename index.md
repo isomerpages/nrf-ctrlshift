@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: CTRL Your Future, SHIFT Your Perspective
+title: CTRL Your Future, SHIFT Your Perspectives
 permalink: /
 sections:
   - hero:
