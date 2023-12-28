@@ -16083,8 +16083,9 @@ third_nav_title: Events
     }
 
     .polytechnicContainer .contentWrapper {
-
         width: -webkit-fill-available;
+        justify-content: space-between;
+        padding: 16px;
     }
 
     .polytechnicContainer .polyName {
@@ -16105,10 +16106,13 @@ third_nav_title: Events
         line-height: 16px;
         margin-top: 8px;
         text-transform: capitalize;
+        display: none;
     }
 
     img.arrowIcon {
         max-height: 14px;
+        max-width: fit-content;
+        cursor: pointer;
     }
 </style>
 <section id="header-missed-us" class="header-nav-white">
@@ -16185,7 +16189,7 @@ third_nav_title: Events
                             Outside Makan Place
                         </p>
                     </div>
-                    <div class="arrowWrapper col-sm-3 col-md-5">
+                    <div id="poly-1" class="arrowWrapper col-auto">
                         <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
                     </div>
                 </div>
@@ -16201,7 +16205,7 @@ third_nav_title: Events
                             Sheltered Space in School of Business
                         </p>
                     </div>
-                    <div class="arrowWrapper col-sm-3 col-md-5">
+                    <div id="poly-2" class="arrowWrapper col-auto">
                         <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
                     </div>
                 </div>
@@ -16217,7 +16221,7 @@ third_nav_title: Events
                             Mushroom (Near Main Entrance)
                         </p>
                     </div>
-                    <div class="arrowWrapper col-sm-3 col-md-5">
+                    <div id="poly-3" class="arrowWrapper col-auto">
                         <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
                     </div>
                 </div>
@@ -16233,7 +16237,7 @@ third_nav_title: Events
                             Outside Auditorium
                         </p>
                     </div>
-                    <div class="arrowWrapper col-sm-3 col-md-5">
+                    <div id="poly-4" class="arrowWrapper col-auto">
                         <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
                     </div>
                 </div>
@@ -16249,7 +16253,7 @@ third_nav_title: Events
                             Space Outside School of Engineering
                         </p>
                     </div>
-                    <div class="arrowWrapper col-sm-3 col-md-5">
+                    <div id="poly-5" class="arrowWrapper col-auto">
                         <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
                     </div>
                 </div>
