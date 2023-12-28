@@ -179,7 +179,7 @@ third_nav_title: Events
         background-attachment: fixed;
     }
 
-    .title-section {
+    .title-section-bold {
         font-size: 48px;
         line-height: 50px;
         font-weight: 900;
@@ -16162,7 +16162,7 @@ third_nav_title: Events
         <div class="row pb-lg-5">
             <div class="col-lg-12 pb-lg-1 who-says-title">
                 <div class="text-center">
-                    <h1 class="title-section text-blue">Here’s where we are going this January!</h1>
+                    <h1 class="title-section-bold text-blue">Here’s where we are going this January!</h1>
                 </div>
             </div>
         </div>
@@ -16248,77 +16248,19 @@ third_nav_title: Events
                 </div>
             </div>
         </div>
-        <!-- <div class="row row-reverse pb5 mobile-row-padding flex-centralizer">
-                    <div class="col-lg-6">
-                        <div class="wrapper-desc-item-truck">
-                            <div class="desc-item-truck">
-                                <div class="title-item-truck">
-                                    <h2>About our CTRL+SHIFT truck</h2>
-                                </div>
-                                <div class="text-item-truck">
-                                    <p style="font-weight: 500">Our CTRL+SHIFT truck went on an adventure to visit multiple Open Houses and Career Fairs to mingle with students and educators, to find out what people really think about Science, Tech and Engineering jobs in the public sector.</p><p style="font-weight: 500">And the best part? Not only did we host exciting giveaways, we also had STE ambassadors who joined us in sharing amazing stories and insider tips on what it's really like to work in their field.</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-6">
-                        <img alt="participants showing photo" src="/images/truck%20visits/img_7142%201.png">
-                    </div>
-                </div> -->
-        <!-- <div class="row py-5 mobile-row-padding flex-centralizer">
-                    <div class="col-lg-6">
-                        <img alt="participants challenge" src="/images/truck%20visits/up%20for%20the%20challenge.jpg">
-                    </div>
-                    <div class="col-lg-6">
-                        <div class="wrapper-desc-item-truck flex-right">
-                            <div class="desc-item-truck">
-                                <div class="title-item-truck">
-                                    <h2>Up for the challenge? Come find us</h2>
-                                </div>
-                                <div class="text-item-truck">
-																	<p style="font-weight: 500">We hope you had as great of a time as we did with you. </p><p style="font-weight: 500">Scroll through our gallery to see if you can spot you and your friends!</p>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div> -->
     </div>
 </section>
 <section id="gallery" class="body-section">
     <div class="container">
-        <div class="row">
-            <h1 class="title-section text-blue">
-                Schools We've Visited
-            </h1>
+        <div class="row pb-lg-5">
+            <div class="col-lg-12 pb-lg-1 who-says-title">
+                <div class="text-center">
+                    <h1 class="title-section-bold text-blue">Participating Agencies</h1>
+                </div>
+            </div>
         </div>
     </div>
     <div class="container">
-        <div class="row">
-            <div class="col-sm-4">
-                <img alt="school visited image" src="/images/instagram-7.png" class="gallery-image">
-            </div>
-            <div class="col-sm-4">
-                <img alt="school visited image" src="/images/instagram-8.png" class="gallery-image">
-            </div>
-            <div class="col-sm-4">
-                <img alt="school visited image" src="/images/instagram-9.png" class="gallery-image">
-            </div>
-            <div class="col-sm-4">
-                <img alt="school visited image" src="/images/instagram-10.png" class="gallery-image">
-            </div>
-            <div class="col-sm-4">
-                <img alt="school visited image" src="/images/instagram-11.png" class="gallery-image">
-            </div>
-            <div class="col-sm-4">
-                <img alt="school visited image" src="/images/instagram-12.png" class="gallery-image">
-            </div>
-            <a href="https://www.instagram.com/ctrlshift.sg/" target="_blank" rel="noreferrer" class="gallery-link">
-                <div class="gallery-button">
-                    <div class="inner-gallery-button">
-                        Find Out More
-                    </div>
-                </div>
-            </a>
-        </div>
+
     </div>
 </section>
