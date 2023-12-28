@@ -16133,7 +16133,7 @@ third_nav_title: Events
                     <div class="rotatectrlShiftIcon">
                         <div class="counterrotatectrlShiftIcon">
                             <div class="innerctrlShiftIcon">
-                                <img src="/images/Missed%20Us%20Last%20Year/CtrlShift_Website_RoamingIcob_v2_1.png" alt="ctrlShiftRoamingIcon" class="ctrlShiftIcon">
+                                <img src="/images/float-map-truck-1.svg?sanitize=true" alt="ctrlShiftRoamingIcon" class="ctrlShiftIcon">
                             </div>
                         </div>
                     </div>
@@ -16142,7 +16142,7 @@ third_nav_title: Events
                     <div class="rotateIconTruck">
                         <div class="counterrotateIconTruck">
                             <div class="innerIconTruck">
-                                <img src="/images/icon-truck.svg?sanitize=true" alt="truck" class="icon-truck">
+                                <img src="/images/Missed%20Us%20Last%20Year/CtrlShift_Website_RoamingIcob_v2_1.png" alt="truck" class="icon-truck">
                             </div>
                         </div>
                     </div>
@@ -16275,3 +16275,4 @@ third_nav_title: Events
 
     </div>
 </section>
+
