@@ -16126,7 +16126,7 @@ third_nav_title: Events
                     chance to interact firsthand with our STE ambassadors.</p>
             </div>
         </div>
-        <img src="/images/Missed%20Us%20Last%20Year/missed_us_map.png" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
+        <img src="/images/Missed%20Us%20Last%20Year/missed_us_map_2x.png" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
         <div class="col-12">
             <div class="map-truck p-relative">
                 <div class="outCirclectrlShiftIcon">
@@ -16275,4 +16275,3 @@ third_nav_title: Events
 
     </div>
 </section>
-
