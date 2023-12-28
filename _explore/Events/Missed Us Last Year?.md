@@ -10,7 +10,7 @@ third_nav_title: Events
 <style>
     .map-truck {
         width: 808px;
-        margin: 110px auto 0;
+        margin: 110px auto 80px;
     }
 
     .outCircle {
