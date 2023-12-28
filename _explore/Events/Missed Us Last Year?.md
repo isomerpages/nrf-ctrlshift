@@ -2760,7 +2760,7 @@ third_nav_title: Events
 
         .title-section {
             font-size: 24px;
-            line-height: 28px;
+            line-height: 32px;
             margin-bottom: 40px;
         }
 
@@ -16134,7 +16134,7 @@ third_nav_title: Events
         align-items: center;
         border: 2px solid var(--blue, #0037CC);
         background: var(--white, #FFF);
-        margin: 16px;
+        margin: 13px;
         box-shadow:none;
     }
 
