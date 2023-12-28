@@ -16128,6 +16128,10 @@ third_nav_title: Events
     }
 
     .agencyContainer{
+        justify-content: center;
+    }
+
+    .agencyBox{
         display: flex;
         padding: 12px;
         flex-direction: column;
@@ -16138,18 +16142,18 @@ third_nav_title: Events
         box-shadow:none;
     }
 
-    .agencyContainer:hover{
+    .agencyBox:hover{
         box-shadow: 6px 6px 0px 0px #0037CC;
     }
 
-    .agencyContainer .agencyImg{
+    .agencyBox .agencyImg{
         height: 100%;
         width: 100%;
         max-height: 150px;
         max-width: 150px;
     }
 
-    .agencyContainer .agencyName{
+    .agencyBox .agencyName{
         color: var(--blue, #0037CC);
         font-size: 16px;
         font-style: normal;
@@ -16316,86 +16320,86 @@ third_nav_title: Events
         </div>
     </div>
     <div class="container">
-        <div class="row">
-            <div class="agencyContainer col-sm-6 col-md-2">
+        <div class="row agencyContainer">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/ASTAR.png">
                 </div>
                 <p class="agencyName">A*STAR</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/DIS.png">
                 </div>
                 <p class="agencyName">DIS</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/DSTA.png">
                 </div>
                 <p class="agencyName">DSTA</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/EMA.png">
                 </div>
                 <p class="agencyName">EMA</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/HTX.png">
                 </div>
                 <p class="agencyName">HTX</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/MPA.png">
                 </div>
                 <p class="agencyName">MPA</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/NAVY.png">
                 </div>
                 <p class="agencyName">NAVY</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/NEA.png">
                 </div>
                 <p class="agencyName">NEA</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/PSC.png">
                 </div>
                 <p class="agencyName">PSC</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/PUB.png">
                 </div>
                 <p class="agencyName">PUB</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/SAF.png">
                 </div>
                 <p class="agencyName">SAF</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/SLA.png">
                 </div>
                 <p class="agencyName">SLA</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/SFA.png">
                 </div>
                 <p class="agencyName">SFA</p>
             </div>
-            <div class="agencyContainer col-sm-6 col-md-2">
+            <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/Missed%20Us%20Last%20Year/URA.png">
                 </div>
