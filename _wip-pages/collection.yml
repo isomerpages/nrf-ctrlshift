@@ -1,5 +1,4 @@
 collections:
   wip-pages:
     output: true
-    order:
-      - Missed Us Last Year?.md
+    order: []
