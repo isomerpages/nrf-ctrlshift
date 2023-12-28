@@ -16115,6 +16115,18 @@ third_nav_title: Events
         cursor: pointer;
     }
 
+    .agencyHeader{
+        margin-bottom: 0!important;
+    }
+
+    .agencyDivider{
+        width: 100%;
+        display: flex;
+        height: 4px;
+        background-color:#0037CC ;
+        margin: 32px 0;
+    }
+
     .agencyContainer{
         display: flex;
         padding: 12px;
@@ -16293,11 +16305,13 @@ third_nav_title: Events
 </section>
 <section id="gallery" class="body-section">
     <div class="container">
-        <div class="row pb-lg-5">
+        <div class="row">
             <div class="col-lg-12 pb-lg-1 who-says-title">
                 <div class="text-center">
-                    <h1 class="title-section text-blue">Participating Agencies</h1>
+                    <h1 class="title-section text-blue agencyHeader">Participating Agencies</h1>
                 </div>
+            </div>
+            <div class="col-12 agencyDivider">
             </div>
         </div>
     </div>
