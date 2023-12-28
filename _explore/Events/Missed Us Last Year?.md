@@ -175,7 +175,7 @@ third_nav_title: Events
         z-index: 99;
     }
 
-    #header-truck {
+    #header-missed-us {
         background-attachment: fixed;
     }
 
@@ -15898,7 +15898,6 @@ third_nav_title: Events
         color: #1237CA;
         font-weight: 500;
         font-size: 20px;
-        margin-bottom: 100px;
     }
 
     .subtitle-2 {
@@ -16065,13 +16064,17 @@ third_nav_title: Events
         display: none
     }
 
+    .firstSection {
+        margin-bottom: 100px;
+    }
+
     .polytechnicContainer {
         border-radius: 24px;
         background: var(--white, #FFF);
         box-shadow: 6px 6px 0px 0px #000;
         display: flex;
-        /* width: 360px;
-        min-width: 320px;
+        width: 360px;
+        /* min-width: 320px;
         max-width: 360px; */
         justify-content: space-between;
         align-items: flex-start;
@@ -16103,10 +16106,14 @@ third_nav_title: Events
         margin-top: 8px;
         text-transform: capitalize;
     }
+
+    img.arrowIcon {
+        max-height: 14px;
+    }
 </style>
-<section id="header-truck" class="header-nav-white">
+<section id="header-missed-us" class="header-nav-white">
     <div class="container" style="position: relative">
-        <div class="col-12">
+        <div class="col-12 firstSection">
             <div class="text-center pt-5 pb-1">
                 <img src="/images/Missed%20Us%20Last%20Year/who_shaped_the_world_banner.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
                 <p style="font-weight: 500" class="subtitle-main">Curious about how we'll live, work and play in
@@ -16167,7 +16174,7 @@ third_nav_title: Events
             </div>
         </div>
         <div class="row pb-lg-5">
-            <div class="col-sm-12 col-md-4 polytechnicContainer">
+            <div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <div class="detailsWrapper col-sm-9 col-md-7">
                         <h6 class="polyName">
@@ -16179,11 +16186,11 @@ third_nav_title: Events
                         </p>
                     </div>
                     <div class="arrowWrapper col-sm-3 col-md-5">
-                        <img src="/images/single_arrow.svg">
+                        <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-4 polytechnicContainer">
+            <div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <div class="detailsWrapper col-sm-9 col-md-7">
                         <h6 class="polyName">
@@ -16195,11 +16202,11 @@ third_nav_title: Events
                         </p>
                     </div>
                     <div class="arrowWrapper col-sm-3 col-md-5">
-                        <img src="/images/single_arrow.svg">
+                        <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-4 polytechnicContainer">
+            <div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <div class="detailsWrapper col-sm-9 col-md-7">
                         <h6 class="polyName">
@@ -16211,11 +16218,11 @@ third_nav_title: Events
                         </p>
                     </div>
                     <div class="arrowWrapper col-sm-3 col-md-5">
-                        <img src="/images/single_arrow.svg">
+                        <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-4 polytechnicContainer">
+            <div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <div class="detailsWrapper col-sm-9 col-md-7">
                         <h6 class="polyName">
@@ -16227,11 +16234,11 @@ third_nav_title: Events
                         </p>
                     </div>
                     <div class="arrowWrapper col-sm-3 col-md-5">
-                        <img src="/images/single_arrow.svg">
+                        <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-4 polytechnicContainer">
+            <div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <div class="detailsWrapper col-sm-9 col-md-7">
                         <h6 class="polyName">
@@ -16243,7 +16250,7 @@ third_nav_title: Events
                         </p>
                     </div>
                     <div class="arrowWrapper col-sm-3 col-md-5">
-                        <img src="/images/single_arrow.svg">
+                        <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
                     </div>
                 </div>
             </div>
