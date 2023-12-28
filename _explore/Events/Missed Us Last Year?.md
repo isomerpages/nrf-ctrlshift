@@ -15896,15 +15896,13 @@ third_nav_title: Events
 
     .subtitle-main {
         color: #1237CA;
-        with: 400px;
         font-weight: 500;
         font-size: 20px;
-        margin-bottom: 0
+        margin-bottom: 100px;
     }
 
     .subtitle-2 {
         color: #fff;
-        with: 400px;
         font-weight: 700;
         font-size: 28px;
         margin-bottom: 0;
@@ -16072,16 +16070,17 @@ third_nav_title: Events
         background: var(--white, #FFF);
         box-shadow: 6px 6px 0px 0px #000;
         display: flex;
-        width: 360px;
+        /* width: 360px;
         min-width: 320px;
-        max-width: 360px;
+        max-width: 360px; */
         justify-content: space-between;
         align-items: flex-start;
         margin: 16px;
+        padding: 16px;
     }
 
     .polytechnicContainer .contentWrapper {
-        padding: 16px;
+
         width: -webkit-fill-available;
     }
 
@@ -16168,7 +16167,7 @@ third_nav_title: Events
             </div>
         </div>
         <div class="row pb-lg-5">
-            <div class="col-sm-12 col-md-3 polytechnicContainer">
+            <div class="col-sm-12 col-md-4 polytechnicContainer">
                 <div class="row contentWrapper">
                     <div class="detailsWrapper col-sm-9 col-md-7">
                         <h6 class="polyName">
@@ -16184,7 +16183,7 @@ third_nav_title: Events
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-3 polytechnicContainer">
+            <div class="col-sm-12 col-md-4 polytechnicContainer">
                 <div class="row contentWrapper">
                     <div class="detailsWrapper col-sm-9 col-md-7">
                         <h6 class="polyName">
@@ -16200,7 +16199,7 @@ third_nav_title: Events
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-3 polytechnicContainer">
+            <div class="col-sm-12 col-md-4 polytechnicContainer">
                 <div class="row contentWrapper">
                     <div class="detailsWrapper col-sm-9 col-md-7">
                         <h6 class="polyName">
@@ -16216,7 +16215,7 @@ third_nav_title: Events
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-3 polytechnicContainer">
+            <div class="col-sm-12 col-md-4 polytechnicContainer">
                 <div class="row contentWrapper">
                     <div class="detailsWrapper col-sm-9 col-md-7">
                         <h6 class="polyName">
@@ -16232,7 +16231,7 @@ third_nav_title: Events
                     </div>
                 </div>
             </div>
-            <div class="col-sm-12 col-md-3 polytechnicContainer">
+            <div class="col-sm-12 col-md-4 polytechnicContainer">
                 <div class="row contentWrapper">
                     <div class="detailsWrapper col-sm-9 col-md-7">
                         <h6 class="polyName">
