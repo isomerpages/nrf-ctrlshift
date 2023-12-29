@@ -15950,7 +15950,7 @@ third_nav_title: Events
             <div class="text-center pt-5 pb-1">
                 <img src="/images/Missed%20Us%20Last%20Year/who_shaped_the_world_banner.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
                 <p style="font-weight: 500" class="subtitle-main">Curious about how we'll live, work and play in
-                    2074?<br>
+                    2050?<br>
                     You're in luck! We're bringing the future to your campus with a taste of <br>tomorrow's world and a
                     chance to interact firsthand with our STE ambassadors.</p>
             </div>
