@@ -15968,7 +15968,7 @@ third_nav_title: Events
         }
 
         .who-says-title {
-            margin-top: 25px
+            margin-top: 32px
         }
 
         .content .subtitle-main {
@@ -16160,9 +16160,9 @@ third_nav_title: Events
         height: 100%;
     }
 
-    #toggle1:checked + label p.eventDescription , #toggle2:checked + label p.eventDescription , 
-    #toggle3:checked + label p.eventDescription , #toggle4:checked + label p.eventDescription, 
-    #toggle5:checked + label p.eventDescription  {
+    #toggle1:checked + label p.eventDescription.first , #toggle2:checked + label p.eventDescription.second , 
+    #toggle3:checked + label p.eventDescription.third , #toggle4:checked + label p.eventDescription.fourth, 
+    #toggle5:checked + label p.eventDescription.fifth  {
         opacity:1;
         height: 100%;
     }
@@ -16344,7 +16344,7 @@ third_nav_title: Events
                                 <h6 class="polyName">
                                     NGEE ANN POLYTECHNIC
                                 </h6>
-                                <p class="eventDescription">
+                                <p class="eventDescription first">
                                         4 Jan 2024 || 10am-6pm,<br>
                                         Outside Makan Place
                                 </p>
@@ -16366,7 +16366,7 @@ third_nav_title: Events
                                 <h6 class="polyName">
                                     SINGAPORE POLYTECHNIC
                                 </h6>
-                                <p class="eventDescription">
+                                <p class="eventDescription second">
                                     5 Jan 2024 || 10am-6pm,<br>
                                     Sheltered Space in School of Business
                                 </p>
@@ -16388,7 +16388,7 @@ third_nav_title: Events
                                 <h6 class="polyName">
                                     TEMAESK POLYTECHNIC
                                 </h6>
-                                <p class="eventDescription">
+                                <p class="eventDescription third">
                                     5 Jan 2024 || 10am-8pm,<br>
                                     Mushroom (Near Main Entrance)
                                 </p>
@@ -16410,7 +16410,7 @@ third_nav_title: Events
                                 <h6 class="polyName">
                                     NANYANG POLYTECHNIC
                                 </h6>
-                                <p class="eventDescription">
+                                <p class="eventDescription fourth">
                                     6 Jan 2024 || 10am-6pm,<br>
                                     Outside Auditorium
                                 </p>
@@ -16432,7 +16432,7 @@ third_nav_title: Events
                                 <h6 class="polyName">
                                     REPUBLIC POLYTECHNIC
                                 </h6>
-                                <p class="eventDescription">
+                                <p class="eventDescription fifth">
                                     6 Jan 2024 || timing tbc,<br>
                                     Space Outside School of Engineering
                                 </p>
