@@ -10,14 +10,14 @@ sections:
         revolution! Don't sit on the sidelines, make your mark and change the
         world together.
   - infopic:
-      title: About Science+Tech +Engineering
+      title: Coming to a Campus near YOU!
       button: Find Out More
       url: /about-us
       alt: about img
       image: /images/homepage/aboutimghorizontal.png
-      description: Science, Tech and Engineering are the main driving forces behind
-        innovation and growth. Join us as we explore how STE is in the way we
-        live, work and play.
+      description: Ready to reimagine 2050 Singapore? With CTRL+SHIFT,
+        Science+Tech+Engineering is your playground to shape the future. Talk to
+        our STE ambassadors to learn more!
   - infopic:
       title: STE+P Up Your Game with CTRL+SHIFT
       description: Prepare to have your perspective shifted as we shatter your
