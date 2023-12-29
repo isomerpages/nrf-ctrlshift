@@ -16073,8 +16073,7 @@ third_nav_title: Events
         background: var(--white, #FFF);
         box-shadow: 6px 6px 0px 0px #000;
         display: flex;
-        width: 360px;
-        min-width: 320px;
+        width: 100%;
         max-width: 360px;
         justify-content: space-between;
         align-items: flex-start;
@@ -16206,12 +16205,19 @@ third_nav_title: Events
         line-height: 20px; 
     }
 
+    .content p.subtitle-main:not(:first-child){
+        margin-bottom: 0;
+    }
+
+    .content p.subtitle-main:last-child{
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+
     @media(max-width:600px){
         .polytechnicContainer{
             margin: 16px 0;
             padding: 16px 8px;
-            width: 280px;
-            min-width: 240px;
             max-width: 280px;
         }
 
@@ -16224,7 +16230,7 @@ third_nav_title: Events
         }
 
         .firstSection{
-            padding-bottom: 25px;
+            margin-bottom: 25px;
         }
 
         .agencyDivider{
