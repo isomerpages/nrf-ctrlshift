@@ -16074,8 +16074,8 @@ third_nav_title: Events
         box-shadow: 6px 6px 0px 0px #000;
         display: flex;
         width: 360px;
-        /* min-width: 320px;
-        max-width: 360px; */
+        min-width: 320px;
+        max-width: 360px;
         justify-content: space-between;
         align-items: flex-start;
         margin: 16px;
@@ -16209,6 +16209,10 @@ third_nav_title: Events
     @media(max-width:600px){
         .polytechnicContainer{
             margin: 16px 0;
+            padding: 16px 8px;
+            width: 280px;
+            min-width: 240px;
+            max-width: 280px;
         }
 
         .agencyBox{
@@ -16217,6 +16221,14 @@ third_nav_title: Events
             max-width: 130px;
             min-height: 180px;
             max-height: 190px;
+        }
+
+        .firstSection{
+            padding-bottom: 25px;
+        }
+
+        .agencyDivider{
+            margin: 16px 0;
         }
     }
 
@@ -16286,7 +16298,9 @@ third_nav_title: Events
             </div>
         </div>
     </div>
-    <div class="container pb-5">
+</section>
+<section id="polytechnicSection">
+    <div class="container">
         <div class="row pb-lg-5">
             <div class="col-lg-12 pb-lg-1 who-says-title">
                 <div class="text-center">
@@ -16398,7 +16412,7 @@ third_nav_title: Events
         </div>
     </div>
 </section>
-<section id="agency" class="body-section">
+<section id="agencySection">
     <div class="container">
         <div class="row">
             <div class="col-lg-12 pb-lg-1 who-says-title">
