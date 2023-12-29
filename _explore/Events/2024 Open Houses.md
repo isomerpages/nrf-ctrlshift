@@ -15889,10 +15889,52 @@ third_nav_title: Events
         display: none;
     }
 
-    img.arrowIcon {
+    img.singleArrowIcon {
         max-height: 14px;
         max-width: fit-content;
         cursor: pointer;
+        display: flex;
+        opacity:1;
+        height:100%;
+        transition-property: all;
+        transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+        transition-duration: 300ms;
+    }
+
+    img.multipleArrowIcon {
+        max-height: 14px;
+        max-width: fit-content;
+        cursor: pointer;
+        display: flex;
+        opacity:0;
+        height: 0;
+        transition-property: all;
+        transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+        transition-duration: 300ms;
+    }
+
+    #toggle1,#toggle2,#toggle3,#toggle4,#toggle5 {
+      display: none;
+    }
+
+    #toggle1:checked + label img.singleArrowIcon , #toggle2:checked + label img.singleArrowIcon , 
+    #toggle3:checked + label img.singleArrowIcon , #toggle4:checked + label img.singleArrowIcon, 
+    #toggle5:checked + label img.singleArrowIcon  {
+        opacity:0;
+        height: 0;
+    }
+
+    #toggle1:checked + label img.multipleArrowIcon , #toggle2:checked + label img.multipleArrowIcon  , 
+    #toggle3:checked + label img.multipleArrowIcon  , #toggle4:checked + label img.multipleArrowIcon , 
+    #toggle5:checked + label img.multipleArrowIcon   {
+        opacity:1;
+        height: 100%;
+    }
+
+    #toggle1:checked + div.polytechnicContainer:first-child .eventDescription , #toggle2:checked + .polytechnicContainer:nth-child(2) .eventDescription , 
+    #toggle3:checked + .polytechnicContainer:nth-child(3) .eventDescription , #toggle4:checked + .polytechnicContainer:nth-child(4) .eventDescription, 
+    #toggle5:checked + .polytechnicContainer:last-child .eventDescription  {
+        display: flex;
     }
 
     .agencyHeader{
@@ -15948,14 +15990,14 @@ third_nav_title: Events
     <div class="container" style="position: relative">
         <div class="col-12 firstSection">
             <div class="text-center pt-5 pb-1">
-                <img src="/images/Missed%20Us%20Last%20Year/who_shaped_the_world_banner.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
+                <img src="/images/2024%20Open%20Houses/who_shaped_the_world_banner.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
                 <p style="font-weight: 500" class="subtitle-main">Curious about how we'll live, work and play in
                     2050?<br>
                     You're in luck! We're bringing the future to your campus with a taste of <br>tomorrow's world and a
                     chance to interact firsthand with our STE ambassadors.</p>
             </div>
         </div>
-        <img src="/images/Missed%20Us%20Last%20Year/missed_us_map_2x.jpg" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
+        <img src="/images/2024%20Open%20Houses/missed_us_map_2x.jpg" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
         <div class="col-12">
             <div class="map-truck p-relative">
                 <div class="outCirclectrlShiftIcon">
@@ -15971,7 +16013,7 @@ third_nav_title: Events
                     <div class="rotateIconTruck">
                         <div class="counterrotateIconTruck">
                             <div class="innerIconTruck">
-                                <img src="/images/Missed%20Us%20Last%20Year/CtrlShift_Website_RoamingIcob_v2_1.png" alt="truck" class="icon-truck">
+                                <img src="/images/2024%20Open%20Houses/CtrlShift_Website_RoamingIcob_v2_1.png" alt="truck" class="icon-truck">
                             </div>
                         </div>
                     </div>
@@ -16019,7 +16061,11 @@ third_nav_title: Events
                         </p>
                     </div>
                     <div id="poly-1" class="arrowWrapper col-auto">
-                        <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
+                        <input name="iconToggle" id="toggle1" type="checkbox">
+                        <label for="toggle1">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </label>
                     </div>
                 </div>
             </div>
@@ -16035,7 +16081,11 @@ third_nav_title: Events
                         </p>
                     </div>
                     <div id="poly-2" class="arrowWrapper col-auto">
-                        <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
+                        <input name="iconToggle" id="toggle2" type="checkbox">
+                        <label for="toggle2">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </label>
                     </div>
                 </div>
             </div>
@@ -16051,7 +16101,11 @@ third_nav_title: Events
                         </p>
                     </div>
                     <div id="poly-3" class="arrowWrapper col-auto">
-                        <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
+                        <input name="iconToggle" id="toggle3" type="checkbox">
+                        <label for="toggle3">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </label>
                     </div>
                 </div>
             </div>
@@ -16067,7 +16121,11 @@ third_nav_title: Events
                         </p>
                     </div>
                     <div id="poly-4" class="arrowWrapper col-auto">
-                        <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
+                        <input name="iconToggle" id="toggle4" type="checkbox">
+                        <label for="toggle4">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </label>
                     </div>
                 </div>
             </div>
@@ -16083,7 +16141,11 @@ third_nav_title: Events
                         </p>
                     </div>
                     <div id="poly-5" class="arrowWrapper col-auto">
-                        <img class="arrowIcon" src="/images/Missed%20Us%20Last%20Year/single_arrow.svg">
+                        <input name="iconToggle" id="toggle5" type="checkbox">
+                        <label for="toggle5">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </label>
                     </div>
                 </div>
             </div>
@@ -16106,85 +16168,85 @@ third_nav_title: Events
         <div class="row agencyContainer">
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/ASTAR.png">
+                    <img src="/images/2024%20Open%20Houses/ASTAR.png">
                 </div>
                 <p class="agencyName">A*STAR</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/DIS.png">
+                    <img src="/images/2024%20Open%20Houses/DIS.png">
                 </div>
                 <p class="agencyName">DIS</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/DSTA.png">
+                    <img src="/images/2024%20Open%20Houses/DSTA.png">
                 </div>
                 <p class="agencyName">DSTA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/EMA.png">
+                    <img src="/images/2024%20Open%20Houses/EMA.png">
                 </div>
                 <p class="agencyName">EMA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/HTX.png">
+                    <img src="/images/2024%20Open%20Houses/HTX.png">
                 </div>
                 <p class="agencyName">HTX</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/MPA.png">
+                    <img src="/images/2024%20Open%20Houses/MPA.png">
                 </div>
                 <p class="agencyName">MPA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/NAVY.png">
+                    <img src="/images/2024%20Open%20Houses/NAVY.png">
                 </div>
                 <p class="agencyName">NAVY</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/NEA.png">
+                    <img src="/images/2024%20Open%20Houses/NEA.png">
                 </div>
                 <p class="agencyName">NEA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/PSC.png">
+                    <img src="/images/2024%20Open%20Houses/PSC.png">
                 </div>
                 <p class="agencyName">PSC</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/PUB.png">
+                    <img src="/images/2024%20Open%20Houses/PUB.png">
                 </div>
                 <p class="agencyName">PUB</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/SAF.png">
+                    <img src="/images/2024%20Open%20Houses/SAF.png">
                 </div>
                 <p class="agencyName">SAF</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/SLA.png">
+                    <img src="/images/2024%20Open%20Houses/SLA.png">
                 </div>
                 <p class="agencyName">SLA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/SFA.png">
+                    <img src="/images/2024%20Open%20Houses/SFA.png">
                 </div>
                 <p class="agencyName">SFA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/Missed%20Us%20Last%20Year/URA.png">
+                    <img src="/images/2024%20Open%20Houses/URA.png">
                 </div>
                 <p class="agencyName">URA</p>
             </div>
