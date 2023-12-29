@@ -14062,6 +14062,14 @@ third_nav_title: Events
             padding-bottom: 3rem !important;
         }
 
+        .pb-lg-5 {
+            padding-bottom: 3rem !important;
+        }
+
+        .pb-lg-6 {
+            padding-bottom: 4.5rem !important;
+        }
+
         .ps-lg-0 {
             padding-left: 0 !important;
         }
@@ -16357,7 +16365,7 @@ third_nav_title: Events
                 </div>
             </div>
         </div>
-        <div class="row pb-lg-5 allPolyContainer">
+        <div class="row pb-lg-6 allPolyContainer">
             <div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <input id="toggle1" type="checkbox">
