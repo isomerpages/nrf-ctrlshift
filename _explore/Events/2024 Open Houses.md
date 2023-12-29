@@ -16085,6 +16085,14 @@ third_nav_title: Events
         padding: 16px;
     }
 
+    .polytechnicContainer .detailsWrapper{
+        order:1;
+    }
+
+    .polytechnicContainer .arrowWrapper{
+        order:2;
+    }
+
     .polytechnicContainer .polyName {
         color: var(--black, #000);
         font-size: 20px;
@@ -16148,9 +16156,9 @@ third_nav_title: Events
         height: 100%;
     }
 
-    #toggle1:checked + div.polytechnicContainer:first-child .eventDescription , #toggle2:checked + .polytechnicContainer:nth-child(2) .eventDescription , 
-    #toggle3:checked + .polytechnicContainer:nth-child(3) .eventDescription , #toggle4:checked + .polytechnicContainer:nth-child(4) .eventDescription, 
-    #toggle5:checked + .polytechnicContainer:last-child .eventDescription  {
+    #toggle1:checked + div.polytechnicContainer:first-child p.eventDescription , #toggle2:checked + div.polytechnicContainer:nth-child(2) p.eventDescription , 
+    #toggle3:checked + div.polytechnicContainer:nth-child(3) p.eventDescription , #toggle4:checked + div.polytechnicContainer:nth-child(4) p.eventDescription, 
+    #toggle5:checked + div.polytechnicContainer:last-child p.eventDescription  {
         display: flex;
     }
 
@@ -16220,7 +16228,7 @@ third_nav_title: Events
 
     @media(max-width:600px){
         .polytechnicContainer{
-            margin: 8px;
+            margin: 8px 0;
             padding: 16px 8px;
         }
 
@@ -16320,6 +16328,13 @@ third_nav_title: Events
         <div class="row pb-lg-5">
             <div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
+                    <div id="poly-1" class="arrowWrapper col-auto">
+                        <input name="iconToggle" id="toggle1" type="checkbox">
+                        <label for="toggle1">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </label>
+                    </div>
                     <div class="detailsWrapper col-sm-10 col-md-7">
                         <h6 class="polyName">
                             NGEE ANN POLYTECHNIC
@@ -16329,17 +16344,17 @@ third_nav_title: Events
                             Outside Makan Place
                         </p>
                     </div>
-                    <div id="poly-1" class="arrowWrapper col-auto">
-                        <input name="iconToggle" id="toggle1" type="checkbox">
-                        <label for="toggle1">
-                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                        </label>
-                    </div>
                 </div>
             </div>
             <div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
+                    <div id="poly-2" class="arrowWrapper col-auto">
+                        <input name="iconToggle" id="toggle2" type="checkbox">
+                        <label for="toggle2">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </label>
+                    </div>
                     <div class="detailsWrapper col-sm-10 col-md-7">
                         <h6 class="polyName">
                             SINGAPORE POLYTECHNIC
@@ -16349,17 +16364,17 @@ third_nav_title: Events
                             Sheltered Space in School of Business
                         </p>
                     </div>
-                    <div id="poly-2" class="arrowWrapper col-auto">
-                        <input name="iconToggle" id="toggle2" type="checkbox">
-                        <label for="toggle2">
-                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                        </label>
-                    </div>
                 </div>
             </div>
             <div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
+                    <div id="poly-3" class="arrowWrapper col-auto">
+                        <input name="iconToggle" id="toggle3" type="checkbox">
+                        <label for="toggle3">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </label>
+                    </div>
                     <div class="detailsWrapper col-sm-10 col-md-7">
                         <h6 class="polyName">
                             TEMAESK POLYTECHNIC
@@ -16369,17 +16384,17 @@ third_nav_title: Events
                             Mushroom (Near Main Entrance)
                         </p>
                     </div>
-                    <div id="poly-3" class="arrowWrapper col-auto">
-                        <input name="iconToggle" id="toggle3" type="checkbox">
-                        <label for="toggle3">
-                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                        </label>
-                    </div>
                 </div>
             </div>
             <div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
+                    <div id="poly-4" class="arrowWrapper col-auto">
+                        <input name="iconToggle" id="toggle4" type="checkbox">
+                        <label for="toggle4">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </label>
+                    </div>
                     <div class="detailsWrapper col-sm-10 col-md-7">
                         <h6 class="polyName">
                             NANYANG POLYTECHNIC
@@ -16389,17 +16404,17 @@ third_nav_title: Events
                             Outside Auditorium
                         </p>
                     </div>
-                    <div id="poly-4" class="arrowWrapper col-auto">
-                        <input name="iconToggle" id="toggle4" type="checkbox">
-                        <label for="toggle4">
-                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                        </label>
-                    </div>
                 </div>
             </div>
             <div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
+                    <div id="poly-5" class="arrowWrapper col-auto">
+                        <input name="iconToggle" id="toggle5" type="checkbox">
+                        <label for="toggle5">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </label>
+                    </div>
                     <div class="detailsWrapper col-sm-10 col-md-7">
                         <h6 class="polyName">
                             REPUBLIC POLYTECHNIC
@@ -16408,13 +16423,6 @@ third_nav_title: Events
                             6 Jan 2024 || timing tbc,<br>
                             Space Outside School of Engineering
                         </p>
-                    </div>
-                    <div id="poly-5" class="arrowWrapper col-auto">
-                        <input name="iconToggle" id="toggle5" type="checkbox">
-                        <label for="toggle5">
-                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                        </label>
                     </div>
                 </div>
             </div>
