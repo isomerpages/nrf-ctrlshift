@@ -15918,7 +15918,7 @@ third_nav_title: Events
     .innerIconTruck img,
     .innerFloatTruck4 img,
     .innerFloatTruck3 img {
-        width: 80%
+        width: 100%
     }
 
     .subtitle-main {
