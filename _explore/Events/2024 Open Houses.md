@@ -16214,6 +16214,12 @@ third_nav_title: Events
         margin-bottom: 0;
     }
 
+    .mainMap{
+        position: absolute; 
+        width: 100%;
+        max-width: 656px;
+    }
+
     @media(max-width:600px){
         .polytechnicContainer{
             margin: 16px 0;
@@ -16261,7 +16267,7 @@ third_nav_title: Events
                         chance to interact firsthand with our STE ambassadors.</p>
             </div>
         </div>
-        <img src="/images/2024%20Open%20Houses/missed_us_map_2x.jpg" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">
+        <img src="/images/2024%20Open%20Houses/missed_us_map_2x.jpg" alt="map truck" class="d-none d-lg-block mainMap">
         <div class="col-12">
             <div class="map-truck p-relative">
                 <div class="outCirclectrlShiftIcon">
