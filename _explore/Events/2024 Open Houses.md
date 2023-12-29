@@ -16081,6 +16081,7 @@ third_nav_title: Events
         align-items: flex-start;
         margin: 8px;
         padding: 16px;
+        height: fit-content;
     }
 
     .polytechnicContainer .contentWrapper {
