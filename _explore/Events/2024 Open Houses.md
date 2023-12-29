@@ -16083,12 +16083,12 @@ third_nav_title: Events
         background: var(--white, #FFF);
         box-shadow: 6px 6px 0px 0px #000;
         display: flex;
-        width: 100%;
-        max-width: 360px;
+        width: 31%;
+        /* max-width: 360px; */
         justify-content: space-between;
         align-items: flex-start;
         margin: 8px;
-        padding: 16px;
+        padding: 4px;
         height: fit-content;
     }
 
@@ -16267,6 +16267,7 @@ third_nav_title: Events
         }
 
         .polytechnicContainer{
+            width: 100%;
             margin: 8px 0;
             padding: 16px 8px;
         }
