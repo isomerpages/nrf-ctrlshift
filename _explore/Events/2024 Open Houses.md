@@ -5,12 +5,10 @@ variant: markdown
 description: ""
 third_nav_title: Events
 ---
-```
-```
 <style>
     .map-truck {
         width: 808px;
-        margin: 110px auto 80px;
+        margin: 110px auto 0;
     }
 
     .outCircle {
@@ -16077,7 +16075,7 @@ third_nav_title: Events
         max-width: 360px;
         justify-content: space-between;
         align-items: flex-start;
-        margin: 16px;
+        margin: 8px;
         padding: 16px;
     }
 
@@ -16222,7 +16220,7 @@ third_nav_title: Events
 
     @media(max-width:600px){
         .polytechnicContainer{
-            margin: 16px 0;
+            margin: 8px 0;
             padding: 16px 8px;
             max-width: 280px;
         }
