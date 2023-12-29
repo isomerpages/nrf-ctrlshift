@@ -16220,9 +16220,8 @@ third_nav_title: Events
 
     @media(max-width:600px){
         .polytechnicContainer{
-            margin: 8px 0;
+            margin: 8px;
             padding: 16px 8px;
-            max-width: 280px;
         }
 
         .agencyBox{
