@@ -16210,6 +16210,14 @@ third_nav_title: Events
         .polytechnicContainer{
             margin: 16px 0;
         }
+
+        .agencyBox{
+            margin: 15px;
+            min-width: 120px;
+            max-width: 130px;
+            min-height: 180px;
+            max-height: 190px;
+        }
     }
 
     @media(max-width:574px){
@@ -16220,14 +16228,6 @@ third_nav_title: Events
         .col-sm-10 {
             flex: 0 0 auto;
             width: 83.33333333%;
-        }
-
-        .agencyBox{
-            margin: 15px;
-            min-width: 120px;
-            max-width: 130px;
-            min-height: 180px;
-            max-height: 190px;
         }
     }
 </style>
