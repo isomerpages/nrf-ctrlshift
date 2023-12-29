@@ -16176,8 +16176,8 @@ third_nav_title: Events
     #toggle1:checked + label p.eventDescription.first , #toggle2:checked + label p.eventDescription.second , 
     #toggle3:checked + label p.eventDescription.third , #toggle4:checked + label p.eventDescription.fourth, 
     #toggle5:checked + label p.eventDescription.fifth  {
-        margin-top: 8px;
-        margin-bottom: 10px;
+        margin-top: 8px!important;
+        margin-bottom: 10px!important;
         opacity:1;
         height: 100%;
     }
@@ -16294,7 +16294,7 @@ third_nav_title: Events
         #toggle1:checked + label p.eventDescription.first , #toggle2:checked + label p.eventDescription.second , 
         #toggle3:checked + label p.eventDescription.third , #toggle4:checked + label p.eventDescription.fourth, 
         #toggle5:checked + label p.eventDescription.fifth  {
-            margin-bottom: 0;
+            margin-bottom: 0!important;
         }
         
     }
