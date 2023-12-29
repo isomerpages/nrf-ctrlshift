@@ -16066,6 +16066,10 @@ third_nav_title: Events
         margin-bottom: 100px;
     }
 
+    .allPolyContainer{
+        justify-content: center;
+    }
+
     .polytechnicContainer {
         border-radius: 24px;
         background: var(--white, #FFF);
@@ -16352,7 +16356,7 @@ third_nav_title: Events
                 </div>
             </div>
         </div>
-        <div class="row pb-lg-5">
+        <div class="row pb-lg-5 allPolyContainer">
             <div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <input id="toggle1" type="checkbox">
