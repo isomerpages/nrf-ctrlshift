@@ -456,8 +456,8 @@ third_nav_title: Events
         -webkit-border-radius: 50px;
         border-radius: 100px;
         position: absolute;
-        left: 0px;
-        top: -180px;
+        left: -35px;
+        top: -100px;
         background-color: transparent;
         display: block;
     }
@@ -470,8 +470,8 @@ third_nav_title: Events
         -webkit-border-radius: 50px;
         border-radius: 100px;
         position: absolute;
-        left: 200px;
-        top: -30px;
+        left: 100px;
+        top: 0;
         background-color: transparent;
         display: block;
     }
@@ -582,8 +582,8 @@ third_nav_title: Events
         -webkit-border-radius: 50px;
         border-radius: 100px;
         position: absolute;
-        left: 0px;
-        top: -20px;
+        left: -20px;
+        top: 0px;
         background-color: transparent;
         display: block;
     }
@@ -16232,6 +16232,27 @@ third_nav_title: Events
     }
 
     @media(max-width:600px){
+
+        .innerFloatTruck3 {
+            left: 0px;
+            top: -180px;
+        }
+
+        .innerctrlShiftIcon {
+            left: 0px;
+            top: -20px;
+        }
+
+        .innerFloatTruck4 {
+            left: 200px;
+            top: -30px;
+        }
+
+        .innerIconTruck {
+            left: 0px;
+            top: -20px;
+        }
+
         .polytechnicContainer{
             margin: 8px 0;
             padding: 16px 8px;
@@ -16252,6 +16273,7 @@ third_nav_title: Events
         .agencyDivider{
             margin: 16px 0;
         }
+        
     }
 
     @media(max-width:574px){
