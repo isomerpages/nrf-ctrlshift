@@ -16084,7 +16084,7 @@ third_nav_title: Events
         box-shadow: 6px 6px 0px 0px #000;
         display: flex;
         width: 31%;
-        /* max-width: 360px; */
+        max-width: 360px;
         justify-content: space-between;
         align-items: flex-start;
         margin: 8px;
@@ -16122,7 +16122,7 @@ third_nav_title: Events
         font-style: normal;
         font-weight: 400;
         line-height: 16px;
-        margin-top: 8px;
+        margin-top: 0px;
         text-transform: capitalize;
         opacity:0;
         height: 0;
@@ -16176,6 +16176,7 @@ third_nav_title: Events
     #toggle1:checked + label p.eventDescription.first , #toggle2:checked + label p.eventDescription.second , 
     #toggle3:checked + label p.eventDescription.third , #toggle4:checked + label p.eventDescription.fourth, 
     #toggle5:checked + label p.eventDescription.fifth  {
+        margin-top: 8px;
         opacity:1;
         height: 100%;
     }
@@ -16243,6 +16244,7 @@ third_nav_title: Events
         width: 100%;
         max-width: 656px;
     }
+    
 
     @media(max-width:600px){
 
