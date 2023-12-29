@@ -4110,6 +4110,13 @@ third_nav_title: Events
         --bs-gutter-y: 3rem;
     }
 
+    @media(max-width:576px) {
+        .col-sm-6 {
+            flex: 0 0 auto;
+            width: 50%;
+        }
+    }
+
     @media (min-width: 576px) {
         .col-sm {
             flex: 1 0 0%;
@@ -7330,8 +7337,6 @@ third_nav_title: Events
     .btn-group-vertical>.btn~.btn {
         border-top-left-radius: 0;
         border-top-right-radius: 0;
-    }
-
     }
 
     @media (min-width: 992px) {
@@ -15656,221 +15661,13 @@ third_nav_title: Events
         }
     }
 
-    /* school-box 1 */
-    .togCheck {
-        display: none;
-    }
-
-    .togContent {
-        max-height: 0;
-        opacity: 0;
-        transition: .25s;
-    }
-
-    .togCheck:checked+.togContent {
-        max-height: 100vh;
-        opacity: 1;
-        transition: .25s;
-    }
-
-    /* school-box 2 */
-    .togCheck2 {
-        display: none;
-    }
-
-    .togContent2 {
-        max-height: 0;
-        opacity: 0;
-        transition: max-height 1s;
-        transition: .25s;
-    }
-
-    .togCheck2:checked+.togContent2 {
-        max-height: 100vh;
-        opacity: 1;
-        transition: .25s;
-    }
-
-    /* school-box 3 */
-    .togCheck3 {
-        display: none;
-    }
-
-    .togContent3 {
-        max-height: 0;
-        opacity: 0;
-        transition: max-height 1s;
-        transition: .25s;
-    }
-
-    .togCheck3:checked+.togContent3 {
-        max-height: 100vh;
-        opacity: 1;
-        transition: .25s;
-    }
-
-    /* school-box 4 */
-    .togCheck4 {
-        display: none;
-    }
-
-    .togContent4 {
-        max-height: 0;
-        opacity: 0;
-        transition: .25s;
-    }
-
-    .togCheck4:checked+.togContent4 {
-        max-height: 100vh;
-        opacity: 1;
-        transition: .25s;
-    }
-
-    /* school-box 5 */
-    .togCheck5 {
-        display: none;
-    }
-
-    .togContent5 {
-        max-height: 0;
-        opacity: 0;
-        transition: .25s;
-    }
-
-    .togCheck5:checked+.togContent5 {
-        max-height: 100vh;
-        opacity: 1;
-        transition: .25s;
-    }
-
-    .school-button {
-        width: 100%
-    }
-
-    .school-box:hover,
-    .school-box label:hover {
-        cursor: pointer
-    }
-
-    .school-row {
-        margin: 0 0 72px !important
-    }
-
-    .school-box {
-        background-color: #fff;
-        padding: 16px 18px;
-        border-radius: 35px;
-        box-shadow: 6px 6px 0px #000000;
-        width: 100%;
-        position: relative;
-        margin: 20px 0
-    }
-
-    .school-box label::after {
-        content: "";
-        position: absolute;
-        right: 20px;
-        top: 39px;
-        width: 10px;
-        height: 14px;
-        background: url("/images/caret-right-bl.png");
-        background-size: cover;
-        background-repeat: no-repeat
-    }
-
-    .school-box label {
-        color: #000;
-        font-weight: 700;
-        font-size: 20px;
-        width: 100%
-    }
-
-    .school-box-detail {
-        padding-top: 4px;
-        font-size: 16px;
-        line-height: 24px;
-        font-weight: 500
-    }
-
-    .school-box-detail p {
-        line-height: 1.4rem;
-        font-weight: 600
-    }
-
-    .school-col {
-        padding: 0 20px
-    }
-
     .body-section {
         padding: 60px 0;
         background: #fff
     }
 
-    #gallery .title-section {
-        text-align: center
-    }
-
     .text-blue {
         color: #0037CC
-    }
-
-    .school-box-list {
-        margin: 24px auto 28px !important;
-        width: 45% !important
-    }
-
-    .gallery-image {
-        width: 100%;
-        padding: 12px 0;
-    }
-
-    .gallery-button {
-        background-color: #000;
-        color: #fff;
-        display: inline-block;
-
-        border-radius: 35px;
-        position: relative;
-        margin: 20px auto;
-        font-weight: 700;
-        font-size: 18px;
-        text-align: center;
-        width: auto;
-        transition: 0.3s;
-        width: 200px;
-        height: 57px
-    }
-
-    .gallery-button {
-        text-align: center;
-    }
-
-    .inner-gallery-button:hover {
-        transform: translate(-10px, -3px);
-        transition: 0.2s
-    }
-
-    .gallery-image {
-        padding: 15px 15px
-    }
-
-    .inner-gallery-button {
-        background-color: #0037CC;
-        color: #fff;
-        display: inline-block;
-        padding: 16px 30px;
-        border-radius: 35px;
-        position: relative;
-        margin: 20px auto;
-        font-weight: 700;
-        font-size: 18px;
-        text-align: center;
-        transition: 0.3s;
-        position: absolute;
-        width: 200px;
-        height: 57px;
-        top: -18px;
-        left: 9px
     }
 
     .flex-centralizer {
@@ -15938,15 +15735,6 @@ third_nav_title: Events
             height: 200px
         }
 
-        .school-box label {
-            font-size: 16px;
-            font-weight: 700
-        }
-
-        .school-box-list {
-            width: 90% !important
-        }
-
         .title-section {
             width: 80%;
             margin: auto
@@ -15977,16 +15765,8 @@ third_nav_title: Events
             padding: 0 20px
         }
 
-        .school-row {
-            margin: 0 0 20px !important
-        }
-
         .title-item-truck h2 {
             font-size: 18px
-        }
-
-        .school-box-detail p {
-            font-size: 14px
         }
 
         .title-item-truck h2 {
@@ -16140,6 +15920,9 @@ third_nav_title: Events
         background: var(--white, #FFF);
         margin: 13px;
         box-shadow:none;
+        transition-property: all;
+        transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+        transition-duration: 500ms;
     }
 
     .agencyBox:hover{
