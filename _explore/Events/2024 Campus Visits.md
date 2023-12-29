@@ -16336,7 +16336,7 @@ third_nav_title: Events
                         </div>
                     </div>
                 </div>
-                <img src="/images/map-mobile-new-version.png" alt="map truck" class="d-lg-none img-full">
+                <img src="/images/2024%20Open%20Houses/missed_us_map_mobile_2x.jpg" alt="map truck" class="d-lg-none img-full">
                 <div class="outCircleFloatTruck3">
                     <div class="rotate">
                         <div class="counterrotateFloatTruck3">
