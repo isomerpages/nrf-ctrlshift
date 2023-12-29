@@ -15914,8 +15914,11 @@ third_nav_title: Events
         text-align: center
     }
 
+    .innerIconTruck img {
+        width: 80%
+    }
+    
     .innerctrlShiftIcon img,
-    .innerIconTruck img,
     .innerFloatTruck4 img,
     .innerFloatTruck3 img {
         width: 100%
