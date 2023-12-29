@@ -16013,10 +16013,6 @@ third_nav_title: Events
         .subtitle-main b {
             font-size: 16px !important
         }
-
-        .content p:last-child {
-            margin-bottom: 10px !important
-        }
     }
 
     .text-blue {
