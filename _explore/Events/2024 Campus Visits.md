@@ -16192,6 +16192,12 @@ third_nav_title: Events
         height: 210px;
     }
 
+    #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
+    #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
+    #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
+        height: 210px;
+    }
+
     .agencyHeader{
         margin-bottom: 0!important;
     }
