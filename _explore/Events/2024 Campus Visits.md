@@ -16088,8 +16088,7 @@ third_nav_title: Events
         align-items: flex-start;
         margin: 8px;
         padding: 4px;
-        height: 120px;
-        /* height: fit-content; */
+        height: fit-content;
     }
 
     #polytechnicContainerId {
@@ -16187,9 +16186,9 @@ third_nav_title: Events
         height: 100%;
     }
 
-    #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label div.row.contentWrapper , 
-    #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label div.row.contentWrapper, 
-    #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label div.row.contentWrapper  {
+    #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
+    #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
+    #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
         height: 210px;
     }
 
