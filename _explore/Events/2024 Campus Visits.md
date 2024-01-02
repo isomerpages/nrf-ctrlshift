@@ -16544,7 +16544,7 @@ third_nav_title: Events
         <div class="row agencyContainer">
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.a-star.edu.sg/">
+                    <a target="_blank" href="https://www.a-star.edu.sg/">
                         <img src="/images/2024%20Open%20Houses/ASTAR.png">
                     </a>
                 </div>
@@ -16552,7 +16552,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.mindef.gov.sg/oms/dis/">
+                    <a target="_blank" href="https://www.mindef.gov.sg/oms/dis/">
                         <img src="/images/2024%20Open%20Houses/DIS.png">
                     </a>
                 </div>
@@ -16560,7 +16560,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.dsta.gov.sg/home">
+                    <a target="_blank" href="https://www.dsta.gov.sg/home">
                         <img src="/images/2024%20Open%20Houses/DSTA.png">
                     </a>
                 </div>
@@ -16568,7 +16568,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.ema.gov.sg/">
+                    <a target="_blank" href="https://www.ema.gov.sg/">
                         <img src="/images/2024%20Open%20Houses/EMA.png">
                     </a>
                 </div>
@@ -16576,7 +16576,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.htx.gov.sg/">
+                    <a target="_blank" href="https://www.htx.gov.sg/">
                         <img src="/images/2024%20Open%20Houses/HTX.png">
                     </a>
                 </div>
@@ -16584,7 +16584,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.mpa.gov.sg/home">
+                    <a target="_blank" href="https://www.mpa.gov.sg/home">
                         <img src="/images/2024%20Open%20Houses/MPA.png">
                     </a>
                 </div>
@@ -16592,7 +16592,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.mindef.gov.sg/web/portal/navy">
+                    <a target="_blank" href="https://www.mindef.gov.sg/web/portal/navy">
                         <img src="/images/2024%20Open%20Houses/NAVY.png">
                     </a>
                 </div>
@@ -16600,7 +16600,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="">
+                    <a target="_blank" href="https://www.nea.gov.sg/">
                         <img src="/images/2024%20Open%20Houses/NEA.png">
                     </a>
                 </div>
@@ -16608,7 +16608,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.psc.gov.sg/">
+                    <a target="_blank" href="https://www.psc.gov.sg/">
                         <img src="/images/2024%20Open%20Houses/PSC.png">
                     </a>
                 </div>
@@ -16616,7 +16616,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.pub.gov.sg/">
+                    <a target="_blank" href="https://www.pub.gov.sg/">
                         <img src="/images/2024%20Open%20Houses/PUB.png">
                     </a>
                 </div>
@@ -16632,7 +16632,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.sla.gov.sg/">
+                    <a target="_blank" href="https://www.sla.gov.sg/">
                         <img src="/images/2024%20Open%20Houses/SLA.png">
                     </a>
                 </div>
@@ -16640,7 +16640,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.sfa.gov.sg/">
+                    <a target="_blank" href="https://www.sfa.gov.sg/">
                         <img src="/images/2024%20Open%20Houses/SFA.png">
                     </a>
                 </div>
@@ -16648,7 +16648,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.ura.gov.sg/Corporate">
+                    <a target="_blank" href="https://www.ura.gov.sg/Corporate">
                         <img src="/images/2024%20Open%20Houses/URA.png">
                     </a>
                 </div>
