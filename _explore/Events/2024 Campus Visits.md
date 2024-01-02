@@ -16189,13 +16189,13 @@ third_nav_title: Events
     #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
     #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
     #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-        height: 210px;
+        height: 200px;
     }
 
     #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
     #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
     #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
-        height: 100px;
+        height: 120px;
     }
 
     .agencyHeader{
@@ -16245,6 +16245,8 @@ third_nav_title: Events
         font-style: normal;
         font-weight: 900;
         line-height: 20px; 
+        width: 100%;
+        text-align: center;
     }
 
     .content p.subtitle-main:not(:first-child){
@@ -16539,12 +16541,14 @@ third_nav_title: Events
     </div>
     <div class="container">
         <div class="row agencyContainer">
+
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/2024%20Open%20Houses/ASTAR.png">
                 </div>
                 <p class="agencyName">A*STAR</p>
             </div>
+
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <img src="/images/2024%20Open%20Houses/DIS.png">
