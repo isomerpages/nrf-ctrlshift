@@ -16088,7 +16088,8 @@ third_nav_title: Events
         align-items: flex-start;
         margin: 8px;
         padding: 4px;
-        height: fit-content;
+        height: 120px;
+        /* height: fit-content; */
     }
 
     .polytechnicContainer .contentWrapper {
@@ -16180,6 +16181,12 @@ third_nav_title: Events
         margin-bottom: 10px!important;
         opacity:1;
         height: 100%;
+    }
+
+    #toggle1:checked + div.polytechnicContainer , #toggle2:checked + div.polytechnicContainer , 
+    #toggle3:checked + div.polytechnicContainer , #toggle4:checked + div.polytechnicContainer, 
+    #toggle5:checked + div.polytechnicContainer , #toggle6:checked + div.polytechnicContainer  {
+        height: 200px;
     }
 
     .agencyHeader{
