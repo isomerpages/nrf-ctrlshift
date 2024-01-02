@@ -12,7 +12,7 @@ sections:
   - infopic:
       title: Coming to a Campus near YOU!
       button: Find Out More
-      url: /about-us
+      url: /explore/events/2024-campus-visits/
       alt: about img
       image: /images/homepage/aboutimghorizontal.png
       description: Ready to reimagine 2050 Singapore? With CTRL+SHIFT,
