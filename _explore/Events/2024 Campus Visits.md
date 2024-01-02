@@ -16320,7 +16320,7 @@ third_nav_title: Events
                         Head down to the upcoming polytechnic open houses and university career fairs to experience a possible glimpse of tomorrow’s world and interact firsthand with our STE ambassadors.</p>
             </div>
         </div>
-        <img src="/images/2024%20Open%20Houses/missed_us_map_2x.jpg" alt="map truck" class="d-none d-lg-block mainMap">
+        <img src="/images/2024%20Open%20Houses/missed_us_map_2x.png" alt="map truck" class="d-none d-lg-block mainMap">
         <div class="col-12">
             <div class="map-truck p-relative">
                 <div class="outCirclectrlShiftIcon">
