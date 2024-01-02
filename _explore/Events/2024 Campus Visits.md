@@ -15904,6 +15904,7 @@ third_nav_title: Events
         color: #1237CA;
         font-weight: 700;
         font-size: 20px;
+        text-align: left;
     }
 
     .subtitle-2 {
