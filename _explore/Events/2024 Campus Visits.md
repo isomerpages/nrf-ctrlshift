@@ -16486,10 +16486,10 @@ third_nav_title: Events
             </div>
 					<div class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
-                    <input id="toggle5" type="checkbox">
-                    <label for="toggle5">
+                    <input id="toggle6" type="checkbox">
+                    <label for="toggle6">
                         <div class="row contentWrapper">
-                            <div id="poly-5" class="arrowWrapper col-auto">
+                            <div id="poly-6" class="arrowWrapper col-auto">
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                             </div>
