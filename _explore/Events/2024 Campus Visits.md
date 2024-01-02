@@ -16314,12 +16314,10 @@ third_nav_title: Events
     <div class="container" style="position: relative">
         <div class="col-12 firstSection">
             <div class="text-center pt-5 pb-1">
-                <img src="/images/2024%20Open%20Houses/who_shaped_the_world_banner.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
-                <p class="subtitle-main">Curious about how we'll live, work and play in
-                    2050?</p>
+                <img src="/images/2024%20Open%20Houses/imagine_singapore_future.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
+                <p class="subtitle-main">Curious about how we will live, work, and play in the future?</p>
                     <p class="subtitle-main">
-                        You're in luck! We're bringing the future to your campus with a taste of tomorrow's world and a
-                        chance to interact firsthand with our STE ambassadors.</p>
+                        Head down to the upcoming polytechnic open houses and university career fairs to experience a possible glimpse of tomorrow’s world and interact firsthand with our STE ambassadors.</p>
             </div>
         </div>
         <img src="/images/2024%20Open%20Houses/missed_us_map_2x.jpg" alt="map truck" class="d-none d-lg-block mainMap">
@@ -16413,7 +16411,7 @@ third_nav_title: Events
                                 </h6>
                                 <p class="eventDescription second">
                                     5 Jan 2024 || 10am-6pm,<br>
-                                    Sheltered Space in School of Business
+                                    Eleven2, Block T11A
                                 </p>
                             </div>
                         </div>
@@ -16435,7 +16433,7 @@ third_nav_title: Events
                                 </h6>
                                 <p class="eventDescription third">
                                     5 Jan 2024 || 10am-8pm,<br>
-                                    Mushroom (Near Main Entrance)
+                                    Mushroom by The Plaza
                                 </p>
                             </div>
                         </div>
@@ -16457,7 +16455,7 @@ third_nav_title: Events
                                 </h6>
                                 <p class="eventDescription fourth">
                                     6 Jan 2024 || 10am-6pm,<br>
-                                    Outside Auditorium
+                                    Auditorium Lobby
                                 </p>
                             </div>
                         </div>
@@ -16478,8 +16476,30 @@ third_nav_title: Events
                                     REPUBLIC POLYTECHNIC
                                 </h6>
                                 <p class="eventDescription fifth">
-                                    6 Jan 2024 || timing tbc,<br>
-                                    Space Outside School of Engineering
+                                    6 Jan 2024 || 10am-6pm<br>
+                                    Entrance to School of Engineering
+                                </p>
+                            </div>
+                        </div>
+                    </label>
+                </div>
+            </div>
+					<div class="col-sm-12 col-md-3 polytechnicContainer">
+                <div class="row contentWrapper">
+                    <input id="toggle5" type="checkbox">
+                    <label for="toggle5">
+                        <div class="row contentWrapper">
+                            <div id="poly-5" class="arrowWrapper col-auto">
+                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                            </div>
+                            <div class="detailsWrapper col-sm-10 col-md-7">
+                                <h6 class="polyName">
+                                    SINGAPORE INSTITUTE OF TECHNOLOGY
+                                </h6>
+                                <p class="eventDescription fifth">
+                                    15-16 Jan 2024 || 11am-5pm<br>
+                                    Academic Plaza, Level 1, Event Foyer
                                 </p>
                             </div>
                         </div>
@@ -16494,7 +16514,7 @@ third_nav_title: Events
         <div class="row">
             <div class="col-lg-12 pb-lg-1 who-says-title">
                 <div class="text-center">
-                    <h1 class="title-section text-blue agencyHeader">Participating Agencies</h1>
+                    <h1 class="title-section text-blue agencyHeader">Agency Partners</h1>
                 </div>
             </div>
             <div class="col-12 agencyDivider">
