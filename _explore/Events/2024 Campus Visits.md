@@ -16541,89 +16541,115 @@ third_nav_title: Events
     </div>
     <div class="container">
         <div class="row agencyContainer">
-
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/ASTAR.png">
+                    <a href="https://www.a-star.edu.sg/">
+                        <img src="/images/2024%20Open%20Houses/ASTAR.png">
+                    </a>
                 </div>
                 <p class="agencyName">A*STAR</p>
             </div>
-
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/DIS.png">
+                    <a href="https://www.mindef.gov.sg/oms/dis/">
+                        <img src="/images/2024%20Open%20Houses/DIS.png">
+                    </a>
                 </div>
                 <p class="agencyName">DIS</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/DSTA.png">
+                    <a href="https://www.dsta.gov.sg/home">
+                        <img src="/images/2024%20Open%20Houses/DSTA.png">
+                    </a>
                 </div>
                 <p class="agencyName">DSTA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/EMA.png">
+                    <a href="https://www.ema.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/EMA.png">
+                    </a>
                 </div>
                 <p class="agencyName">EMA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/HTX.png">
+                    <a href="https://www.htx.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/HTX.png">
+                    </a>
                 </div>
                 <p class="agencyName">HTX</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/MPA.png">
+                    <a href="https://www.mpa.gov.sg/home">
+                        <img src="/images/2024%20Open%20Houses/MPA.png">
+                    </a>
                 </div>
                 <p class="agencyName">MPA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/NAVY.png">
+                    <a href="https://www.mindef.gov.sg/web/portal/navy">
+                        <img src="/images/2024%20Open%20Houses/NAVY.png">
+                    </a>
                 </div>
                 <p class="agencyName">NAVY</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/NEA.png">
+                    <a href="">
+                        <img src="/images/2024%20Open%20Houses/NEA.png">
+                    </a>
                 </div>
                 <p class="agencyName">NEA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/PSC.png">
+                    <a href="https://www.psc.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/PSC.png">
+                    </a>
                 </div>
                 <p class="agencyName">PSC</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/PUB.png">
+                    <a href="https://www.pub.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/PUB.png">
+                    </a>
                 </div>
                 <p class="agencyName">PUB</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/SAF.png">
+                    <a href="https://www.mindef.gov.sg/web/portal/mindef/home">
+                        <img src="/images/2024%20Open%20Houses/SAF.png">
+                    </a>
                 </div>
                 <p class="agencyName">SAF</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/SLA.png">
+                    <a href="https://www.sla.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/SLA.png">
+                    </a>
                 </div>
                 <p class="agencyName">SLA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/SFA.png">
+                    <a href="https://www.sfa.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/SFA.png">
+                    </a>
                 </div>
                 <p class="agencyName">SFA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <img src="/images/2024%20Open%20Houses/URA.png">
+                    <a href="https://www.ura.gov.sg/Corporate">
+                        <img src="/images/2024%20Open%20Houses/URA.png">
+                    </a>
                 </div>
                 <p class="agencyName">URA</p>
             </div>
