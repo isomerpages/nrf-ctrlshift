@@ -16183,9 +16183,9 @@ third_nav_title: Events
         height: 100%;
     }
 
-    #toggle1:checked + div.polytechnicContainer , #toggle2:checked + div.polytechnicContainer , 
-    #toggle3:checked + div.polytechnicContainer , #toggle4:checked + div.polytechnicContainer, 
-    #toggle5:checked + div.polytechnicContainer , #toggle6:checked + div.polytechnicContainer  {
+    #toggle1:checked + polytechnicContainer , #toggle2:checked + polytechnicContainer , 
+    #toggle3:checked + polytechnicContainer , #toggle4:checked + polytechnicContainer, 
+    #toggle5:checked + polytechnicContainer , #toggle6:checked + polytechnicContainer  {
         height: 200px;
     }
 
