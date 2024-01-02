@@ -15,9 +15,9 @@ sections:
       url: /explore/events/2024-campus-visits/
       alt: about img
       image: /images/homepage/aboutimghorizontal.png
-      description: Ready to reimagine 2050 Singapore? With CTRL+SHIFT,
-        Science+Tech+Engineering is your playground to shape the future. Talk to
-        our STE ambassadors to learn more!
+      description: Ready to imagine a future possible with STE? Visit CTRL+SHIFT City
+        and discover how you can shape the way Singapore will live, work, and
+        play in 2050!
   - infopic:
       title: STE+P Up Your Game with CTRL+SHIFT
       description: Prepare to have your perspective shifted as we shatter your
