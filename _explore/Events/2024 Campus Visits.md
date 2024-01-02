@@ -16195,7 +16195,7 @@ third_nav_title: Events
     #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
     #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
     #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
-        height: 210px;
+        height: 100px;
     }
 
     .agencyHeader{
