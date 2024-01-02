@@ -16199,6 +16199,20 @@ third_nav_title: Events
         height: 120px;
     }
 
+    @media (max-width: 600px) {
+        #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
+        #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
+        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
+            height: 110px;
+        }
+
+        #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
+        #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
+        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
+            height: 70px;
+        }
+    }
+
     .agencyHeader{
         margin-bottom: 0!important;
     }
