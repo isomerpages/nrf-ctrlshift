@@ -4399,7 +4399,7 @@ third_nav_title: Events
 
         .col-md-7 {
             flex: 0 0 auto;
-            width: 67.33333333%;
+            width: 69.33333333%;
             /* width: 58.33333333%; */
         }
 
