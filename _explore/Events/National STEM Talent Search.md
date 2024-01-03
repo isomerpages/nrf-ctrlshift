@@ -116,7 +116,7 @@ font-weight: 600;
 			<div class="col-sm-12">
 				<div class="text-left mb-2">
 					<img style="width: auto" class="desktop-only title-page-stem" alt="National STEM Talent Search Title" src="/images/national%20stem%20talent%20search/stem-title-web-2.png">
-					<img style="width: 80%; margin: 0" class="mobile-only title-page-stem" alt="National STEM Talent Search Title" src="/images/national%20stem%20talent%20search/stem-title-mobile-2.png">
+					<img style="width: 100%; margin: 0" class="mobile-only title-page-stem" alt="National STEM Talent Search Title" src="/images/national%20stem%20talent%20search/stem-title-mobile-2.png">
 				</div>
 				<div class="text-left mb-5">
 					<img style="width: auto" class="main-image-stem" alt="National STEM Talent Search participants" src="/images/national%20stem%20talent%20search/stem-img-1.png">
