@@ -16153,7 +16153,7 @@ third_nav_title: Events
         height:100%;
         transition-property: all;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-        transition-duration: 300ms;
+        transition-duration: 10ms;
     }
 
     img.multipleArrowIcon {
@@ -16184,6 +16184,7 @@ third_nav_title: Events
     #toggle5:checked + label img.multipleArrowIcon , #toggle6:checked + label img.multipleArrowIcon   {
         opacity:1;
         height: 100%;
+        display: block;
     }
 
     #toggle1:checked + label p.eventDescription.first , #toggle2:checked + label p.eventDescription.second , 
