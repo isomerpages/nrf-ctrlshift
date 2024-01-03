@@ -16213,6 +16213,34 @@ third_nav_title: Events
         }
     }
 
+    @media (min-width: 600px) and (max-width: 767px) {
+        #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
+        #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
+        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
+            height: 250px;
+        }
+
+        #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
+        #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
+        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
+            height: 180px;
+        }
+    }
+
+    @media (min-width: 768px) and (max-width: 1279px) {
+        #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
+        #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
+        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
+            height: 270px;
+        }
+
+        #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
+        #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
+        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
+            height: 180px;
+        }
+    }
+
     .agencyHeader{
         margin-bottom: 0!important;
     }
@@ -16638,7 +16666,7 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
-                    <a href="https://www.mindef.gov.sg/web/portal/mindef/home">
+                    <a target="_blank" href="https://www.mindef.gov.sg/web/portal/mindef/home">
                         <img src="/images/2024%20Open%20Houses/SAF.png">
                     </a>
                 </div>
