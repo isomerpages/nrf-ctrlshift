@@ -16197,30 +16197,30 @@ third_nav_title: Events
     #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
     #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
     #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-        max-height: 200px;
-        transition: max-height 0.25 ease-in;
+        height: 200px;
+        transition: height 0.25 ease-in;
     }
 
     #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
     #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
     #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
-        max-height: 120px;
-        transition: max-height 0.25 ease-in;
+        height: 120px;
+        transition: height 0.25 ease-in;
     }
 
     @media (max-width: 600px) {
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-            max-height: 110px;
-            transition: max-height 0.25 ease-in;
+            height: 110px;
+            transition: height 0.25 ease-in;
         }
 
         #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
         #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
         #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
-            max-height: 70px;
-            transition: max-height 0.25 ease-in;
+            height: 70px;
+            transition: height 0.25 ease-in;
         }
     }
 
@@ -16228,15 +16228,15 @@ third_nav_title: Events
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-            max-height: 250px;
-            transition: max-height 0.25 ease-in;
+            height: 250px;
+            transition: height 0.25 ease-in;
         }
 
         #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
         #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
         #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
-            max-height: 180px;
-            transition: max-height 0.25 ease-in;
+            height: 180px;
+            transition: height 0.25 ease-in;
         }
     }
 
@@ -16244,15 +16244,15 @@ third_nav_title: Events
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-            max-height: 270px;
-            transition: max-height 0.25 ease-in;
+            height: 270px;
+            transition: height 0.25 ease-in;
         }
 
         #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
         #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
         #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
-            max-height: 180px;
-            transition: max-height 0.25 ease-in;
+            height: 180px;
+            transition: height 0.25 ease-in;
         }
     }
 
