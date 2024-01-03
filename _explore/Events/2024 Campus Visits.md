@@ -16018,7 +16018,7 @@ third_nav_title: Events
     }
 
 
-    @media (min-width: 601px) and (max-width: 991) {
+    @media (min-width: 601px) and (max-width: 991px) {
         .who-says-title {
             margin-top: 32px
         }
