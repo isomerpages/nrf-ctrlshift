@@ -99,7 +99,7 @@ line-height: 2rem;
 	}
 }
 .bp-dropdown-button .bp-dropdown-trigger p{font-size: 13px !important}
-	.etsp-header-entries{width: 81%; margin: 50px auto 30px}
+	.etsp-header-entries{width: 100%; margin: 50px auto 30px}
 	@media only screen and (max-width: 1280px) {
 	.carousel{
  padding-bottom: 580px;

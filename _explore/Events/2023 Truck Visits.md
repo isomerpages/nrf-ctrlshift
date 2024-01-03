@@ -1,6 +1,6 @@
 ---
-title: Truck Visits
-permalink: /truck-visits/
+title: 2023 Truck Visits
+permalink: /2023-truck-visits/
 description: The journey of Singapore's first ever CTRL+SHIFT truck!
 third_nav_title: Events
 variant: markdown
@@ -13594,7 +13594,7 @@ a[target="_blank"]:after{display: none}
                 <div class="col-12">
                     <div class="text-center pt-5 pb-1">
                         <img src="/images/truck-new-logo-title.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
-											<p style="font-weight: 500" class="subtitle-main">The journey of Singapore's first ever CTRL+SHIFT truck! <br>We dropped by polytechnics and universities with exciting giveaways and  <br>opportunities to get up close and personal with our STE ambassadors. <br>Spot your school!</p>
+											<p style="font-weight: 700; text-align: left;" class="subtitle-main">The journey of Singapore's first ever CTRL+SHIFT truck! <br>We dropped by polytechnics and universities with exciting giveaways and opportunities to get up close and personal with our STE ambassadors. <br>Spot your school!</p>
                     </div>
                 </div>
                 <img src="/images/map-2-5-2023.png" alt="map truck" class="d-none d-lg-block" style="position: absolute; width: 100%">

@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: CTRL Your Future, SHIFT Your Perspective
+title: CTRL Your Future, SHIFT Your Perspectives
 permalink: /
 sections:
   - hero:
@@ -10,14 +10,14 @@ sections:
         revolution! Don't sit on the sidelines, make your mark and change the
         world together.
   - infopic:
-      title: About Science+Tech +Engineering
+      title: Coming to a Campus near YOU!
       button: Find Out More
-      url: /about-us
+      url: /explore/events/2024-campus-visits/
       alt: about img
       image: /images/homepage/aboutimghorizontal.png
-      description: Science, Tech and Engineering are the main driving forces behind
-        innovation and growth. Join us as we explore how STE is in the way we
-        live, work and play.
+      description: Ready to imagine a future possible with STE? Visit CTRL+SHIFT City
+        and discover how you can shape the way Singapore will live, work, and
+        play in 2050!
   - infopic:
       title: STE+P Up Your Game with CTRL+SHIFT
       description: Prepare to have your perspective shifted as we shatter your
