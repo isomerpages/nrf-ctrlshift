@@ -16016,6 +16016,13 @@ third_nav_title: Events
         }
     }
 
+
+    @media (min-width: 601px) and (max-width: 991) {
+        .who-says-title {
+            margin-top: 32px
+        }
+    }
+
     .text-blue {
         color: var(--blue)
     }
