@@ -16199,14 +16199,14 @@ third_nav_title: Events
     #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
     #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
     #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-        height: 200px;
+        height: 180px;
         transition: height 0.25 ease-in;
     }
 
     #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
     #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
     #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
-        height: 120px;
+        height: 100px;
         transition: height 0.25 ease-in;
     }
 
@@ -16214,7 +16214,7 @@ third_nav_title: Events
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-            height: 110px;
+            height: 120px;
             transition: height 0.25 ease-in;
         }
 
@@ -16226,11 +16226,11 @@ third_nav_title: Events
         }
     }
 
-    @media (min-width: 600px) and (max-width: 767px) {
+    @media (min-width: 601px) and (max-width: 767px) {
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-            height: 250px;
+            height: 260px;
             transition: height 0.25 ease-in;
         }
 
@@ -16246,14 +16246,14 @@ third_nav_title: Events
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-            height: 270px;
+            height: 230px;
             transition: height 0.25 ease-in;
         }
 
         #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
         #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
         #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
-            height: 180px;
+            height: 160px;
             transition: height 0.25 ease-in;
         }
     }
@@ -16387,6 +16387,12 @@ third_nav_title: Events
             width: 83.33333333%;
         }
     }
+
+    .cardMargin {
+        margin-top: 1px;
+        margin-left: 0.5px;
+    }
+
 </style>
 <section id="header-missed-us" class="header-nav-white">
     <div class="container" style="position: relative">
@@ -16456,7 +16462,7 @@ third_nav_title: Events
                 <div class="row contentWrapper">
                     <input id="toggle1" type="checkbox">
                     <label for="toggle1">
-                        <div class="row contentWrapper">
+                        <div class="row contentWrapper cardMargin">
                             <div id="poly-1" class="arrowWrapper col-auto">
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
@@ -16478,7 +16484,7 @@ third_nav_title: Events
                 <div class="row contentWrapper">
                     <input id="toggle2" type="checkbox">
                     <label for="toggle2">
-                        <div class="row contentWrapper">
+                        <div class="row contentWrapper cardMargin">
                             <div id="poly-2" class="arrowWrapper col-auto">
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
@@ -16500,7 +16506,7 @@ third_nav_title: Events
                 <div class="row contentWrapper">
                     <input id="toggle3" type="checkbox">
                     <label for="toggle3">
-                        <div class="row contentWrapper">
+                        <div class="row contentWrapper cardMargin">
                             <div id="poly-3" class="arrowWrapper col-auto">
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
@@ -16522,7 +16528,7 @@ third_nav_title: Events
                 <div class="row contentWrapper">
                     <input id="toggle4" type="checkbox">
                     <label for="toggle4">
-                        <div class="row contentWrapper">
+                        <div class="row contentWrapper cardMargin">
                             <div id="poly-4" class="arrowWrapper col-auto">
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
@@ -16544,7 +16550,7 @@ third_nav_title: Events
                 <div class="row contentWrapper">
                     <input id="toggle5" type="checkbox">
                     <label for="toggle5">
-                        <div class="row contentWrapper">
+                        <div class="row contentWrapper cardMargin">
                             <div id="poly-5" class="arrowWrapper col-auto">
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
@@ -16566,7 +16572,7 @@ third_nav_title: Events
                 <div class="row contentWrapper">
                     <input id="toggle6" type="checkbox">
                     <label for="toggle6">
-                        <div class="row contentWrapper">
+                        <div class="row contentWrapper cardMargin">
                             <div id="poly-6" class="arrowWrapper col-auto">
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
