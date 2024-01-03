@@ -16141,7 +16141,7 @@ third_nav_title: Events
         height: 0;
         transition-property: all;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-        transition-duration: 300ms;
+        transition-duration: 10ms;
     }
 
     img.singleArrowIcon {
@@ -16165,7 +16165,7 @@ third_nav_title: Events
         height: 0;
         transition-property: all;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-        transition-duration: 300ms;
+        transition-duration: 10ms;
     }
 
     #toggle1,#toggle2,#toggle3,#toggle4,#toggle5,#toggle6 {
