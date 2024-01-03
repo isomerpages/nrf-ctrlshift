@@ -16141,7 +16141,7 @@ third_nav_title: Events
         height: 0;
         transition-property: all;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-        transition-duration: 10ms;
+        transition-duration: 0ms;
     }
 
     img.singleArrowIcon {
@@ -16153,7 +16153,7 @@ third_nav_title: Events
         height:100%;
         transition-property: all;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-        transition-duration: 10ms;
+        transition-duration: 0ms;
     }
 
     img.multipleArrowIcon {
@@ -16165,7 +16165,7 @@ third_nav_title: Events
         height: 0;
         transition-property: all;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
-        transition-duration: 10ms;
+        transition-duration: 0ms;
     }
 
     #toggle1,#toggle2,#toggle3,#toggle4,#toggle5,#toggle6 {
