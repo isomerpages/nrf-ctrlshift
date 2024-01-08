@@ -136,7 +136,7 @@ third_nav_title: Events
         border-radius: 100px;
     }
 
-    .outCirclectrlShiftIcon {
+    .outCircleIconTruck{
         width: 191px;
         height: 162px;
         background-color: transparent;
@@ -148,13 +148,13 @@ third_nav_title: Events
         border-radius: 100px;
     }
 
-    .outCircleIconTruck {
-        width: 150px;
+    .outCirclectrlShiftIcon {
+        width: 270px;
         height: 150px;
         background-color: transparent;
-        left: 48%;
+        left: 50%;
         position: absolute;
-        top: 34%;
+        top: 45%;
         -moz-border-radius: 100px;
         -webkit-border-radius: 100px;
         border-radius: 100px;
@@ -255,7 +255,7 @@ third_nav_title: Events
         bottom: 55px;
     }
 
-    .innerIconTruck img {
+    .innerctrlShiftIcon img {
         width: 100%;
     }
 
@@ -315,7 +315,7 @@ third_nav_title: Events
         -webkit-animation: circle 10s infinite linear;
     }
 
-    .rotatectrlShiftIcon {
+    .rotateIconTruck{
         width: 100%;
         height: 100%;
         animation: circle 10s infinite linear;
@@ -329,11 +329,13 @@ third_nav_title: Events
         -webkit-animation: circle 10s infinite linear;
     }
 
-    .rotateIconTruck {
+    .rotatectrlShiftIcon {
         width: 100%;
         height: 100%;
-        animation: circle 10s infinite linear;
-        -webkit-animation: circle 10s infinite linear;
+        /* animation:goToSchool 30s infinite linear;
+        -webkit-animation: goToSchool 30s infinite linear; */
+        animation: circle 20s infinite linear;
+        -webkit-animation: circle 20s infinite linear;
     }
 
     .counterrotate {
@@ -406,7 +408,7 @@ third_nav_title: Events
         -webkit-animation: ccircle 10s infinite linear;
     }
 
-    .counterrotatectrlShiftIcon {
+    .counterrotateIconTruck {
         width: 200px;
         height: 200px;
         animation: ccircle 10s infinite linear;
@@ -420,11 +422,11 @@ third_nav_title: Events
         -webkit-animation: ccircle 10s infinite linear;
     }
 
-    .counterrotateIconTruck {
+    .counterrotatectrlShiftIcon {
         width: 100px;
         height: 90px;
-        animation: ccircle 10s infinite linear;
-        -webkit-animation: ccircle 10s infinite linear;
+        animation: ccircle 20s infinite linear;
+        -webkit-animation: ccircle 20s infinite linear;
     }
 
     .right-col__home-header {
@@ -574,7 +576,7 @@ third_nav_title: Events
         display: block;
     }
 
-    .innerctrlShiftIcon {
+    .innerIconTruck {
         width: 120px;
         height: 120px;
         background: transparent;
@@ -602,7 +604,7 @@ third_nav_title: Events
         display: block;
     }
 
-    .innerIconTruck {
+    .innerctrlShiftIcon {
         width: 120px;
         height: 120px;
         background: transparent;
@@ -2127,13 +2129,20 @@ third_nav_title: Events
     }
 
     @media (max-width: 1199px) {
-        .outCircleIconTruck {
-            width: 287px;
-            height: 180px;
+        /* .outCircleIconTruck */
+        .outCirclectrlShiftIcon {
+            /* width: 150px;
+            height: 150px;
             background-color: transparent;
             left: 48%;
             position: absolute;
-            top: 32%;
+            top: 34%; */
+            width: 300px;
+            height: 150px;
+            background-color: transparent;
+            left: 50%;
+            position: absolute;
+            top: 40%;
             -moz-border-radius: 100px;
             -webkit-border-radius: 100px;
             border-radius: 100px;
@@ -2144,7 +2153,8 @@ third_nav_title: Events
             -o-transform: translate(-50%, -50%);
         }
 
-        .innerIconTruck {
+        /* .innerIconTruck  */
+        .innerctrlShiftIcon{
             width: 155px;
             height: 140px;
             background: transparent;
@@ -2292,7 +2302,7 @@ third_nav_title: Events
             margin-bottom: 50px;
         }
 
-        .outCirclectrlShiftIcon,
+        .outCircleIconTruck,
         .outCircleFloatTruck2 {
             display: none;
         }
@@ -2303,7 +2313,7 @@ third_nav_title: Events
             background-color: transparent;
         }
 
-        .outCircleIconTruck {
+        .outCirclectrlShiftIcon {
             width: 240px;
             height: 183px;
             top: 21%;
@@ -2329,7 +2339,8 @@ third_nav_title: Events
             width: 100%;
         }
 
-        .innerIconTruck {
+        .innerIconTruck
+         {
             width: 100px;
             height: 90px;
         }
@@ -2728,13 +2739,13 @@ third_nav_title: Events
             width: 90%;
         }
 
-        .outCircleIconTruck {
+        .outCirclectrlShiftIcon{
             width: 40%;
             height: 23%;
             top: 39%;
         }
 
-        .innerIconTruck {
+        .innerctrlShiftIcon{
             width: 60px;
             height: 60px;
         }
@@ -15663,6 +15674,30 @@ third_nav_title: Events
         }
     }
 
+    @keyframes goToSchool{
+        0%{
+            transform: translate(0,0);
+        }
+        15%{
+            transform: translate(100px,0);
+        }
+        30%{
+            transform:translate(150px, 100px)
+        }
+        45%{
+            transform:translate(-10px, 100px)
+        }
+        60%{
+            transform: translate(-100px,70px);
+        }
+        75%{
+            transform: translate(-130px,70px);
+        }
+        100%{
+            transform: translate(0,0);
+        }
+    } 
+
     /* school-box 1 */
     .togCheck {
         display: none;
@@ -15916,11 +15951,11 @@ third_nav_title: Events
         text-align: center
     }
 
-    .innerIconTruck img {
+    .innerctrlShiftIcon img{
         width: 80%
     }
     
-    .innerctrlShiftIcon img,
+    .innerIconTruck img,
     .innerFloatTruck4 img,
     .innerFloatTruck3 img {
         width: 100%
@@ -16332,7 +16367,7 @@ third_nav_title: Events
             top: -180px;
         }
 
-        .innerctrlShiftIcon {
+        .innerIconTruck{
             left: 0px;
             top: -20px;
         }
@@ -16342,7 +16377,7 @@ third_nav_title: Events
             top: -30px;
         }
 
-        .innerIconTruck {
+        .innerctrlShiftIcon {
             left: 0px;
             top: -20px;
         }
@@ -16407,20 +16442,20 @@ third_nav_title: Events
         <img src="/images/2024%20Open%20Houses/missed_us_map_2x.png" alt="map truck" class="d-none d-lg-block mainMap">
         <div class="col-12">
             <div class="map-truck p-relative">
-                <div class="outCirclectrlShiftIcon">
-                    <div class="rotatectrlShiftIcon">
-                        <div class="counterrotatectrlShiftIcon">
-                            <div class="innerctrlShiftIcon">
-                                <img src="/images/float-map-truck-1.svg?sanitize=true" alt="ctrlShiftRoamingIcon" class="ctrlShiftIcon">
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="outCircleIconTruck">
                     <div class="rotateIconTruck">
                         <div class="counterrotateIconTruck">
                             <div class="innerIconTruck">
-                                <img src="/images/2024%20Open%20Houses/CtrlShift_Website_RoamingIcob_v2_1.png" alt="truck" class="icon-truck">
+                                <img src="/images/float-map-truck-1.svg?sanitize=true" alt="truck" class="icon-truck">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="outCirclectrlShiftIcon">
+                    <div class="rotatectrlShiftIcon">
+                        <div class="counterrotatectrlShiftIcon">
+                            <div class="innerctrlShiftIcon">
+                                <img src="/images/2024%20Open%20Houses/CtrlShift_Website_RoamingIcob_v2_1.png" alt="ctrlShiftRoamingIcon" class="ctrlShiftIcon">
                             </div>
                         </div>
                     </div>
