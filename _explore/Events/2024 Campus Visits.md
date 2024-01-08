@@ -149,21 +149,25 @@ third_nav_title: Events
     }
 
     .outCirclectrlShiftIcon {
-        width: 150px;
+        /* width: 150px;
         height: 150px;
         background-color: transparent;
-        left: 55%;
+        left: 48%;
         position: absolute;
-        top: 50%;
-        /* width: 300px;
-        height: 150px;
-        background-color: transparent;
-        left: 50%;
-        position: absolute;
-        top: 40%; */
+        top: 34%; 
         -moz-border-radius: 100px;
         -webkit-border-radius: 100px;
         border-radius: 100px;
+        */
+        width: 100px;
+        height: 100px;
+        background-color: transparent;
+        left: 50%;
+        position: absolute;
+        top: 40%;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
         transform: translate(-50%, -50%);
         -webkit-transform: translate(-50%, -50%);
         -moz-transform: translate(-50%, -50%);
@@ -340,8 +344,10 @@ third_nav_title: Events
         height: 100%;
         /* animation:goToSchool 30s infinite linear;
         -webkit-animation: goToSchool 30s infinite linear; */
-        animation: moveInCircle 20s infinite linear;
-        -webkit-animation: moveInCircle 20s infinite linear;
+        /* animation: circle 20s infinite linear;
+        -webkit-animation: circle 20s infinite linear; */
+        animation: moveInCircle 30s infinite linear;
+        -webkit-animation: moveInCircle 30s infinite linear;
     }
 
     .counterrotate {
