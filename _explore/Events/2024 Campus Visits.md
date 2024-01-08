@@ -162,8 +162,8 @@ third_nav_title: Events
         width: 100px;
         height: 100px;
         background-color: transparent;
-        left: 50%;
         position: absolute;
+        left: 50%;
         top: 40%;
         -moz-border-radius: 50%;
         -webkit-border-radius: 50%;
@@ -2142,11 +2142,11 @@ third_nav_title: Events
 
     @media (max-width: 1199px) {
         .outCirclectrlShiftIcon {
-            width: 287px;
+            /* width: 287px;
             height: 180px;
             background-color: transparent;
+            position: absolute; */
             left: 48%;
-            position: absolute;
             top: 32%;
             -moz-border-radius: 100px;
             -webkit-border-radius: 100px;
@@ -2318,8 +2318,8 @@ third_nav_title: Events
         }
 
         .outCirclectrlShiftIcon {
-            width: 240px;
-            height: 183px;
+            /* width: 240px;
+            height: 183px; */
             top: 21%;
         }
 
@@ -2747,6 +2747,7 @@ third_nav_title: Events
             width: 40%;
             height: 23%;
             top: 39%;
+            left:60%;
         }
 
         .innerctrlShiftIcon{
