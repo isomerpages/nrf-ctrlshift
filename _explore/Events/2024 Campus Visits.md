@@ -149,12 +149,18 @@ third_nav_title: Events
     }
 
     .outCirclectrlShiftIcon {
-        width: 270px;
+        width: 150px;
+        height: 150px;
+        background-color: transparent;
+        left: 55%;
+        position: absolute;
+        top: 50%;
+        /* width: 300px;
         height: 150px;
         background-color: transparent;
         left: 50%;
         position: absolute;
-        top: 45%;
+        top: 40%; */
         -moz-border-radius: 100px;
         -webkit-border-radius: 100px;
         border-radius: 100px;
@@ -334,8 +340,8 @@ third_nav_title: Events
         height: 100%;
         /* animation:goToSchool 30s infinite linear;
         -webkit-animation: goToSchool 30s infinite linear; */
-        animation: circle 20s infinite linear;
-        -webkit-animation: circle 20s infinite linear;
+        animation: moveInCircle 20s infinite linear;
+        -webkit-animation: moveInCircle 20s infinite linear;
     }
 
     .counterrotate {
@@ -425,8 +431,8 @@ third_nav_title: Events
     .counterrotatectrlShiftIcon {
         width: 100px;
         height: 90px;
-        animation: ccircle 20s infinite linear;
-        -webkit-animation: ccircle 20s infinite linear;
+        /* animation: ccircle 20s infinite linear;
+        -webkit-animation: ccircle 20s infinite linear; */
     }
 
     .right-col__home-header {
@@ -2129,20 +2135,13 @@ third_nav_title: Events
     }
 
     @media (max-width: 1199px) {
-        /* .outCircleIconTruck */
         .outCirclectrlShiftIcon {
-            /* width: 150px;
-            height: 150px;
+            width: 287px;
+            height: 180px;
             background-color: transparent;
             left: 48%;
             position: absolute;
-            top: 34%; */
-            width: 300px;
-            height: 150px;
-            background-color: transparent;
-            left: 50%;
-            position: absolute;
-            top: 40%;
+            top: 32%;
             -moz-border-radius: 100px;
             -webkit-border-radius: 100px;
             border-radius: 100px;
@@ -2153,7 +2152,6 @@ third_nav_title: Events
             -o-transform: translate(-50%, -50%);
         }
 
-        /* .innerIconTruck  */
         .innerctrlShiftIcon{
             width: 155px;
             height: 140px;
@@ -15674,7 +15672,7 @@ third_nav_title: Events
         }
     }
 
-    @keyframes goToSchool{
+    /* @keyframes goToSchool{
         0%{
             transform: translate(0,0);
         }
@@ -15696,7 +15694,38 @@ third_nav_title: Events
         100%{
             transform: translate(0,0);
         }
+    }  */
+
+    @keyframes goToSchool{
+        0%{
+            transform: translate(50px,0);
+        }
+        20%{
+            transform: translate(150px,70px);
+        }
+        40%{
+            transform:translate(50px, 150px)
+        }
+        60%{
+            transform:translate(-40px, 100px)
+        }
+        80%{
+            transform: translate(-100px,70px);
+        }
+        100%{
+            transform: translate(50px,0);
+        }
     } 
+
+    @keyframes moveInCircle {
+      0% {
+        transform: rotate(0deg) translate(100px) rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg) translate(100px) rotate(-360deg);
+      }
+    }
+
 
     /* school-box 1 */
     .togCheck {
