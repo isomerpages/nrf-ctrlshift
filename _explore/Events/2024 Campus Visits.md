@@ -16444,6 +16444,16 @@ third_nav_title: Events
         #toggle5:checked + label p.eventDescription.fifth , #toggle6:checked + label p.eventDescription.fifth  {
             margin-bottom: 0!important;
         }
+
+
+            @keyframes moveInCircle {
+            0% {
+                transform: rotate(0deg) translate(20px) rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg) translate(20px) rotate(-360deg);
+            }
+            }
         
     }
 
