@@ -173,6 +173,8 @@ third_nav_title: Events
         -moz-transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);
         -o-transform: translate(-50%, -50%);
+        animation: extendWidth 30s infinite linear;
+        -webkit-animation: extendWidth 30s infinite linear;
     }
 
     .show_popup-truck {
@@ -15730,6 +15732,21 @@ third_nav_title: Events
       }
       100% {
         transform: rotate(360deg) translate(100px) rotate(-360deg);
+      }
+    }
+
+    @keyframes extendWidth {
+      0% {
+        width: 100px;
+      }
+      25%{
+        width: 150px;
+      }
+      50%{
+        width: 250px;
+      }
+      100% {
+        width: 100px;
       }
     }
 
