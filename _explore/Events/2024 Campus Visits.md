@@ -16427,6 +16427,18 @@ third_nav_title: Events
         .polytechnicContainer{
             width: 45%;
         }
+        .map-truck{
+            width: 700px;
+        }
+
+        .outCircleFloatTruck3{
+            right: 120px;
+            top: 24em;
+        }
+
+        .outCircleIconTruck{
+            right: 0;
+        }
     }
     
 
