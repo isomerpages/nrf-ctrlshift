@@ -16287,7 +16287,8 @@ third_nav_title: Events
     #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
     #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
     #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-        height: 180px;
+        /* height: 180px; */
+        height: fit-content;
         transition: height 0.25 ease-in;
     }
 
@@ -16302,7 +16303,8 @@ third_nav_title: Events
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-            height: 120px;
+            /* height: 120px; */
+            height: fit-content;
             transition: height 0.25 ease-in;
         }
 
@@ -16318,7 +16320,8 @@ third_nav_title: Events
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-            height: 260px;
+            /* height: 260px; */
+            height: fit-content;
             transition: height 0.25 ease-in;
         }
 
@@ -16334,7 +16337,8 @@ third_nav_title: Events
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-            height: 230px;
+            /* height: 230px; */
+            height: fit-content;
             transition: height 0.25 ease-in;
         }
 
@@ -16502,7 +16506,7 @@ third_nav_title: Events
                         Head down to the upcoming polytechnic open houses and university career fairs to experience a possible glimpse of tomorrow’s world and interact firsthand with our STE ambassadors.</p>
             </div>
         </div>
-        <img src="/images/2024%20Open%20Houses/missed_us_map_2x.png" alt="map truck" class="d-none d-lg-block mainMap">
+        <img src="/images/2024%20Open%20Houses/2024_campus_visit_base_map_2x.png" alt="map truck" class="d-none d-lg-block mainMap">
         <div class="col-12">
             <div class="map-truck p-relative">
                 <div class="outCircleIconTruck">
@@ -16523,7 +16527,7 @@ third_nav_title: Events
                         </div>
                     </div>
                 </div>
-                <img src="/images/2024%20Open%20Houses/missed_us_map_mobile_2x.png" alt="map truck" class="d-lg-none img-full">
+                <img src="/images/2024%20Open%20Houses/2024_campus_visit_base_map_mobile_2x.png" alt="map truck" class="d-lg-none img-full">
                 <div class="outCircleFloatTruck3">
                     <div class="rotate">
                         <div class="counterrotateFloatTruck3">
@@ -16551,7 +16555,7 @@ third_nav_title: Events
         <div class="row pb-lg-5">
             <div class="col-lg-12 pb-lg-1 who-says-title">
                 <div class="text-center">
-                    <h1 class="title-section text-blue">Here’s where we are going this January!</h1>
+                    <h1 class="title-section text-blue">Here’s where we are going this year!</h1>
                 </div>
             </div>
         </div>
@@ -16680,8 +16684,50 @@ third_nav_title: Events
                                     SINGAPORE INSTITUTE OF TECHNOLOGY
                                 </h6>
                                 <p class="eventDescription fifth">
-                                    15-16 Jan 2024 || 11am-5pm<br>
-                                    Academic Plaza, Level 1, Event Foyer
+                                    18 Jan 2024 || 10am - 6pm <br>
+                                    Faculty Hall, Level 1
+                                </p>
+                            </div>
+                        </div>
+                    </label>
+                </div>
+            </div>
+            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
+                <div class="row contentWrapper">
+                    <input id="toggle6" type="checkbox">
+                    <label for="toggle6">
+                        <div class="row contentWrapper cardMargin">
+                            <div id="poly-6" class="arrowWrapper col-auto">
+                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                            </div>
+                            <div class="detailsWrapper col-sm-10 col-md-7">
+                                <h6 class="polyName">
+                                    NANYANG TECHNOLOGICAL UNIVERSITY
+                                </h6>
+                                <p class="eventDescription fifth">
+                                    1 &amp; 6 Feb 2024 || 10am-6pm <br>
+                                </p>
+                            </div>
+                        </div>
+                    </label>
+                </div>
+            </div>
+            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
+                <div class="row contentWrapper">
+                    <input id="toggle6" type="checkbox">
+                    <label for="toggle6">
+                        <div class="row contentWrapper cardMargin">
+                            <div id="poly-6" class="arrowWrapper col-auto">
+                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                            </div>
+                            <div class="detailsWrapper col-sm-10 col-md-7">
+                                <h6 class="polyName">
+                                    NATIONAL UNIVERSITY OF SINGAPORE
+                                </h6>
+                                <p class="eventDescription fifth">
+                                    20-22 Feb 2024 || 10am-6pm <br>
                                 </p>
                             </div>
                         </div>
