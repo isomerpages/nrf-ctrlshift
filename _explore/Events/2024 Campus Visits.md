@@ -16344,7 +16344,7 @@ third_nav_title: Events
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
         #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
-            height: 230px;
+            height: 200px;
             transition: height 0.25 ease-in;
         }
 
@@ -16352,7 +16352,7 @@ third_nav_title: Events
         #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
         #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
         #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
-            height: 160px;
+            height: 120px;
             transition: height 0.25 ease-in;
         }
     }
