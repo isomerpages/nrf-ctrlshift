@@ -16642,7 +16642,7 @@ third_nav_title: Events
                         </div>
                         <div class="detailsWrapper col-sm-10 col-md-9">
                             <h6 class="polyName">
-                                TEMAESK POLYTECHNIC
+                                TEMASEK POLYTECHNIC
                             </h6>
                             <p class="eventDescription third">
                                 5 Jan 2024 || 10am-8pm,<br>
