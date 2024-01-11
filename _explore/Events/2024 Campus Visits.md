@@ -16569,7 +16569,7 @@ third_nav_title: Events
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                             </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
+                            <div class="detailsWrapper col-sm-10 col-md-9">
                                 <h6 class="polyName">
                                     NGEE ANN POLYTECHNIC
                                 </h6>
@@ -16591,7 +16591,7 @@ third_nav_title: Events
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                             </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
+                            <div class="detailsWrapper col-sm-10 col-md-9">
                                 <h6 class="polyName">
                                     SINGAPORE POLYTECHNIC
                                 </h6>
@@ -16613,7 +16613,7 @@ third_nav_title: Events
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                             </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
+                            <div class="detailsWrapper col-sm-10 col-md-9">
                                 <h6 class="polyName">
                                     TEMAESK POLYTECHNIC
                                 </h6>
@@ -16635,7 +16635,7 @@ third_nav_title: Events
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                             </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
+                            <div class="detailsWrapper col-sm-10 col-md-9">
                                 <h6 class="polyName">
                                     NANYANG POLYTECHNIC
                                 </h6>
@@ -16657,7 +16657,7 @@ third_nav_title: Events
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                             </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
+                            <div class="detailsWrapper col-sm-10 col-md-9">
                                 <h6 class="polyName">
                                     REPUBLIC POLYTECHNIC
                                 </h6>
@@ -16679,7 +16679,7 @@ third_nav_title: Events
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                             </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
+                            <div class="detailsWrapper col-sm-10 col-md-9">
                                 <h6 class="polyName">
                                     SINGAPORE INSTITUTE OF TECHNOLOGY
                                 </h6>
@@ -16701,7 +16701,7 @@ third_nav_title: Events
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                             </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
+                            <div class="detailsWrapper col-sm-10 col-md-9">
                                 <h6 class="polyName">
                                     NANYANG TECHNOLOGICAL UNIVERSITY
                                 </h6>
@@ -16722,7 +16722,7 @@ third_nav_title: Events
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                             </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
+                            <div class="detailsWrapper col-sm-10 col-md-9">
                                 <h6 class="polyName">
                                     NATIONAL UNIVERSITY OF SINGAPORE
                                 </h6>
