@@ -16422,6 +16422,12 @@ third_nav_title: Events
         width: 100%;
         max-width: 656px;
     }
+
+    @media(max-width:1024px){
+        .polytechnicContainer{
+            width: 50%;
+        }
+    }
     
 
     @media(max-width:600px){
