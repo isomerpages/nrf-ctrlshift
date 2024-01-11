@@ -16291,8 +16291,7 @@ third_nav_title: Events
     #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
     #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
     #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
-        /* height: 180px; */
-        height: max-content;
+        height: 180px;
         transition: height 0.25 ease-in;
     }
 
@@ -16309,8 +16308,7 @@ third_nav_title: Events
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
         #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
-            /* height: 120px; */
-            height: max-content;
+            height: 120px;
             transition: height 0.25 ease-in;
         }
 
@@ -16328,8 +16326,7 @@ third_nav_title: Events
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
         #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
-            /* height: 260px; */
-            height: max-content;
+            height: 260px;
             transition: height 0.25 ease-in;
         }
 
@@ -16347,8 +16344,7 @@ third_nav_title: Events
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
         #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
-            /* height: 230px; */
-            height: max-content;
+            height: 230px;
             transition: height 0.25 ease-in;
         }
 
