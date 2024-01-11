@@ -16256,7 +16256,7 @@ third_nav_title: Events
         transition-duration: 0ms;
     }
 
-    #toggle1,#toggle2,#toggle3,#toggle4,#toggle5,#toggle6 {
+    #toggle1,#toggle2,#toggle3,#toggle4,#toggle5,#toggle6,#toggle7,#toggle8 {
       display: none;
     }
 
