@@ -16432,12 +16432,12 @@ third_nav_title: Events
         }
 
         .outCircleFloatTruck3{
-            right: 120px;
-            top: 24em;
+            right: 80px;
+            top: 23em;
         }
 
         .outCircleIconTruck{
-            right: 0;
+            right: -100px;
         }
     }
     
