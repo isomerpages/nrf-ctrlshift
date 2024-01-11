@@ -16262,14 +16262,16 @@ third_nav_title: Events
 
     #toggle1:checked + label img.singleArrowIcon , #toggle2:checked + label img.singleArrowIcon , 
     #toggle3:checked + label img.singleArrowIcon , #toggle4:checked + label img.singleArrowIcon, 
-    #toggle5:checked + label img.singleArrowIcon , #toggle6:checked + label img.singleArrowIcon {
+    #toggle5:checked + label img.singleArrowIcon , #toggle6:checked + label img.singleArrowIcon,
+    #toggle7:checked + label img.singleArrowIcon , #toggle8:checked + label img.singleArrowIcon {
         opacity:0;
         height: 0;
     }
 
     #toggle1:checked + label img.multipleArrowIcon , #toggle2:checked + label img.multipleArrowIcon  , 
     #toggle3:checked + label img.multipleArrowIcon  , #toggle4:checked + label img.multipleArrowIcon , 
-    #toggle5:checked + label img.multipleArrowIcon , #toggle6:checked + label img.multipleArrowIcon   {
+    #toggle5:checked + label img.multipleArrowIcon , #toggle6:checked + label img.multipleArrowIcon,
+    #toggle7:checked + label img.multipleArrowIcon , #toggle8:checked + label img.multipleArrowIcon   {
         opacity:1;
         height: 100%;
         display: block;
@@ -16277,7 +16279,8 @@ third_nav_title: Events
 
     #toggle1:checked + label p.eventDescription.first , #toggle2:checked + label p.eventDescription.second , 
     #toggle3:checked + label p.eventDescription.third , #toggle4:checked + label p.eventDescription.fourth, 
-    #toggle5:checked + label p.eventDescription.fifth , #toggle6:checked + label p.eventDescription.fifth  {
+    #toggle5:checked + label p.eventDescription.fifth , #toggle6:checked + label p.eventDescription.sixth,
+    #toggle7:checked + label p.eventDescription.seventh , #toggle8:checked + label p.eventDescription.eight  {
         margin-top: 8px!important;
         margin-bottom: 10px!important;
         opacity:1;
@@ -16286,7 +16289,8 @@ third_nav_title: Events
 
     #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
     #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
-    #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
+    #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
+    #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
         /* height: 180px; */
         height: fit-content;
         transition: height 0.25 ease-in;
@@ -16294,7 +16298,8 @@ third_nav_title: Events
 
     #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
     #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-    #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
+    #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
+    #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
         height: 100px;
         transition: height 0.25 ease-in;
     }
@@ -16302,7 +16307,8 @@ third_nav_title: Events
     @media (max-width: 600px) {
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
-        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
+        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
+        #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
             /* height: 120px; */
             height: fit-content;
             transition: height 0.25 ease-in;
@@ -16310,7 +16316,8 @@ third_nav_title: Events
 
         #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
         #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
+        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
+        #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
             height: 70px;
             transition: height 0.25 ease-in;
         }
@@ -16319,7 +16326,8 @@ third_nav_title: Events
     @media (min-width: 601px) and (max-width: 767px) {
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
-        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
+        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
+        #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
             /* height: 260px; */
             height: fit-content;
             transition: height 0.25 ease-in;
@@ -16327,7 +16335,8 @@ third_nav_title: Events
 
         #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
         #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
+        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
+        #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
             height: 180px;
             transition: height 0.25 ease-in;
         }
@@ -16336,7 +16345,8 @@ third_nav_title: Events
     @media (min-width: 768px) and (max-width: 1279px) {
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
-        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
+        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
+        #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
             /* height: 230px; */
             height: fit-content;
             transition: height 0.25 ease-in;
@@ -16344,7 +16354,8 @@ third_nav_title: Events
 
         #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
         #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
+        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
+        #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
             height: 160px;
             transition: height 0.25 ease-in;
         }
@@ -16463,7 +16474,8 @@ third_nav_title: Events
 
         #toggle1:checked + label p.eventDescription.first , #toggle2:checked + label p.eventDescription.second , 
         #toggle3:checked + label p.eventDescription.third , #toggle4:checked + label p.eventDescription.fourth, 
-        #toggle5:checked + label p.eventDescription.fifth , #toggle6:checked + label p.eventDescription.fifth  {
+        #toggle5:checked + label p.eventDescription.fifth , #toggle6:checked + label p.eventDescription.sixth,
+        #toggle7:checked + label p.eventDescription.seventh,#toggle8:checked + label p.eventDescription.eight  {
             margin-bottom: 0!important;
         }
 
@@ -16683,7 +16695,7 @@ third_nav_title: Events
                                 <h6 class="polyName">
                                     SINGAPORE INSTITUTE OF TECHNOLOGY
                                 </h6>
-                                <p class="eventDescription fifth">
+                                <p class="eventDescription sixth">
                                     18 Jan 2024 || 10am - 6pm <br>
                                     Faculty Hall, Level 1
                                 </p>
@@ -16694,10 +16706,10 @@ third_nav_title: Events
             </div>
             <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
-                    <input id="toggle6" type="checkbox">
-                    <label for="toggle6">
+                    <input id="toggle7" type="checkbox">
+                    <label for="toggle7">
                         <div class="row contentWrapper cardMargin">
-                            <div id="poly-6" class="arrowWrapper col-auto">
+                            <div id="poly-7" class="arrowWrapper col-auto">
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                             </div>
@@ -16705,7 +16717,7 @@ third_nav_title: Events
                                 <h6 class="polyName">
                                     NANYANG TECHNOLOGICAL UNIVERSITY
                                 </h6>
-                                <p class="eventDescription fifth">
+                                <p class="eventDescription seventh">
                                     1 &amp; 6 Feb 2024 || 10am-6pm <br>
                                 </p>
                             </div>
@@ -16715,10 +16727,10 @@ third_nav_title: Events
             </div>
             <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
                 <div class="row contentWrapper">
-                    <input id="toggle6" type="checkbox">
-                    <label for="toggle6">
+                    <input id="toggle8" type="checkbox">
+                    <label for="toggle8">
                         <div class="row contentWrapper cardMargin">
-                            <div id="poly-6" class="arrowWrapper col-auto">
+                            <div id="poly-8" class="arrowWrapper col-auto">
                                     <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
                                     <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                             </div>
@@ -16726,7 +16738,7 @@ third_nav_title: Events
                                 <h6 class="polyName">
                                     NATIONAL UNIVERSITY OF SINGAPORE
                                 </h6>
-                                <p class="eventDescription fifth">
+                                <p class="eventDescription eight">
                                     20-22 Feb 2024 || 10am-6pm <br>
                                 </p>
                             </div>
