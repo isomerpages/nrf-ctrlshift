@@ -16292,7 +16292,7 @@ third_nav_title: Events
     #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
     #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
         /* height: 180px; */
-        height: fit-content;
+        height: max-content;
         transition: height 0.25 ease-in;
     }
 
@@ -16310,7 +16310,7 @@ third_nav_title: Events
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
         #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
             /* height: 120px; */
-            height: fit-content;
+            height: max-content;
             transition: height 0.25 ease-in;
         }
 
@@ -16329,7 +16329,7 @@ third_nav_title: Events
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
         #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
             /* height: 260px; */
-            height: fit-content;
+            height: max-content;
             transition: height 0.25 ease-in;
         }
 
@@ -16348,7 +16348,7 @@ third_nav_title: Events
         #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
         #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
             /* height: 230px; */
-            height: fit-content;
+            height: max-content;
             transition: height 0.25 ease-in;
         }
 
@@ -16571,180 +16571,180 @@ third_nav_title: Events
                 </div>
             </div>
         </div>
-        <div class="row pb-lg-6 allPolyContainer">
-            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle1" type="checkbox">
-                    <label for="toggle1">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-1" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-9">
-                                <h6 class="polyName">
-                                    NGEE ANN POLYTECHNIC
-                                </h6>
-                                <p class="eventDescription first">
-                                        4 Jan 2024 || 10am-6pm,<br>
-                                        Outside Makan Place
-                                </p>
-                            </div>
+    </div>
+    <div class="row pb-lg-6 allPolyContainer">
+        <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle1" type="checkbox">
+                <label for="toggle1">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-1" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                NGEE ANN POLYTECHNIC
+                            </h6>
+                            <p class="eventDescription first">
+                                    4 Jan 2024 || 10am-6pm,<br>
+                                    Outside Makan Place
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle2" type="checkbox">
-                    <label for="toggle2">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-2" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-9">
-                                <h6 class="polyName">
-                                    SINGAPORE POLYTECHNIC
-                                </h6>
-                                <p class="eventDescription second">
-                                    5 Jan 2024 || 10am-6pm,<br>
-                                    Eleven2, Block T11A
-                                </p>
-                            </div>
+        </div>
+        <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle2" type="checkbox">
+                <label for="toggle2">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-2" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                SINGAPORE POLYTECHNIC
+                            </h6>
+                            <p class="eventDescription second">
+                                5 Jan 2024 || 10am-6pm,<br>
+                                Eleven2, Block T11A
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle3" type="checkbox">
-                    <label for="toggle3">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-3" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-9">
-                                <h6 class="polyName">
-                                    TEMAESK POLYTECHNIC
-                                </h6>
-                                <p class="eventDescription third">
-                                    5 Jan 2024 || 10am-8pm,<br>
-                                    Mushroom by The Plaza
-                                </p>
-                            </div>
+        </div>
+        <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle3" type="checkbox">
+                <label for="toggle3">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-3" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                TEMAESK POLYTECHNIC
+                            </h6>
+                            <p class="eventDescription third">
+                                5 Jan 2024 || 10am-8pm,<br>
+                                Mushroom by The Plaza
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle4" type="checkbox">
-                    <label for="toggle4">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-4" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-9">
-                                <h6 class="polyName">
-                                    NANYANG POLYTECHNIC
-                                </h6>
-                                <p class="eventDescription fourth">
-                                    6 Jan 2024 || 10am-6pm,<br>
-                                    Auditorium Lobby
-                                </p>
-                            </div>
+        </div>
+        <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle4" type="checkbox">
+                <label for="toggle4">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-4" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                NANYANG POLYTECHNIC
+                            </h6>
+                            <p class="eventDescription fourth">
+                                6 Jan 2024 || 10am-6pm,<br>
+                                Auditorium Lobby
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle5" type="checkbox">
-                    <label for="toggle5">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-5" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-9">
-                                <h6 class="polyName">
-                                    REPUBLIC POLYTECHNIC
-                                </h6>
-                                <p class="eventDescription fifth">
-                                    6 Jan 2024 || 10am-6pm<br>
-                                    Entrance to School of Engineering
-                                </p>
-                            </div>
+        </div>
+        <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle5" type="checkbox">
+                <label for="toggle5">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-5" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                REPUBLIC POLYTECHNIC
+                            </h6>
+                            <p class="eventDescription fifth">
+                                6 Jan 2024 || 10am-6pm<br>
+                                Entrance to School of Engineering
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle6" type="checkbox">
-                    <label for="toggle6">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-6" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-9">
-                                <h6 class="polyName">
-                                    SINGAPORE INSTITUTE OF TECHNOLOGY
-                                </h6>
-                                <p class="eventDescription sixth">
-                                    18 Jan 2024 || 10am - 6pm <br>
-                                    Faculty Hall, Level 1
-                                </p>
-                            </div>
+        </div>
+        <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle6" type="checkbox">
+                <label for="toggle6">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-6" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                SINGAPORE INSTITUTE OF TECHNOLOGY
+                            </h6>
+                            <p class="eventDescription sixth">
+                                18 Jan 2024 || 10am - 6pm <br>
+                                Faculty Hall, Level 1
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle7" type="checkbox">
-                    <label for="toggle7">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-7" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-9">
-                                <h6 class="polyName">
-                                    NANYANG TECHNOLOGICAL UNIVERSITY
-                                </h6>
-                                <p class="eventDescription seventh">
-                                    1 &amp; 6 Feb 2024 || 10am-6pm <br>
-                                </p>
-                            </div>
+        </div>
+        <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle7" type="checkbox">
+                <label for="toggle7">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-7" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                NANYANG TECHNOLOGICAL UNIVERSITY
+                            </h6>
+                            <p class="eventDescription seventh">
+                                1 &amp; 6 Feb 2024 || 10am-6pm <br>
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle8" type="checkbox">
-                    <label for="toggle8">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-8" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-9">
-                                <h6 class="polyName">
-                                    NATIONAL UNIVERSITY OF SINGAPORE
-                                </h6>
-                                <p class="eventDescription eight">
-                                    20-22 Feb 2024 || 10am-6pm <br>
-                                </p>
-                            </div>
+        </div>
+        <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle8" type="checkbox">
+                <label for="toggle8">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-8" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                NATIONAL UNIVERSITY OF SINGAPORE
+                            </h6>
+                            <p class="eventDescription eight">
+                                20-22 Feb 2024 || 10am-6pm <br>
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
         </div>
     </div>
