@@ -16428,7 +16428,7 @@ third_nav_title: Events
             width: 45%;
         }
         .map-truck{
-            width: 700px;
+            width: 100%;
         }
 
         .outCircleFloatTruck3{
