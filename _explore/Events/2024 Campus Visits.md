@@ -16577,8 +16577,8 @@ third_nav_title: Events
     </div>
 </section>
 <section id="polytechnicSection">
-    <div class="container">
-        <div class="row pb-lg-5">
+    <div class="container pb-lg-5">
+        <div class="row">
             <div class="col-lg-12 pb-lg-1 who-says-title">
                 <div class="text-center">
                     <h1 class="title-section text-blue">Here’s where we are going this year!</h1>
