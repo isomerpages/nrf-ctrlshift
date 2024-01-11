@@ -16572,7 +16572,7 @@ third_nav_title: Events
             </div>
         </div>
         <div class="row pb-lg-6 allPolyContainer">
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
+            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <input id="toggle1" type="checkbox">
                     <label for="toggle1">
@@ -16594,7 +16594,7 @@ third_nav_title: Events
                     </label>
                 </div>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
+            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <input id="toggle2" type="checkbox">
                     <label for="toggle2">
@@ -16616,7 +16616,7 @@ third_nav_title: Events
                     </label>
                 </div>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
+            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <input id="toggle3" type="checkbox">
                     <label for="toggle3">
@@ -16638,7 +16638,7 @@ third_nav_title: Events
                     </label>
                 </div>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
+            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <input id="toggle4" type="checkbox">
                     <label for="toggle4">
@@ -16660,7 +16660,7 @@ third_nav_title: Events
                     </label>
                 </div>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
+            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <input id="toggle5" type="checkbox">
                     <label for="toggle5">
@@ -16682,7 +16682,7 @@ third_nav_title: Events
                     </label>
                 </div>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
+            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <input id="toggle6" type="checkbox">
                     <label for="toggle6">
@@ -16704,7 +16704,7 @@ third_nav_title: Events
                     </label>
                 </div>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
+            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <input id="toggle7" type="checkbox">
                     <label for="toggle7">
@@ -16725,7 +16725,7 @@ third_nav_title: Events
                     </label>
                 </div>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
+            <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
                 <div class="row contentWrapper">
                     <input id="toggle8" type="checkbox">
                     <label for="toggle8">
