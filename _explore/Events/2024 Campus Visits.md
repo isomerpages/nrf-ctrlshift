@@ -16425,7 +16425,7 @@ third_nav_title: Events
 
     @media(max-width:1024px){
         .polytechnicContainer{
-            width: 50%;
+            width: 45%;
         }
     }
     
