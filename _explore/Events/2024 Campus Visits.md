@@ -16423,7 +16423,7 @@ third_nav_title: Events
         max-width: 656px;
     }
 
-    @media(max-width:1180px){
+    @media(max-width:1194px){
         .polytechnicContainer{
             width: 45%;
         }
