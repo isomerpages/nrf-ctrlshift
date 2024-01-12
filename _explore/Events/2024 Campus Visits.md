@@ -16401,6 +16401,36 @@ third_nav_title: Events
         }
     }
 
+    @media(max-width:1024px){
+        .outCirclectrlShiftIcon{
+            left:60%
+        }
+
+        @keyframes moveInCircle {
+            0% {
+                transform: rotate(0deg) translate(100px) rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg) translate(100px) rotate(-360deg);
+            }
+        }
+
+        @keyframes extendWidth {
+            0% {
+                width: 100px;
+            }
+            25%{
+                width: 150px;
+            }
+            50%{
+                width: 200px;
+            }
+            100% {
+                width: 100px;
+            }
+        }
+    }
+
     @media(max-width:768px){
         .outCirclectrlShiftIcon{
             top:50%;
