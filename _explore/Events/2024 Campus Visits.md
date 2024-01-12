@@ -16214,6 +16214,7 @@ third_nav_title: Events
         line-height: 24px;
         margin: 0;
         text-transform: uppercase;
+        word-break: break-word;
     }
 
     .polytechnicContainer .eventDescription {
