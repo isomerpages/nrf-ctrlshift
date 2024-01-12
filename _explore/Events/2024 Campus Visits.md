@@ -2322,7 +2322,7 @@ third_nav_title: Events
         .outCirclectrlShiftIcon {
             /* width: 240px;
             height: 183px; */
-            top: 21%;
+            top: 60%;
         }
 
         .popup-truck {
