@@ -16459,10 +16459,10 @@ third_nav_title: Events
 
         @keyframes moveInCircle {
             0% {
-                transform: rotate(0deg) translate(80px) rotate(0deg);
+                transform: rotate(0deg) translate(70px) rotate(0deg);
             }
             100% {
-                transform: rotate(360deg) translate(80px) rotate(-360deg);
+                transform: rotate(360deg) translate(70px) rotate(-360deg);
             }
         }
 
