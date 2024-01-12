@@ -16400,6 +16400,21 @@ third_nav_title: Events
             right: -100px;
         }
     }
+
+    @media(max-width:768px){
+        .outCirclectrlShiftIcon{
+            top:50%;
+        }
+
+        @keyframes moveInCircle {
+            0% {
+                transform: rotate(0deg) translate(150px) rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg) translate(150px) rotate(-360deg);
+            }
+        }
+    }
     
 
     @media(max-width:600px){
