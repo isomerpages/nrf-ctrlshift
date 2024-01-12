@@ -15681,51 +15681,6 @@ third_nav_title: Events
         }
     }
 
-    /* @keyframes goToSchool{
-        0%{
-            transform: translate(0,0);
-        }
-        15%{
-            transform: translate(100px,0);
-        }
-        30%{
-            transform:translate(150px, 100px)
-        }
-        45%{
-            transform:translate(-10px, 100px)
-        }
-        60%{
-            transform: translate(-100px,70px);
-        }
-        75%{
-            transform: translate(-130px,70px);
-        }
-        100%{
-            transform: translate(0,0);
-        }
-    }  */
-
-    @keyframes goToSchool{
-        0%{
-            transform: translate(50px,0);
-        }
-        20%{
-            transform: translate(150px,70px);
-        }
-        40%{
-            transform:translate(50px, 150px)
-        }
-        60%{
-            transform:translate(-40px, 100px)
-        }
-        80%{
-            transform: translate(-100px,70px);
-        }
-        100%{
-            transform: translate(50px,0);
-        }
-    } 
-
     @keyframes moveInCircle {
       0% {
         transform: rotate(0deg) translate(100px) rotate(0deg);
@@ -16495,14 +16450,30 @@ third_nav_title: Events
         }
 
 
-            @keyframes moveInCircle {
+        @keyframes moveInCircle {
             0% {
-                transform: rotate(0deg) translate(20px) rotate(0deg);
+                transform: rotate(0deg) translate(100px) rotate(0deg);
             }
             100% {
-                transform: rotate(360deg) translate(20px) rotate(-360deg);
+                transform: rotate(360deg) translate(100px) rotate(-360deg);
             }
+        }
+
+
+        @keyframes extendWidth {
+            0% {
+                width: 100px;
             }
+            25%{
+                width: 150px;
+            }
+            50%{
+                width: 250px;
+            }
+            100% {
+                width: 100px;
+            }
+        }
         
     }
 
