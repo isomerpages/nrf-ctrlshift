@@ -16472,7 +16472,7 @@ third_nav_title: Events
                 width: 80px;
             }
             40%{
-                width: 130px;
+                width: 120px;
             }
             100% {
                 width: 80px;
@@ -16500,7 +16500,7 @@ third_nav_title: Events
 </style>
 <section id="header-missed-us" class="header-nav-white firstSection">
     <div class="container" style="position: relative">
-        <div class="col-12">
+        <div class="col-12 firstSection">
             <div class="text-center pt-5 pb-1">
                 <img src="/images/2024%20Open%20Houses/imagine_singapore_future.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
                 <p class="subtitle-main">Curious about how we will live, work, and play in the future?</p>
