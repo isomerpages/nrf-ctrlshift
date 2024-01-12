@@ -16434,6 +16434,7 @@ third_nav_title: Events
     @media(max-width:768px){
         .outCirclectrlShiftIcon{
             top:50%;
+            left:48%;
         }
 
         @keyframes moveInCircle {
@@ -16525,7 +16526,7 @@ third_nav_title: Events
                 width: 80px;
             }
             40%{
-                width: 145px;
+                width: 140px;
             }
             100% {
                 width: 80px;
