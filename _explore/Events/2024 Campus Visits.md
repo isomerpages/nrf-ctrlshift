@@ -16817,6 +16817,14 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
+                    <a target="_blank" href="https://www.csa.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/CSA.png">
+                    </a>
+                </div>
+                <p class="agencyName">CSA</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
                     <a target="_blank" href="https://www.mindef.gov.sg/oms/dis/">
                         <img src="/images/2024%20Open%20Houses/DIS.png">
                     </a>
@@ -16841,11 +16849,35 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
+                    <a target="_blank" href="https://www.tech.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/GOVTECH.png">
+                    </a>
+                </div>
+                <p class="agencyName">GOVTECH</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
+                    <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/homepage">
+                        <img src="/images/2024%20Open%20Houses/HDB.png">
+                    </a>
+                </div>
+                <p class="agencyName">HDB</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
                     <a target="_blank" href="https://www.htx.gov.sg/">
                         <img src="/images/2024%20Open%20Houses/HTX.png">
                     </a>
                 </div>
                 <p class="agencyName">HTX</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
+                    <a target="_blank" href="https://www.imda.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/IMDA.png">
+                    </a>
+                </div>
+                <p class="agencyName">IMDA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
@@ -16910,6 +16942,14 @@ third_nav_title: Events
                     </a>
                 </div>
                 <p class="agencyName">SFA</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
+                    <a target="_blank" href="https://www.smartnation.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/SNG.png">
+                    </a>
+                </div>
+                <p class="agencyName">SNG</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
