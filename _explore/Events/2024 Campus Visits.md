@@ -16121,8 +16121,12 @@ third_nav_title: Events
         display: none
     }
 
-    .firstSection {
+    .introSection {
         margin-bottom: 100px;
+    }
+
+    .mainSection{
+        margin-bottom: 70px;
     }
 
     .allPolyContainer{
@@ -16441,8 +16445,12 @@ third_nav_title: Events
             max-height: 190px;
         }
 
-        .firstSection{
+        .introSection{
             margin-bottom: 25px;
+        }
+
+        .mainSection{
+            margin-bottom: 50px;
         }
 
         .agencyDivider{
@@ -16498,9 +16506,9 @@ third_nav_title: Events
     }
 
 </style>
-<section id="header-missed-us" class="header-nav-white firstSection">
+<section id="header-missed-us" class="header-nav-white mainSection">
     <div class="container" style="position: relative">
-        <div class="col-12 firstSection">
+        <div class="col-12 introSection">
             <div class="text-center pt-5 pb-1">
                 <img src="/images/2024%20Open%20Houses/imagine_singapore_future.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
                 <p class="subtitle-main">Curious about how we will live, work, and play in the future?</p>
