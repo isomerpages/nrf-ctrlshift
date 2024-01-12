@@ -16459,10 +16459,10 @@ third_nav_title: Events
 
         @keyframes moveInCircle {
             0% {
-                transform: rotate(0deg) translate(70px) rotate(0deg);
+                transform: rotate(0deg) translate(80px) rotate(0deg);
             }
             100% {
-                transform: rotate(360deg) translate(70px) rotate(-360deg);
+                transform: rotate(360deg) translate(80px) rotate(-360deg);
             }
         }
 
@@ -16471,7 +16471,7 @@ third_nav_title: Events
             0% {
                 width: 80px;
             }
-            50%{
+            40%{
                 width: 130px;
             }
             100% {
@@ -16498,9 +16498,9 @@ third_nav_title: Events
     }
 
 </style>
-<section id="header-missed-us" class="header-nav-white">
+<section id="header-missed-us" class="header-nav-white firstSection">
     <div class="container" style="position: relative">
-        <div class="col-12 firstSection">
+        <div class="col-12">
             <div class="text-center pt-5 pb-1">
                 <img src="/images/2024%20Open%20Houses/imagine_singapore_future.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
                 <p class="subtitle-main">Curious about how we will live, work, and play in the future?</p>
