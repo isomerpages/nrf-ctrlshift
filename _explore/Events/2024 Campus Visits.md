@@ -16420,6 +16420,13 @@ third_nav_title: Events
             top: -20px;
         }
 
+        .outCirclectrlShiftIcon {
+            width: 40%;
+            height: 23%;
+            top: 70%;
+            left: 60%;
+        }
+
         .polytechnicContainer{
             width: 100%;
             margin: 8px 0;
@@ -16452,26 +16459,26 @@ third_nav_title: Events
 
         @keyframes moveInCircle {
             0% {
-                transform: rotate(0deg) translate(100px) rotate(0deg);
+                transform: rotate(0deg) translate(80px) rotate(0deg);
             }
             100% {
-                transform: rotate(360deg) translate(100px) rotate(-360deg);
+                transform: rotate(360deg) translate(80px) rotate(-360deg);
             }
         }
 
 
         @keyframes extendWidth {
             0% {
-                width: 100px;
+                width: 80px;
             }
             25%{
-                width: 150px;
+                width: 100px;
             }
             50%{
-                width: 250px;
+                width: 150px;
             }
             100% {
-                width: 100px;
+                width: 80px;
             }
         }
         
