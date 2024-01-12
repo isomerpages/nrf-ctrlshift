@@ -16471,11 +16471,8 @@ third_nav_title: Events
             0% {
                 width: 80px;
             }
-            25%{
-                width: 100px;
-            }
             50%{
-                width: 120px;
+                width: 130px;
             }
             100% {
                 width: 80px;
