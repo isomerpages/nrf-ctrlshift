@@ -16741,8 +16741,8 @@ third_nav_title: Events
                                 SINGAPORE INSTITUTE OF TECHNOLOGY
                             </h6>
                             <p class="eventDescription sixth">
-                                18 Jan 2024 || 10am - 6pm <br>
-                                Faculty Hall, Level 1
+                                18 Jan 2024 || 11am-5pm <br>
+                                Academic Plaza, Event Foyer, Level 1
                             </p>
                         </div>
                     </div>
@@ -16763,7 +16763,8 @@ third_nav_title: Events
                                 NANYANG TECHNOLOGICAL UNIVERSITY
                             </h6>
                             <p class="eventDescription seventh">
-                                1 &amp; 6 Feb 2024 || 10am-6pm <br>
+                                1 &amp; 6 Feb 2024 || 10am-5pm <br>
+                                Nanyang Auditorium, Level B1
                             </p>
                         </div>
                     </div>
@@ -16784,7 +16785,8 @@ third_nav_title: Events
                                 NATIONAL UNIVERSITY OF SINGAPORE
                             </h6>
                             <p class="eventDescription eight">
-                                20-22 Feb 2024 || 10am-6pm <br>
+                                20-22 Feb 2024 || 10.30am-4.30pm <br>
+                                Stephen Riady Centre, University Town Sports Hall 1
                             </p>
                         </div>
                     </div>
@@ -16814,6 +16816,14 @@ third_nav_title: Events
                     </a>
                 </div>
                 <p class="agencyName">A*STAR</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
+                    <a target="_blank" href="https://www1.bca.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/BCA.png">
+                    </a>
+                </div>
+                <p class="agencyName">BCA</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
@@ -16881,6 +16891,14 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
+                    <a target="_blank" href="https://www.jtc.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/JTC.png">
+                    </a>
+                </div>
+                <p class="agencyName">JTC</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
                     <a target="_blank" href="https://www.mpa.gov.sg/home">
                         <img src="/images/2024%20Open%20Houses/MPA.png">
                     </a>
@@ -16921,8 +16939,16 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
+                    <a target="_blank" href="https://www.mindef.gov.sg/web/portal/rsaf/home/">
+                        <img src="/images/2024%20Open%20Houses/RSAF.png">
+                    </a>
+                </div>
+                <p class="agencyName">RSAF</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
                     <a target="_blank" href="https://www.mindef.gov.sg/web/portal/mindef/home">
-                        <img src="/images/2024%20Open%20Houses/SAF.png">
+                        <img src="/images/2024%20Open%20Houses/SAF_new.png">
                     </a>
                 </div>
                 <p class="agencyName">SAF</p>
