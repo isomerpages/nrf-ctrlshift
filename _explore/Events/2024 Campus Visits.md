@@ -136,7 +136,7 @@ third_nav_title: Events
         border-radius: 100px;
     }
 
-    .outCirclectrlShiftIcon {
+    .outCircleIconTruck{
         width: 191px;
         height: 162px;
         background-color: transparent;
@@ -148,21 +148,33 @@ third_nav_title: Events
         border-radius: 100px;
     }
 
-    .outCircleIconTruck {
-        width: 150px;
+    .outCirclectrlShiftIcon {
+        /* width: 150px;
         height: 150px;
         background-color: transparent;
         left: 48%;
         position: absolute;
-        top: 34%;
+        top: 34%; 
         -moz-border-radius: 100px;
         -webkit-border-radius: 100px;
         border-radius: 100px;
+        */
+        width: 100px;
+        height: 100px;
+        background-color: transparent;
+        position: absolute;
+        left: 50%;
+        top: 40%;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
         transform: translate(-50%, -50%);
         -webkit-transform: translate(-50%, -50%);
         -moz-transform: translate(-50%, -50%);
         -ms-transform: translate(-50%, -50%);
         -o-transform: translate(-50%, -50%);
+        animation: extendWidth 30s infinite linear;
+        -webkit-animation: extendWidth 30s infinite linear;
     }
 
     .show_popup-truck {
@@ -255,7 +267,7 @@ third_nav_title: Events
         bottom: 55px;
     }
 
-    .innerIconTruck img {
+    .innerctrlShiftIcon img {
         width: 100%;
     }
 
@@ -315,7 +327,7 @@ third_nav_title: Events
         -webkit-animation: circle 10s infinite linear;
     }
 
-    .rotatectrlShiftIcon {
+    .rotateIconTruck{
         width: 100%;
         height: 100%;
         animation: circle 10s infinite linear;
@@ -329,11 +341,15 @@ third_nav_title: Events
         -webkit-animation: circle 10s infinite linear;
     }
 
-    .rotateIconTruck {
+    .rotatectrlShiftIcon {
         width: 100%;
         height: 100%;
-        animation: circle 10s infinite linear;
-        -webkit-animation: circle 10s infinite linear;
+        /* animation:goToSchool 30s infinite linear;
+        -webkit-animation: goToSchool 30s infinite linear; */
+        /* animation: circle 20s infinite linear;
+        -webkit-animation: circle 20s infinite linear; */
+        animation: moveInCircle 30s infinite linear;
+        -webkit-animation: moveInCircle 30s infinite linear;
     }
 
     .counterrotate {
@@ -406,7 +422,7 @@ third_nav_title: Events
         -webkit-animation: ccircle 10s infinite linear;
     }
 
-    .counterrotatectrlShiftIcon {
+    .counterrotateIconTruck {
         width: 200px;
         height: 200px;
         animation: ccircle 10s infinite linear;
@@ -420,11 +436,11 @@ third_nav_title: Events
         -webkit-animation: ccircle 10s infinite linear;
     }
 
-    .counterrotateIconTruck {
+    .counterrotatectrlShiftIcon {
         width: 100px;
         height: 90px;
-        animation: ccircle 10s infinite linear;
-        -webkit-animation: ccircle 10s infinite linear;
+        /* animation: ccircle 20s infinite linear;
+        -webkit-animation: ccircle 20s infinite linear; */
     }
 
     .right-col__home-header {
@@ -574,7 +590,7 @@ third_nav_title: Events
         display: block;
     }
 
-    .innerctrlShiftIcon {
+    .innerIconTruck {
         width: 120px;
         height: 120px;
         background: transparent;
@@ -602,7 +618,7 @@ third_nav_title: Events
         display: block;
     }
 
-    .innerIconTruck {
+    .innerctrlShiftIcon {
         width: 120px;
         height: 120px;
         background: transparent;
@@ -2127,12 +2143,12 @@ third_nav_title: Events
     }
 
     @media (max-width: 1199px) {
-        .outCircleIconTruck {
-            width: 287px;
+        .outCirclectrlShiftIcon {
+            /* width: 287px;
             height: 180px;
             background-color: transparent;
+            position: absolute; */
             left: 48%;
-            position: absolute;
             top: 32%;
             -moz-border-radius: 100px;
             -webkit-border-radius: 100px;
@@ -2144,7 +2160,7 @@ third_nav_title: Events
             -o-transform: translate(-50%, -50%);
         }
 
-        .innerIconTruck {
+        .innerctrlShiftIcon{
             width: 155px;
             height: 140px;
             background: transparent;
@@ -2292,7 +2308,7 @@ third_nav_title: Events
             margin-bottom: 50px;
         }
 
-        .outCirclectrlShiftIcon,
+        .outCircleIconTruck,
         .outCircleFloatTruck2 {
             display: none;
         }
@@ -2303,10 +2319,10 @@ third_nav_title: Events
             background-color: transparent;
         }
 
-        .outCircleIconTruck {
-            width: 240px;
-            height: 183px;
-            top: 21%;
+        .outCirclectrlShiftIcon {
+            /* width: 240px;
+            height: 183px; */
+            top: 60%;
         }
 
         .popup-truck {
@@ -2329,7 +2345,8 @@ third_nav_title: Events
             width: 100%;
         }
 
-        .innerIconTruck {
+        .innerIconTruck
+         {
             width: 100px;
             height: 90px;
         }
@@ -2728,13 +2745,14 @@ third_nav_title: Events
             width: 90%;
         }
 
-        .outCircleIconTruck {
+        .outCirclectrlShiftIcon{
             width: 40%;
             height: 23%;
             top: 39%;
+            left:60%;
         }
 
-        .innerIconTruck {
+        .innerctrlShiftIcon{
             width: 60px;
             height: 60px;
         }
@@ -15663,6 +15681,31 @@ third_nav_title: Events
         }
     }
 
+    @keyframes moveInCircle {
+      0% {
+        transform: rotate(0deg) translate(100px) rotate(0deg);
+      }
+      100% {
+        transform: rotate(360deg) translate(100px) rotate(-360deg);
+      }
+    }
+
+    @keyframes extendWidth {
+      0% {
+        width: 100px;
+      }
+      25%{
+        width: 150px;
+      }
+      50%{
+        width: 250px;
+      }
+      100% {
+        width: 100px;
+      }
+    }
+
+
     /* school-box 1 */
     .togCheck {
         display: none;
@@ -15916,11 +15959,11 @@ third_nav_title: Events
         text-align: center
     }
 
-    .innerIconTruck img {
+    .innerctrlShiftIcon img{
         width: 80%
     }
     
-    .innerctrlShiftIcon img,
+    .innerIconTruck img,
     .innerFloatTruck4 img,
     .innerFloatTruck3 img {
         width: 100%
@@ -16078,8 +16121,12 @@ third_nav_title: Events
         display: none
     }
 
-    .firstSection {
+    .introSection {
         margin-bottom: 100px;
+    }
+
+    .mainSection{
+        margin-bottom: 70px;
     }
 
     .allPolyContainer{
@@ -16126,6 +16173,7 @@ third_nav_title: Events
         line-height: 24px;
         margin: 0;
         text-transform: uppercase;
+        word-wrap: break-word; 
     }
 
     .polytechnicContainer .eventDescription {
@@ -16168,20 +16216,22 @@ third_nav_title: Events
         transition-duration: 0ms;
     }
 
-    #toggle1,#toggle2,#toggle3,#toggle4,#toggle5,#toggle6 {
+    #toggle1,#toggle2,#toggle3,#toggle4,#toggle5,#toggle6,#toggle7,#toggle8 {
       display: none;
     }
 
     #toggle1:checked + label img.singleArrowIcon , #toggle2:checked + label img.singleArrowIcon , 
     #toggle3:checked + label img.singleArrowIcon , #toggle4:checked + label img.singleArrowIcon, 
-    #toggle5:checked + label img.singleArrowIcon , #toggle6:checked + label img.singleArrowIcon {
+    #toggle5:checked + label img.singleArrowIcon , #toggle6:checked + label img.singleArrowIcon,
+    #toggle7:checked + label img.singleArrowIcon , #toggle8:checked + label img.singleArrowIcon {
         opacity:0;
         height: 0;
     }
 
     #toggle1:checked + label img.multipleArrowIcon , #toggle2:checked + label img.multipleArrowIcon  , 
     #toggle3:checked + label img.multipleArrowIcon  , #toggle4:checked + label img.multipleArrowIcon , 
-    #toggle5:checked + label img.multipleArrowIcon , #toggle6:checked + label img.multipleArrowIcon   {
+    #toggle5:checked + label img.multipleArrowIcon , #toggle6:checked + label img.multipleArrowIcon,
+    #toggle7:checked + label img.multipleArrowIcon , #toggle8:checked + label img.multipleArrowIcon   {
         opacity:1;
         height: 100%;
         display: block;
@@ -16189,7 +16239,8 @@ third_nav_title: Events
 
     #toggle1:checked + label p.eventDescription.first , #toggle2:checked + label p.eventDescription.second , 
     #toggle3:checked + label p.eventDescription.third , #toggle4:checked + label p.eventDescription.fourth, 
-    #toggle5:checked + label p.eventDescription.fifth , #toggle6:checked + label p.eventDescription.fifth  {
+    #toggle5:checked + label p.eventDescription.fifth , #toggle6:checked + label p.eventDescription.sixth,
+    #toggle7:checked + label p.eventDescription.seventh , #toggle8:checked + label p.eventDescription.eight  {
         margin-top: 8px!important;
         margin-bottom: 10px!important;
         opacity:1;
@@ -16198,14 +16249,16 @@ third_nav_title: Events
 
     #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
     #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
-    #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
+    #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
+    #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
         height: 180px;
         transition: height 0.25 ease-in;
     }
 
     #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
     #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-    #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
+    #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
+    #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
         height: 100px;
         transition: height 0.25 ease-in;
     }
@@ -16213,15 +16266,17 @@ third_nav_title: Events
     @media (max-width: 600px) {
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
-        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-            height: 120px;
+        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
+        #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
+            height: fit-content;
             transition: height 0.25 ease-in;
         }
 
         #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
         #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
-            height: 70px;
+        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
+        #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
+            height: fit-content;
             transition: height 0.25 ease-in;
         }
     }
@@ -16229,14 +16284,16 @@ third_nav_title: Events
     @media (min-width: 601px) and (max-width: 767px) {
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
-        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
+        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
+        #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
             height: 260px;
             transition: height 0.25 ease-in;
         }
 
         #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
         #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
+        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
+        #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
             height: 180px;
             transition: height 0.25 ease-in;
         }
@@ -16245,15 +16302,17 @@ third_nav_title: Events
     @media (min-width: 768px) and (max-width: 1279px) {
         #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
         #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
-        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper  {
-            height: 230px;
+        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
+        #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
+            height: 200px;
             transition: height 0.25 ease-in;
         }
 
         #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
         #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper  {
-            height: 160px;
+        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
+        #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
+            height: 120px;
             transition: height 0.25 ease-in;
         }
     }
@@ -16323,6 +16382,70 @@ third_nav_title: Events
         width: 100%;
         max-width: 656px;
     }
+
+    @media(max-width:1280px){
+        .polytechnicContainer{
+            width: 45%;
+        }
+        .map-truck{
+            width: 100%;
+        }
+
+        .outCircleFloatTruck3{
+            right: 80px;
+            top: 23em;
+        }
+
+        .outCircleIconTruck{
+            right: -100px;
+        }
+    }
+
+    @media(max-width:1024px){
+        .outCirclectrlShiftIcon{
+            left:60%
+        }
+
+        @keyframes moveInCircle {
+            0% {
+                transform: rotate(0deg) translate(100px) rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg) translate(100px) rotate(-360deg);
+            }
+        }
+
+        @keyframes extendWidth {
+            0% {
+                width: 100px;
+            }
+            25%{
+                width: 150px;
+            }
+            50%{
+                width: 200px;
+            }
+            100% {
+                width: 100px;
+            }
+        }
+    }
+
+    @media(max-width:768px){
+        .outCirclectrlShiftIcon{
+            top:50%;
+            left:48%;
+        }
+
+        @keyframes moveInCircle {
+            0% {
+                transform: rotate(0deg) translate(150px) rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg) translate(150px) rotate(-360deg);
+            }
+        }
+    }
     
 
     @media(max-width:600px){
@@ -16332,7 +16455,7 @@ third_nav_title: Events
             top: -180px;
         }
 
-        .innerctrlShiftIcon {
+        .innerIconTruck{
             left: 0px;
             top: -20px;
         }
@@ -16342,9 +16465,16 @@ third_nav_title: Events
             top: -30px;
         }
 
-        .innerIconTruck {
+        .innerctrlShiftIcon {
             left: 0px;
             top: -20px;
+        }
+
+        .outCirclectrlShiftIcon {
+            width: 40%;
+            height: 23%;
+            top: 70%;
+            left: 60%;
         }
 
         .polytechnicContainer{
@@ -16361,8 +16491,12 @@ third_nav_title: Events
             max-height: 190px;
         }
 
-        .firstSection{
+        .introSection{
             margin-bottom: 25px;
+        }
+
+        .mainSection{
+            margin-bottom: 50px;
         }
 
         .agencyDivider{
@@ -16371,8 +16505,32 @@ third_nav_title: Events
 
         #toggle1:checked + label p.eventDescription.first , #toggle2:checked + label p.eventDescription.second , 
         #toggle3:checked + label p.eventDescription.third , #toggle4:checked + label p.eventDescription.fourth, 
-        #toggle5:checked + label p.eventDescription.fifth , #toggle6:checked + label p.eventDescription.fifth  {
+        #toggle5:checked + label p.eventDescription.fifth , #toggle6:checked + label p.eventDescription.sixth,
+        #toggle7:checked + label p.eventDescription.seventh,#toggle8:checked + label p.eventDescription.eight  {
             margin-bottom: 0!important;
+        }
+
+
+        @keyframes moveInCircle {
+            0% {
+                transform: rotate(0deg) translate(75px) rotate(0deg);
+            }
+            100% {
+                transform: rotate(360deg) translate(75px) rotate(-360deg);
+            }
+        }
+
+
+        @keyframes extendWidth {
+            0% {
+                width: 80px;
+            }
+            40%{
+                width: 140px;
+            }
+            100% {
+                width: 80px;
+            }
         }
         
     }
@@ -16394,9 +16552,9 @@ third_nav_title: Events
     }
 
 </style>
-<section id="header-missed-us" class="header-nav-white">
+<section id="header-missed-us" class="header-nav-white mainSection">
     <div class="container" style="position: relative">
-        <div class="col-12 firstSection">
+        <div class="col-12 introSection">
             <div class="text-center pt-5 pb-1">
                 <img src="/images/2024%20Open%20Houses/imagine_singapore_future.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
                 <p class="subtitle-main">Curious about how we will live, work, and play in the future?</p>
@@ -16404,28 +16562,28 @@ third_nav_title: Events
                         Head down to the upcoming polytechnic open houses and university career fairs to experience a possible glimpse of tomorrow’s world and interact firsthand with our STE ambassadors.</p>
             </div>
         </div>
-        <img src="/images/2024%20Open%20Houses/missed_us_map_2x.png" alt="map truck" class="d-none d-lg-block mainMap">
+        <img src="/images/2024%20Open%20Houses/2024_campus_visit_base_map_2x.png" alt="map truck" class="d-none d-lg-block mainMap">
         <div class="col-12">
             <div class="map-truck p-relative">
-                <div class="outCirclectrlShiftIcon">
-                    <div class="rotatectrlShiftIcon">
-                        <div class="counterrotatectrlShiftIcon">
-                            <div class="innerctrlShiftIcon">
-                                <img src="/images/float-map-truck-1.svg?sanitize=true" alt="ctrlShiftRoamingIcon" class="ctrlShiftIcon">
-                            </div>
-                        </div>
-                    </div>
-                </div>
                 <div class="outCircleIconTruck">
                     <div class="rotateIconTruck">
                         <div class="counterrotateIconTruck">
                             <div class="innerIconTruck">
-                                <img src="/images/2024%20Open%20Houses/CtrlShift_Website_RoamingIcob_v2_1.png" alt="truck" class="icon-truck">
+                                <img src="/images/float-map-truck-1.svg?sanitize=true" alt="truck" class="icon-truck">
                             </div>
                         </div>
                     </div>
                 </div>
-                <img src="/images/2024%20Open%20Houses/missed_us_map_mobile_2x.png" alt="map truck" class="d-lg-none img-full">
+                <div class="outCirclectrlShiftIcon">
+                    <div class="rotatectrlShiftIcon">
+                        <div class="counterrotatectrlShiftIcon">
+                            <div class="innerctrlShiftIcon">
+                                <img src="/images/2024%20Open%20Houses/CtrlShift_Website_RoamingIcob_v2_1.png" alt="ctrlShiftRoamingIcon" class="ctrlShiftIcon">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <img src="/images/2024%20Open%20Houses/2024_campus_visit_base_map_mobile_2x.png" alt="map truck" class="d-lg-none img-full">
                 <div class="outCircleFloatTruck3">
                     <div class="rotate">
                         <div class="counterrotateFloatTruck3">
@@ -16449,146 +16607,190 @@ third_nav_title: Events
     </div>
 </section>
 <section id="polytechnicSection">
-    <div class="container">
-        <div class="row pb-lg-5">
+    <div class="container pb-lg-5">
+        <div class="row">
             <div class="col-lg-12 pb-lg-1 who-says-title">
                 <div class="text-center">
-                    <h1 class="title-section text-blue">Here’s where we are going this January!</h1>
+                    <h1 class="title-section text-blue">Here's where we will be!</h1>
                 </div>
             </div>
         </div>
-        <div class="row pb-lg-6 allPolyContainer">
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle1" type="checkbox">
-                    <label for="toggle1">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-1" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
-                                <h6 class="polyName">
-                                    NGEE ANN POLYTECHNIC
-                                </h6>
-                                <p class="eventDescription first">
-                                        4 Jan 2024 || 10am-6pm,<br>
-                                        Outside Makan Place
-                                </p>
-                            </div>
+    </div>
+    <div class="row pb-lg-6 allPolyContainer">
+        <div id="polytechnicContainer" class="polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle1" type="checkbox">
+                <label for="toggle1">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-1" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                NGEE ANN POLYTECHNIC
+                            </h6>
+                            <p class="eventDescription first">
+                                    4 Jan 2024 || 10am-6pm,<br>
+                                    Outside Makan Place
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle2" type="checkbox">
-                    <label for="toggle2">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-2" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
-                                <h6 class="polyName">
-                                    SINGAPORE POLYTECHNIC
-                                </h6>
-                                <p class="eventDescription second">
-                                    5 Jan 2024 || 10am-6pm,<br>
-                                    Eleven2, Block T11A
-                                </p>
-                            </div>
+        </div>
+        <div id="polytechnicContainer" class="polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle2" type="checkbox">
+                <label for="toggle2">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-2" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                SINGAPORE POLYTECHNIC
+                            </h6>
+                            <p class="eventDescription second">
+                                5 Jan 2024 || 10am-6pm,<br>
+                                Eleven2, Block T11A
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle3" type="checkbox">
-                    <label for="toggle3">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-3" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
-                                <h6 class="polyName">
-                                    TEMAESK POLYTECHNIC
-                                </h6>
-                                <p class="eventDescription third">
-                                    5 Jan 2024 || 10am-8pm,<br>
-                                    Mushroom by The Plaza
-                                </p>
-                            </div>
+        </div>
+        <div id="polytechnicContainer" class="col-sm-12 col-md-6 col-lg-3 polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle3" type="checkbox">
+                <label for="toggle3">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-3" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                TEMASEK POLYTECHNIC
+                            </h6>
+                            <p class="eventDescription third">
+                                5 Jan 2024 || 10am-8pm,<br>
+                                Mushroom by The Plaza
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle4" type="checkbox">
-                    <label for="toggle4">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-4" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
-                                <h6 class="polyName">
-                                    NANYANG POLYTECHNIC
-                                </h6>
-                                <p class="eventDescription fourth">
-                                    6 Jan 2024 || 10am-6pm,<br>
-                                    Auditorium Lobby
-                                </p>
-                            </div>
+        </div>
+        <div id="polytechnicContainer" class="polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle4" type="checkbox">
+                <label for="toggle4">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-4" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                NANYANG POLYTECHNIC
+                            </h6>
+                            <p class="eventDescription fourth">
+                                6 Jan 2024 || 10am-6pm,<br>
+                                Auditorium Lobby
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle5" type="checkbox">
-                    <label for="toggle5">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-5" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
-                                <h6 class="polyName">
-                                    REPUBLIC POLYTECHNIC
-                                </h6>
-                                <p class="eventDescription fifth">
-                                    6 Jan 2024 || 10am-6pm<br>
-                                    Entrance to School of Engineering
-                                </p>
-                            </div>
+        </div>
+        <div id="polytechnicContainer" class="polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle5" type="checkbox">
+                <label for="toggle5">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-5" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                REPUBLIC POLYTECHNIC
+                            </h6>
+                            <p class="eventDescription fifth">
+                                6 Jan 2024 || 10am-6pm<br>
+                                Entrance to School of Engineering
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
-            <div id="polytechnicContainer" class="col-sm-12 col-md-3 polytechnicContainer">
-                <div class="row contentWrapper">
-                    <input id="toggle6" type="checkbox">
-                    <label for="toggle6">
-                        <div class="row contentWrapper cardMargin">
-                            <div id="poly-6" class="arrowWrapper col-auto">
-                                    <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                    <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
-                            </div>
-                            <div class="detailsWrapper col-sm-10 col-md-7">
-                                <h6 class="polyName">
-                                    SINGAPORE INSTITUTE OF TECHNOLOGY
-                                </h6>
-                                <p class="eventDescription fifth">
-                                    15-16 Jan 2024 || 11am-5pm<br>
-                                    Academic Plaza, Level 1, Event Foyer
-                                </p>
-                            </div>
+        </div>
+        <div id="polytechnicContainer" class="polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle6" type="checkbox">
+                <label for="toggle6">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-6" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
-                    </label>
-                </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                SINGAPORE INSTITUTE OF TECHNOLOGY
+                            </h6>
+                            <p class="eventDescription sixth">
+                                18 Jan 2024 || 11am-5pm <br>
+                                Academic Plaza, Event Foyer, Level 1
+                            </p>
+                        </div>
+                    </div>
+                </label>
+            </div>
+        </div>
+        <div id="polytechnicContainer" class="polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle7" type="checkbox">
+                <label for="toggle7">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-7" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                NANYANG TECHNOLOGICAL UNIVERSITY
+                            </h6>
+                            <p class="eventDescription seventh">
+                                1 &amp; 6 Feb 2024 || 10am-5pm <br>
+                                Nanyang Auditorium, Level B1
+                            </p>
+                        </div>
+                    </div>
+                </label>
+            </div>
+        </div>
+        <div id="polytechnicContainer" class="polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle8" type="checkbox">
+                <label for="toggle8">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-8" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                NATIONAL UNIVERSITY OF SINGAPORE
+                            </h6>
+                            <p class="eventDescription eight">
+                                20-22 Feb 2024 || 10.30am-4.30pm <br>
+                                Stephen Riady Centre, University Town Sports Hall 1
+                            </p>
+                        </div>
+                    </div>
+                </label>
             </div>
         </div>
     </div>
@@ -16617,6 +16819,22 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
+                    <a target="_blank" href="https://www1.bca.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/BCA.png">
+                    </a>
+                </div>
+                <p class="agencyName">BCA</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
+                    <a target="_blank" href="https://www.csa.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/CSA.png">
+                    </a>
+                </div>
+                <p class="agencyName">CSA</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
                     <a target="_blank" href="https://www.mindef.gov.sg/oms/dis/">
                         <img src="/images/2024%20Open%20Houses/DIS.png">
                     </a>
@@ -16641,11 +16859,43 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
+                    <a target="_blank" href="https://www.tech.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/GOVTECH.png">
+                    </a>
+                </div>
+                <p class="agencyName">GOVTECH</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
+                    <a target="_blank" href="https://www.hdb.gov.sg/cs/infoweb/homepage">
+                        <img src="/images/2024%20Open%20Houses/HDB.png">
+                    </a>
+                </div>
+                <p class="agencyName">HDB</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
                     <a target="_blank" href="https://www.htx.gov.sg/">
                         <img src="/images/2024%20Open%20Houses/HTX.png">
                     </a>
                 </div>
                 <p class="agencyName">HTX</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
+                    <a target="_blank" href="https://www.imda.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/IMDA.png">
+                    </a>
+                </div>
+                <p class="agencyName">IMDA</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
+                    <a target="_blank" href="https://www.jtc.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/JTC.png">
+                    </a>
+                </div>
+                <p class="agencyName">JTC</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
@@ -16689,8 +16939,16 @@ third_nav_title: Events
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
+                    <a target="_blank" href="https://www.mindef.gov.sg/web/portal/rsaf/home/">
+                        <img src="/images/2024%20Open%20Houses/RSAF.png">
+                    </a>
+                </div>
+                <p class="agencyName">RSAF</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
                     <a target="_blank" href="https://www.mindef.gov.sg/web/portal/mindef/home">
-                        <img src="/images/2024%20Open%20Houses/SAF.png">
+                        <img src="/images/2024%20Open%20Houses/SAF_new.png">
                     </a>
                 </div>
                 <p class="agencyName">SAF</p>
@@ -16710,6 +16968,14 @@ third_nav_title: Events
                     </a>
                 </div>
                 <p class="agencyName">SFA</p>
+            </div>
+            <div class="agencyBox col-sm-6 col-md-2">
+                <div class="agencyImg">
+                    <a target="_blank" href="https://www.smartnation.gov.sg/">
+                        <img src="/images/2024%20Open%20Houses/SNG.png">
+                    </a>
+                </div>
+                <p class="agencyName">SNG</p>
             </div>
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
