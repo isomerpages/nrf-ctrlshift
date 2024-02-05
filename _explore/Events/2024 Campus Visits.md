@@ -16786,7 +16786,7 @@ third_nav_title: Events
                             </h6>
                             <p class="eventDescription eight">
                                 20-22 Feb 2024 || 10.30am-4.30pm <br>
-                                Stephen Riady Centre, University Town Sports Hall 1
+                                Stephen Riady Centre, University Town Sports Hall 2
                             </p>
                         </div>
                     </div>
