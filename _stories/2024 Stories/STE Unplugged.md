@@ -6,7 +6,7 @@ description: ""
 third_nav_title: 2024 Stories
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/social thumbnail.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/stories/2024 Stories   STE Unplugged/CtrlShift_Editorial_Theme1_CoverImage_Website.jpg">
 </div>
 <h2><strong>STE Unplugged: Intimate Narratives of Today’s STE Revolutionaries</strong></h2>
 <p>Remember those brainy innovators from our STEP Up series, guiding you
