@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - 2024 Stories/STE Unplugged.md
       - 2024 Stories/.keep
       - STE Innovations/.keep
       - STE Innovations/punggol-digital-district.md
