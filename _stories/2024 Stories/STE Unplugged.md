@@ -18,8 +18,8 @@ paths to innovation. Merging their passion for invention with personal
 tales, we’re showcasing the people behind the projects—their hobbies, inspirations,
 and the unique journeys that led them here.</p>
 <p>Click below to read the entire magazine!&nbsp;</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.ctrlshift.gov.sg/files/STE_Unplugged_Desktop.pdf" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Desktop Version</div><div class="isomer-card-link">View Here</div></div></a>
-<a rel="noopener noreferrer nofollow" href="https://www.ctrlshift.gov.sg/files/STE_Unplugged_Desktop.pdf" class="isomer-card">
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.google.com/" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Desktop Version</div><div class="isomer-card-link">View Here</div></div></a>
+<a rel="noopener noreferrer nofollow" href="https://www.google.com/" class="isomer-card">
 <div class="isomer-card-body">
 <div class="isomer-card-title">Mobile Version</div>
 <div class="isomer-card-link">View Here</div>
