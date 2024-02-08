@@ -17,6 +17,6 @@ there?</p>
 paths to innovation. Merging their passion for invention with personal
 tales, we’re showcasing the people behind the projects—their hobbies, inspirations,
 and the unique journeys that led them here.</p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1DaAvdeqwNwIKOV7YN9d7tHi388xvmqkc/view?usp=sharing" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Find the entire magazine here!</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1_LZIhzwlOqGzWfjLWCNPj2Eg4RVLYha7/view?usp=sharing" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Find the entire magazine here!</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
