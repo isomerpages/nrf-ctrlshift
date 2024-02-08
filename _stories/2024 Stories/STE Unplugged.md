@@ -19,6 +19,8 @@ there?</p>
 paths to innovation. Merging their passion for invention with personal
 tales, we’re showcasing the people behind the projects—their hobbies, inspirations,
 and the unique journeys that led them here.</p>
+<p><a href="/files/STE_Unplugged.pdf" rel="noopener noreferrer nofollow" target="_blank">file</a>
+</p>
 <div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Desktop Version</div><div class="isomer-card-link">View Here</div></div></a>
 <a rel="noopener noreferrer nofollow" href="https://www.isomer.gov.sg" class="isomer-card">
 <div class="isomer-card-body">
