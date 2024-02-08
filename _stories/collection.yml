@@ -2,6 +2,8 @@ collections:
   stories:
     output: true
     order:
+      - 2024 stories/.keep
+      - 2024 stories/STE Unplugged.md
       - STE Innovations/.keep
       - STE Innovations/punggol-digital-district.md
       - STE Innovations/parents-gateway.md
@@ -19,8 +21,8 @@ collections:
       - STE Innovations/heron-1-uav.md
       - STE Innovations/singapore-lng-terminal.md
       - STE Innovations/myresponder.md
-      - 2022 stories/Transforming Singapore’s Landscape with Technology.md
       - 2022 stories/.keep
+      - 2022 stories/Transforming Singapore’s Landscape with Technology.md
       - 2022 stories/Embracing Singapore’s Wild Side.md
       - "2022 stories/Marvellous Singapore: Infinite Possibilities at your
         Fingertips.md"
@@ -35,6 +37,7 @@ collections:
         Augmented Reality.md"
       - 2022 stories/Defending Borders and Protecting Our People.md
       - 2022 stories/Building Singapore from the (Under)Ground Up.md
+      - 2021 stories/.keep
       - 2021 stories/transforming-the-future-of-rail.md
       - 2021
         stories/tech-at-play-rolling-out-innovations-at-jurong-lake-gardens.md
@@ -49,4 +52,3 @@ collections:
       - 2021 stories/a-greener-singapore-one-building-at-a-time.md
       - "2021 stories/Marvellous Singapore: Infinite Possibilities at your
         Fingertips.md"
-      - 2021 stories/.keep
