@@ -15,7 +15,6 @@ how they got to where they are now?</p>
 <p>Discover the inside scoop in STE Unplugged as we blend passion for invention
 with personal tales, and shine a light on the movers and shakers in our
 nation's STE scene!</p>
-<p></p>
-<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/1_LZIhzwlOqGzWfjLWCNPj2Eg4RVLYha7/view?usp=sharing" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Find the entire magazine here!</div><div class="isomer-card-link">Read more</div></div></a>
+<div class="isomer-card-grid"><a rel="noopener noreferrer nofollow" href="https://drive.google.com/file/d/13b78TCtd_C0r-C2mMEvjGv3E7J8SB6jZ/view?usp=sharing" class="isomer-card"><div class="isomer-card-body"><div class="isomer-card-title">Find the entire magazine here!</div><div class="isomer-card-link">Read more</div></div></a>
 </div>
 <p></p>
