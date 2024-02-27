@@ -16264,7 +16264,7 @@ third_nav_title: Events
     #toggle5:not(:checked) + label .contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
     #toggle7:not(:checked) + label .contentWrapper , #toggle8:not(:checked) + label .contentWrapper,
     #toggle9:not(:checked) + label .contentWrapper  {
-        height: 120px;
+        height: 130px;
         transition: height 0.25 ease-in;
     }
 
