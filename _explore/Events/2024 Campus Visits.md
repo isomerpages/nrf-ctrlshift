@@ -16216,14 +16216,15 @@ third_nav_title: Events
         transition-duration: 0ms;
     }
 
-    #toggle1,#toggle2,#toggle3,#toggle4,#toggle5,#toggle6,#toggle7,#toggle8 {
+    #toggle1,#toggle2,#toggle3,#toggle4,#toggle5,#toggle6,#toggle7,#toggle8,#toggle9 {
       display: none;
     }
 
     #toggle1:checked + label img.singleArrowIcon , #toggle2:checked + label img.singleArrowIcon , 
     #toggle3:checked + label img.singleArrowIcon , #toggle4:checked + label img.singleArrowIcon, 
     #toggle5:checked + label img.singleArrowIcon , #toggle6:checked + label img.singleArrowIcon,
-    #toggle7:checked + label img.singleArrowIcon , #toggle8:checked + label img.singleArrowIcon {
+    #toggle7:checked + label img.singleArrowIcon , #toggle8:checked + label img.singleArrowIcon,
+    #toggle9:checked + label img.singleArrowIcon {
         opacity:0;
         height: 0;
     }
@@ -16231,7 +16232,8 @@ third_nav_title: Events
     #toggle1:checked + label img.multipleArrowIcon , #toggle2:checked + label img.multipleArrowIcon  , 
     #toggle3:checked + label img.multipleArrowIcon  , #toggle4:checked + label img.multipleArrowIcon , 
     #toggle5:checked + label img.multipleArrowIcon , #toggle6:checked + label img.multipleArrowIcon,
-    #toggle7:checked + label img.multipleArrowIcon , #toggle8:checked + label img.multipleArrowIcon   {
+    #toggle7:checked + label img.multipleArrowIcon , #toggle8:checked + label img.multipleArrowIcon,
+    #toggle9:checked + label img.multipleArrowIcon   {
         opacity:1;
         height: 100%;
         display: block;
@@ -16240,70 +16242,78 @@ third_nav_title: Events
     #toggle1:checked + label p.eventDescription.first , #toggle2:checked + label p.eventDescription.second , 
     #toggle3:checked + label p.eventDescription.third , #toggle4:checked + label p.eventDescription.fourth, 
     #toggle5:checked + label p.eventDescription.fifth , #toggle6:checked + label p.eventDescription.sixth,
-    #toggle7:checked + label p.eventDescription.seventh , #toggle8:checked + label p.eventDescription.eight  {
+    #toggle7:checked + label p.eventDescription.seventh , #toggle8:checked + label p.eventDescription.eight,
+    #toggle9:checked + label p.eventDescription.ninth  {
         margin-top: 8px!important;
         margin-bottom: 10px!important;
         opacity:1;
         height: 100%;
     }
 
-    #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
-    #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
-    #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
-    #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
+    #toggle1:checked + label .contentWrapper , #toggle2:checked + label .contentWrapper , 
+    #toggle3:checked + label .contentWrapper , #toggle4:checked + label .contentWrapper, 
+    #toggle5:checked + label .contentWrapper , #toggle6:checked + label .contentWrapper,
+    #toggle7:checked + label .contentWrapper , #toggle8:checked + label .contentWrapper,
+    #toggle9:checked + label .contentWrapper  {
         height: 180px;
         transition: height 0.25 ease-in;
     }
 
-    #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
-    #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-    #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
-    #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
-        height: 100px;
+    #toggle1:not(:checked) + label .contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
+    #toggle3:not(:checked) + label .contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
+    #toggle5:not(:checked) + label .contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
+    #toggle7:not(:checked) + label .contentWrapper , #toggle8:not(:checked) + label .contentWrapper,
+    #toggle9:not(:checked) + label .contentWrapper  {
+        height: 130px;
         transition: height 0.25 ease-in;
     }
 
     @media (max-width: 600px) {
-        #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
-        #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
-        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
-        #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
+        #toggle1:checked + label .contentWrapper , #toggle2:checked + label .contentWrapper , 
+        #toggle3:checked + label .contentWrapper , #toggle4:checked + label .contentWrapper, 
+        #toggle5:checked + label .contentWrapper , #toggle6:checked + label .contentWrapper,
+        #toggle7:checked + label .contentWrapper , #toggle8:checked + label .contentWrapper,
+        #toggle9:checked + label .contentWrapper   {
             height: fit-content;
             transition: height 0.25 ease-in;
         }
 
-        #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
-        #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
-        #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
+        #toggle1:not(:checked) + label .contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
+        #toggle3:not(:checked) + label .contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
+        #toggle5:not(:checked) + label .contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
+        #toggle7:not(:checked) + label .contentWrapper , #toggle8:not(:checked) + label .contentWrapper,
+        #toggle9:not(:checked) + label .contentWrapper   {
             height: fit-content;
             transition: height 0.25 ease-in;
         }
     }
 
     @media (min-width: 601px) and (max-width: 767px) {
-        #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
-        #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
-        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
-        #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
+        #toggle1:checked + label .contentWrapper , #toggle2:checked + label .contentWrapper , 
+        #toggle3:checked + label .contentWrapper , #toggle4:checked + label .contentWrapper, 
+        #toggle5:checked + label .contentWrapper , #toggle6:checked + label .contentWrapper,
+        #toggle7:checked + label .contentWrapper , #toggle8:checked + label .contentWrapper,
+        #toggle9:checked + label .contentWrapper  {
             height: 260px;
             transition: height 0.25 ease-in;
         }
 
-        #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
-        #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
-        #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
+        #toggle1:not(:checked) + label .contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
+        #toggle3:not(:checked) + label .contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
+        #toggle5:not(:checked) + label .contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
+        #toggle7:not(:checked) + label .contentWrapper , #toggle8:not(:checked) + label .contentWrapper,
+        #toggle9:not(:checked) + label .contentWrapper  {
             height: 180px;
             transition: height 0.25 ease-in;
         }
     }
 
     @media (min-width: 768px) and (max-width: 1279px) {
-        #toggle1:checked + label div.row.contentWrapper , #toggle2:checked + label .contentWrapper , 
-        #toggle3:checked + label div.row.contentWrapper , #toggle4:checked + label .contentWrapper, 
-        #toggle5:checked + label div.row.contentWrapper , #toggle6:checked + label .contentWrapper,
-        #toggle7:checked + label div.row.contentWrapper , #toggle8:checked + label .contentWrapper  {
+        #toggle1:checked + label .contentWrapper , #toggle2:checked + label .contentWrapper , 
+        #toggle3:checked + label .contentWrapper , #toggle4:checked + label .contentWrapper, 
+        #toggle5:checked + label .contentWrapper , #toggle6:checked + label .contentWrapper,
+        #toggle7:checked + label .contentWrapper , #toggle8:checked + label .contentWrapper,
+        #toggle9:checked + label .contentWrapper  {
             height: 200px;
             transition: height 0.25 ease-in;
         }
@@ -16311,7 +16321,8 @@ third_nav_title: Events
         #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
         #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
         #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
-        #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper  {
+        #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper,
+        #toggle9:not(:checked) + label .contentWrapper   {
             height: 120px;
             transition: height 0.25 ease-in;
         }
@@ -16787,6 +16798,28 @@ third_nav_title: Events
                             <p class="eventDescription eight">
                                 20-22 Feb 2024 || 10.30am-4.30pm <br>
                                 Stephen Riady Centre, University Town Sports Hall 2
+                            </p>
+                        </div>
+                    </div>
+                </label>
+            </div>
+        </div>
+        <div id="polytechnicContainer" class="polytechnicContainer">
+            <div class="row contentWrapper">
+                <input id="toggle9" type="checkbox">
+                <label for="toggle9">
+                    <div class="row contentWrapper cardMargin">
+                        <div id="poly-9" class="arrowWrapper col-auto">
+                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                        </div>
+                        <div class="detailsWrapper col-sm-10 col-md-9">
+                            <h6 class="polyName">
+                                SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN 
+                            </h6>
+                            <p class="eventDescription ninth">
+                                20 Mar 2024 || 11am-6pm<br>
+                                SUTD Campus Centre Level 1 (Sheltered Walkway)
                             </p>
                         </div>
                     </div>
