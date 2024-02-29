@@ -1,0 +1,14 @@
+logo: /images/site settings/ctrlshiftlogo.png
+links:
+  - title: About Us
+    url: /about-us
+  - title: Explore
+    collection: explore
+  - title: Careers
+    collection: careers
+  - title: Stories
+    collection: stories
+  - title: Newsroom
+    resource_room: true
+  - title: Contact Us
+    url: /contact-us

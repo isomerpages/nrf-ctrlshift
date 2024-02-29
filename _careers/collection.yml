@@ -1,0 +1,33 @@
+collections:
+  careers:
+    output: true
+    order:
+      - Career Opportunities/.keep
+      - Career Opportunities/bca.md
+      - Career Opportunities/cpf.md
+      - Career Opportunities/csa.md
+      - Career Opportunities/dso.md
+      - Career Opportunities/dsta.md
+      - Career Opportunities/ema.md
+      - Career Opportunities/govtech.md
+      - Career Opportunities/hdb.md
+      - Career Opportunities/iras.md
+      - Career Opportunities/jtc.md
+      - Career Opportunities/lta.md
+      - Career Opportunities/mindef.md
+      - Career Opportunities/nea.md
+      - Career Opportunities/pub.md
+      - Career Opportunities/ura.md
+      - Meet the Professionals/building-a-next-generation-port.md
+      - Meet the Professionals/powering-evs-for-a-greener-future.md
+      - Meet the Professionals/a-better-home-for-people-and-wildlife.md
+      - Meet the Professionals/enhancing-food-resilience-with-plant-proteins.md
+      - Meet the Professionals/ensuring-food-safety-in-singapore.md
+      - Meet the
+        Professionals/shaping-dynamic-living-spaces-through-technology.md
+      - Meet the Professionals/Redefining the taste, texture and flavour of our
+        hawker favourites.md
+      - Meet the Professionals/How do you maintain Singapore's greenery with
+        Tech?.md
+      - Meet the Professionals/Powering Singapore to go green.md
+      - Meet the Professionals/.keep

@@ -1,0 +1,5 @@
+collections:
+  about:
+    output: true
+    order:
+      - About Us.md

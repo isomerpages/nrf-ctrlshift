@@ -1,0 +1,18 @@
+collections:
+  archived-meet-the-engineers:
+    output: true
+    order:
+      - cheng-wee-kiang.md
+      - ahmad-nadim-bin-zainal.md
+      - norman-tan.md
+      - laura-lee.md
+      - goh-chue-hsien.md
+      - faisal-ahmad.md
+      - cindy-wang-xiaochen.md
+      - hoon-ding-yi.md
+      - idaly-mamat.md
+      - zann-tay.md
+      - chua-wee-liang.md
+      - farook-maideen.md
+      - khairunnisa-binte-yahya.md
+      - chen-juncheng.md

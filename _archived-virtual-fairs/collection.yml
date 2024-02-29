@@ -1,0 +1,6 @@
+collections:
+  archived-virtual-fairs:
+    output: true
+    order:
+      - Virtual Career Fair 2022.md
+      - Virtual Career Fair 2021.md
