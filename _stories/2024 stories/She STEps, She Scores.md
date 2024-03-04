@@ -165,15 +165,11 @@ max-width: 79vw;
 }
 
   
-
-@media screen and (max-width:375px) {
-
-.divWrapper{
-
-max-width: 77vw;
-
-}
-
+@media screen and (max-width:414px) {
+	
+	.divWrapper{
+	max-width: 78vw;
+	}
 }
 
 a[href$=".pdf"]:before,
