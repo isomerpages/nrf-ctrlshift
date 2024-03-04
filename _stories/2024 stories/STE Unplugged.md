@@ -50,26 +50,16 @@ third_nav_title: 2024 stories
 	}
 	
 	.backDiv {
-
-position: absolute;
-
-z-index: -1;
-
-left: 0px;
-
-bottom:20px;
-
-transition: 0.1s ease-in-out;
-
-width: 100%;
-
-max-width: 800px;
-
-height: auto;
-
-max-height: 135px;
-
-}
+	position: absolute;
+	z-index: -1;
+	left: 0px;
+	bottom:20px;
+	transition: 0.1s ease-in-out;
+	width: 100%;
+	max-width: 800px;
+	height: auto;
+	max-height: 135px;
+	}
 	
 	.catBtn:active .frontDiv {
 	transform: translate(14px, 14px);
