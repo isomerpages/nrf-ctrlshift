@@ -124,7 +124,7 @@ a[href$=".pdf"]:before,
 	margin:0;
 	}
 	
-	a{
+	a.storiesLink{
 	color:black!important;
 	}
 </style>
@@ -132,10 +132,10 @@ a[href$=".pdf"]:before,
 
 <div class="mainContainer">
 	<div class="contentText">
-		<p>Remember those brainy innovators from our <a target="_blank" href="https://www.ctrlshift.gov.sg/explore/video-series/">STE+P Up Video Series</a> , guiding you through groundbreaking Public Service projects? Ever wondered how they got to where they are now?</p>
+		<p>Remember those brainy innovators from our <a class="storiesLink" target="_blank" href="https://www.ctrlshift.gov.sg/explore/video-series/">STE+P Up Video Series</a> , guiding you through groundbreaking Public Service projects? Ever wondered how they got to where they are now?</p>
 		<p>Discover the inside scoop in STE Unplugged as we blend passion for invention with personal tales, and shine a light on the movers and shakers in our nation's STE scene!</p>
 	</div>
-	<a target="_blank" href="#" class="catBtn desktopBtn">
+	<a target="_blank" href="/files/STE\_Unplugged.pdf" class="catBtn desktopBtn">
 		<div class="divWrapper">
 			<div class="frontDiv">
 				<img src="/images/Editorial%20Template/CTA_Btn_X2.png" class="imgFront">
@@ -145,7 +145,7 @@ a[href$=".pdf"]:before,
 			</div>
 		</div>
 	</a>
-	<a target="_blank" href="#" class="catBtn mobileBtn">
+	<a target="_blank" href="/files/STE\_Unplugged.pdf" class="catBtn mobileBtn">
 		<div class="divWrapper">
 			<div class="frontDiv">
 				<img src="/images/Editorial%20Template/cta_btn_mobile_x2.png" class="imgFront">
