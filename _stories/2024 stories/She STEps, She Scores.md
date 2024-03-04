@@ -160,7 +160,7 @@ max-width: 79vw;
 
   
 
-@media screen and (max-width:350px) {
+@media screen and (max-width:375px) {
 
 .divWrapper{
 
