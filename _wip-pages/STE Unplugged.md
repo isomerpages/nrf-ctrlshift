@@ -13,6 +13,10 @@ description: ""
 	flex-direction: column;
 	}
 	
+	.contentText{
+		padding-bottom:32px;
+	}
+	
 	.catBtn {
 	border: 0;
 	background-color: transparent;
@@ -88,6 +92,17 @@ description: ""
 	.mobileBtn {
 	display: flex;
 	}
+	
+	.divWrapper{
+	max-width: 79vw;
+	}
+}
+	
+@media screen and (max-width:350px) {
+	
+	.divWrapper{
+	max-width: 77vw;
+	}
 }
 	
 	a[href$=".pdf"]:before{
@@ -97,14 +112,18 @@ description: ""
 	a[href$=".pdf"]{
 	margin:0;
 	}
+	
+	a{
+	color:black!important;
+	}
 </style>
 ![](/images/stories/2024%20Stories%20%20%20STE%20Unplugged/CtrlShift_Editorial_Theme1_CoverImage_Website.jpg)
 
-Remember those brainy innovators from our [STE+P Up Video Series](https://www.ctrlshift.gov.sg/explore/video-series/) , guiding you through groundbreaking Public Service projects? Ever wondered how they got to where they are now?
-
-Discover the inside scoop in STE Unplugged as we blend passion for invention with personal tales, and shine a light on the movers and shakers in our nation's STE scene!
-
 <div class="mainContainer">
+	<div class="contentText">
+		<p>Remember those brainy innovators from our <a target="_blank" href="https://www.ctrlshift.gov.sg/explore/video-series/">STE+P Up Video Series</a> , guiding you through groundbreaking Public Service projects? Ever wondered how they got to where they are now?</p>
+		<p>Discover the inside scoop in STE Unplugged as we blend passion for invention with personal tales, and shine a light on the movers and shakers in our nation's STE scene!</p>
+	</div>
 	<a target="_blank" href="/files/STE_Unplugged.pdf" class="catBtn desktopBtn">
 		<div class="divWrapper">
 			<div class="frontDiv">
