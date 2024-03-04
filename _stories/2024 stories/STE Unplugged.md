@@ -78,7 +78,7 @@ third_nav_title: 2024 stories
 	display: none;
 	}
 	
-@media screen and (max-width:1405px) {
+@media screen and (max-width:1407px) {
 
 .frontDiv{
 
@@ -144,7 +144,7 @@ transform: translate(10px, 10px);
 
 .frontDiv{
 
-max-width: 88.5vw;
+max-width: 89vw;
 
 }
 
@@ -162,7 +162,25 @@ max-width: 88.5vw;
 
 }
 
+  
+
+@media screen and (max-width:790px) {
+
+.frontDiv{
+
+max-width: 88vw;
+
+}
+
+}
+
 @media screen and (max-width:500px) {
+
+.divWrapper{
+
+max-width: 410px;
+
+}
 
 .desktopBtn {
 
@@ -180,7 +198,17 @@ display: flex;
 
 .frontDiv{
 
-max-width: 79vw;
+max-width: calc(88vw - 32px);
+
+max-height: 100px;
+
+}
+
+  
+
+.imgFront{
+
+object-fit: cover;
 
 }
 
@@ -196,11 +224,55 @@ max-height: 110px;
 
   
 
+@media screen and (max-width:480px) {
+
+.frontDiv{
+
+max-width: calc(88vw - 32px)
+
+}
+
+}
+
+  
+
 @media screen and (max-width:414px) {
 
 .frontDiv{
 
-max-width: 78vw;
+max-width: calc(86vw - 32px)
+
+}
+
+}
+
+  
+
+@media screen and (max-width:380px) {
+
+.frontDiv{
+
+max-width: calc(85.5vw - 32px)
+
+}
+
+  
+
+.backDiv{
+
+bottom: 17px;
+
+}
+
+}
+
+  
+
+@media screen and (max-width:370px) {
+
+.frontDiv{
+
+max-width: calc(85vw - 32px)
 
 }
 
