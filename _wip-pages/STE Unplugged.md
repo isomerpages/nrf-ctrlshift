@@ -7,290 +7,92 @@ description: ""
 <style>
 
 .mainContainer {
-
-  
-
-margin: 16px;
-
-  
-
-display: flex;
-
-  
-
-position: relative;
-
-  
-
-flex-direction: column;
-
-  
-
-}
-
-  
-
-.catBtn {
-
-  
-
-border: 0;
-
-  
-
-background-color: transparent;
-
-  
-
-display: flex;
-
-  
-
-flex-wrap: wrap;
-
-  
-
-width: 100%;
-
-  
-
-max-width: 800px;
-
-  
-
-}
-
-  
-  
-  
-
-.divWrapper {
-
-  
-
-width: 100%;
-
-  
-
-max-width: 800px;
-
-  
-
-height: 100%;
-
-  
-
-max-height: 124px;
-
-  
-
-display: flex;
-
-  
-
-flex-wrap: wrap;
-
-  
-
-}
-
-  
-  
-  
-
-.frontDiv {
-
-  
-
-transition: 0.1s linear;
-
-  
-
-height: auto;
-
-  
-
-max-height: 124px;
-
-  
-
-width: 100%;
-
-  
-
-}
-
-  
-  
-  
-
-.imgFront,
-
-  
-
-.imgBack {
-
-  
-
-height: 100%;
-
-  
-
-width: 100%;
-
-  
-
-}
-
-  
-  
-  
-
-.backDiv {
-
-  
-
-position: absolute;
-
-  
-
-z-index: -1;
-
-  
-
-top: 0px;
-
-  
-
-left: 0px;
-
-  
-
-transition: 0.1s ease-in-out;
-
-  
-
-width: 100%;
-
-  
-
-max-width: 813px;
-
-  
-
-height: auto;
-
-  
-
-max-height: 135px
-
-}
-
-  
-  
-  
-
-.catBtn:active .frontDiv {
-
-  
-
-transform: translate(14px, 14px);
-
-  
-
-}
-
-  
-  
-  
-
-.catBtn:active .backDiv {
-
-  
-
-opacity: 0;
-
-  
-
-}
-
-  
-  
-  
-
-.catText {
-
-  
-
-color: white !important;
-
-  
-
-font-size: 24px;
-
-  
-
-font-weight: 900;
-
-  
-
-line-height: 32px;
-
-  
-
-letter-spacing: 0em;
-
-  
-
-text-align: center;
-
-  
-
-}
-
-  
-
-.desktopBtn {
-
-display: flex;
-
-}
-
-  
-
-.mobileBtn {
-
-display: none;
-
-}
-
+	margin: 16px;
+	display: flex;
+	position: relative;
+	flex-direction: column;
+	}
+	
+	.catBtn {
+	border: 0;
+	background-color: transparent;
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	max-width: 800px;
+	}
+	
+	.divWrapper {
+	width: 100%;
+	max-width: 800px;
+	height: 100%;
+	max-height: 124px;
+	display: flex;
+	flex-wrap: wrap;
+	}
+	
+	.frontDiv {
+	transition: 0.1s linear;
+	height: auto;
+	max-height: 124px;
+	width: 100%;
+	}
+	
+	.imgFront,
+	.imgBack {
+	height: 100%;
+	width: 100%;
+	}
+	
+	.backDiv {
+	position: absolute;
+	z-index: -1;
+	top: 0px;
+	left: 0px;
+	transition: 0.1s ease-in-out;
+	width: 100%;
+	max-width: 813px;
+	height: auto;
+	max-height: 135px;
+	}
+	
+	.catBtn:active .frontDiv {
+	transform: translate(14px, 14px);
+	}
+	
+	.catBtn:active .backDiv {
+	opacity: 0;
+	}
+	
+	.desktopBtn {
+	display: flex;
+	}
+	
+	.mobileBtn {
+	display: none;
+	}
+	
 @media screen and (max-width:860px) {
-
-  
-
-.catBtn:active .frontDiv {
-
-transform: translate(10px, 10px);
-
+	
+	.catBtn:active .frontDiv {
+	transform: translate(10px, 10px);
+	}
 }
-
-}
-
+	
 @media screen and (max-width:500px) {
-
-.desktopBtn {
-
-display: none;
-
+	
+	.desktopBtn {
+	display: none;
+	}
+	
+	.mobileBtn {
+	display: flex;
+	}
 }
-
-.mobileBtn {
-
-display: flex;
-
-}
-
-}
+	
+	a[href$=".pdf"]:before{
+	display:none;
+	}
 </style>
 ![](/images/stories/2024%20Stories%20%20%20STE%20Unplugged/CtrlShift_Editorial_Theme1_CoverImage_Website.jpg)
 
