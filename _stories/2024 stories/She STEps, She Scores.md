@@ -124,23 +124,109 @@ display: none;
 
 }
 
-@media screen and (max-width:1280px) {
-	.divWrapper{
-	max-width: 59vw;
-	}
+@media screen and (max-width:1407px) {
+
+.frontDiv{
+
+max-width: 758px;
+
+}
+
+}
+
+@media screen and (max-width:1279px) {
+
+.frontDiv{
+
+max-width: 590px;
+
+}
+
+.backDiv{
+
+bottom: 23px;
+
+}
+
+}
+
+@media screen and (max-width:1023px) {
+
+.frontDiv{
+
+max-width: 786px;
+
+}
+
+.backDiv{
+
+bottom: 22px;
+
+}
+
+}
+
+  
+
+@media screen and (max-width:880px) {
+
+.frontDiv{
+
+max-width: 89.5vw;
+
+}
+
 }
 
 @media screen and (max-width:860px) {
-	.catBtn:active .frontDiv {
-	transform: translate(10px, 10px);
-	}
-	
-	.divWrapper{
-	max-width: 88vw;
-	}
+
+.catBtn:active .frontDiv {
+
+transform: translate(10px, 10px);
+
+}
+
+  
+
+.frontDiv{
+
+max-width: 89vw;
+
+}
+
+}
+
+  
+
+@media screen and (max-width:820px) {
+
+.frontDiv{
+
+max-width: 88.5vw;
+
+}
+
+}
+
+  
+
+@media screen and (max-width:790px) {
+
+.frontDiv{
+
+max-width: 88vw;
+
+}
+
 }
 
 @media screen and (max-width:500px) {
+
+.divWrapper{
+
+max-width: 410px;
+
+}
 
 .desktopBtn {
 
@@ -156,31 +242,90 @@ display: flex;
 
   
 
-.divWrapper{
+.frontDiv{
 
-max-width: 79vw;
+max-width: calc(88vw - 32px);
+
+max-height: 100px;
+
+}
+
+  
+
+.imgFront{
+
+object-fit: cover;
+
+}
+
+  
+
+.imgBack{
+
+max-height: 110px;
 
 }
 
 }
 
   
-@media screen and (max-width:414px) {
-	
-	.divWrapper{
-	max-width: 78vw;
-	}
+
+@media screen and (max-width:480px) {
+
+.frontDiv{
+
+max-width: calc(88vw - 32px)
+
 }
 
-a[href$=".pdf"]:before,
+}
+
+  
+
+@media screen and (max-width:414px) {
+
+.frontDiv{
+
+max-width: calc(86vw - 32px)
+
+}
+
+}
+
+  
+
+@media screen and (max-width:380px) {
+
+.frontDiv{
+
+max-width: calc(85.5vw - 32px)
+
+}
+
+  
+
+.backDiv{
+
+bottom: 17px;
+
+}
+
+}
+
+  
+
+@media screen and (max-width:370px) {
+
+.frontDiv{
+
+max-width: calc(85vw - 32px)
+
+}
+
+}
+
 	a[target="_blank"]:after{
 display:none;
-}
-
-a[href$=".pdf"]{
-
-margin:0;
-
 }
 
 a.storiesLink{
@@ -198,7 +343,7 @@ color:black!important;
 		<p>Step into the inspiring tales of Poh Suan and Adele Tan, the trailblazers making waves in Singapore's STE scene, just in time for International Women's Day. Their stories of innovation and resilience shine a light on the exciting journey of women in science, technology, and engineering.</p>
 		<p>Ready for a dose of inspiration?</p>
 	</div>
-	<a target="_blank" href="/files/STE_Unplugged.pdf" class="catBtn desktopBtn">
+	<a target="_blank" href="https://go.gov.sg/ctrlshift-ed-steunplugged-desktop" class="catBtn desktopBtn">
 		<div class="divWrapper">
 			<div class="frontDiv">
 				<img src="/images/Editorial%20Template/CTA_Btn_X2.png" class="imgFront">
@@ -208,7 +353,7 @@ color:black!important;
 			</div>
 		</div>
 	</a>
-	<a target="_blank" href="/files/STE_Unplugged.pdf" class="catBtn mobileBtn">
+	<a target="_blank" href="https://go.gov.sg/ctrlshift-ed-steunplugged-desktop" class="catBtn mobileBtn">
 		<div class="divWrapper">
 			<div class="frontDiv">
 				<img src="/images/Editorial%20Template/cta_btn_mobile_x2.png" class="imgFront">
