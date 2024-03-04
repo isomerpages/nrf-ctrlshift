@@ -81,6 +81,10 @@ description: ""
 	.catBtn:active .frontDiv {
 	transform: translate(10px, 10px);
 	}
+	
+	.divWrapper{
+	max-width: 59vw;
+	}
 }
 	
 @media screen and (max-width:500px) {
