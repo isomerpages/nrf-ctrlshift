@@ -183,7 +183,7 @@ margin:0;
 
 }
 
-a{
+a.storiesLink{
 
 color:black!important;
 
