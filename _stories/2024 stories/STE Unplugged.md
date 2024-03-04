@@ -112,10 +112,10 @@ third_nav_title: 2024 stories
 	}
 }
 	
-@media screen and (max-width:375px) {
+@media screen and (max-width:414px) {
 	
 	.divWrapper{
-	max-width: 77vw;
+	max-width: 78vw;
 	}
 }
 	
