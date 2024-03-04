@@ -41,6 +41,7 @@ third_nav_title: 2024 stories
 	height: auto;
 	max-height: 124px;
 	width: 100%;
+	max-width: 786px;
 	}
 	
 	.imgFront,
