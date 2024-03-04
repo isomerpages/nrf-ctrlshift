@@ -194,8 +194,8 @@ color:black!important;
 
 <div class="mainContainer">
 	<div class="contentText">
-		<p>Remember those brainy innovators from our <a target="_blank" href="https://www.ctrlshift.gov.sg/explore/video-series/">STE+P Up Video Series</a> , guiding you through groundbreaking Public Service projects? Ever wondered how they got to where they are now?</p>
-		<p>Discover the inside scoop in STE Unplugged as we blend passion for invention with personal tales, and shine a light on the movers and shakers in our nation's STE scene!</p>
+		<p>Step into the inspiring tales of Poh Suan and Adele Tan, the trailblazers making waves in Singapore's STE scene, just in time for International Women's Day. Their stories of innovation and resilience shine a light on the exciting journey of women in science, technology, and engineering.</p>
+		<p>Ready for a dose of inspiration?</p>
 	</div>
 	<a target="_blank" href="/files/STE_Unplugged.pdf" class="catBtn desktopBtn">
 		<div class="divWrapper">
