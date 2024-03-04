@@ -82,7 +82,7 @@ third_nav_title: 2024 stories
 
 .frontDiv{
 
-max-width: 757px;
+max-width: 758px;
 
 }
 
@@ -98,7 +98,7 @@ max-width: 590px;
 
 .backDiv{
 
-bottom: 25px;
+bottom: 23px;
 
 }
 
