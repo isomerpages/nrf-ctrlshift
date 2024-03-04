@@ -78,7 +78,7 @@ third_nav_title: 2024 stories
 	display: none;
 	}
 	
-@media screen and (max-width:1400px) {
+@media screen and (max-width:1405px) {
 
 .frontDiv{
 
@@ -88,7 +88,7 @@ max-width: 758px;
 
 }
 
-@media screen and (max-width:1280px) {
+@media screen and (max-width:1279px) {
 
 .frontDiv{
 
@@ -104,7 +104,7 @@ bottom: 23px;
 
 }
 
-@media screen and (max-width:1024px) {
+@media screen and (max-width:1023px) {
 
 .frontDiv{
 
@@ -115,6 +115,18 @@ max-width: 786px;
 .backDiv{
 
 bottom: 22px;
+
+}
+
+}
+
+  
+
+@media screen and (max-width:880px) {
+
+.frontDiv{
+
+max-width: 89.5vw;
 
 }
 
@@ -132,7 +144,19 @@ transform: translate(10px, 10px);
 
 .frontDiv{
 
-max-width: 88vw;
+max-width: 88.5vw;
+
+}
+
+}
+
+  
+
+@media screen and (max-width:820px) {
+
+.frontDiv{
+
+max-width: 88.5vw;
 
 }
 
