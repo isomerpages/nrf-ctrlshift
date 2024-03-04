@@ -44,8 +44,6 @@ max-width: 800px;
 
 width: 100%;
 
-max-width: 786px;
-
 height: 100%;
 
 max-height: 124px;
@@ -66,6 +64,8 @@ max-height: 124px;
 
 width: 100%;
 
+max-width: 786px;
+
 }
 
 .imgFront,
@@ -84,9 +84,9 @@ position: absolute;
 
 z-index: -1;
 
-top: 0px;
-
 left: 0px;
+
+bottom:20px;
 
 transition: 0.1s ease-in-out;
 
@@ -123,6 +123,8 @@ display: flex;
 display: none;
 
 }
+
+  
 
 @media screen and (max-width:1407px) {
 
@@ -324,8 +326,10 @@ max-width: calc(85vw - 32px)
 
 }
 
-	a[target="_blank"]:after{
+a[target="_blank"]:after{
+
 display:none;
+
 }
 
 a.storiesLink{
