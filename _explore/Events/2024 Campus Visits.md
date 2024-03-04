@@ -474,7 +474,8 @@ third_nav_title: Events
         -webkit-border-radius: 50px;
         border-radius: 100px;
         position: absolute;
-        left: -35px;
+        left: 30px;
+        /* left: -35px; */
         /* top: -100px; */
         top: -40px;
         background-color: transparent;
@@ -604,8 +605,8 @@ third_nav_title: Events
         position: absolute;
         /* left: -20px;
         top: 0px; */
-        left: 10px;
-        top: 5px;
+        left: 50px;
+        top: 0px;
         background-color: transparent;
         display: block;
     }
