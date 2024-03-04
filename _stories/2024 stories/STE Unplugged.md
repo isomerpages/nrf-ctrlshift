@@ -115,7 +115,8 @@ third_nav_title: 2024 stories
 	}
 }
 	
-	a[href$=".pdf"]:before{
+a[href$=".pdf"]:before,
+	a[target="_blank"]:after{
 	display:none;
 	}
 	
