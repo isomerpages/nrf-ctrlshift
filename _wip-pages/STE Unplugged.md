@@ -24,7 +24,7 @@ description: ""
 	
 	.divWrapper {
 	width: 100%;
-	max-width: 800px;
+	max-width: 786px;
 	height: 100%;
 	max-height: 124px;
 	display: flex;
@@ -92,7 +92,10 @@ description: ""
 	
 	a[href$=".pdf"]:before{
 	display:none;
-	margin-left:0;
+	}
+	
+	a[href$=".pdf"]{
+	margin:0;
 	}
 </style>
 ![](/images/stories/2024%20Stories%20%20%20STE%20Unplugged/CtrlShift_Editorial_Theme1_CoverImage_Website.jpg)
