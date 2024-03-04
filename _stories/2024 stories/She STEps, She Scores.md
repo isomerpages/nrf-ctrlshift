@@ -176,10 +176,9 @@ max-width: 77vw;
 
 }
 
-a[href$=".pdf"]:before{
-
+a[href$=".pdf"]:before,
+	a[target="_blank"]:after{
 display:none;
-
 }
 
 a[href$=".pdf"]{
