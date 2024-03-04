@@ -216,7 +216,7 @@ color:black!important;
 	<a target="_blank" href="/files/STE_Unplugged.pdf" class="catBtn mobileBtn">
 		<div class="divWrapper">
 			<div class="frontDiv">
-				<img src="/images/Editorial%20Template/CTA_Btn_Mobile_X2.png" class="imgFront">
+				<img src="/images/Editorial%20Template/cta_btn_mobile_x2.png" class="imgFront">
 			</div>
 			<div class="backDiv">
 				<img src="/images/Editorial%20Template/cta_vector_mobile_x2.png" class="imgBack">
