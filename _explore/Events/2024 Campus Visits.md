@@ -136,7 +136,7 @@ third_nav_title: Events
         border-radius: 100px;
     }
 
-    .outCircleIconTruck{
+    .outCircleIconTruck {
         width: 191px;
         height: 162px;
         background-color: transparent;
@@ -163,8 +163,10 @@ third_nav_title: Events
         height: 100px;
         background-color: transparent;
         position: absolute;
-        left: 50%;
-        top: 40%;
+        /* left: 50%; */
+        left: 55%;
+        /* top: 40%; */
+        top: 45%;
         -moz-border-radius: 50%;
         -webkit-border-radius: 50%;
         border-radius: 50%;
@@ -327,7 +329,7 @@ third_nav_title: Events
         -webkit-animation: circle 10s infinite linear;
     }
 
-    .rotateIconTruck{
+    .rotateIconTruck {
         width: 100%;
         height: 100%;
         animation: circle 10s infinite linear;
@@ -473,7 +475,8 @@ third_nav_title: Events
         border-radius: 100px;
         position: absolute;
         left: -35px;
-        top: -100px;
+        /* top: -100px; */
+        top: -40px;
         background-color: transparent;
         display: block;
     }
@@ -486,7 +489,8 @@ third_nav_title: Events
         -webkit-border-radius: 50px;
         border-radius: 100px;
         position: absolute;
-        left: 100px;
+        /* left: 100px; */
+        left: 125px;
         top: 0;
         background-color: transparent;
         display: block;
@@ -598,8 +602,10 @@ third_nav_title: Events
         -webkit-border-radius: 50px;
         border-radius: 100px;
         position: absolute;
-        left: -20px;
-        top: 0px;
+        /* left: -20px;
+        top: 0px; */
+        left: 10px;
+        top: 5px;
         background-color: transparent;
         display: block;
     }
@@ -2148,8 +2154,10 @@ third_nav_title: Events
             height: 180px;
             background-color: transparent;
             position: absolute; */
-            left: 48%;
-            top: 32%;
+            /* left: 48%;
+            top: 32%; */
+            left: 53%;
+            top: 37%;
             -moz-border-radius: 100px;
             -webkit-border-radius: 100px;
             border-radius: 100px;
@@ -2160,7 +2168,7 @@ third_nav_title: Events
             -o-transform: translate(-50%, -50%);
         }
 
-        .innerctrlShiftIcon{
+        .innerctrlShiftIcon {
             width: 155px;
             height: 140px;
             background: transparent;
@@ -2320,9 +2328,8 @@ third_nav_title: Events
         }
 
         .outCirclectrlShiftIcon {
-            /* width: 240px;
-            height: 183px; */
-            top: 60%;
+            /* top: 60%; */
+            top: 65%;
         }
 
         .popup-truck {
@@ -2345,8 +2352,7 @@ third_nav_title: Events
             width: 100%;
         }
 
-        .innerIconTruck
-         {
+        .innerIconTruck {
             width: 100px;
             height: 90px;
         }
@@ -2745,14 +2751,14 @@ third_nav_title: Events
             width: 90%;
         }
 
-        .outCirclectrlShiftIcon{
+        .outCirclectrlShiftIcon {
             width: 40%;
             height: 23%;
             top: 39%;
-            left:60%;
+            left: 60%;
         }
 
-        .innerctrlShiftIcon{
+        .innerctrlShiftIcon {
             width: 60px;
             height: 60px;
         }
@@ -15682,27 +15688,32 @@ third_nav_title: Events
     }
 
     @keyframes moveInCircle {
-      0% {
-        transform: rotate(0deg) translate(100px) rotate(0deg);
-      }
-      100% {
-        transform: rotate(360deg) translate(100px) rotate(-360deg);
-      }
+        0% {
+            transform: rotate(0deg) translate(100px) rotate(0deg);
+        }
+
+        100% {
+            transform: rotate(360deg) translate(100px) rotate(-360deg);
+        }
     }
 
     @keyframes extendWidth {
-      0% {
-        width: 100px;
-      }
-      25%{
-        width: 150px;
-      }
-      50%{
-        width: 250px;
-      }
-      100% {
-        width: 100px;
-      }
+        0% {
+            width: 100px;
+        }
+
+        25% {
+            width: 150px;
+        }
+
+        50% {
+            /* width: 250px; */
+            width: 200px;
+        }
+
+        100% {
+            width: 100px;
+        }
     }
 
 
@@ -15959,10 +15970,10 @@ third_nav_title: Events
         text-align: center
     }
 
-    .innerctrlShiftIcon img{
+    .innerctrlShiftIcon img {
         width: 80%
     }
-    
+
     .innerIconTruck img,
     .innerFloatTruck4 img,
     .innerFloatTruck3 img {
@@ -16125,11 +16136,11 @@ third_nav_title: Events
         margin-bottom: 100px;
     }
 
-    .mainSection{
+    .mainSection {
         margin-bottom: 70px;
     }
 
-    .allPolyContainer{
+    .allPolyContainer {
         justify-content: center;
     }
 
@@ -16157,12 +16168,12 @@ third_nav_title: Events
         padding: 16px;
     }
 
-    .polytechnicContainer .detailsWrapper{
-        order:1;
+    .polytechnicContainer .detailsWrapper {
+        order: 1;
     }
 
-    .polytechnicContainer .arrowWrapper{
-        order:2;
+    .polytechnicContainer .arrowWrapper {
+        order: 2;
     }
 
     .polytechnicContainer .polyName {
@@ -16173,7 +16184,7 @@ third_nav_title: Events
         line-height: 24px;
         margin: 0;
         text-transform: uppercase;
-        word-wrap: break-word; 
+        word-wrap: break-word;
     }
 
     .polytechnicContainer .eventDescription {
@@ -16182,10 +16193,10 @@ third_nav_title: Events
         font-style: normal;
         font-weight: 400;
         line-height: 16px;
-        margin-top: 0px!important;
-        margin-bottom: 0px!important;
+        margin-top: 0px !important;
+        margin-bottom: 0px !important;
         text-transform: capitalize;
-        opacity:0;
+        opacity: 0;
         height: 0;
         transition-property: all;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
@@ -16197,8 +16208,8 @@ third_nav_title: Events
         max-width: fit-content;
         cursor: pointer;
         display: flex;
-        opacity:1;
-        height:100%;
+        opacity: 1;
+        height: 100%;
         transition-property: all;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
         transition-duration: 0ms;
@@ -16209,142 +16220,197 @@ third_nav_title: Events
         max-width: fit-content;
         cursor: pointer;
         display: flex;
-        opacity:0;
+        opacity: 0;
         height: 0;
         transition-property: all;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
         transition-duration: 0ms;
     }
 
-    #toggle1,#toggle2,#toggle3,#toggle4,#toggle5,#toggle6,#toggle7,#toggle8,#toggle9 {
-      display: none;
+    #toggle1,
+    #toggle2,
+    #toggle3,
+    #toggle4,
+    #toggle5,
+    #toggle6,
+    #toggle7,
+    #toggle8,
+    #toggle9 {
+        display: none;
     }
 
-    #toggle1:checked + label img.singleArrowIcon , #toggle2:checked + label img.singleArrowIcon , 
-    #toggle3:checked + label img.singleArrowIcon , #toggle4:checked + label img.singleArrowIcon, 
-    #toggle5:checked + label img.singleArrowIcon , #toggle6:checked + label img.singleArrowIcon,
-    #toggle7:checked + label img.singleArrowIcon , #toggle8:checked + label img.singleArrowIcon,
-    #toggle9:checked + label img.singleArrowIcon {
-        opacity:0;
+    #toggle1:checked+label img.singleArrowIcon,
+    #toggle2:checked+label img.singleArrowIcon,
+    #toggle3:checked+label img.singleArrowIcon,
+    #toggle4:checked+label img.singleArrowIcon,
+    #toggle5:checked+label img.singleArrowIcon,
+    #toggle6:checked+label img.singleArrowIcon,
+    #toggle7:checked+label img.singleArrowIcon,
+    #toggle8:checked+label img.singleArrowIcon,
+    #toggle9:checked+label img.singleArrowIcon {
+        opacity: 0;
         height: 0;
     }
 
-    #toggle1:checked + label img.multipleArrowIcon , #toggle2:checked + label img.multipleArrowIcon  , 
-    #toggle3:checked + label img.multipleArrowIcon  , #toggle4:checked + label img.multipleArrowIcon , 
-    #toggle5:checked + label img.multipleArrowIcon , #toggle6:checked + label img.multipleArrowIcon,
-    #toggle7:checked + label img.multipleArrowIcon , #toggle8:checked + label img.multipleArrowIcon,
-    #toggle9:checked + label img.multipleArrowIcon   {
-        opacity:1;
+    #toggle1:checked+label img.multipleArrowIcon,
+    #toggle2:checked+label img.multipleArrowIcon,
+    #toggle3:checked+label img.multipleArrowIcon,
+    #toggle4:checked+label img.multipleArrowIcon,
+    #toggle5:checked+label img.multipleArrowIcon,
+    #toggle6:checked+label img.multipleArrowIcon,
+    #toggle7:checked+label img.multipleArrowIcon,
+    #toggle8:checked+label img.multipleArrowIcon,
+    #toggle9:checked+label img.multipleArrowIcon {
+        opacity: 1;
         height: 100%;
         display: block;
     }
 
-    #toggle1:checked + label p.eventDescription.first , #toggle2:checked + label p.eventDescription.second , 
-    #toggle3:checked + label p.eventDescription.third , #toggle4:checked + label p.eventDescription.fourth, 
-    #toggle5:checked + label p.eventDescription.fifth , #toggle6:checked + label p.eventDescription.sixth,
-    #toggle7:checked + label p.eventDescription.seventh , #toggle8:checked + label p.eventDescription.eight,
-    #toggle9:checked + label p.eventDescription.ninth  {
-        margin-top: 8px!important;
-        margin-bottom: 10px!important;
-        opacity:1;
+    #toggle1:checked+label p.eventDescription.first,
+    #toggle2:checked+label p.eventDescription.second,
+    #toggle3:checked+label p.eventDescription.third,
+    #toggle4:checked+label p.eventDescription.fourth,
+    #toggle5:checked+label p.eventDescription.fifth,
+    #toggle6:checked+label p.eventDescription.sixth,
+    #toggle7:checked+label p.eventDescription.seventh,
+    #toggle8:checked+label p.eventDescription.eight,
+    #toggle9:checked+label p.eventDescription.ninth {
+        margin-top: 8px !important;
+        margin-bottom: 10px !important;
+        opacity: 1;
         height: 100%;
     }
 
-    #toggle1:checked + label .contentWrapper , #toggle2:checked + label .contentWrapper , 
-    #toggle3:checked + label .contentWrapper , #toggle4:checked + label .contentWrapper, 
-    #toggle5:checked + label .contentWrapper , #toggle6:checked + label .contentWrapper,
-    #toggle7:checked + label .contentWrapper , #toggle8:checked + label .contentWrapper,
-    #toggle9:checked + label .contentWrapper  {
+    #toggle1:checked+label .contentWrapper,
+    #toggle2:checked+label .contentWrapper,
+    #toggle3:checked+label .contentWrapper,
+    #toggle4:checked+label .contentWrapper,
+    #toggle5:checked+label .contentWrapper,
+    #toggle6:checked+label .contentWrapper,
+    #toggle7:checked+label .contentWrapper,
+    #toggle8:checked+label .contentWrapper,
+    #toggle9:checked+label .contentWrapper {
         height: 180px;
         transition: height 0.25 ease-in;
     }
 
-    #toggle1:not(:checked) + label .contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
-    #toggle3:not(:checked) + label .contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-    #toggle5:not(:checked) + label .contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
-    #toggle7:not(:checked) + label .contentWrapper , #toggle8:not(:checked) + label .contentWrapper,
-    #toggle9:not(:checked) + label .contentWrapper  {
+    #toggle1:not(:checked)+label .contentWrapper,
+    #toggle2:not(:checked)+label .contentWrapper,
+    #toggle3:not(:checked)+label .contentWrapper,
+    #toggle4:not(:checked)+label .contentWrapper,
+    #toggle5:not(:checked)+label .contentWrapper,
+    #toggle6:not(:checked)+label .contentWrapper,
+    #toggle7:not(:checked)+label .contentWrapper,
+    #toggle8:not(:checked)+label .contentWrapper,
+    #toggle9:not(:checked)+label .contentWrapper {
         height: 130px;
         transition: height 0.25 ease-in;
     }
 
     @media (max-width: 600px) {
-        #toggle1:checked + label .contentWrapper , #toggle2:checked + label .contentWrapper , 
-        #toggle3:checked + label .contentWrapper , #toggle4:checked + label .contentWrapper, 
-        #toggle5:checked + label .contentWrapper , #toggle6:checked + label .contentWrapper,
-        #toggle7:checked + label .contentWrapper , #toggle8:checked + label .contentWrapper,
-        #toggle9:checked + label .contentWrapper   {
+
+        #toggle1:checked+label .contentWrapper,
+        #toggle2:checked+label .contentWrapper,
+        #toggle3:checked+label .contentWrapper,
+        #toggle4:checked+label .contentWrapper,
+        #toggle5:checked+label .contentWrapper,
+        #toggle6:checked+label .contentWrapper,
+        #toggle7:checked+label .contentWrapper,
+        #toggle8:checked+label .contentWrapper,
+        #toggle9:checked+label .contentWrapper {
             height: fit-content;
             transition: height 0.25 ease-in;
         }
 
-        #toggle1:not(:checked) + label .contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
-        #toggle3:not(:checked) + label .contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-        #toggle5:not(:checked) + label .contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
-        #toggle7:not(:checked) + label .contentWrapper , #toggle8:not(:checked) + label .contentWrapper,
-        #toggle9:not(:checked) + label .contentWrapper   {
+        #toggle1:not(:checked)+label .contentWrapper,
+        #toggle2:not(:checked)+label .contentWrapper,
+        #toggle3:not(:checked)+label .contentWrapper,
+        #toggle4:not(:checked)+label .contentWrapper,
+        #toggle5:not(:checked)+label .contentWrapper,
+        #toggle6:not(:checked)+label .contentWrapper,
+        #toggle7:not(:checked)+label .contentWrapper,
+        #toggle8:not(:checked)+label .contentWrapper,
+        #toggle9:not(:checked)+label .contentWrapper {
             height: fit-content;
             transition: height 0.25 ease-in;
         }
     }
 
     @media (min-width: 601px) and (max-width: 767px) {
-        #toggle1:checked + label .contentWrapper , #toggle2:checked + label .contentWrapper , 
-        #toggle3:checked + label .contentWrapper , #toggle4:checked + label .contentWrapper, 
-        #toggle5:checked + label .contentWrapper , #toggle6:checked + label .contentWrapper,
-        #toggle7:checked + label .contentWrapper , #toggle8:checked + label .contentWrapper,
-        #toggle9:checked + label .contentWrapper  {
+
+        #toggle1:checked+label .contentWrapper,
+        #toggle2:checked+label .contentWrapper,
+        #toggle3:checked+label .contentWrapper,
+        #toggle4:checked+label .contentWrapper,
+        #toggle5:checked+label .contentWrapper,
+        #toggle6:checked+label .contentWrapper,
+        #toggle7:checked+label .contentWrapper,
+        #toggle8:checked+label .contentWrapper,
+        #toggle9:checked+label .contentWrapper {
             height: 260px;
             transition: height 0.25 ease-in;
         }
 
-        #toggle1:not(:checked) + label .contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
-        #toggle3:not(:checked) + label .contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-        #toggle5:not(:checked) + label .contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
-        #toggle7:not(:checked) + label .contentWrapper , #toggle8:not(:checked) + label .contentWrapper,
-        #toggle9:not(:checked) + label .contentWrapper  {
+        #toggle1:not(:checked)+label .contentWrapper,
+        #toggle2:not(:checked)+label .contentWrapper,
+        #toggle3:not(:checked)+label .contentWrapper,
+        #toggle4:not(:checked)+label .contentWrapper,
+        #toggle5:not(:checked)+label .contentWrapper,
+        #toggle6:not(:checked)+label .contentWrapper,
+        #toggle7:not(:checked)+label .contentWrapper,
+        #toggle8:not(:checked)+label .contentWrapper,
+        #toggle9:not(:checked)+label .contentWrapper {
             height: 180px;
             transition: height 0.25 ease-in;
         }
     }
 
     @media (min-width: 768px) and (max-width: 1279px) {
-        #toggle1:checked + label .contentWrapper , #toggle2:checked + label .contentWrapper , 
-        #toggle3:checked + label .contentWrapper , #toggle4:checked + label .contentWrapper, 
-        #toggle5:checked + label .contentWrapper , #toggle6:checked + label .contentWrapper,
-        #toggle7:checked + label .contentWrapper , #toggle8:checked + label .contentWrapper,
-        #toggle9:checked + label .contentWrapper  {
+
+        #toggle1:checked+label .contentWrapper,
+        #toggle2:checked+label .contentWrapper,
+        #toggle3:checked+label .contentWrapper,
+        #toggle4:checked+label .contentWrapper,
+        #toggle5:checked+label .contentWrapper,
+        #toggle6:checked+label .contentWrapper,
+        #toggle7:checked+label .contentWrapper,
+        #toggle8:checked+label .contentWrapper,
+        #toggle9:checked+label .contentWrapper {
             height: 200px;
             transition: height 0.25 ease-in;
         }
 
-        #toggle1:not(:checked) + label div.row.contentWrapper , #toggle2:not(:checked) + label .contentWrapper , 
-        #toggle3:not(:checked) + label div.row.contentWrapper , #toggle4:not(:checked) + label .contentWrapper, 
-        #toggle5:not(:checked) + label div.row.contentWrapper , #toggle6:not(:checked) + label .contentWrapper,
-        #toggle7:not(:checked) + label div.row.contentWrapper , #toggle8:not(:checked) + label .contentWrapper,
-        #toggle9:not(:checked) + label .contentWrapper   {
+        #toggle1:not(:checked)+label div.row.contentWrapper,
+        #toggle2:not(:checked)+label .contentWrapper,
+        #toggle3:not(:checked)+label div.row.contentWrapper,
+        #toggle4:not(:checked)+label .contentWrapper,
+        #toggle5:not(:checked)+label div.row.contentWrapper,
+        #toggle6:not(:checked)+label .contentWrapper,
+        #toggle7:not(:checked)+label div.row.contentWrapper,
+        #toggle8:not(:checked)+label .contentWrapper,
+        #toggle9:not(:checked)+label .contentWrapper {
             height: 120px;
             transition: height 0.25 ease-in;
         }
     }
 
-    .agencyHeader{
-        margin-bottom: 0!important;
+    .agencyHeader {
+        margin-bottom: 0 !important;
     }
 
-    .agencyDivider{
+    .agencyDivider {
         width: 100%;
         display: flex;
         height: 4px;
-        background-color:#0037CC ;
+        background-color: #0037CC;
         margin: 32px 0;
     }
 
-    .agencyContainer{
+    .agencyContainer {
         justify-content: center;
     }
 
-    .agencyBox{
+    .agencyBox {
         display: flex;
         padding: 12px;
         flex-direction: column;
@@ -16352,75 +16418,78 @@ third_nav_title: Events
         border: 2px solid var(--blue, #0037CC);
         background: var(--white, #FFF);
         margin: 13px;
-        box-shadow:none;
+        box-shadow: none;
         transition-property: all;
         transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
         transition-duration: 500ms;
     }
 
-    .agencyBox:hover{
+    .agencyBox:hover {
         box-shadow: 6px 6px 0px 0px #0037CC;
     }
 
-    .agencyBox .agencyImg{
+    .agencyBox .agencyImg {
         height: 100%;
         width: 100%;
         max-height: 150px;
         max-width: 150px;
     }
 
-    .agencyBox .agencyName{
+    .agencyBox .agencyName {
         color: var(--blue, #0037CC);
         font-size: 16px;
         font-style: normal;
         font-weight: 900;
-        line-height: 20px; 
+        line-height: 20px;
         width: 100%;
         text-align: center;
     }
 
-    .content p.subtitle-main:not(:first-child){
+    .content p.subtitle-main:not(:first-child) {
         margin-bottom: 0;
     }
 
-    .content p.subtitle-main:last-child{
+    .content p.subtitle-main:last-child {
         margin-top: 0;
         margin-bottom: 0;
     }
 
-    .mainMap{
-        position: absolute; 
+    .mainMap {
+        position: absolute;
         width: 100%;
-        max-width: 656px;
+        /* max-width: 656px; */
+        max-width: 850px;
     }
 
-    @media(max-width:1280px){
-        .polytechnicContainer{
+    @media(max-width:1280px) {
+        .polytechnicContainer {
             width: 45%;
         }
-        .map-truck{
+
+        .map-truck {
             width: 100%;
         }
 
-        .outCircleFloatTruck3{
+        .outCircleFloatTruck3 {
             right: 80px;
             top: 23em;
         }
 
-        .outCircleIconTruck{
+        .outCircleIconTruck {
             right: -100px;
         }
     }
 
-    @media(max-width:1024px){
-        .outCirclectrlShiftIcon{
-            left:60%
+    @media(max-width:1024px) {
+        .outCirclectrlShiftIcon {
+            left: 60%
         }
 
         @keyframes moveInCircle {
             0% {
                 transform: rotate(0deg) translate(100px) rotate(0deg);
             }
+
             100% {
                 transform: rotate(360deg) translate(100px) rotate(-360deg);
             }
@@ -16430,49 +16499,57 @@ third_nav_title: Events
             0% {
                 width: 100px;
             }
-            25%{
+
+            25% {
                 width: 150px;
             }
-            50%{
+
+            50% {
                 width: 200px;
             }
+
             100% {
                 width: 100px;
             }
         }
     }
 
-    @media(max-width:768px){
-        .outCirclectrlShiftIcon{
-            top:50%;
-            left:48%;
+    @media(max-width:768px) {
+        .outCirclectrlShiftIcon {
+            top: 50%;
+            left: 48%;
         }
 
         @keyframes moveInCircle {
             0% {
                 transform: rotate(0deg) translate(150px) rotate(0deg);
             }
+
             100% {
                 transform: rotate(360deg) translate(150px) rotate(-360deg);
             }
         }
     }
-    
 
-    @media(max-width:600px){
+
+    @media(max-width:600px) {
 
         .innerFloatTruck3 {
             left: 0px;
-            top: -180px;
+            /* top: -180px; */
+            top: -120px;
         }
 
-        .innerIconTruck{
-            left: 0px;
-            top: -20px;
+        .innerIconTruck {
+            /* left: 0px;
+            top: -20px; */
+            left: 30px;
+            top: 5px;
         }
 
         .innerFloatTruck4 {
-            left: 200px;
+            /* left: 200px; */
+            left: 225px;
             top: -30px;
         }
 
@@ -16488,13 +16565,13 @@ third_nav_title: Events
             left: 60%;
         }
 
-        .polytechnicContainer{
+        .polytechnicContainer {
             width: 100%;
             margin: 8px 0;
             padding: 16px 8px;
         }
 
-        .agencyBox{
+        .agencyBox {
             margin: 15px;
             min-width: 120px;
             max-width: 130px;
@@ -16502,23 +16579,27 @@ third_nav_title: Events
             max-height: 190px;
         }
 
-        .introSection{
+        .introSection {
             margin-bottom: 25px;
         }
 
-        .mainSection{
+        .mainSection {
             margin-bottom: 50px;
         }
 
-        .agencyDivider{
+        .agencyDivider {
             margin: 16px 0;
         }
 
-        #toggle1:checked + label p.eventDescription.first , #toggle2:checked + label p.eventDescription.second , 
-        #toggle3:checked + label p.eventDescription.third , #toggle4:checked + label p.eventDescription.fourth, 
-        #toggle5:checked + label p.eventDescription.fifth , #toggle6:checked + label p.eventDescription.sixth,
-        #toggle7:checked + label p.eventDescription.seventh,#toggle8:checked + label p.eventDescription.eight  {
-            margin-bottom: 0!important;
+        #toggle1:checked+label p.eventDescription.first,
+        #toggle2:checked+label p.eventDescription.second,
+        #toggle3:checked+label p.eventDescription.third,
+        #toggle4:checked+label p.eventDescription.fourth,
+        #toggle5:checked+label p.eventDescription.fifth,
+        #toggle6:checked+label p.eventDescription.sixth,
+        #toggle7:checked+label p.eventDescription.seventh,
+        #toggle8:checked+label p.eventDescription.eight {
+            margin-bottom: 0 !important;
         }
 
 
@@ -16526,6 +16607,7 @@ third_nav_title: Events
             0% {
                 transform: rotate(0deg) translate(75px) rotate(0deg);
             }
+
             100% {
                 transform: rotate(360deg) translate(75px) rotate(-360deg);
             }
@@ -16536,21 +16618,24 @@ third_nav_title: Events
             0% {
                 width: 80px;
             }
-            40%{
+
+            40% {
                 width: 140px;
             }
+
             100% {
                 width: 80px;
             }
         }
-        
+
     }
 
-    @media(max-width:574px){
+    @media(max-width:574px) {
         .col-sm-6 {
             flex: 0 0 auto;
             width: 50%;
         }
+
         .col-sm-10 {
             flex: 0 0 auto;
             width: 83.33333333%;
@@ -16561,7 +16646,6 @@ third_nav_title: Events
         margin-top: 1px;
         margin-left: 0.5px;
     }
-
 </style>
 <section id="header-missed-us" class="header-nav-white mainSection">
     <div class="container" style="position: relative">
@@ -16569,11 +16653,12 @@ third_nav_title: Events
             <div class="text-center pt-5 pb-1">
                 <img src="/images/2024%20Open%20Houses/imagine_singapore_future.svg?sanitize=true" alt="title page truck" class="title-page-truck" style="width: auto">
                 <p class="subtitle-main">Curious about how we will live, work, and play in the future?</p>
-                    <p class="subtitle-main">
-                        Head down to the upcoming polytechnic open houses and university career fairs to experience a possible glimpse of tomorrow’s world and interact firsthand with our STE ambassadors.</p>
+                <p class="subtitle-main">
+                    Head down to the upcoming polytechnic open houses and university career fairs to experience a
+                    possible glimpse of tomorrow’s world and interact firsthand with our STE ambassadors.</p>
             </div>
         </div>
-        <img src="/images/2024%20Open%20Houses/2024_campus_visit_base_map_2x.png" alt="map truck" class="d-none d-lg-block mainMap">
+        <img src="/images/2024%20Open%20Houses/2024_March_1_Campus_Visit_Desktop_x2.png" alt="map truck" class="d-none d-lg-block mainMap">
         <div class="col-12">
             <div class="map-truck p-relative">
                 <div class="outCircleIconTruck">
@@ -16594,7 +16679,7 @@ third_nav_title: Events
                         </div>
                     </div>
                 </div>
-                <img src="/images/2024%20Open%20Houses/2024_campus_visit_base_map_mobile_2x.png" alt="map truck" class="d-lg-none img-full">
+                <img src="/images/2024%20Open%20Houses/2024_March_1_Campus_Visit_Mobiles_X2.png" alt="map truck" class="d-lg-none img-full">
                 <div class="outCircleFloatTruck3">
                     <div class="rotate">
                         <div class="counterrotateFloatTruck3">
@@ -16634,16 +16719,16 @@ third_nav_title: Events
                 <label for="toggle1">
                     <div class="row contentWrapper cardMargin">
                         <div id="poly-1" class="arrowWrapper col-auto">
-                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
                         <div class="detailsWrapper col-sm-10 col-md-9">
                             <h6 class="polyName">
                                 NGEE ANN POLYTECHNIC
                             </h6>
                             <p class="eventDescription first">
-                                    4 Jan 2024 || 10am-6pm,<br>
-                                    Outside Makan Place
+                                4 Jan 2024 || 10am-6pm,<br>
+                                Outside Makan Place
                             </p>
                         </div>
                     </div>
@@ -16656,8 +16741,8 @@ third_nav_title: Events
                 <label for="toggle2">
                     <div class="row contentWrapper cardMargin">
                         <div id="poly-2" class="arrowWrapper col-auto">
-                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
                         <div class="detailsWrapper col-sm-10 col-md-9">
                             <h6 class="polyName">
@@ -16678,8 +16763,8 @@ third_nav_title: Events
                 <label for="toggle3">
                     <div class="row contentWrapper cardMargin">
                         <div id="poly-3" class="arrowWrapper col-auto">
-                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
                         <div class="detailsWrapper col-sm-10 col-md-9">
                             <h6 class="polyName">
@@ -16700,8 +16785,8 @@ third_nav_title: Events
                 <label for="toggle4">
                     <div class="row contentWrapper cardMargin">
                         <div id="poly-4" class="arrowWrapper col-auto">
-                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
                         <div class="detailsWrapper col-sm-10 col-md-9">
                             <h6 class="polyName">
@@ -16722,8 +16807,8 @@ third_nav_title: Events
                 <label for="toggle5">
                     <div class="row contentWrapper cardMargin">
                         <div id="poly-5" class="arrowWrapper col-auto">
-                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
                         <div class="detailsWrapper col-sm-10 col-md-9">
                             <h6 class="polyName">
@@ -16744,8 +16829,8 @@ third_nav_title: Events
                 <label for="toggle6">
                     <div class="row contentWrapper cardMargin">
                         <div id="poly-6" class="arrowWrapper col-auto">
-                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
                         <div class="detailsWrapper col-sm-10 col-md-9">
                             <h6 class="polyName">
@@ -16766,8 +16851,8 @@ third_nav_title: Events
                 <label for="toggle7">
                     <div class="row contentWrapper cardMargin">
                         <div id="poly-7" class="arrowWrapper col-auto">
-                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
                         <div class="detailsWrapper col-sm-10 col-md-9">
                             <h6 class="polyName">
@@ -16788,8 +16873,8 @@ third_nav_title: Events
                 <label for="toggle8">
                     <div class="row contentWrapper cardMargin">
                         <div id="poly-8" class="arrowWrapper col-auto">
-                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
                         <div class="detailsWrapper col-sm-10 col-md-9">
                             <h6 class="polyName">
@@ -16810,12 +16895,12 @@ third_nav_title: Events
                 <label for="toggle9">
                     <div class="row contentWrapper cardMargin">
                         <div id="poly-9" class="arrowWrapper col-auto">
-                                <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
-                                <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
+                            <img class="singleArrowIcon" src="/images/2024%20Open%20Houses/single_arrow.svg">
+                            <img class="multipleArrowIcon" src="/images/2024%20Open%20Houses/multiple_arrow.svg">
                         </div>
                         <div class="detailsWrapper col-sm-10 col-md-9">
                             <h6 class="polyName">
-                                SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN 
+                                SINGAPORE UNIVERSITY OF TECHNOLOGY AND DESIGN
                             </h6>
                             <p class="eventDescription ninth">
                                 20 Mar 2024 || 11am-6pm<br>
