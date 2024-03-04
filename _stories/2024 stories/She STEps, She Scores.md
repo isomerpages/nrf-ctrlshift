@@ -131,6 +131,10 @@ display: none;
 transform: translate(10px, 10px);
 
 }
+	
+	.divWrapper{
+	max-width: 59vw;
+	}
 
 }
 
