@@ -2149,6 +2149,16 @@ third_nav_title: Events
         }
     }
 
+    @media (max-width:1280px){
+        .innerIconTruck{
+            left:-80px;
+        }
+
+        .innerFloatTruck3{
+            left:-110px;
+        }
+    }
+
     @media (max-width: 1199px) {
         .outCirclectrlShiftIcon {
             /* width: 287px;
