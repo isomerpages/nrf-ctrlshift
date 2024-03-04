@@ -2,6 +2,7 @@ collections:
   stories:
     output: true
     order:
+      - 2024 stories/She STEps, She Scores.md
       - 2024 stories/.keep
       - 2024 stories/STE Unplugged.md
       - STE Innovations/.keep
