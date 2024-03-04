@@ -107,7 +107,7 @@ third_nav_title: 2024 stories
 	max-width: 79vw;
 	}
 	
-	.backDiv{
+	.imgBack{
 	max-height: 110px;
 	}
 }
