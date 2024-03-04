@@ -64,7 +64,7 @@ max-height: 124px;
 
 width: 100%;
 
-max-width: 786px;
+max-width: 800px;
 
 }
 
