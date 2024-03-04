@@ -78,60 +78,122 @@ third_nav_title: 2024 stories
 	display: none;
 	}
 	
+@media screen and (max-width:1400px) {
+
+.frontDiv{
+
+max-width: 757px;
+
+}
+
+}
+
 @media screen and (max-width:1280px) {
-	.divWrapper{
-	max-width: 59vw;
-	}
+
+.frontDiv{
+
+max-width: 590px;
+
+}
+
+.backDiv{
+
+bottom: 25px;
+
+}
+
+}
+
+@media screen and (max-width:1024px) {
+
+.frontDiv{
+
+max-width: 786px;
+
+}
+
+.backDiv{
+
+bottom: 22px;
+
+}
+
 }
 
 @media screen and (max-width:860px) {
-	.catBtn:active .frontDiv {
-	transform: translate(10px, 10px);
-	}
-	
-	.divWrapper{
-	max-width: 88vw;
-	}
+
+.catBtn:active .frontDiv {
+
+transform: translate(10px, 10px);
+
 }
-	
+
+  
+
+.frontDiv{
+
+max-width: 88vw;
+
+}
+
+}
+
 @media screen and (max-width:500px) {
-	
-	.desktopBtn {
-	display: none;
-	}
-	
-	.mobileBtn {
-	display: flex;
-	}
-	
-	.divWrapper{
-	max-width: 79vw;
-	}
-	
-	.imgBack{
-	max-height: 110px;
-	}
+
+.desktopBtn {
+
+display: none;
+
 }
-	
+
+.mobileBtn {
+
+display: flex;
+
+}
+
+  
+
+.frontDiv{
+
+max-width: 79vw;
+
+}
+
+  
+
+.imgBack{
+
+max-height: 110px;
+
+}
+
+}
+
+  
+
 @media screen and (max-width:414px) {
-	
-	.divWrapper{
-	max-width: 78vw;
-	}
+
+.frontDiv{
+
+max-width: 78vw;
+
 }
-	
-a[href$=".pdf"]:before,
-	a[target="_blank"]:after{
-	display:none;
-	}
-	
-	a[href$=".pdf"]{
-	margin:0;
-	}
-	
-	a.storiesLink{
-	color:black!important;
-	}
+
+}
+
+a[target="_blank"]:after{
+
+display:none;
+
+}
+
+
+a.storiesLink{
+
+color:black!important;
+
+}
 </style>
 ![](/images/stories/2024%20Stories%20%20%20STE%20Unplugged/CtrlShift_Editorial_Theme1_CoverImage_Website.jpg)
 
