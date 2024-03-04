@@ -106,6 +106,10 @@ third_nav_title: 2024 stories
 	.divWrapper{
 	max-width: 79vw;
 	}
+	
+	.backDiv{
+	max-height: 110px;
+	}
 }
 	
 @media screen and (max-width:375px) {
