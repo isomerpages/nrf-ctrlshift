@@ -134,7 +134,7 @@ third_nav_title: 2024 stories
 		<p>Remember those brainy innovators from our <a target="_blank" href="https://www.ctrlshift.gov.sg/explore/video-series/">STE+P Up Video Series</a> , guiding you through groundbreaking Public Service projects? Ever wondered how they got to where they are now?</p>
 		<p>Discover the inside scoop in STE Unplugged as we blend passion for invention with personal tales, and shine a light on the movers and shakers in our nation's STE scene!</p>
 	</div>
-	<a target="_blank" href="/files/STE_Unplugged.pdf" class="catBtn desktopBtn">
+	<a target="_blank" href="https://drive.google.com/file/d/13b78TCtd_C0r-C2mMEvjGv3E7J8SB6jZ/view" class="catBtn desktopBtn">
 		<div class="divWrapper">
 			<div class="frontDiv">
 				<img src="/images/Editorial%20Template/CTA_Btn_X2.png" class="imgFront">
@@ -144,7 +144,7 @@ third_nav_title: 2024 stories
 			</div>
 		</div>
 	</a>
-	<a target="_blank" href="/files/STE_Unplugged.pdf" class="catBtn mobileBtn">
+	<a target="_blank" href="https://drive.google.com/file/d/13b78TCtd_C0r-C2mMEvjGv3E7J8SB6jZ/view" class="catBtn mobileBtn">
 		<div class="divWrapper">
 			<div class="frontDiv">
 				<img src="/images/Editorial%20Template/cta_btn_mobile_x2.png" class="imgFront">
