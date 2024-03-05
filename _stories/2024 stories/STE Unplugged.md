@@ -256,7 +256,15 @@ max-width: calc(88vw - 32px)
 
 }
 
-  
+@media screen and (max-width:450px) {
+
+.frontDiv{
+
+max-width: calc(87.5vw - 32px)
+
+}
+
+}  
 
 @media screen and (max-width:414px) {
 
