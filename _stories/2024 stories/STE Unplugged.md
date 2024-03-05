@@ -108,7 +108,7 @@ bottom: 23px;
 
 .frontDiv{
 
-max-width: 786px;
+max-width: 90vw;
 
 }
 
