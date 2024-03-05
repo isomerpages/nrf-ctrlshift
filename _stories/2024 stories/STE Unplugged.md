@@ -173,6 +173,28 @@ max-width: 88vw;
 }
 
 }
+	
+	@media screen and (max-width:760px) {
+
+.frontDiv{
+
+max-width: 87.8vw;
+
+}
+
+}
+
+  
+
+@media screen and (max-width:700px) {
+
+.frontDiv{
+
+max-width: 87vw;
+
+}
+
+}
 
 @media screen and (max-width:500px) {
 
