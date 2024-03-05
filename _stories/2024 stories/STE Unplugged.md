@@ -66,17 +66,9 @@ third_nav_title: 2024 stories
 	transform: translate(14px, 14px);
 	}
 	
-	.catBtn:not(:active) .frontDiv {
-	transition: 0.1s step-end;
-	}
-	
 	.catBtn:active .backDiv {
 	opacity: 0;
 	}
-	
-	.catBtn:not(:active) .backDiv {
-transition: 0.1s step-end;
-}
 	
 	.desktopBtn {
 	display: flex;
