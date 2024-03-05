@@ -174,11 +174,11 @@ max-width: 88vw;
 
 }
 	
-	@media screen and (max-width:760px) {
+@media screen and (max-width:760px) {
 
 .frontDiv{
 
-max-width: 87.8vw;
+max-width: 87.5vw;
 
 }
 
