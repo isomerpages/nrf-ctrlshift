@@ -1,5 +1,4 @@
 collections:
   wip-pages:
     output: true
-    order:
-      - She STEps, She Scores.md
+    order: []
