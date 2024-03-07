@@ -376,7 +376,7 @@ color:black!important;
 		<p>Step into the inspiring tales of Poh Suan and Adele Tan, the trailblazers making waves in Singapore's STE scene, just in time for International Women's Day. Their stories of innovation and resilience shine a light on the exciting journey of women in science, technology, and engineering.</p>
 		<p>Ready for a dose of inspiration?</p>
 	</div>
-	<a target="_blank" href="https://go.gov.sg/ctrlshift-ed-steunplugged-desktop" class="catBtn desktopBtn">
+	<a target="_blank" href="https://go.gov.sg/ctrlshift-ed-shestepsshescores" class="catBtn desktopBtn">
 		<div class="divWrapper">
 			<div class="frontDiv">
 				<img src="/images/Editorial%20Template/CTA_Btn_X2.png" class="imgFront">
@@ -386,7 +386,7 @@ color:black!important;
 			</div>
 		</div>
 	</a>
-	<a target="_blank" href="https://go.gov.sg/ctrlshift-ed-steunplugged-desktop" class="catBtn mobileBtn">
+	<a target="_blank" href="https://go.gov.sg/ctrlshift-ed-shestepsshescores" class="catBtn mobileBtn">
 		<div class="divWrapper">
 			<div class="frontDiv">
 				<img src="/images/Editorial%20Template/cta_btn_mobile_x2.png" class="imgFront">
