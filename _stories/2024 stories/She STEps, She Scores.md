@@ -387,7 +387,7 @@ color:black!important;
 			</div>
 		</div>
 	</a>
-	<a target="_blank" href="https://go.gov.sg/ctrlshift-ed-shestepsshescores" class="catBtn mobileBtn">
+	<a target="_blank" href="https://go.gov.sg/ctrlshift-ed-shestepsshescores-mobile" class="catBtn mobileBtn">
 		<div class="divWrapper">
 			<div class="frontDiv">
 				<img src="/images/Editorial%20Template/cta_btn_mobile_x2.png" class="imgFront">
