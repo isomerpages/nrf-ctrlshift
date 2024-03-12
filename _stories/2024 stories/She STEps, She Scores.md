@@ -370,7 +370,7 @@ color:black!important;
 
 </style>
 
-![](/images/stories/2024%20Stories%20%20%20STE%20Unplugged/CtrlShift_Editorial_Theme3_CoverImage_Website.jpg)
+![](/images/stories/2024%20Stories%20%20%20STE%20Unplugged/CtrlShift_Editorial_Theme3_CoverImage_Website_05.jpg)
 
 <div class="mainContainer">
 	<div class="contentText">
