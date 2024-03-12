@@ -370,7 +370,7 @@ color:black!important;
 
 </style>
 
-![](/images/stories/2024%20Stories%20%20%20STE%20Unplugged/CtrlShift_Editorial_Theme3_CoverImage_Website.jpg)
+![](/images/stories/2024%20Stories%20%20%20STE%20Unplugged/CtrlShift_Editorial_Theme3_CoverImage_Website_05.jpg)
 
 <div class="mainContainer">
 	<div class="contentText">
@@ -387,7 +387,7 @@ color:black!important;
 			</div>
 		</div>
 	</a>
-	<a target="_blank" href="https://go.gov.sg/ctrlshift-ed-shestepsshescores" class="catBtn mobileBtn">
+	<a target="_blank" href="https://go.gov.sg/ctrlshift-ed-shestepsshescores-mobile" class="catBtn mobileBtn">
 		<div class="divWrapper">
 			<div class="frontDiv">
 				<img src="/images/Editorial%20Template/cta_btn_mobile_x2.png" class="imgFront">
