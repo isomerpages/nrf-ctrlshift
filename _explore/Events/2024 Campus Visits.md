@@ -16044,10 +16044,14 @@ third_nav_title: Events
         background: var(--white, #FFF);
         margin: 13px;
         box-shadow: none;
-        height: 240px;
-        width: 240px;
+        height: auto;
+        width: 22%;
     }
 
+    .galleryBox img{
+        margin: 0;
+    }
+    
     .galleryCTA{
         display: flex;
         justify-content: center;
