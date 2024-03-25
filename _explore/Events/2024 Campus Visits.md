@@ -16007,7 +16007,7 @@ third_nav_title: Events
     }
 
     .mainSection {
-        margin-bottom: 0!important;
+        margin-bottom: 32px!important;
     }
 
 
@@ -16279,6 +16279,10 @@ third_nav_title: Events
             }
         }
 
+        .mainSection{
+            margin-bottom: 16px!important;
+        }
+
         .subtitle-main, .subtitle-content{
             text-align: center;
         }
@@ -16413,7 +16417,7 @@ third_nav_title: Events
         </div>
         <div class="galleryCTAContainer">
             <div class="galleryCTA">
-                <a class="galleryCTAText" href="https://www.instagram.com/ctrlshift.sg/">Find Out More</a>
+                <a target="_blank" class="galleryCTAText" href="https://www.instagram.com/ctrlshift.sg/">Find Out More</a>
             </div>
         </div>
     </div>
