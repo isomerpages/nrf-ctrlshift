@@ -15905,7 +15905,7 @@ third_nav_title: Events
         }
 
         .who-says-title {
-            margin-top: 32px
+            margin-top: 0;
         }
 
         .content .subtitle-main {
@@ -16286,6 +16286,17 @@ third_nav_title: Events
         .galleryCTAText{
             font-size: 16px!important;
             line-height: normal!important;
+        }
+
+        .galleryBox{
+            margin: 0;
+            padding: 8px;
+            height: 120px;
+            width: 120px;
+        }
+
+        .galleryBox img{
+            object-fit: contain;
         }
 
     }
