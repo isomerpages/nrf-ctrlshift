@@ -346,8 +346,6 @@ third_nav_title: Events
     .rotatectrlShiftIcon {
         width: 100%;
         height: 100%;
-        /* animation:goToSchool 30s infinite linear;
-        -webkit-animation: goToSchool 30s infinite linear; */
         /* animation: circle 20s infinite linear;
         -webkit-animation: circle 20s infinite linear; */
         animation: moveInCircle 30s infinite linear;
@@ -15781,15 +15779,6 @@ third_nav_title: Events
             height: 200px
         }
 
-        .school-box label {
-            font-size: 16px;
-            font-weight: 700
-        }
-
-        .school-box-list {
-            width: 90% !important
-        }
-
         .title-section {
             width: 80%;
             margin: auto
@@ -15820,16 +15809,8 @@ third_nav_title: Events
             padding: 0 20px
         }
 
-        .school-row {
-            margin: 0 0 20px !important
-        }
-
         .title-item-truck h2 {
             font-size: 18px
-        }
-
-        .school-box-detail p {
-            font-size: 14px
         }
 
         .title-item-truck h2 {
@@ -16018,7 +15999,7 @@ third_nav_title: Events
     }
 
     .content p.subtitle-main:not(:first-child) {
-        margin-bottom: 0;
+        margin-bottom: 20px;
     }
 
     .content p.subtitle-main:last-child {
