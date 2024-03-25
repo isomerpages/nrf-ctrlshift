@@ -15817,19 +15817,21 @@ third_nav_title: Events
     }
 
     .subtitle-main {
-        color: #1237CA;
-        font-weight: 700;
-        font-size: 24px;
+        color: var(--blue, #0037CC);
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
         text-align: left;
-        line-height:36.48px;
     }
 
     .subtitle-content {
         color: #484848;
-        font-weight: 700;
-        font-size: 24px;
+        font-size: 20px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 24px;
         text-align: left;
-        line-height:36.48px;
     }
 
     .subtitle-2 {
@@ -15861,9 +15863,6 @@ third_nav_title: Events
     }
 
     @media (max-width: 600px) {
-        .subtitle-main {
-            line-height: 1.5rem
-        }
 
         .map-column {
             height: 200px
@@ -16051,7 +16050,7 @@ third_nav_title: Events
     .galleryBox img{
         margin: 0;
     }
-    
+
     .galleryCTA{
         display: flex;
         justify-content: center;
