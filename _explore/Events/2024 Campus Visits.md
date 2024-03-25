@@ -1738,38 +1738,12 @@ third_nav_title: Events
         -o-transform: translateY(0);
     }
 
-    .subtitle-tiktok {
-        width: 540px;
-        border: 5px solid #75d200;
-        padding: 30px;
-        margin: -5px 0 0 44px;
-    }
-
-    .wrapper-title-tiktok {
-        margin-bottom: 50px;
-    }
-
-    .subtitle-tiktok {
-        width: 540px;
-        border: 5px solid #75d200;
-        padding: 30px;
-        margin: -5px 0 0 44px;
-    }
-
-    .wrapper-title-tiktok {
-        margin-bottom: 50px;
-    }
-
     .no-scroll {
         overflow-y: hidden;
     }
 
     .no-scroll body {
         overflow: scroll;
-    }
-
-    .tiktok-swiper_nav {
-        display: none;
     }
 
     .footer-nav {
@@ -2180,8 +2154,8 @@ third_nav_title: Events
         }
 
         .innerctrlShiftIcon {
-            width: 155px;
-            height: 140px;
+            /* width: 155px;
+            height: 140px; */
             background: transparent;
             -moz-border-radius: 50px;
             -webkit-border-radius: 50px;
@@ -2191,6 +2165,15 @@ third_nav_title: Events
             top: 0px;
             background-color: transparent;
             display: block;
+        }
+
+        .innerFloatTruck3{
+            left:-60px;
+        }
+
+        .innerIconTruck{
+            height: 100px;
+            width: 100px;
         }
 
         .outer-parallax {
@@ -2398,22 +2381,6 @@ third_nav_title: Events
 
         .container-video {
             display: block;
-        }
-
-        .tiktok-swiper_nav {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            margin-top: 30px;
-            gap: 15px;
-        }
-
-        .wrapper-tiktok {
-            display: unset;
-        }
-
-        .item-tiktok {
-            width: 100%;
         }
 
         .pagination-video {
@@ -2948,10 +2915,6 @@ third_nav_title: Events
             margin-top: 40px;
         }
 
-        .subtitle-tiktok {
-            width: calc(100% - 44px);
-        }
-
         .title-virtual-fair-2022 {
             width: 230px;
         }
@@ -3471,60 +3434,6 @@ third_nav_title: Events
         .counterrotate {
             width: 50px;
             height: 45px;
-        }
-    }
-
-    .wrapper-tiktok-iframe {
-        padding-top: 143%;
-        position: relative;
-        width: 80%;
-        margin: 0 auto;
-    }
-
-    .wrapper-tiktok-iframe iframe {
-        width: 100%;
-        height: 100%;
-        position: absolute;
-        top: 0;
-        left: 0;
-    }
-
-    @media (min-width: 768px) {
-        .wrapper-tiktok-iframe {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            width: 450px;
-            margin: 0 auto;
-            position: relative;
-            padding-top: 116%;
-        }
-    }
-
-    @media (min-width: 992px) {
-        .tiktokSwiper .swiper-wrapper {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            gap: 20px;
-        }
-
-        .wrapper-tiktok-iframe {
-            position: relative;
-            width: 100%;
-            padding-top: 180%;
-        }
-
-        .item-tiktok {
-            width: calc(16% - 20px);
-        }
-
-        .wrapper-tiktok-iframe iframe {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
         }
     }
 
@@ -15820,7 +15729,7 @@ third_nav_title: Events
         color: var(--blue, #0037CC);
         font-size: 20px;
         font-style: normal;
-        font-weight: 500;
+        font-weight: 700;
         line-height: 24px;
         text-align: left;
     }
@@ -15829,7 +15738,7 @@ third_nav_title: Events
         color: #484848;
         font-size: 20px;
         font-style: normal;
-        font-weight: 500;
+        font-weight: 700;
         line-height: 24px;
         text-align: left;
     }
