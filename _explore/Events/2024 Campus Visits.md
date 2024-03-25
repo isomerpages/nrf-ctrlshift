@@ -16039,7 +16039,6 @@ third_nav_title: Events
 
     .galleryBox {
         display: flex;
-        padding: 12px;
         flex-direction: column;
         align-items: center;
         background: var(--white, #FFF);
@@ -16291,7 +16290,7 @@ third_nav_title: Events
         .galleryBox{
             margin: 0;
             padding: 8px;
-            height: 120px;
+            height: auto;
             width: 120px;
         }
 
@@ -16370,7 +16369,7 @@ third_nav_title: Events
     </div>
 </section>
 <section id="gallerySection">
-    <div class="container pb-lg-5">
+    <div class="container pb-5">
         <div class="row">
             <div class="col-12 agencyDivider">
             </div>
@@ -16383,7 +16382,7 @@ third_nav_title: Events
             </div>
         </div>
     </div>
-    <div class="container">
+    <div>
         <div class="row galleryContainer">
             <div class="galleryBox col-sm-6 col-md-3">
                 <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_1.jpg">
