@@ -15,8 +15,9 @@ sections:
       url: /explore/events/2024-campus-visits/
       alt: about img
       image: /images/homepage/aboutimghorizontal.png
-      description: CTRL+SHIFT City took a tour across different campuses, bringing a
-        fun sneak peek of what a future shaped by STE could look like.
+      description: CTRL+SHIFT City took a tour across different campuses, sparking
+        conversations with students about the exciting possibilities of public
+        service careers in STE.
   - infopic:
       title: STE+P Up Your Game with CTRL+SHIFT
       description: Prepare to have your perspective shifted as we shatter your
