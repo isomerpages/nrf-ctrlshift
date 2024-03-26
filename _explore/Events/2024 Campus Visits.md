@@ -16217,7 +16217,7 @@ third_nav_title: Events
                     Attendees got to mix and mingle first-hand with our friendly STE ambassadors, diving into the amazing possibilities of how we'll live, work, and play tomorrow.</p>
             </div>
         </div>
-        <img src="/images/2024%20Open%20Houses/2024_March_1_Campus_Visit_Desktop_x2.png" alt="map truck" class="d-none d-lg-block mainMap">
+        <img src="/images/2024%20Open%20Houses/2024_March_26_Campus_Visit_Desktop_x2.png" alt="map truck" class="d-none d-lg-block mainMap">
         <div class="col-12">
             <div class="map-truck p-relative">
                 <div class="outCircleIconTruck">
@@ -16311,7 +16311,7 @@ third_nav_title: Events
                 <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_11.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_12.jpg">
+                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_12_2.jpg">
             </div>
         </div>
         <div class="galleryCTAContainer">
