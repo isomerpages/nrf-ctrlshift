@@ -16216,7 +16216,7 @@ third_nav_title: Events
                 <p class="subtitle-main">
                     Attendees not only mingled with STE ambassadors from different Public Service agencies, they experienced first-hand the possibilities of how we’ll live, work and play tomorrow.</p>
 								 <p class="subtitle-main">
-														Wonder where we’re headed to next? Connect with us on our socials @ctrlshift.sg to stay in the loop!</p>
+														Wonder where we’re headed to next? Connect with us on our socials <a target="_blank" href="https://www.instagram.com/ctrlshift.sg/">@ctrlshift.sg</a> to stay in the loop!</p>
             </div>
         </div>
         <img src="/images/2024%20Open%20Houses/2024_March_26_Campus_Visit_Desktop_x2.png" alt="map truck" class="d-none d-lg-block mainMap">
