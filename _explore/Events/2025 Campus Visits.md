@@ -16219,7 +16219,7 @@ third_nav_title: Events
 														Wonder where we’re headed to next? Connect with us on our socials <a target="_blank" href="https://www.instagram.com/ctrlshift.sg/">@ctrlshift.sg</a> to stay in the loop!</p>
             </div>
         </div>
-        <img src="/images/2024%20Open%20Houses/2024_March_26_Campus_Visit_Desktop_x2.png" alt="map truck" class="d-none d-lg-block mainMap">
+        <img src="/images/2025%20Campus%20Visit/2025_Campus_Visit_Desktop_x2.png" alt="map truck" class="d-none d-lg-block mainMap">
         <div class="col-12">
             <div class="map-truck p-relative">
                 <div class="outCircleIconTruck">
