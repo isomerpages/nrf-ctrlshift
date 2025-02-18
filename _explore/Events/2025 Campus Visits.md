@@ -29,28 +29,41 @@ third_nav_title: Events
     }
 
     .outCircleFloatTruck3 {
-        width: 100px;
-        height: 100px;
+        width: 122px;
+        height: 81px;
         background-color: transparent;
         position: absolute;
         -moz-border-radius: 100px;
         -webkit-border-radius: 100px;
         border-radius: 100px;
-        right: 240px;
-        top: 23em;
+        right: 170px;
+        top: 16em;
     }
 
     .outCircleFloatTruck4 {
-        width: 78px;
-        height: 104px;
+        width: 101px;
+        height: 112px;
         background-color: transparent;
         position: absolute;
-        left: 48px;
+        left: 138px;
+        top: 272px;
+        -moz-border-radius: 100px;
+        -webkit-border-radius: 100px;
+        border-radius: 100px;
+    }
+
+    .outCircleFloatTruck5 {
+        width: 72px;
+        height: 110px;
+        background-color: transparent;
+        position: absolute;
+        left: 543px;
         top: 130px;
         -moz-border-radius: 100px;
         -webkit-border-radius: 100px;
         border-radius: 100px;
     }
+
 
     .outCircleFloatHomeIcon5 {
         width: 90px;
@@ -140,9 +153,9 @@ third_nav_title: Events
         width: 191px;
         height: 162px;
         background-color: transparent;
-        right: 38px;
+        right: 311px;
         position: absolute;
-        top: 78px;
+        top: -61px;
         -moz-border-radius: 100px;
         -webkit-border-radius: 100px;
         border-radius: 100px;
@@ -360,8 +373,8 @@ third_nav_title: Events
     }
 
     .counterrotateFloatTruck3 {
-        width: 79px;
-        height: 79px;
+        /* width: 79px;
+        height: 79px; */
         animation: ccircle 10s infinite linear;
         -webkit-animation: ccircle 10s infinite linear;
     }
@@ -423,8 +436,8 @@ third_nav_title: Events
     }
 
     .counterrotateIconTruck {
-        width: 200px;
-        height: 200px;
+        width: 117px;
+        height: 114px;
         animation: ccircle 10s infinite linear;
         -webkit-animation: ccircle 10s infinite linear;
     }
@@ -465,8 +478,8 @@ third_nav_title: Events
     }
 
     .innerFloatTruck3 {
-        width: 50px;
-        height: 50px;
+        /* width: 50px;
+        height: 50px; */
         background: transparent;
         -moz-border-radius: 50px;
         -webkit-border-radius: 50px;
@@ -594,8 +607,8 @@ third_nav_title: Events
     }
 
     .innerIconTruck {
-        width: 120px;
-        height: 120px;
+        /* width: 120px;
+        height: 120px; */
         background: transparent;
         -moz-border-radius: 50px;
         -webkit-border-radius: 50px;
@@ -2763,8 +2776,8 @@ third_nav_title: Events
         }
 
         .counterrotateIconTruck {
-            width: 60px;
-            height: 60px;
+            width: 117px;
+            height: 114px;
         }
 
         .outer-parallax {
@@ -16226,7 +16239,7 @@ third_nav_title: Events
                     <div class="rotateIconTruck">
                         <div class="counterrotateIconTruck">
                             <div class="innerIconTruck">
-                                <img src="/images/float-map-truck-1.svg?sanitize=true" alt="truck" class="icon-truck">
+                                <img src="/images/2025%20Campus%20Visit/atom.png" alt="truck" class="icon-truck">
                             </div>
                         </div>
                     </div>
@@ -16235,7 +16248,7 @@ third_nav_title: Events
                     <div class="rotatectrlShiftIcon">
                         <div class="counterrotatectrlShiftIcon">
                             <div class="innerctrlShiftIcon">
-                                <img src="/images/2024%20Open%20Houses/CtrlShift_Website_RoamingIcob_v2_1.png" alt="ctrlShiftRoamingIcon" class="ctrlShiftIcon">
+                                <img src="/images/2025%20Campus%20Visit/Ctrl_shift.png" alt="ctrlShiftRoamingIcon" class="ctrlShiftIcon">
                             </div>
                         </div>
                     </div>
@@ -16245,7 +16258,7 @@ third_nav_title: Events
                     <div class="rotate">
                         <div class="counterrotateFloatTruck3">
                             <div class="innerFloatTruck3">
-                                <img src="/images/float-map-truck-3.svg?sanitize=true" alt="truck" class="FloatTruck3">
+                                <img src="/images/2025%20Campus%20Visit/planet.png" alt="truck" class="FloatTruck3">
                             </div>
                         </div>
                     </div>
@@ -16254,7 +16267,16 @@ third_nav_title: Events
                     <div class="rotate">
                         <div class="counterrotateFloatTruck4">
                             <div class="innerFloatTruck4">
-                                <img src="/images/float-map-truck-4.svg?sanitize=true" alt="truck" class="FloatTruck4">
+                                <img src="/images/2025%20Campus%20Visit/power.png" alt="truck" class="FloatTruck4">
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="outCircleFloatTruck5">
+                    <div class="rotate">
+                        <div class="counterrotateFloatTruck4">
+                            <div class="innerFloatTruck4">
+                                <img src="/images/2025%20Campus%20Visit/water.png" alt="truck" class="FloatTruck4">
                             </div>
                         </div>
                     </div>
