@@ -15729,7 +15729,7 @@ third_nav_title: Events
         font-style: normal;
         font-weight: 700;
         line-height: 24px;
-        text-align: left;
+        text-align: center;
     }
 
     .subtitle-content {
@@ -15738,7 +15738,7 @@ third_nav_title: Events
         font-style: normal;
         font-weight: 700;
         line-height: 24px;
-        text-align: left;
+        text-align: center;
     }
 
     .subtitle-2 {
@@ -16270,8 +16270,9 @@ third_nav_title: Events
             </div>
             <div class="col-lg-12 pt-lg-1 who-says-title">
                 <div class="text-center">
-                    <h1 class="title-section text-blue">Here's where we went!</h1>
-                    <p class="subtitle-content">Peek at the photo gallery below to spot yourself or your pals, and don't miss out on our ambassadors making waves—right below!</p>
+                    <h1 class="title-section text-blue">Here's what we've been up to!</h1>
+                    <p class="subtitle-content">Wondering what it's like at our events? Take a look at the gallery below for a sneak peek.
+                    </p>
                     <p class="subtitle-content">Can you find yourself in the snapshots?</p>
                 </div>
             </div>
