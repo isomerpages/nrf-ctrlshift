@@ -16211,7 +16211,7 @@ third_nav_title: Events
     <div class="container" style="position: relative">
         <div class="col-12 introSection">
             <div class="text-center pt-5 pb-1">
-                <img src="" alt="title page truck" class="title-page-truck" style="width: auto">
+                <img src="/images/2025%20Campus%20Visit/2025_campus_visit.png" alt="PLAY A PART IN A FUTURE #BUILTFOR CHANGE" class="title-page-truck" style="width: auto">
                 <p class="subtitle-main">This year, we visited numerous polytechnics and universities, giving students a glimpse of the future and how they can be a part of it.</p>
                 <p class="subtitle-main">
                     Attendees not only mingled with STE ambassadors from different Public Service agencies, they experienced first-hand the possibilities of how we’ll live, work and play tomorrow.</p>
