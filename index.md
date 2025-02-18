@@ -24,7 +24,7 @@ sections:
         Public Service and empowering them to Control Their Future by Shifting
         Their Perspectives.
       button: FIND OUT MORE
-      url: https://www.ctrlshift.gov.sg/explore/events/2025-campus-visits/
+      url: /explore/events/2025-campus-visits/
       image: /images/homepage/human_campus_2025.png
       alt: 2025 Campus Visit
   - infopic:
