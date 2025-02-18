@@ -9,7 +9,6 @@ sections:
       variant: image
   - infopic:
       title: "Join a future #BuiltforChange"
-      subtitle: Add an image and text
       id: infopic
       description: The world is changing, driven by science, tech, and engineering.
         The future depends on your action and talent. It’s time to make your
