@@ -4,9 +4,9 @@ title: CTRL Your Future, SHIFT Your Perspectives
 permalink: /
 sections:
   - hero:
-      background: /images/homepage/isomer_banner_no_text.png
+      background: /images/homepage/isomer_banner_nologo_no_text_center.png
       title: YOU ARE BUILT FOR CHANGE
-      variant: floating
+      variant: center
       backgroundColor: gray
       subtitle: The world evolves through Science, Tech, and Engineering. Your talent
         and action fuel its future. Make your mark and drive impact today.
