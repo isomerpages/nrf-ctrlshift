@@ -30,7 +30,7 @@ sections:
         Their Perspectives.
       button: FIND OUT MORE
       url: /explore/events/2025-campus-visits/
-      image: /images/homepage/human_campus_2025.png
+      image: /images/homepage/human_campus_2025_2.png
       alt: 2025 Campus Visit
   - infopic:
       title: STE+P Up Your Game with CTRL+SHIFT
