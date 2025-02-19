@@ -16387,7 +16387,7 @@ third_nav_title: Events
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <a target="_blank" href="https://www.mindef.gov.sg/oms/dis/">
-                        <img src="/images/2024%20Open%20Houses/DIS.png">
+                        <img src="/images/2025%20Campus%20Visit/DIS.png">
                     </a>
                 </div>
                 <p class="agencyName">DIS</p>
@@ -16427,7 +16427,7 @@ third_nav_title: Events
             <div class="agencyBox col-sm-6 col-md-2">
                 <div class="agencyImg">
                     <a target="_blank" href="https://www.htx.gov.sg/">
-                        <img src="/images/2024%20Open%20Houses/HTX.png">
+                        <img src="/images/2025%20Campus%20Visit/HTX.png">
                     </a>
                 </div>
                 <p class="agencyName">HTX</p>
