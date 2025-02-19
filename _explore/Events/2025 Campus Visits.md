@@ -508,6 +508,21 @@ third_nav_title: Events
         display: block;
     }
 
+    .innerFloatTruck5 {
+        width: 101px;
+        height: 112px;
+        background: transparent;
+        -moz-border-radius: 50px;
+        -webkit-border-radius: 50px;
+        border-radius: 100px;
+        position: absolute;
+        /* left: 100px; */
+        left: 125px;
+        top: -27px;
+        background-color: transparent;
+        display: block;
+    }
+
     .innerFloatHomeIcon7 {
         width: 116px;
         height: 116px;
@@ -16266,7 +16281,7 @@ third_nav_title: Events
                 <div class="outCircleFloatTruck4">
                     <div class="rotate">
                         <div class="counterrotateFloatTruck4">
-                            <div class="innerFloatTruck4">
+                            <div class="innerFloatTruck5">
                                 <img src="/images/2025%20Campus%20Visit/Robotics_hand_3.png" alt="truck" class="FloatTruck4">
                             </div>
                         </div>
