@@ -4,7 +4,7 @@ title: CTRL Your Future, SHIFT Your Perspectives
 permalink: /
 sections:
   - hero:
-      background: /images/homepage/isomer_banner_nologo_no_text_center_19022025.png
+      background: /images/homepage/isomer_banner_nologo_no_text_center_19022025_2.png
       title: YOU ARE BUILT FOR CHANGE
       variant: center
       backgroundColor: gray
