@@ -10,6 +10,8 @@ sections:
       backgroundColor: gray
       subtitle: The world evolves through Science, Tech, and Engineering. Your talent
         and action fuel its future. Make your mark and drive impact today.
+      size: sm
+      alignment: left
   - infopic:
       title: "Join a future #BuiltforChange"
       id: infopic
