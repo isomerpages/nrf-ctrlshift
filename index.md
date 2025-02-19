@@ -10,12 +10,12 @@ sections:
   - infopic:
       title: "Join a future #BuiltforChange"
       id: infopic
-      description: The world is changing, driven by science, tech, and engineering.
+      description: The world is changing, driven by Science, Tech, and Engineering.
         The future depends on your action and talent. It’s time to make your
         mark and create impact.
       button: Find out more
       url: https://youtu.be/6qoA9jz-Vls?si=08Ekzcs_tBgnSlDF
-      image: /images/homepage/video_preview.png
+      image: /images/c_s_16x9_thumbnail_ss.png
       alt: "You are #BuiltForChange"
   - infopic:
       title: A platform for the next generation
