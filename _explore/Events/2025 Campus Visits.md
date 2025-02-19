@@ -16303,40 +16303,52 @@ third_nav_title: Events
     <div>
         <div class="row galleryContainer">
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_1.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_4601.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_2.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_4632.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_3.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_4772.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_4.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_4838.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_5.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_5084.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_6.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_5098.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_7.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_5112.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_8.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_5124.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_9.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_5741.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_10.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_5757.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_11.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_5785.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2024%20Open%20Houses/2024_Campus_Visit_Gallery_12_2.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_5795.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
+                <img src="/images/2025%20Campus%20Visit/IMG_6202.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
+                <img src="/images/2025%20Campus%20Visit/IMG_6281.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
+                <img src="/images/2025%20Campus%20Visit/IMG_6250.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
+                <img src="/images/2025%20Campus%20Visit/IMG_4596.jpg">
             </div>
         </div>
         <div class="galleryCTAContainer">
