@@ -16253,7 +16253,7 @@ third_nav_title: Events
                         </div>
                     </div>
                 </div>
-                <img src="/images/2025%20Campus%20Visit/2025_Campus_Visit_Mobiles_X2.png" alt="map truck" class="d-lg-none img-full">
+                <img src="/images/2025%20Campus%20Visit/2025_Campus_Visit_Mobiles_2_X2.png" alt="map truck" class="d-lg-none img-full">
                 <div class="outCircleFloatTruck3">
                     <div class="rotate">
                         <div class="counterrotateFloatTruck3">
