@@ -16253,7 +16253,7 @@ third_nav_title: Events
                         </div>
                     </div>
                 </div>
-                <img src="/images/2024%20Open%20Houses/2024_March_1_Campus_Visit_Mobiles_X2.png" alt="map truck" class="d-lg-none img-full">
+                <img src="/images/2025%20Campus%20Visit/2025_Campus_Visit_Mobiles_X2.png" alt="map truck" class="d-lg-none img-full">
                 <div class="outCircleFloatTruck3">
                     <div class="rotate">
                         <div class="counterrotateFloatTruck3">
@@ -16267,7 +16267,7 @@ third_nav_title: Events
                     <div class="rotate">
                         <div class="counterrotateFloatTruck4">
                             <div class="innerFloatTruck4">
-                                <img src="/images/2025%20Campus%20Visit/Robotics_hand.png" alt="truck" class="FloatTruck4">
+                                <img src="/images/2025%20Campus%20Visit/Robotics_hand_2.png" alt="truck" class="FloatTruck4">
                             </div>
                         </div>
                     </div>
@@ -16303,49 +16303,49 @@ third_nav_title: Events
     <div>
         <div class="row galleryContainer">
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2025%20Campus%20Visit/IMG_4601.jpg">
-            </div>
-            <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2025%20Campus%20Visit/IMG_4632.jpg">
-            </div>
-            <div class="galleryBox col-sm-6 col-md-3">
                 <img src="/images/2025%20Campus%20Visit/IMG_4772.jpg">
-            </div>
-            <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2025%20Campus%20Visit/IMG_4838.jpg">
-            </div>
-            <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2025%20Campus%20Visit/IMG_5084.jpg">
-            </div>
-            <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2025%20Campus%20Visit/IMG_5098.jpg">
-            </div>
-            <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2025%20Campus%20Visit/IMG_5112.jpg">
-            </div>
-            <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2025%20Campus%20Visit/IMG_5124.jpg">
-            </div>
-            <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2025%20Campus%20Visit/IMG_5741.jpg">
-            </div>
-            <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2025%20Campus%20Visit/IMG_5757.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
                 <img src="/images/2025%20Campus%20Visit/IMG_5785.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
+             <img src="/images/2025%20Campus%20Visit/IMG_6202.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
                 <img src="/images/2025%20Campus%20Visit/IMG_5795.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
-                <img src="/images/2025%20Campus%20Visit/IMG_6202.jpg">
+                <img src="/images/2025%20Campus%20Visit/IMG_4838.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
+                <img src="/images/2025%20Campus%20Visit/IMG_5124.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
+                <img src="/images/2025%20Campus%20Visit/IMG_5098.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
                 <img src="/images/2025%20Campus%20Visit/IMG_6281.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
+                <img src="/images/2025%20Campus%20Visit/IMG_5741.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
+                <img src="/images/2025%20Campus%20Visit/IMG_5112.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
+                <img src="/images/2025%20Campus%20Visit/IMG_4601.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
+                <img src="/images/2025%20Campus%20Visit/IMG_5084.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
                 <img src="/images/2025%20Campus%20Visit/IMG_6250.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
+                <img src="/images/2025%20Campus%20Visit/IMG_5757.jpg">
+            </div>
+            <div class="galleryBox col-sm-6 col-md-3">
+                <img src="/images/2025%20Campus%20Visit/IMG_4632.jpg">
             </div>
             <div class="galleryBox col-sm-6 col-md-3">
                 <img src="/images/2025%20Campus%20Visit/IMG_4596.jpg">
