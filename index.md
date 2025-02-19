@@ -8,8 +8,9 @@ sections:
       title: YOU ARE BUILT FOR CHANGE
       variant: center
       backgroundColor: gray
-      subtitle: The world evolves through Science, Tech, and Engineering. Your talent
-        and action fuel its future. Make your mark and drive impact today.
+      subtitle: Science, Tech and Engineering is driving the world forward. But its
+        future is only fuelled by your action and talent. Make your mark and
+        make an impact today.
       size: sm
       alignment: left
   - infopic:
