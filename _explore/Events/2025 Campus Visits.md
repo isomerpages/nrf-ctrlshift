@@ -16267,7 +16267,7 @@ third_nav_title: Events
                     <div class="rotate">
                         <div class="counterrotateFloatTruck4">
                             <div class="innerFloatTruck4">
-                                <img src="/images/2025%20Campus%20Visit/Robotics_hand_2.png" alt="truck" class="FloatTruck4">
+                                <img src="/images/2025%20Campus%20Visit/Robotics_hand_3.png" alt="truck" class="FloatTruck4">
                             </div>
                         </div>
                     </div>
