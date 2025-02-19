@@ -13,7 +13,7 @@ sections:
       description: With the power of Science, Tech and Engineering, the possibilities
         are endless. Unlock your skills and talent, and be a part of the next
         breakthrough.
-      button: Find out more
+      button: Watch the video here
       url: https://youtu.be/6qoA9jz-Vls?si=08Ekzcs_tBgnSlDF
       image: /images/c_s_16x9_thumbnail_ss.png
       alt: "You are #BuiltForChange"
