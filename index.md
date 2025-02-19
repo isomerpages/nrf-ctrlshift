@@ -42,7 +42,7 @@ sections:
       image: /images/homepage/recruitment video hompage.png
       alt: Image alt text
 notification: STE WHAT'S NEXT is now CTRL+SHIFT! Join us for an immersive
-  experience and take a peek into innovation STE projects in Singapore Public
+  experience and take a peek into innovative STE projects in Singapore Public
   Service.
 description: Ready to join our STE movement? Say goodbye to stereotypes and
   hello to endless opportunities in the world of science, tech and engineering.
