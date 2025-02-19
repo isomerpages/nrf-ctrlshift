@@ -35,15 +35,6 @@ sections:
       url: /explore/video-series/
       image: /images/homepage/recruitment video hompage.png
       alt: Image alt text
-  - infopic:
-      title: Imagine a future possible with STE!
-      button: Find Out More
-      url: /explore/events/2024-campus-visits/
-      alt: about img
-      image: /images/homepage/aboutimghorizontal.png
-      description: CTRL+SHIFT City took a tour across different campuses, sparking
-        conversations with students about the exciting possibilities of public
-        service careers in STE.
 notification: STE WHAT'S NEXT is now CTRL+SHIFT! Join us for an immersive
   experience and take a peek into innovation STE projects in Singapore Public
   Service.
