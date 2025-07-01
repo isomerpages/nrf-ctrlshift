@@ -63,4 +63,4 @@ Take Rasau Walk, a meandering boardwalk on the fringe of the waterfront area, fo
 <br><br>
 While Chong Ren does not know if advanced robots like C-3PO and R2-D2 may soon become common fixtures in the park’s operating landscape, one thing’s for sure: his passion for nature and his job will continue to motivate him to imagine what’s next.
 
-Find out more about NParks careers [here]((https://www.nparks.gov.sg/nparks-careers-and-scholarships)!
+Find out more about NParks careers [here](https://www.nparks.gov.sg/nparks-careers-and-scholarships)!
