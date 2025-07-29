@@ -2,6 +2,7 @@ collections:
   explore:
     output: true
     order:
+      - SG60.md
       - Video Series.md
       - Events/2025 Campus Visits.md
       - Events/2024 Campus Visits.md
