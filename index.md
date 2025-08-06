@@ -14,13 +14,13 @@ sections:
       size: sm
       alignment: left
   - infopic:
-      title: It’s Not Fiction. It’s For Real.
+      title: It’s Not Fiction. It’s for Real.
       id: infopic
       description: This SG60, explore different STE projects that almost seem like
         fiction—but are very much for real—made possible by our Scientists,
         Technologists and Engineers.
       button: Find out more
-      url: https://www.ctrlshift.gov.sg/explore/video-series/
+      url: https://staging-lite.dqy7ycgr4awd.amplifyapp.com/sg60/
       image: /images/Screenshot_2025_07_29_at_6_44_29_PM.png
       alt: Image alt text
   - infopic:
