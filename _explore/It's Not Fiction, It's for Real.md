@@ -11,6 +11,7 @@ description: ""
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/STPPO0002_CTRL_SHIFT_website_img2_a.png">
 </div>
+<p></p>
 <p>A digital realm that looks like the real world. An intricate structure
 that turns seawater into drinkable water. These might feel like something
 out of a sci-fi movie—but they’re actual achievements by our Scientists,
