@@ -6,15 +6,18 @@ description: ""
 ---
 <h2><strong>IT'S NOT FICTION. IT'S FOR REAL.</strong></h2>
 <p></p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Screenshot_2025_07_29_at_6_54_47_PM.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/STPPO0002_CTRL_SHIFT_website_img2.png">
 </div>
+<p></p>
 <p>A digital realm that looks like the real world. An intricate structure
 that turns seawater into drinkable water. These might feel like something
 out of a sci-fi movie—but they’re actual achievements by our Scientists,
 Technologists and Engineers. This SG60, we’re celebrating 60 years of building
 real change with these Public Service projects. Watch our films below and
-visit our socials @ctrlshift.sg to learn more.</p>
+visit our socials <a href="https://www.instagram.com/ctrlshift.sg" rel="noopener nofollow" target="_blank">@ctrlshift.sg</a> to
+learn more.</p>
 <p></p>
 <hr>
 <h3><strong>A virtual world that shapes reality?</strong></h3>
