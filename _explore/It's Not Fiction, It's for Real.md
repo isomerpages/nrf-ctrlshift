@@ -39,7 +39,7 @@ fulfilling his true purpose. To delve into this project yourself, visit
 </div>
 <p>A curious trio, a mysterious facility and something in the shadows: is
 this a misadventure waiting to happen, or a discovery of something greater?
-To learn more about this project, head to <a href="https://xxxx" rel="noopener noreferrer nofollow" target="_blank">https://xxxx</a>
+To learn more about this project, head to <a href="https://go.gov.sg/pub-desalinationplants" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/pub-desalinationplants</u></a>
 </p>
 <p></p>
 <p></p>
