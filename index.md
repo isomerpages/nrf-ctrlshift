@@ -21,7 +21,7 @@ sections:
         Technologists and Engineers.
       button: Find out more
       url: https://staging-lite.dqy7ycgr4awd.amplifyapp.com/sg60/
-      image: /images/Screenshot_2025_07_29_at_6_44_29_PM.png
+      image: /images/STPPO0002_CTRL_SHIFT_website_img1_.png
       alt: Image alt text
   - infopic:
       title: "Join a future #BuiltforChange"
