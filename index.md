@@ -14,6 +14,16 @@ sections:
       size: sm
       alignment: left
   - infopic:
+      title: It’s Not Fiction. It’s for Real.
+      id: infopic
+      description: This SG60, explore different STE projects that almost seem like
+        fiction—but are very much for real—made possible by our Scientists,
+        Technologists and Engineers.
+      button: Find out more
+      url: https://staging-lite.dqy7ycgr4awd.amplifyapp.com/sg60/
+      image: /images/STPPO0002_CTRL_SHIFT_website_img1_a.png
+      alt: Image alt text
+  - infopic:
       title: "Join a future #BuiltforChange"
       id: infopic
       description: With the power of Science, Tech and Engineering, the possibilities

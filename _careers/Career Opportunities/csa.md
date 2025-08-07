@@ -3,6 +3,7 @@ title: CSA
 permalink: /engineering-careers/csa/
 breadcrumb: CSA
 third_nav_title: Career Opportunities
+variant: markdown
 ---
 <img src="/images/careers/career%20opportunities/csa/csa.jpg" alt="csa" style="width:auto;height:193px;" align="left">
 <br clear="left">
@@ -34,4 +35,4 @@ Technology – Drive national cyber security capability development and programm
 
 Strategy and Policy Development – Formulate and communicate strategies, policies and programmes to meet new challenges and opportunities presented by the evolving cyber environment.
 
-Find out more <a href="https://www.csa.gov.sg/careers/job-opportunities" target="_blank">here!</a>
+Find out more <a href="https://www.csa.gov.sg/about-csa/careers/" target="_blank">here!</a>

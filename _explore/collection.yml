@@ -2,7 +2,8 @@ collections:
   explore:
     output: true
     order:
-      - Video Series.md
+      - It's Not Fiction, It's for Real.md
+      - STEP Up.md
       - Events/2025 Campus Visits.md
       - Events/2024 Campus Visits.md
       - Events/Engineering & Tech Programme Scholarship (ETPS).md

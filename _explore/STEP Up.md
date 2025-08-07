@@ -1,5 +1,5 @@
 ---
-title: Video Series
+title: STEP Up
 permalink: /explore/video-series/
 description: Whether it's preventing another outbreak, navigating our urban
   landscape or having enough power to charge your smartphones - there is always
