@@ -32,3 +32,14 @@ fulfilling his true purpose. To delve into this project yourself, visit
 <a href="https://go.gov.sg/ura-smart-planning" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/ura-smart-planning</a>
 </p>
 <p></p>
+<hr>
+<h3><strong> Mysterious labyrinths with a lifesaving secret?</strong></h3>
+<p></p>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AhZxuWUqJVA?si=Khd_CyL8_AYwUXtZ"></iframe>
+</div>
+<p>A curious trio, a mysterious facility and something in the shadows: is
+this a misadventure waiting to happen, or a discovery of something greater?
+To learn more about this project, head to <a href="https://go.gov.sg/pub-desalinationplants" rel="noopener noreferrer nofollow" target="_blank"><u>https://go.gov.sg/pub-desalinationplants</u></a>
+</p>
+<p></p>
