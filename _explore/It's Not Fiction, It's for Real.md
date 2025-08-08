@@ -33,7 +33,7 @@ fulfilling his true purpose. To delve into this project yourself, visit
 </p>
 <p></p>
 <hr>
-<h3><strong> Mysterious labyrinths with a lifesaving secret?</strong></h3>
+<h3><strong>Mysterious labyrinths with a lifesaving secret?</strong></h3>
 <p></p>
 <div class="iframe-wrapper">
 <iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/AhZxuWUqJVA?si=Khd_CyL8_AYwUXtZ"></iframe>
